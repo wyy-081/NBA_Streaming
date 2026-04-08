@@ -1,0 +1,401 @@
+[
+  {
+    "event_id": 385,
+    "event_start_time": "00:02:30",
+    "event_end_time": "00:09:30",
+    "game_clock": "11:46.00",
+    "caption": "D. Schröder misses a driving layup two-pointer. O. Ighodaro grabs the defensive rebound after D. Schröder's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 387,
+    "event_start_time": "00:19:30",
+    "event_end_time": "00:26:30",
+    "game_clock": "11:29.00",
+    "caption": "D. Brooks misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 390,
+    "event_start_time": "00:44:00",
+    "event_end_time": "00:51:00",
+    "game_clock": "11:10.00",
+    "caption": "N. Clifford misses a driving floating two-pointer. G. Allen grabs the defensive rebound after N. Clifford's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 392,
+    "event_start_time": "00:46:30",
+    "event_end_time": "00:55:00",
+    "game_clock": "11:05.00",
+    "caption": "G. Allen makes a running pullup three-pointer."
+  },
+  {
+    "event_id": 393,
+    "event_start_time": "01:16:00",
+    "event_end_time": "01:23:00",
+    "game_clock": "10:38.00",
+    "caption": "Zach LaVine misses a step back three-pointer. D. DeRozan grabs the offensive rebound after Z. LaVine's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 395,
+    "event_start_time": "01:16:30",
+    "event_end_time": "01:25:00",
+    "game_clock": "10:35.00",
+    "caption": "D. DeRozan makes a turnaround two-pointer."
+  },
+  {
+    "event_id": 396,
+    "event_start_time": "01:34:30",
+    "event_end_time": "01:43:00",
+    "game_clock": "10:17.00",
+    "caption": "O. Ighodaro makes a cutting dunk two-pointer, assisted by D. Booker."
+  },
+  {
+    "event_id": 398,
+    "event_start_time": "01:54:30",
+    "event_end_time": "02:03:00",
+    "game_clock": "09:57.00",
+    "caption": "D. Schröder makes a jump shot three-pointer, assisted by D. DeRozan."
+  },
+  {
+    "event_id": 400,
+    "event_start_time": "02:08:30",
+    "event_end_time": "02:17:00",
+    "game_clock": "09:43.00",
+    "caption": "D. Booker makes a driving layup two-pointer, assisted by G. Allen."
+  },
+  {
+    "event_id": 402,
+    "event_start_time": "02:23:00",
+    "event_end_time": "02:26:00",
+    "game_clock": "09:34.00",
+    "caption": "D. Brooks commits a personal foul."
+  },
+  {
+    "event_id": 404,
+    "event_start_time": "02:50:00",
+    "event_end_time": "02:57:00",
+    "game_clock": "09:23.00",
+    "caption": "D. DeRozan misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 406,
+    "event_start_time": "02:55:00",
+    "event_end_time": "02:58:00",
+    "game_clock": "09:21.00",
+    "caption": "R. Dunn commits a personal foul."
+  },
+  {
+    "event_id": 408,
+    "event_start_time": "03:14:30",
+    "event_end_time": "03:23:00",
+    "game_clock": "09:19.00",
+    "caption": "Z. LaVine makes a driving floating jump shot two-pointer, assisted by D. Schröder. R. Dunn commits a personal foul."
+  },
+  {
+    "event_id": 413,
+    "event_start_time": "03:51:00",
+    "event_end_time": "03:56:00",
+    "game_clock": "09:15.00",
+    "caption": "R. Dunn grabs the defensive rebound."
+  },
+  {
+    "event_id": 414,
+    "event_start_time": "04:05:00",
+    "event_end_time": "04:12:00",
+    "game_clock": "09:01.00",
+    "caption": "D. Brooks misses a jump shot three-pointer. N. Clifford grabs the defensive rebound after D. Brooks' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 416,
+    "event_start_time": "04:21:00",
+    "event_end_time": "04:28:00",
+    "game_clock": "08:45.00",
+    "caption": "D. DeRozan misses a pullup two-pointer. D. Brooks grabs the defensive rebound after D. DeRozan's missed pullup two-pointer."
+  },
+  {
+    "event_id": 418,
+    "event_start_time": "04:26:30",
+    "event_end_time": "04:35:00",
+    "game_clock": "08:37.00",
+    "caption": "O. Ighodaro makes a turnaround hook two-pointer, assisted by D. Brooks. N. Clifford commits a personal foul."
+  },
+  {
+    "event_id": 425,
+    "event_start_time": "05:25:30",
+    "event_end_time": "05:32:30",
+    "game_clock": "08:18.00",
+    "caption": "D. Schröder misses a jump shot three-pointer. G. Allen grabs the defensive rebound after D. Schröder's missed three-pointer."
+  },
+  {
+    "event_id": 428,
+    "event_start_time": "05:48:30",
+    "event_end_time": "05:52:30",
+    "game_clock": "07:56.00",
+    "caption": "D. Schröder steals the ball from G. Allen on a lost ball."
+  },
+  {
+    "event_id": 429,
+    "event_start_time": "05:49:00",
+    "event_end_time": "05:57:30",
+    "game_clock": "07:52.00",
+    "caption": "Z. LaVine makes a running layup two-pointer, assisted by D. Schröder."
+  },
+  {
+    "event_id": 431,
+    "event_start_time": "06:00:00",
+    "event_end_time": "06:08:30",
+    "game_clock": "07:41.00",
+    "caption": "D. Brooks makes a driving layup two-pointer, assisted by G. Allen."
+  },
+  {
+    "event_id": 432,
+    "event_start_time": "06:14:00",
+    "event_end_time": "06:22:30",
+    "game_clock": "07:27.00",
+    "caption": "D. DeRozan makes a turnaround two-pointer."
+  },
+  {
+    "event_id": 433,
+    "event_start_time": "06:26:00",
+    "event_end_time": "06:34:30",
+    "game_clock": "07:15.00",
+    "caption": "G. Allen makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 434,
+    "event_start_time": "06:41:30",
+    "event_end_time": "06:48:30",
+    "game_clock": "07:02.00",
+    "caption": "D. Schröder misses a pullup two-pointer. R. Dunn grabs the defensive rebound after D. Schröder's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 436,
+    "event_start_time": "06:49:00",
+    "event_end_time": "06:57:30",
+    "game_clock": "06:52.00",
+    "caption": "D. Booker makes a driving layup two-pointer, assisted by R. Dunn."
+  },
+  {
+    "event_id": 440,
+    "event_start_time": "09:59:30",
+    "event_end_time": "10:08:00",
+    "game_clock": "06:36.00",
+    "caption": "Z. LaVine makes a turnaround two-pointer, assisted by M. Raynaud."
+  },
+  {
+    "event_id": 442,
+    "event_start_time": "10:15:00",
+    "event_end_time": "10:22:00",
+    "game_clock": "06:23.00",
+    "caption": "D. Brooks misses a pullup two-pointer. M. Raynaud grabs the defensive rebound after D. Brooks' missed jump shot."
+  },
+  {
+    "event_id": 444,
+    "event_start_time": "10:32:00",
+    "event_end_time": "10:39:00",
+    "game_clock": "06:06.00",
+    "caption": "Zach LaVine misses a jump shot three-pointer. O. Ighodaro grabs the defensive rebound after Z. LaVine's missed three-pointer."
+  },
+  {
+    "event_id": 446,
+    "event_start_time": "10:42:00",
+    "event_end_time": "10:46:00",
+    "game_clock": "05:59.00",
+    "caption": "N. Clifford commits a personal foul."
+  },
+  {
+    "event_id": 457,
+    "event_start_time": "12:00:30",
+    "event_end_time": "12:05:30",
+    "game_clock": "05:34.00",
+    "caption": "D. Šarić's jump shot two-pointer is blocked by Draymond Green. R. Dunn grabs the defensive rebound after D. Šarić's jump shot two-pointer is blocked."
+  },
+  {
+    "event_id": 459,
+    "event_start_time": "12:09:30",
+    "event_end_time": "12:16:30",
+    "game_clock": "05:25.00",
+    "caption": "D. Brooks misses a jump shot three-pointer. R. Dunn grabs the offensive rebound after D. Brooks' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 461,
+    "event_start_time": "12:17:00",
+    "event_end_time": "12:25:30",
+    "game_clock": "05:15.00",
+    "caption": "C. Gillespie makes a jump shot three-pointer, assisted by D. Booker."
+  },
+  {
+    "event_id": 463,
+    "event_start_time": "12:46:00",
+    "event_end_time": "12:49:00",
+    "game_clock": "04:52.00",
+    "caption": "Z. LaVine is called for a traveling violation."
+  },
+  {
+    "event_id": 468,
+    "event_start_time": "13:15:30",
+    "event_end_time": "13:22:30",
+    "game_clock": "04:43.00",
+    "caption": "C. Gillespie misses a pullup three-pointer. R. O'Neale grabs the offensive rebound after C. Gillespie's missed pullup three-pointer."
+  },
+  {
+    "event_id": 470,
+    "event_start_time": "13:17:00",
+    "event_end_time": "13:25:30",
+    "game_clock": "04:39.00",
+    "caption": "D. Booker makes a jump shot three-pointer, assisted by R. O'Neale."
+  },
+  {
+    "event_id": 473,
+    "event_start_time": "12:02:30",
+    "event_end_time": "12:05:30",
+    "game_clock": "05:34.00",
+    "caption": "D. Brooks blocks the shot."
+  },
+  {
+    "event_id": 475,
+    "event_start_time": "16:29:00",
+    "event_end_time": "16:33:00",
+    "game_clock": "04:26.00",
+    "caption": "D. Booker steals the ball from M. Raynaud on a lost ball."
+  },
+  {
+    "event_id": 476,
+    "event_start_time": "16:26:30",
+    "event_end_time": "16:35:00",
+    "game_clock": "04:25.00",
+    "caption": "D. Booker makes a running dunk two-pointer."
+  },
+  {
+    "event_id": 477,
+    "event_start_time": "16:43:00",
+    "event_end_time": "16:51:30",
+    "game_clock": "04:09.00",
+    "caption": "M. Monk makes a floating jump shot two-pointer, assisted by M. Raynaud."
+  },
+  {
+    "event_id": 479,
+    "event_start_time": "16:56:30",
+    "event_end_time": "17:05:00",
+    "game_clock": "03:55.00",
+    "caption": "D. Brooks makes a turnaround two-pointer."
+  },
+  {
+    "event_id": 480,
+    "event_start_time": "17:15:00",
+    "event_end_time": "17:18:00",
+    "game_clock": "03:42.00",
+    "caption": "R. O'Neale commits a personal foul."
+  },
+  {
+    "event_id": 488,
+    "event_start_time": "17:52:30",
+    "event_end_time": "17:59:30",
+    "game_clock": "03:33.00",
+    "caption": "M. Monk misses a step back jump shot. R. O'Neale grabs the defensive rebound after M. Monk's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 490,
+    "event_start_time": "18:02:00",
+    "event_end_time": "18:05:00",
+    "game_clock": "03:26.00",
+    "caption": "M. Raynaud commits a personal foul."
+  },
+  {
+    "event_id": 494,
+    "event_start_time": "18:33:00",
+    "event_end_time": "18:40:00",
+    "game_clock": "03:23.00",
+    "caption": "D. Brooks misses a jump shot three-pointer. M. Williams grabs the offensive rebound after D. Brooks' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 497,
+    "event_start_time": "19:15:00",
+    "event_end_time": "19:22:00",
+    "game_clock": "03:07.00",
+    "caption": "D. Booker misses a step back jump shot. R. Westbrook grabs the defensive rebound after D. Booker's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 499,
+    "event_start_time": "19:31:30",
+    "event_end_time": "19:40:00",
+    "game_clock": "02:48.00",
+    "caption": "D. DeRozan makes a turnaround two-pointer."
+  },
+  {
+    "event_id": 500,
+    "event_start_time": "19:52:00",
+    "event_end_time": "19:57:00",
+    "game_clock": "02:30.00",
+    "caption": "M. Williams' turnaround hook two-pointer is blocked by D. Cardwell. D. Cardwell blocks M. Williams' hook two-pointer. C. Gillespie grabs the offensive rebound after M. Williams' missed turnaround hook two-pointer."
+  },
+  {
+    "event_id": 503,
+    "event_start_time": "19:55:30",
+    "event_end_time": "20:04:00",
+    "game_clock": "02:24.00",
+    "caption": "M. Williams makes an alley-oop dunk two-pointer, assisted by D. Brooks. C. Gillespie commits a personal foul."
+  },
+  {
+    "event_id": 518,
+    "event_start_time": "21:44:30",
+    "event_end_time": "21:53:00",
+    "game_clock": "01:47.00",
+    "caption": "C. Gillespie makes a turnaround two-pointer."
+  },
+  {
+    "event_id": 519,
+    "event_start_time": "22:10:00",
+    "event_end_time": "22:17:00",
+    "game_clock": "01:24.00",
+    "caption": "D. DeRozan misses a turnaround two-pointer. D. Cardwell grabs the offensive rebound after D. DeRozan's missed turnaround two-pointer. D. Cardwell misses a tip layup two-pointer."
+  },
+  {
+    "event_id": 521,
+    "event_start_time": "22:24:00",
+    "event_end_time": "22:31:00",
+    "game_clock": "01:10.00",
+    "caption": "C. Gillespie misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 524,
+    "event_start_time": "22:56:00",
+    "event_end_time": "23:04:30",
+    "game_clock": "00:56.30",
+    "caption": "G. Allen makes a fadeaway jump shot two-pointer."
+  },
+  {
+    "event_id": 525,
+    "event_start_time": "23:18:51",
+    "event_end_time": "23:27:21",
+    "game_clock": "00:35.50",
+    "caption": "K. Ellis makes a pullup two-pointer, assisted by D. DeRozan."
+  },
+  {
+    "event_id": 527,
+    "event_start_time": "23:31:57",
+    "event_end_time": "23:40:27",
+    "game_clock": "00:28.70",
+    "caption": "G. Allen makes a driving layup two-pointer. M. Monk commits a personal foul."
+  },
+  {
+    "event_id": 535,
+    "event_start_time": "24:47:39",
+    "event_end_time": "24:54:39",
+    "game_clock": "00:06.00",
+    "caption": "R. Westbrook misses a pullup two-pointer. D. DeRozan grabs the offensive rebound after R. Westbrook's missed pullup two-pointer."
+  },
+  {
+    "event_id": 537,
+    "event_start_time": "24:51:45",
+    "event_end_time": "24:54:45",
+    "game_clock": "00:04.90",
+    "caption": "M. Williams commits a personal foul."
+  },
+  {
+    "event_id": 589,
+    "event_start_time": "22:11:00",
+    "event_end_time": "22:17:00",
+    "game_clock": "01:23.00",
+    "caption": "M. Williams grabs the defensive rebound."
+  }
+]

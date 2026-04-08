@@ -1,0 +1,415 @@
+[
+  {
+    "event_id": 365,
+    "event_start_time": "00:00:00",
+    "event_end_time": "00:06:00",
+    "game_clock": "11:45.00",
+    "caption": "S. Merrill makes a jump shot three-pointer, assisted by J. Allen."
+  },
+  {
+    "event_id": 367,
+    "event_start_time": "00:22:00",
+    "event_end_time": "00:29:00",
+    "game_clock": "11:23.00",
+    "caption": "N. Claxton misses a floating two-pointer."
+  },
+  {
+    "event_id": 369,
+    "event_start_time": "00:26:00",
+    "event_end_time": "00:29:00",
+    "game_clock": "11:22.00",
+    "caption": "N. Claxton commits a personal foul."
+  },
+  {
+    "event_id": 371,
+    "event_start_time": "00:54:00",
+    "event_end_time": "01:02:30",
+    "game_clock": "11:06.00",
+    "caption": "J. Tyson makes a jump shot three-pointer, assisted by J. Allen."
+  },
+  {
+    "event_id": 373,
+    "event_start_time": "01:15:30",
+    "event_end_time": "01:22:30",
+    "game_clock": "10:47.00",
+    "caption": "C. Thomas misses a driving floating two-pointer. D. Mitchell grabs the defensive rebound after C. Thomas's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 375,
+    "event_start_time": "01:20:00",
+    "event_end_time": "01:28:30",
+    "game_clock": "10:40.00",
+    "caption": "S. Merrill makes a running three-pointer, assisted by D. Mitchell."
+  },
+  {
+    "event_id": 378,
+    "event_start_time": "04:42:00",
+    "event_end_time": "04:50:30",
+    "game_clock": "10:19.00",
+    "caption": "M. Porter Jr. makes a fadeaway jump shot two-pointer, assisted by B. Saraf."
+  },
+  {
+    "event_id": 380,
+    "event_start_time": "04:52:00",
+    "event_end_time": "05:00:30",
+    "game_clock": "10:09.00",
+    "caption": "D. Mitchell makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 381,
+    "event_start_time": "05:02:30",
+    "event_end_time": "05:13:30",
+    "game_clock": "10:01.00",
+    "caption": "M. Porter Jr. misses a step back jump shot. N. Claxton grabs the offensive rebound after M. Porter Jr.'s missed jump shot two-pointer. N. Claxton makes a tip layup two-pointer."
+  },
+  {
+    "event_id": 384,
+    "event_start_time": "05:11:00",
+    "event_end_time": "05:19:30",
+    "game_clock": "09:50.00",
+    "caption": "J. Allen makes a driving dunk two-pointer, assisted by S. Merrill. N. Claxton commits a personal foul."
+  },
+  {
+    "event_id": 388,
+    "event_start_time": "06:09:30",
+    "event_end_time": "06:18:00",
+    "game_clock": "09:27.00",
+    "caption": "M. Porter Jr. makes a step back three-pointer, assisted by C. Thomas."
+  },
+  {
+    "event_id": 392,
+    "event_start_time": "06:37:30",
+    "event_end_time": "06:46:00",
+    "game_clock": "08:59.00",
+    "caption": "S. Merrill makes a step back three-pointer, assisted by J. Allen."
+  },
+  {
+    "event_id": 394,
+    "event_start_time": "06:59:00",
+    "event_end_time": "07:04:00",
+    "game_clock": "08:40.00",
+    "caption": "M. Porter Jr.'s driving floating two-pointer is blocked by J. Tyson. J. Tyson blocks M. Porter Jr.'s jump shot two-pointer. J. Tyson grabs the defensive rebound after M. Porter Jr.'s missed driving floating two-pointer."
+  },
+  {
+    "event_id": 398,
+    "event_start_time": "07:11:00",
+    "event_end_time": "07:18:00",
+    "game_clock": "08:28.00",
+    "caption": "C. Thomas misses a jump shot three-pointer. J. Tyson grabs the defensive rebound after C. Thomas's missed three-pointer."
+  },
+  {
+    "event_id": 400,
+    "event_start_time": "07:22:00",
+    "event_end_time": "07:25:00",
+    "game_clock": "08:20.00",
+    "caption": "B. Saraf commits a personal foul."
+  },
+  {
+    "event_id": 402,
+    "event_start_time": "07:47:00",
+    "event_end_time": "07:55:30",
+    "game_clock": "08:14.00",
+    "caption": "D. Mitchell makes a jump shot three-pointer, assisted by E. Mobley."
+  },
+  {
+    "event_id": 404,
+    "event_start_time": "08:05:00",
+    "event_end_time": "08:13:30",
+    "game_clock": "07:56.00",
+    "caption": "M. Porter Jr. makes a step back three-pointer, assisted by C. Thomas."
+  },
+  {
+    "event_id": 406,
+    "event_start_time": "08:23:30",
+    "event_end_time": "08:26:30",
+    "game_clock": "07:42.00",
+    "caption": "D. Mitchell is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 407,
+    "event_start_time": "08:52:30",
+    "event_end_time": "08:59:30",
+    "game_clock": "07:28.00",
+    "caption": "T. Mann misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 410,
+    "event_start_time": "09:22:30",
+    "event_end_time": "09:29:30",
+    "game_clock": "07:10.00",
+    "caption": "J. Allen misses a hook two-pointer. N. Claxton grabs the defensive rebound after J. Allen's missed hook two-pointer."
+  },
+  {
+    "event_id": 412,
+    "event_start_time": "09:27:00",
+    "event_end_time": "09:35:30",
+    "game_clock": "07:03.00",
+    "caption": "N. Claxton makes an alley-oop dunk two-pointer, assisted by C. Thomas."
+  },
+  {
+    "event_id": 415,
+    "event_start_time": "09:38:30",
+    "event_end_time": "09:42:30",
+    "game_clock": "06:55.00",
+    "caption": "T. Mann steals the ball from J. Allen on a lost ball."
+  },
+  {
+    "event_id": 422,
+    "event_start_time": "10:18:30",
+    "event_end_time": "10:27:00",
+    "game_clock": "06:45.00",
+    "caption": "C. Thomas makes a pullup two-pointer. S. Merrill commits a personal foul."
+  },
+  {
+    "event_id": 428,
+    "event_start_time": "11:04:30",
+    "event_end_time": "11:07:30",
+    "game_clock": "06:34.00",
+    "caption": "S. Merrill commits a personal foul."
+  },
+  {
+    "event_id": 430,
+    "event_start_time": "11:48:00",
+    "event_end_time": "11:56:30",
+    "game_clock": "06:21.00",
+    "caption": "B. Saraf makes a driving dunk two-pointer."
+  },
+  {
+    "event_id": 431,
+    "event_start_time": "12:04:00",
+    "event_end_time": "12:12:30",
+    "game_clock": "06:05.00",
+    "caption": "J. Tyson makes a jump shot three-pointer, assisted by L. Ball."
+  },
+  {
+    "event_id": 434,
+    "event_start_time": "12:20:30",
+    "event_end_time": "12:24:30",
+    "game_clock": "05:52.00",
+    "caption": "S. Merrill steals the ball from N. Claxton on a lost ball."
+  },
+  {
+    "event_id": 435,
+    "event_start_time": "12:27:30",
+    "event_end_time": "12:34:30",
+    "game_clock": "05:44.00",
+    "caption": "E. Mobley misses a driving bank two-pointer. N. Claxton grabs the defensive rebound after E. Mobley's missed driving bank two-pointer."
+  },
+  {
+    "event_id": 437,
+    "event_start_time": "12:34:30",
+    "event_end_time": "12:39:30",
+    "game_clock": "05:37.00",
+    "caption": "N. Claxton's running layup two-pointer is blocked by S. Merrill. S. Merrill blocks N. Claxton's layup two-pointer. N. Claxton grabs the offensive rebound after missing his running layup two-pointer."
+  },
+  {
+    "event_id": 442,
+    "event_start_time": "12:46:30",
+    "event_end_time": "12:50:30",
+    "game_clock": "05:26.00",
+    "caption": "N. Claxton steals the ball from S. Merrill on a bad pass."
+  },
+  {
+    "event_id": 443,
+    "event_start_time": "12:47:00",
+    "event_end_time": "12:55:30",
+    "game_clock": "05:22.00",
+    "caption": "N. Claxton makes a running layup two-pointer, assisted by C. Thomas."
+  },
+  {
+    "event_id": 447,
+    "event_start_time": "07:06:00",
+    "event_end_time": "07:10:00",
+    "game_clock": "08:34.00",
+    "caption": "N. Claxton steals the ball from J. Tyson on a bad pass."
+  },
+  {
+    "event_id": 454,
+    "event_start_time": "16:23:30",
+    "event_end_time": "16:26:30",
+    "game_clock": "05:09.00",
+    "caption": "N. Claxton commits a personal foul."
+  },
+  {
+    "event_id": 456,
+    "event_start_time": "16:44:30",
+    "event_end_time": "16:53:00",
+    "game_clock": "05:04.00",
+    "caption": "C. Porter Jr. makes a pullup three-pointer, assisted by E. Mobley."
+  },
+  {
+    "event_id": 458,
+    "event_start_time": "17:11:00",
+    "event_end_time": "17:21:00",
+    "game_clock": "04:40.00",
+    "caption": "M. Porter Jr. misses a jump shot three-pointer. Z. Williams grabs the offensive rebound after M. Porter Jr.'s missed three-pointer. Z. Williams makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 461,
+    "event_start_time": "17:23:30",
+    "event_end_time": "17:32:00",
+    "game_clock": "04:25.00",
+    "caption": "C. Porter Jr. makes a cutting dunk two-pointer, assisted by E. Mobley."
+  },
+  {
+    "event_id": 463,
+    "event_start_time": "17:41:00",
+    "event_end_time": "17:48:00",
+    "game_clock": "04:10.00",
+    "caption": "Z. Williams misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 465,
+    "event_start_time": "17:46:00",
+    "event_end_time": "17:49:00",
+    "game_clock": "04:08.00",
+    "caption": "E. Mobley commits a personal foul."
+  },
+  {
+    "event_id": 475,
+    "event_start_time": "18:26:30",
+    "event_end_time": "18:29:30",
+    "game_clock": "04:04.00",
+    "caption": "D. Mitchell commits a personal foul."
+  },
+  {
+    "event_id": 479,
+    "event_start_time": "18:56:00",
+    "event_end_time": "19:03:00",
+    "game_clock": "03:57.00",
+    "caption": "C. Thomas misses a jump shot three-pointer. J. Allen grabs the defensive rebound after C. Thomas's missed three-pointer."
+  },
+  {
+    "event_id": 481,
+    "event_start_time": "19:07:00",
+    "event_end_time": "19:14:00",
+    "game_clock": "03:46.00",
+    "caption": "D. Mitchell misses a jump shot three-pointer. E. Dëmin grabs the defensive rebound after D. Mitchell's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 483,
+    "event_start_time": "19:14:30",
+    "event_end_time": "19:23:00",
+    "game_clock": "03:36.00",
+    "caption": "C. Thomas makes a pullup two-pointer, assisted by E. Dëmin."
+  },
+  {
+    "event_id": 485,
+    "event_start_time": "19:32:00",
+    "event_end_time": "19:40:30",
+    "game_clock": "03:19.00",
+    "caption": "C. Porter Jr. makes a step back jump shot two-pointer, assisted by L. Ball."
+  },
+  {
+    "event_id": 487,
+    "event_start_time": "19:56:00",
+    "event_end_time": "20:03:00",
+    "game_clock": "02:57.00",
+    "caption": "C. Thomas misses a turnaround two-pointer. E. Dëmin grabs the offensive rebound after C. Thomas's missed jump shot."
+  },
+  {
+    "event_id": 489,
+    "event_start_time": "20:03:30",
+    "event_end_time": "20:12:00",
+    "game_clock": "02:47.00",
+    "caption": "C. Thomas makes a pullup three-pointer."
+  },
+  {
+    "event_id": 490,
+    "event_start_time": "20:20:30",
+    "event_end_time": "20:29:00",
+    "game_clock": "02:30.00",
+    "caption": "D. Wade makes a jump shot three-pointer, assisted by L. Ball."
+  },
+  {
+    "event_id": 492,
+    "event_start_time": "20:32:00",
+    "event_end_time": "20:40:30",
+    "game_clock": "02:19.00",
+    "caption": "C. Thomas makes a pullup two-pointer."
+  },
+  {
+    "event_id": 493,
+    "event_start_time": "20:41:30",
+    "event_end_time": "20:50:00",
+    "game_clock": "02:09.00",
+    "caption": "D. Mitchell makes a driving finger roll two-pointer."
+  },
+  {
+    "event_id": 495,
+    "event_start_time": "22:43:30",
+    "event_end_time": "22:52:00",
+    "game_clock": "01:53.00",
+    "caption": "C. Thomas makes a pullup three-pointer, assisted by D. Sharpe."
+  },
+  {
+    "event_id": 497,
+    "event_start_time": "22:58:30",
+    "event_end_time": "23:07:00",
+    "game_clock": "01:38.00",
+    "caption": "C. Porter Jr. makes a driving reverse layup two-pointer, assisted by J. Allen."
+  },
+  {
+    "event_id": 499,
+    "event_start_time": "23:14:00",
+    "event_end_time": "23:21:00",
+    "game_clock": "01:25.00",
+    "caption": "C. Thomas misses a pullup three-pointer. N. Clowney grabs the offensive rebound after C. Thomas's missed pullup three-pointer."
+  },
+  {
+    "event_id": 502,
+    "event_start_time": "23:21:00",
+    "event_end_time": "23:25:00",
+    "game_clock": "01:19.00",
+    "caption": "C. Porter Jr. steals the ball from N. Clowney on a bad pass."
+  },
+  {
+    "event_id": 503,
+    "event_start_time": "23:21:30",
+    "event_end_time": "23:30:00",
+    "game_clock": "01:15.00",
+    "caption": "J. Allen makes a running layup two-pointer, assisted by C. Porter Jr."
+  },
+  {
+    "event_id": 505,
+    "event_start_time": "23:38:33",
+    "event_end_time": "23:47:03",
+    "game_clock": "00:58.80",
+    "caption": "D. Sharpe makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 506,
+    "event_start_time": "23:56:54",
+    "event_end_time": "24:05:24",
+    "game_clock": "00:43.40",
+    "caption": "D. Mitchell makes a pullup three-pointer."
+  },
+  {
+    "event_id": 508,
+    "event_start_time": "24:19:00",
+    "event_end_time": "24:23:00",
+    "game_clock": "00:28.40",
+    "caption": "J. Allen steals the ball from D. Sharpe on a lost ball."
+  },
+  {
+    "event_id": 509,
+    "event_start_time": "24:34:54",
+    "event_end_time": "24:41:54",
+    "game_clock": "00:11.50",
+    "caption": "D. Wade misses a jump shot three-pointer. D. Wade grabs the offensive rebound after missing his jump shot three-pointer."
+  },
+  {
+    "event_id": 511,
+    "event_start_time": "24:35:42",
+    "event_end_time": "24:44:12",
+    "game_clock": "00:08.20",
+    "caption": "D. Wade makes a driving reverse layup two-pointer. Z. Williams commits a personal foul."
+  },
+  {
+    "event_id": 519,
+    "event_start_time": "25:46:06",
+    "event_end_time": "25:51:06",
+    "game_clock": "00:00.60",
+    "caption": "Z. Williams' driving layup two-pointer is blocked by E. Mobley. E. Mobley blocks Z. Williams' layup two-pointer. J. Tyson grabs the defensive rebound after Z. Williams' driving layup two-pointer is blocked."
+  }
+]
