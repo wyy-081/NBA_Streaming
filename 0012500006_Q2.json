@@ -1,0 +1,436 @@
+[
+  {
+    "event_id": 193,
+    "event_start_time": "00:12:00",
+    "event_end_time": "00:15:00",
+    "game_clock": "11:45.00",
+    "caption": "P. Larsson commits a personal foul."
+  },
+  {
+    "event_id": 195,
+    "event_start_time": "00:39:30",
+    "event_end_time": "00:52:30",
+    "game_clock": "11:35.00",
+    "caption": "O. Prosper misses a driving floating two-pointer. J. Landale grabs the offensive rebound after O. Prosper's missed driving floating two-pointer. J. Landale makes a tip layup two-pointer."
+  },
+  {
+    "event_id": 198,
+    "event_start_time": "00:51:00",
+    "event_end_time": "00:59:30",
+    "game_clock": "11:21.00",
+    "caption": "P. Larsson makes a finger roll layup two-pointer, assisted by B. Adebayo."
+  },
+  {
+    "event_id": 200,
+    "event_start_time": "01:01:00",
+    "event_end_time": "01:09:30",
+    "game_clock": "11:11.00",
+    "caption": "J. Wells makes a driving layup two-pointer. S. Fontecchio commits a shooting personal foul."
+  },
+  {
+    "event_id": 206,
+    "event_start_time": "01:55:00",
+    "event_end_time": "02:02:00",
+    "game_clock": "10:55.00",
+    "caption": "S. Fontecchio misses a pullup three-pointer. J. Landale grabs the defensive rebound after S. Fontecchio's missed pullup three-pointer."
+  },
+  {
+    "event_id": 208,
+    "event_start_time": "02:06:30",
+    "event_end_time": "02:15:00",
+    "game_clock": "10:41.00",
+    "caption": "S. Aldama makes a pullup three-pointer, assisted by O. Prosper."
+  },
+  {
+    "event_id": 210,
+    "event_start_time": "02:25:30",
+    "event_end_time": "02:34:00",
+    "game_clock": "10:22.00",
+    "caption": "S. Fontecchio makes a pullup three-pointer, assisted by D. Mitchell."
+  },
+  {
+    "event_id": 215,
+    "event_start_time": "03:13:00",
+    "event_end_time": "03:20:00",
+    "game_clock": "09:56.00",
+    "caption": "S. Aldama misses a driving floating two-pointer. S. Aldama grabs the offensive rebound after missing his driving floating two-pointer. S. Aldama misses a putback layup two-pointer."
+  },
+  {
+    "event_id": 220,
+    "event_start_time": "03:39:00",
+    "event_end_time": "03:47:30",
+    "game_clock": "09:43.00",
+    "caption": "B. Adebayo makes a pullup two-pointer, assisted by D. Mitchell."
+  },
+  {
+    "event_id": 222,
+    "event_start_time": "03:47:00",
+    "event_end_time": "03:55:30",
+    "game_clock": "09:35.00",
+    "caption": "C. Spencer makes a pullup three-pointer."
+  },
+  {
+    "event_id": 223,
+    "event_start_time": "04:07:30",
+    "event_end_time": "04:10:30",
+    "game_clock": "09:19.00",
+    "caption": "D. Mitchell turns the ball over on a bad pass out-of-bounds."
+  },
+  {
+    "event_id": 224,
+    "event_start_time": "04:30:30",
+    "event_end_time": "04:37:30",
+    "game_clock": "09:00.00",
+    "caption": "J. Jackson Jr. misses a driving floating two-pointer. S. Fontecchio grabs the defensive rebound after J. Jackson Jr.'s missed driving floating two-pointer."
+  },
+  {
+    "event_id": 226,
+    "event_start_time": "04:39:30",
+    "event_end_time": "04:46:30",
+    "game_clock": "08:51.00",
+    "caption": "P. Larsson misses a pullup three-pointer. B. Adebayo grabs the offensive rebound after P. Larsson's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 228,
+    "event_start_time": "04:45:30",
+    "event_end_time": "04:49:30",
+    "game_clock": "08:48.00",
+    "caption": "J. Wells commits a shooting personal foul."
+  },
+  {
+    "event_id": 238,
+    "event_start_time": "05:39:30",
+    "event_end_time": "05:44:30",
+    "game_clock": "08:43.00",
+    "caption": "K. Caldwell-Pope grabs the defensive rebound."
+  },
+  {
+    "event_id": 239,
+    "event_start_time": "05:48:30",
+    "event_end_time": "05:55:30",
+    "game_clock": "08:34.00",
+    "caption": "J. Small misses a driving layup two-pointer. S. Fontecchio grabs the defensive rebound after J. Small's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 241,
+    "event_start_time": "06:02:30",
+    "event_end_time": "06:09:30",
+    "game_clock": "08:20.00",
+    "caption": "B. Adebayo misses a jump shot three-pointer. J. Wells grabs the defensive rebound after B. Adebayo's missed three-pointer."
+  },
+  {
+    "event_id": 243,
+    "event_start_time": "06:15:00",
+    "event_end_time": "06:23:30",
+    "game_clock": "08:05.00",
+    "caption": "J. Wells makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 244,
+    "event_start_time": "06:22:00",
+    "event_end_time": "06:30:30",
+    "game_clock": "07:58.00",
+    "caption": "S. Fontecchio makes a finger roll layup two-pointer, assisted by B. Adebayo. P. Larsson commits a shooting personal foul."
+  },
+  {
+    "event_id": 255,
+    "event_start_time": "08:06:30",
+    "event_end_time": "08:15:00",
+    "game_clock": "07:36.00",
+    "caption": "D. Mitchell makes a jump shot three-pointer, assisted by A. Wiggins."
+  },
+  {
+    "event_id": 257,
+    "event_start_time": "08:20:00",
+    "event_end_time": "08:27:00",
+    "game_clock": "07:25.00",
+    "caption": "J. Jackson Jr. misses a driving floating two-pointer."
+  },
+  {
+    "event_id": 265,
+    "event_start_time": "09:16:00",
+    "event_end_time": "09:23:00",
+    "game_clock": "07:05.00",
+    "caption": "K. Ware misses a jump shot three-pointer. J. Jackson Jr. grabs the defensive rebound after K. Ware's missed three-pointer."
+  },
+  {
+    "event_id": 267,
+    "event_start_time": "09:27:00",
+    "event_end_time": "09:34:00",
+    "game_clock": "06:54.00",
+    "caption": "K. Caldwell-Pope misses a step back jump shot two-pointer. K. Ware grabs the defensive rebound after K. Caldwell-Pope's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 269,
+    "event_start_time": "09:34:30",
+    "event_end_time": "09:43:00",
+    "game_clock": "06:44.00",
+    "caption": "N. Powell makes a pullup jump shot two-pointer."
+  },
+  {
+    "event_id": 270,
+    "event_start_time": "09:48:30",
+    "event_end_time": "09:57:00",
+    "game_clock": "06:30.00",
+    "caption": "J. Small makes a driving floating two-pointer."
+  },
+  {
+    "event_id": 271,
+    "event_start_time": "10:01:30",
+    "event_end_time": "10:10:00",
+    "game_clock": "06:17.00",
+    "caption": "D. Mitchell makes a floating jump shot two-pointer, assisted by N. Powell. K. Caldwell-Pope commits a shooting personal foul."
+  },
+  {
+    "event_id": 280,
+    "event_start_time": "13:51:30",
+    "event_end_time": "13:54:30",
+    "game_clock": "06:08.00",
+    "caption": "J. Landale commits an offensive foul."
+  },
+  {
+    "event_id": 283,
+    "event_start_time": "14:08:30",
+    "event_end_time": "14:17:00",
+    "game_clock": "05:57.00",
+    "caption": "D. Mitchell makes a step back jump shot two-pointer."
+  },
+  {
+    "event_id": 284,
+    "event_start_time": "14:29:30",
+    "event_end_time": "14:36:30",
+    "game_clock": "05:39.00",
+    "caption": "K. Caldwell-Pope misses a driving layup two-pointer. A. Wiggins grabs the defensive rebound after K. Caldwell-Pope's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 286,
+    "event_start_time": "14:33:30",
+    "event_end_time": "14:42:00",
+    "game_clock": "05:32.00",
+    "caption": "A. Wiggins makes a running layup two-pointer."
+  },
+  {
+    "event_id": 287,
+    "event_start_time": "14:55:30",
+    "event_end_time": "14:58:30",
+    "game_clock": "05:16.00",
+    "caption": "D. Mitchell commits a personal foul."
+  },
+  {
+    "event_id": 289,
+    "event_start_time": "15:17:30",
+    "event_end_time": "15:26:00",
+    "game_clock": "05:10.00",
+    "caption": "J. Small makes a cutting layup two-pointer, assisted by C. Coward."
+  },
+  {
+    "event_id": 291,
+    "event_start_time": "15:36:00",
+    "event_end_time": "15:43:00",
+    "game_clock": "04:54.00",
+    "caption": "A. Wiggins misses a jump shot three-pointer. J. Landale grabs the defensive rebound after A. Wiggins's missed three-pointer."
+  },
+  {
+    "event_id": 293,
+    "event_start_time": "15:45:00",
+    "event_end_time": "15:52:00",
+    "game_clock": "04:45.00",
+    "caption": "J. Konchar misses a driving floating two-pointer. K. Ware grabs the defensive rebound after J. Konchar's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 296,
+    "event_start_time": "15:52:00",
+    "event_end_time": "15:56:00",
+    "game_clock": "04:39.00",
+    "caption": "C. Coward steals the ball from K. Ware on a bad pass."
+  },
+  {
+    "event_id": 297,
+    "event_start_time": "15:58:00",
+    "event_end_time": "16:02:00",
+    "game_clock": "04:35.00",
+    "caption": "A. Wiggins commits a shooting personal foul."
+  },
+  {
+    "event_id": 304,
+    "event_start_time": "17:07:00",
+    "event_end_time": "17:10:00",
+    "game_clock": "04:25.00",
+    "caption": "N. Powell turns the ball over on a bad pass out-of-bounds."
+  },
+  {
+    "event_id": 305,
+    "event_start_time": "17:35:30",
+    "event_end_time": "17:42:30",
+    "game_clock": "04:12.00",
+    "caption": "J. Landale misses a jump shot three-pointer. A. Wiggins grabs the defensive rebound after J. Landale's missed three-pointer."
+  },
+  {
+    "event_id": 307,
+    "event_start_time": "17:41:00",
+    "event_end_time": "17:49:30",
+    "game_clock": "04:04.00",
+    "caption": "K. Ware makes a running dunk two-pointer, assisted by J. Jaquez Jr."
+  },
+  {
+    "event_id": 319,
+    "event_start_time": "21:01:30",
+    "event_end_time": "21:05:30",
+    "game_clock": "03:45.00",
+    "caption": "N. Powell steals the ball from S. Aldama on a lost ball."
+  },
+  {
+    "event_id": 320,
+    "event_start_time": "21:04:00",
+    "event_end_time": "21:12:30",
+    "game_clock": "03:39.00",
+    "caption": "K. Ware makes a turnaround hook two-pointer, assisted by A. Wiggins."
+  },
+  {
+    "event_id": 322,
+    "event_start_time": "21:15:00",
+    "event_end_time": "21:23:30",
+    "game_clock": "03:28.00",
+    "caption": "C. Spencer makes a pullup three-pointer."
+  },
+  {
+    "event_id": 323,
+    "event_start_time": "21:30:00",
+    "event_end_time": "21:38:30",
+    "game_clock": "03:13.00",
+    "caption": "K. Ware makes a cutting layup two-pointer, assisted by N. Powell."
+  },
+  {
+    "event_id": 325,
+    "event_start_time": "21:39:30",
+    "event_end_time": "21:46:30",
+    "game_clock": "03:06.00",
+    "caption": "S. Aldama misses a jump shot three-pointer. C. Spencer grabs the offensive rebound after S. Aldama's missed three-pointer."
+  },
+  {
+    "event_id": 327,
+    "event_start_time": "21:44:30",
+    "event_end_time": "21:51:30",
+    "game_clock": "03:01.00",
+    "caption": "C. Spencer misses a driving floating two-pointer. K. Ware grabs the defensive rebound after C. Spencer's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 329,
+    "event_start_time": "21:49:30",
+    "event_end_time": "21:52:30",
+    "game_clock": "02:59.00",
+    "caption": "C. Spencer commits a technical foul."
+  },
+  {
+    "event_id": 336,
+    "event_start_time": "22:57:00",
+    "event_end_time": "23:05:30",
+    "game_clock": "02:50.00",
+    "caption": "K. Ware makes a dunk two-pointer, assisted by N. Powell."
+  },
+  {
+    "event_id": 338,
+    "event_start_time": "23:17:00",
+    "event_end_time": "23:25:30",
+    "game_clock": "02:30.00",
+    "caption": "S. Aldama makes a hook two-pointer, assisted by C. Coward."
+  },
+  {
+    "event_id": 340,
+    "event_start_time": "23:32:30",
+    "event_end_time": "23:39:30",
+    "game_clock": "02:17.00",
+    "caption": "J. Jaquez Jr. misses a driving floating two-pointer. C. Coward grabs the defensive rebound after J. Jaquez Jr.'s missed driving floating two-pointer."
+  },
+  {
+    "event_id": 342,
+    "event_start_time": "23:47:30",
+    "event_end_time": "23:54:30",
+    "game_clock": "02:02.00",
+    "caption": "C. Coward misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 347,
+    "event_start_time": "24:16:30",
+    "event_end_time": "24:25:00",
+    "game_clock": "01:48.00",
+    "caption": "A. Wiggins makes a pullup three-pointer, assisted by J. Jaquez Jr."
+  },
+  {
+    "event_id": 349,
+    "event_start_time": "24:26:30",
+    "event_end_time": "24:35:00",
+    "game_clock": "01:38.00",
+    "caption": "J. Small makes a pullup three-pointer. K. Caldwell-Pope commits a shooting personal foul."
+  },
+  {
+    "event_id": 357,
+    "event_start_time": "26:21:30",
+    "event_end_time": "26:36:30",
+    "game_clock": "01:09.00",
+    "caption": "J. Jackson Jr. misses a driving hook two-pointer. S. Aldama grabs the offensive rebound after J. Jackson Jr.'s missed driving hook two-pointer. S. Aldama's tip layup two-pointer is blocked by Draymond Green."
+  },
+  {
+    "event_id": 359,
+    "event_start_time": "26:29:30",
+    "event_end_time": "26:34:30",
+    "game_clock": "01:01.00",
+    "caption": "S. Aldama's tip layup two-pointer is blocked by Draymond Green."
+  },
+  {
+    "event_id": 361,
+    "event_start_time": "26:40:36",
+    "event_end_time": "26:47:36",
+    "game_clock": "00:50.80",
+    "caption": "N. Powell misses a pullup three-pointer. K. Caldwell-Pope grabs the defensive rebound after N. Powell's missed pullup three-pointer."
+  },
+  {
+    "event_id": 363,
+    "event_start_time": "26:44:48",
+    "event_end_time": "26:53:18",
+    "game_clock": "00:45.90",
+    "caption": "J. Wells makes a running dunk two-pointer, assisted by K. Caldwell-Pope."
+  },
+  {
+    "event_id": 365,
+    "event_start_time": "26:55:00",
+    "event_end_time": "27:02:00",
+    "game_clock": "00:38.20",
+    "caption": "K. Ware misses a hook two-pointer. J. Wells grabs the defensive rebound after K. Ware's missed hook two-pointer."
+  },
+  {
+    "event_id": 367,
+    "event_start_time": "27:12:54",
+    "event_end_time": "27:16:54",
+    "game_clock": "00:23.30",
+    "caption": "K. Ware commits a shooting personal foul."
+  },
+  {
+    "event_id": 368,
+    "event_start_time": "26:31:30",
+    "event_end_time": "26:34:30",
+    "game_clock": "01:01.00",
+    "caption": "S. Aldama grabs the offensive rebound."
+  },
+  {
+    "event_id": 377,
+    "event_start_time": "28:18:48",
+    "event_end_time": "28:23:48",
+    "game_clock": "00:21.50",
+    "caption": "K. Ware grabs the defensive rebound."
+  },
+  {
+    "event_id": 378,
+    "event_start_time": "28:38:42",
+    "event_end_time": "28:45:42",
+    "game_clock": "00:01.60",
+    "caption": "B. Adebayo misses a turnaround two-pointer. J. Konchar grabs the defensive rebound after B. Adebayo's missed jump shot."
+  },
+  {
+    "event_id": 419,
+    "event_start_time": "26:31:30",
+    "event_end_time": "26:34:30",
+    "game_clock": "01:01.00",
+    "caption": "B. Adebayo blocks [Player]'s [technical action] [two-pointer/three-pointer]."
+  }
+]
