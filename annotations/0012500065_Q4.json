@@ -1,0 +1,373 @@
+[
+  {
+    "event_id": 602,
+    "event_start_time": "00:06:30",
+    "event_end_time": "00:09:30",
+    "game_clock": "11:46.00",
+    "caption": "S. Mamukelashvili commits a personal foul."
+  },
+  {
+    "event_id": 604,
+    "event_start_time": "00:33:00",
+    "event_end_time": "00:40:00",
+    "game_clock": "11:39.00",
+    "caption": "B. Saraf misses a pullup three-pointer. R. Barrett grabs the defensive rebound after B. Saraf's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 606,
+    "event_start_time": "00:40:30",
+    "event_end_time": "00:49:00",
+    "game_clock": "11:29.00",
+    "caption": "R. Barrett makes a cutting dunk two-pointer, assisted by S. Barnes."
+  },
+  {
+    "event_id": 608,
+    "event_start_time": "00:54:30",
+    "event_end_time": "01:03:00",
+    "game_clock": "11:15.00",
+    "caption": "T. Mann makes a jump shot three-pointer, assisted by B. Saraf."
+  },
+  {
+    "event_id": 610,
+    "event_start_time": "01:14:00",
+    "event_end_time": "01:17:00",
+    "game_clock": "11:01.00",
+    "caption": "M. Porter Jr. commits a personal foul."
+  },
+  {
+    "event_id": 613,
+    "event_start_time": "02:11:00",
+    "event_end_time": "02:15:00",
+    "game_clock": "10:38.00",
+    "caption": "J. Shead commits a personal foul."
+  },
+  {
+    "event_id": 619,
+    "event_start_time": "03:21:30",
+    "event_end_time": "03:28:30",
+    "game_clock": "10:21.00",
+    "caption": "S. Barnes misses a turnaround hook two-pointer. N. Claxton grabs the defensive rebound after S. Barnes's missed turnaround hook two-pointer."
+  },
+  {
+    "event_id": 621,
+    "event_start_time": "03:31:30",
+    "event_end_time": "03:34:30",
+    "game_clock": "10:14.00",
+    "caption": "J. Shead commits a personal foul."
+  },
+  {
+    "event_id": 623,
+    "event_start_time": "04:00:00",
+    "event_end_time": "04:07:00",
+    "game_clock": "10:02.00",
+    "caption": "Z. Williams misses a jump shot three-pointer. G. Dick grabs the defensive rebound after Z. Williams' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 625,
+    "event_start_time": "04:10:00",
+    "event_end_time": "04:17:00",
+    "game_clock": "09:52.00",
+    "caption": "R. Barrett misses a running reverse layup two-pointer. M. Porter Jr. grabs the defensive rebound after R. Barrett's missed running reverse layup two-pointer."
+  },
+  {
+    "event_id": 627,
+    "event_start_time": "04:25:00",
+    "event_end_time": "04:32:00",
+    "game_clock": "09:37.00",
+    "caption": "Z. Williams misses a jump shot three-pointer. J. Poeltl grabs the defensive rebound after Z. Williams' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 629,
+    "event_start_time": "04:36:00",
+    "event_end_time": "04:41:00",
+    "game_clock": "09:26.00",
+    "caption": "J. Poeltl's reverse layup two-pointer is blocked by [Blocker]. J. Poeltl grabs the offensive rebound after missing his reverse layup two-pointer."
+  },
+  {
+    "event_id": 631,
+    "event_start_time": "04:39:00",
+    "event_end_time": "04:42:00",
+    "game_clock": "09:25.00",
+    "caption": "J. Poeltl is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 632,
+    "event_start_time": "05:01:30",
+    "event_end_time": "05:10:00",
+    "game_clock": "09:09.00",
+    "caption": "M. Porter Jr. makes a jump shot three-pointer, assisted by N. Claxton."
+  },
+  {
+    "event_id": 635,
+    "event_start_time": "05:20:00",
+    "event_end_time": "05:24:00",
+    "game_clock": "08:54.00",
+    "caption": "Zach Williams steals the ball from Steven Barnes on a lost ball."
+  },
+  {
+    "event_id": 636,
+    "event_start_time": "05:19:30",
+    "event_end_time": "05:28:00",
+    "game_clock": "08:51.00",
+    "caption": "Z. Williams makes a running dunk two-pointer."
+  },
+  {
+    "event_id": 648,
+    "event_start_time": "08:46:30",
+    "event_end_time": "08:53:30",
+    "game_clock": "08:30.00",
+    "caption": "O. Agbaji misses a jump shot three-pointer. T. Mann grabs the defensive rebound after O. Agbaji's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 650,
+    "event_start_time": "09:01:00",
+    "event_end_time": "09:09:30",
+    "game_clock": "08:13.00",
+    "caption": "Z. Williams makes a dunk two-pointer, assisted by B. Saraf. M. Porter Jr. commits a personal foul."
+  },
+  {
+    "event_id": 658,
+    "event_start_time": "10:36:00",
+    "event_end_time": "10:41:00",
+    "game_clock": "07:54.00",
+    "caption": "M. Porter Jr. grabs the defensive rebound."
+  },
+  {
+    "event_id": 659,
+    "event_start_time": "10:50:30",
+    "event_end_time": "10:59:00",
+    "game_clock": "07:37.00",
+    "caption": "N. Claxton makes a dunk two-pointer, assisted by M. Porter Jr."
+  },
+  {
+    "event_id": 662,
+    "event_start_time": "11:13:00",
+    "event_end_time": "11:17:00",
+    "game_clock": "07:18.00",
+    "caption": "B. Saraf steals the ball from B. Ingram on a bad pass."
+  },
+  {
+    "event_id": 663,
+    "event_start_time": "04:38:00",
+    "event_end_time": "04:41:00",
+    "game_clock": "09:26.00",
+    "caption": "N. Claxton blocks [Player]'s [technical action] [two-pointer/three-pointer]."
+  },
+  {
+    "event_id": 664,
+    "event_start_time": "11:22:30",
+    "event_end_time": "11:31:00",
+    "game_clock": "07:05.00",
+    "caption": "B. Saraf makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 665,
+    "event_start_time": "11:50:00",
+    "event_end_time": "11:57:00",
+    "game_clock": "06:40.00",
+    "caption": "J. Walter misses a driving hook two-pointer. J. Walter grabs the offensive rebound after missing his driving hook two-pointer."
+  },
+  {
+    "event_id": 667,
+    "event_start_time": "11:52:30",
+    "event_end_time": "12:01:00",
+    "game_clock": "06:35.00",
+    "caption": "I. Quickley makes a jump shot three-pointer, assisted by J. Walter."
+  },
+  {
+    "event_id": 669,
+    "event_start_time": "12:12:00",
+    "event_end_time": "12:15:00",
+    "game_clock": "06:21.00",
+    "caption": "J. Walter commits a personal foul."
+  },
+  {
+    "event_id": 673,
+    "event_start_time": "12:44:00",
+    "event_end_time": "12:52:30",
+    "game_clock": "06:15.00",
+    "caption": "M. Porter Jr. makes a cutting dunk two-pointer, assisted by C. Thomas."
+  },
+  {
+    "event_id": 675,
+    "event_start_time": "13:04:30",
+    "event_end_time": "13:07:30",
+    "game_clock": "06:00.00",
+    "caption": "N. Claxton commits a personal foul."
+  },
+  {
+    "event_id": 678,
+    "event_start_time": "13:50:30",
+    "event_end_time": "13:57:30",
+    "game_clock": "05:45.00",
+    "caption": "I. Quickley misses a driving layup two-pointer. J. Walter grabs the offensive rebound after I. Quickley's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 680,
+    "event_start_time": "13:54:30",
+    "event_end_time": "14:01:30",
+    "game_clock": "05:41.00",
+    "caption": "O. Agbaji misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 683,
+    "event_start_time": "14:24:30",
+    "event_end_time": "14:31:30",
+    "game_clock": "05:33.00",
+    "caption": "O. Agbaji misses a jump shot three-pointer. I. Quickley grabs the offensive rebound after O. Agbaji's missed three-pointer."
+  },
+  {
+    "event_id": 686,
+    "event_start_time": "14:34:00",
+    "event_end_time": "14:38:00",
+    "game_clock": "05:25.00",
+    "caption": "C. Thomas steals the ball from B. Ingram on a lost ball."
+  },
+  {
+    "event_id": 687,
+    "event_start_time": "14:37:30",
+    "event_end_time": "14:44:30",
+    "game_clock": "05:20.00",
+    "caption": "C. Thomas misses a running pullup three-pointer. S. Barnes grabs the defensive rebound after C. Thomas's missed three-pointer."
+  },
+  {
+    "event_id": 689,
+    "event_start_time": "14:44:30",
+    "event_end_time": "14:49:30",
+    "game_clock": "05:13.00",
+    "caption": "S. Barnes' driving layup two-pointer is blocked by T. Mann. T. Mann blocks S. Barnes's layup two-pointer. T. Mann grabs the defensive rebound after S. Barnes' missed driving layup two-pointer."
+  },
+  {
+    "event_id": 693,
+    "event_start_time": "14:59:30",
+    "event_end_time": "15:03:30",
+    "game_clock": "04:59.00",
+    "caption": "B. Ingram steals the ball from M. Porter Jr. on a lost ball."
+  },
+  {
+    "event_id": 694,
+    "event_start_time": "15:00:00",
+    "event_end_time": "15:08:30",
+    "game_clock": "04:55.00",
+    "caption": "S. Barnes makes a running layup two-pointer, assisted by B. Ingram. N. Claxton commits a personal foul."
+  },
+  {
+    "event_id": 699,
+    "event_start_time": "16:15:00",
+    "event_end_time": "16:23:30",
+    "game_clock": "04:37.00",
+    "caption": "M. Porter Jr. makes a jump shot three-pointer, assisted by C. Thomas."
+  },
+  {
+    "event_id": 705,
+    "event_start_time": "16:33:00",
+    "event_end_time": "16:41:30",
+    "game_clock": "04:19.00",
+    "caption": "S. Barnes makes a driving layup two-pointer, assisted by R. Barrett. B. Saraf commits a personal foul."
+  },
+  {
+    "event_id": 713,
+    "event_start_time": "17:41:30",
+    "event_end_time": "17:44:30",
+    "game_clock": "03:58.00",
+    "caption": "N. Claxton commits an offensive foul."
+  },
+  {
+    "event_id": 716,
+    "event_start_time": "18:21:30",
+    "event_end_time": "18:28:30",
+    "game_clock": "03:43.00",
+    "caption": "B. Ingram misses a jump shot three-pointer. M. Porter Jr. grabs the defensive rebound after B. Ingram's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 718,
+    "event_start_time": "18:40:30",
+    "event_end_time": "18:43:30",
+    "game_clock": "03:27.00",
+    "caption": "I. Quickley commits a personal foul."
+  },
+  {
+    "event_id": 723,
+    "event_start_time": "19:44:00",
+    "event_end_time": "19:52:30",
+    "game_clock": "03:11.00",
+    "caption": "R. Barrett makes a jump shot three-pointer, assisted by B. Ingram."
+  },
+  {
+    "event_id": 728,
+    "event_start_time": "20:03:00",
+    "event_end_time": "20:11:30",
+    "game_clock": "02:52.00",
+    "caption": "N. Claxton makes a layup two-pointer, assisted by M. Porter Jr."
+  },
+  {
+    "event_id": 730,
+    "event_start_time": "20:32:30",
+    "event_end_time": "20:39:30",
+    "game_clock": "02:25.00",
+    "caption": "I. Quickley misses a driving layup two-pointer. N. Claxton grabs the defensive rebound after I. Quickley's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 732,
+    "event_start_time": "20:41:00",
+    "event_end_time": "20:49:30",
+    "game_clock": "02:14.00",
+    "caption": "M. Porter Jr. makes a step back jump shot two-pointer, assisted by N. Claxton."
+  },
+  {
+    "event_id": 740,
+    "event_start_time": "24:09:30",
+    "event_end_time": "24:13:30",
+    "game_clock": "01:54.00",
+    "caption": "N. Claxton steals the ball from I. Quickley on a bad pass."
+  },
+  {
+    "event_id": 741,
+    "event_start_time": "24:24:30",
+    "event_end_time": "24:31:30",
+    "game_clock": "01:38.00",
+    "caption": "C. Thomas misses a pullup three-pointer. R. Barrett grabs the defensive rebound after C. Thomas's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 743,
+    "event_start_time": "24:34:30",
+    "event_end_time": "24:38:30",
+    "game_clock": "01:31.00",
+    "caption": "Z. Williams commits a personal foul."
+  },
+  {
+    "event_id": 747,
+    "event_start_time": "25:21:00",
+    "event_end_time": "25:25:00",
+    "game_clock": "01:22.00",
+    "caption": "G. Dick commits a personal foul."
+  },
+  {
+    "event_id": 753,
+    "event_start_time": "26:26:54",
+    "event_end_time": "26:35:24",
+    "game_clock": "00:58.70",
+    "caption": "B. Ingram makes a jump shot three-pointer."
+  },
+  {
+    "event_id": 755,
+    "event_start_time": "26:52:03",
+    "event_end_time": "26:59:03",
+    "game_clock": "00:39.80",
+    "caption": "M. Porter Jr. misses a step back three-pointer. I. Quickley grabs the defensive rebound after M. Porter Jr.'s missed jump shot three-pointer."
+  },
+  {
+    "event_id": 758,
+    "event_start_time": "27:10:51",
+    "event_end_time": "27:19:21",
+    "game_clock": "00:18.50",
+    "caption": "R. Barrett makes a cutting dunk two-pointer, assisted by S. Barnes."
+  },
+  {
+    "event_id": 763,
+    "event_start_time": "29:14:45",
+    "event_end_time": "29:21:45",
+    "game_clock": "00:16.80",
+    "caption": "M. Porter Jr. misses a jump shot three-pointer. S. Barnes grabs the defensive rebound after M. Porter Jr.'s missed jump shot three-pointer."
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "event_id": 360,
+    "event_start_time": "00:04:00",
+    "event_end_time": "00:12:30",
+    "game_clock": "11:42.00",
+    "caption": "C. Christie makes a floating jump shot two-pointer, assisted by J. Preston."
+  },
+  {
+    "event_id": 362,
+    "event_start_time": "00:25:30",
+    "event_end_time": "00:28:30",
+    "game_clock": "11:26.00",
+    "caption": "C. Christie commits a personal foul."
+  },
+  {
+    "event_id": 364,
+    "event_start_time": "00:51:30",
+    "event_end_time": "01:00:00",
+    "game_clock": "11:20.00",
+    "caption": "Draymond Green makes a jump shot three-pointer, assisted by Stephen Curry."
+  },
+  {
+    "event_id": 366,
+    "event_start_time": "01:08:00",
+    "event_end_time": "01:15:00",
+    "game_clock": "11:06.00",
+    "caption": "K. Brown misses a jump shot three-pointer. Y. Niederhäuser grabs the offensive rebound after K. Brown's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 368,
+    "event_start_time": "01:14:00",
+    "event_end_time": "01:18:00",
+    "game_clock": "11:03.00",
+    "caption": "Stephen Curry commits a personal foul."
+  },
+  {
+    "event_id": 374,
+    "event_start_time": "02:16:00",
+    "event_end_time": "02:20:00",
+    "game_clock": "10:47.00",
+    "caption": "K. Sanders steals the ball from D. Green on a bad pass."
+  },
+  {
+    "event_id": 377,
+    "event_start_time": "02:45:00",
+    "event_end_time": "02:49:00",
+    "game_clock": "10:36.00",
+    "caption": "W. Richard steals the ball from Y. Niederhäuser on a bad pass."
+  },
+  {
+    "event_id": 378,
+    "event_start_time": "02:58:00",
+    "event_end_time": "03:05:00",
+    "game_clock": "10:22.00",
+    "caption": "B. Podziemski misses a jump shot three-pointer. Y. Niederhäuser grabs the defensive rebound after B. Podziemski's missed three-pointer."
+  },
+  {
+    "event_id": 381,
+    "event_start_time": "03:35:00",
+    "event_end_time": "03:43:30",
+    "game_clock": "10:00.00",
+    "caption": "C. Christie makes a floating jump shot two-pointer, assisted by J. Preston."
+  },
+  {
+    "event_id": 382,
+    "event_start_time": "03:45:30",
+    "event_end_time": "03:48:30",
+    "game_clock": "09:55.00",
+    "caption": "Draymond Green commits an offensive foul."
+  },
+  {
+    "event_id": 385,
+    "event_start_time": "04:10:00",
+    "event_end_time": "04:18:30",
+    "game_clock": "09:41.00",
+    "caption": "K. Brown makes a jump shot three-pointer, assisted by Y. Niederhäuser."
+  },
+  {
+    "event_id": 387,
+    "event_start_time": "04:27:30",
+    "event_end_time": "04:30:30",
+    "game_clock": "09:28.00",
+    "caption": "D. Green is called for an out-of-bounds turnover."
+  },
+  {
+    "event_id": 388,
+    "event_start_time": "04:49:30",
+    "event_end_time": "04:58:00",
+    "game_clock": "09:10.00",
+    "caption": "Y. Niederhäuser makes a hook two-pointer."
+  },
+  {
+    "event_id": 389,
+    "event_start_time": "05:11:30",
+    "event_end_time": "05:20:00",
+    "game_clock": "08:48.00",
+    "caption": "Al Horford makes a layup two-pointer, assisted by Draymond Green."
+  },
+  {
+    "event_id": 392,
+    "event_start_time": "06:18:30",
+    "event_end_time": "06:25:30",
+    "game_clock": "08:36.00",
+    "caption": "K. Brown misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 396,
+    "event_start_time": "06:41:00",
+    "event_end_time": "06:49:30",
+    "game_clock": "08:25.00",
+    "caption": "Draymond Green makes a layup two-pointer, assisted by Al Horford. Y. Niederhäuser commits a personal foul."
+  },
+  {
+    "event_id": 401,
+    "event_start_time": "07:17:30",
+    "event_end_time": "07:22:30",
+    "game_clock": "08:21.00",
+    "caption": "K. Brown grabs the defensive rebound."
+  },
+  {
+    "event_id": 402,
+    "event_start_time": "07:35:30",
+    "event_end_time": "07:42:30",
+    "game_clock": "08:03.00",
+    "caption": "C. Christie misses a jump shot three-pointer. Draymond Green grabs the defensive rebound after Chris Christie's missed three-pointer."
+  },
+  {
+    "event_id": 404,
+    "event_start_time": "07:46:30",
+    "event_end_time": "07:53:30",
+    "game_clock": "07:52.00",
+    "caption": "Stephen Curry misses a reverse layup two-pointer. K. Brown grabs the defensive rebound after S. Curry's missed reverse layup two-pointer."
+  },
+  {
+    "event_id": 406,
+    "event_start_time": "07:51:00",
+    "event_end_time": "07:59:30",
+    "game_clock": "07:45.00",
+    "caption": "J. Preston makes a running layup two-pointer, assisted by K. Brown."
+  },
+  {
+    "event_id": 407,
+    "event_start_time": "08:10:30",
+    "event_end_time": "08:15:30",
+    "game_clock": "07:28.00",
+    "caption": "Al Horford's layup two-pointer is blocked by Y. Niederhäuser. Y. Niederhäuser blocks A. Horford's layup two-pointer. K. Sanders grabs the defensive rebound after A. Horford's missed layup two-pointer."
+  },
+  {
+    "event_id": 410,
+    "event_start_time": "08:17:00",
+    "event_end_time": "08:25:30",
+    "game_clock": "07:19.00",
+    "caption": "W. Richard makes a jump shot three-pointer, assisted by D. Green. B. Hield commits a personal foul."
+  },
+  {
+    "event_id": 421,
+    "event_start_time": "13:30:00",
+    "event_end_time": "13:38:30",
+    "game_clock": "06:45.00",
+    "caption": "Al Horford makes a cutting layup two-pointer, assisted by Stephen Curry."
+  },
+  {
+    "event_id": 424,
+    "event_start_time": "14:01:15",
+    "event_end_time": "14:08:15",
+    "game_clock": "06:24.00",
+    "caption": "C. Christie misses a jump shot three-pointer. K. Brown grabs the offensive rebound after C. Christie's missed three-pointer."
+  },
+  {
+    "event_id": 426,
+    "event_start_time": "14:14:00",
+    "event_end_time": "14:21:00",
+    "game_clock": "06:19.00",
+    "caption": "K. Brown misses a layup two-pointer. Draymond Green grabs the defensive rebound after Kelly Brown's missed layup two-pointer."
+  },
+  {
+    "event_id": 428,
+    "event_start_time": "14:18:30",
+    "event_end_time": "14:27:00",
+    "game_clock": "06:12.00",
+    "caption": "Al Horford makes a running three-pointer, assisted by Buddy Hield."
+  },
+  {
+    "event_id": 430,
+    "event_start_time": "14:34:30",
+    "event_end_time": "14:43:00",
+    "game_clock": "05:56.00",
+    "caption": "K. Sanders makes a jump shot three-pointer, assisted by J. Preston."
+  },
+  {
+    "event_id": 432,
+    "event_start_time": "14:47:00",
+    "event_end_time": "14:50:00",
+    "game_clock": "05:49.00",
+    "caption": "Y. Niederhäuser commits a personal foul."
+  },
+  {
+    "event_id": 438,
+    "event_start_time": "15:16:00",
+    "event_end_time": "15:23:00",
+    "game_clock": "05:41.00",
+    "caption": "Stephen Curry misses a driving layup two-pointer. P. Baldwin Jr. grabs the defensive rebound after S. Curry's missed layup two-pointer."
+  },
+  {
+    "event_id": 440,
+    "event_start_time": "15:30:00",
+    "event_end_time": "15:33:00",
+    "game_clock": "05:30.00",
+    "caption": "Draymond Green commits a personal foul."
+  },
+  {
+    "event_id": 442,
+    "event_start_time": "16:01:30",
+    "event_end_time": "16:08:30",
+    "game_clock": "05:22.00",
+    "caption": "P. Baldwin Jr. misses a jump shot three-pointer. Y. Niederhäuser grabs the offensive rebound after P. Baldwin Jr.'s missed three-pointer."
+  },
+  {
+    "event_id": 444,
+    "event_start_time": "16:08:30",
+    "event_end_time": "16:12:30",
+    "game_clock": "05:18.00",
+    "caption": "Al Horford commits a personal foul."
+  },
+  {
+    "event_id": 453,
+    "event_start_time": "17:18:00",
+    "event_end_time": "17:28:00",
+    "game_clock": "05:07.00",
+    "caption": "Q. Post misses a jump shot three-pointer. Stephen Curry grabs the offensive rebound after Quinn Porter's missed three-pointer. Stephen Curry makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 456,
+    "event_start_time": "17:34:30",
+    "event_end_time": "17:43:00",
+    "game_clock": "04:48.00",
+    "caption": "Y. Niederhäuser makes a layup two-pointer, assisted by C. Christie."
+  },
+  {
+    "event_id": 458,
+    "event_start_time": "17:44:00",
+    "event_end_time": "17:49:00",
+    "game_clock": "04:41.00",
+    "caption": "G. Payton II's layup two-pointer is blocked by Y. Niederhäuser. Y. Niederhäuser blocks G. Payton II's layup two-pointer. P. Baldwin Jr. grabs the defensive rebound after G. Payton II's missed layup two-pointer."
+  },
+  {
+    "event_id": 461,
+    "event_start_time": "17:47:30",
+    "event_end_time": "17:56:00",
+    "game_clock": "04:35.00",
+    "caption": "K. Sanders makes a jump shot three-pointer, assisted by C. Christie."
+  },
+  {
+    "event_id": 463,
+    "event_start_time": "18:08:00",
+    "event_end_time": "18:15:00",
+    "game_clock": "04:17.00",
+    "caption": "B. Hield misses a jump shot three-pointer. P. Baldwin Jr. grabs the defensive rebound after B. Hield's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 465,
+    "event_start_time": "18:15:00",
+    "event_end_time": "18:28:00",
+    "game_clock": "04:10.00",
+    "caption": "P. Baldwin Jr. misses a running layup two-pointer. K. Sanders grabs the offensive rebound after P. Baldwin Jr.'s missed running layup two-pointer. K. Sanders' tip layup two-pointer is missed."
+  },
+  {
+    "event_id": 468,
+    "event_start_time": "18:22:00",
+    "event_end_time": "18:28:00",
+    "game_clock": "04:03.00",
+    "caption": "Stephen Curry grabs the defensive rebound."
+  },
+  {
+    "event_id": 469,
+    "event_start_time": "18:21:30",
+    "event_end_time": "18:30:00",
+    "game_clock": "04:01.00",
+    "caption": "Stephen Curry makes a running three-pointer."
+  },
+  {
+    "event_id": 470,
+    "event_start_time": "18:50:00",
+    "event_end_time": "18:53:00",
+    "game_clock": "03:38.00",
+    "caption": "B. Hield commits a personal foul."
+  },
+  {
+    "event_id": 482,
+    "event_start_time": "20:01:30",
+    "event_end_time": "20:06:30",
+    "game_clock": "03:36.00",
+    "caption": "P. Spencer grabs the defensive rebound."
+  },
+  {
+    "event_id": 483,
+    "event_start_time": "20:18:30",
+    "event_end_time": "20:34:30",
+    "game_clock": "03:19.00",
+    "caption": "Q. Post misses a hook two-pointer. B. Hield grabs the offensive rebound after Q. Post's missed hook two-pointer. B. Hield makes a putback dunk two-pointer."
+  },
+  {
+    "event_id": 486,
+    "event_start_time": "20:33:00",
+    "event_end_time": "20:41:30",
+    "game_clock": "03:02.00",
+    "caption": "K. Sanders makes a driving layup two-pointer, assisted by T. Washington Jr."
+  },
+  {
+    "event_id": 488,
+    "event_start_time": "20:47:00",
+    "event_end_time": "20:55:30",
+    "game_clock": "02:48.00",
+    "caption": "G. Santos makes a reverse layup two-pointer, assisted by Q. Post."
+  },
+  {
+    "event_id": 490,
+    "event_start_time": "20:59:00",
+    "event_end_time": "21:07:30",
+    "game_clock": "02:36.00",
+    "caption": "C. Christie makes a pullup three-pointer, assisted by T. Washington Jr."
+  },
+  {
+    "event_id": 492,
+    "event_start_time": "21:09:00",
+    "event_end_time": "21:17:30",
+    "game_clock": "02:26.00",
+    "caption": "P. Spencer makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 493,
+    "event_start_time": "21:33:00",
+    "event_end_time": "21:41:30",
+    "game_clock": "02:02.00",
+    "caption": "T. Washington Jr. makes a step back bank jump shot two-pointer."
+  },
+  {
+    "event_id": 495,
+    "event_start_time": "22:01:30",
+    "event_end_time": "22:05:30",
+    "game_clock": "01:37.00",
+    "caption": "T. Washington Jr. steals the ball from B. Podziemski on a bad pass."
+  },
+  {
+    "event_id": 496,
+    "event_start_time": "22:05:00",
+    "event_end_time": "22:08:00",
+    "game_clock": "01:36.00",
+    "caption": "P. Baldwin Jr. is called for a traveling violation."
+  },
+  {
+    "event_id": 500,
+    "event_start_time": "25:19:30",
+    "event_end_time": "25:28:00",
+    "game_clock": "01:24.00",
+    "caption": "G. Santos makes a cutting dunk two-pointer."
+  },
+  {
+    "event_id": 502,
+    "event_start_time": "25:45:30",
+    "event_end_time": "25:54:00",
+    "game_clock": "00:58.90",
+    "caption": "J. Telfort makes a floating jump shot two-pointer, assisted by T. Washington Jr."
+  },
+  {
+    "event_id": 504,
+    "event_start_time": "26:01:57",
+    "event_end_time": "26:10:27",
+    "game_clock": "00:45.40",
+    "caption": "B. Hield makes a jump shot three-pointer, assisted by P. Spencer."
+  },
+  {
+    "event_id": 506,
+    "event_start_time": "26:17:15",
+    "event_end_time": "26:25:45",
+    "game_clock": "00:32.10",
+    "caption": "J. Telfort makes a jump shot three-pointer, assisted by T. Washington Jr."
+  },
+  {
+    "event_id": 509,
+    "event_start_time": "26:34:00",
+    "event_end_time": "26:38:00",
+    "game_clock": "00:21.90",
+    "caption": "K. Brown steals the ball from B. Podziemski on a bad pass."
+  },
+  {
+    "event_id": 510,
+    "event_start_time": "26:52:06",
+    "event_end_time": "27:00:36",
+    "game_clock": "00:00.30",
+    "caption": "C. Christie makes a layup two-pointer, assisted by T. Washington Jr."
+  },
+  {
+    "event_id": 690,
+    "event_start_time": "08:13:30",
+    "event_end_time": "08:17:30",
+    "game_clock": "07:26.00",
+    "caption": "Draymond Green steals the ball from Karl Sanders on a bad pass."
+  }
+]

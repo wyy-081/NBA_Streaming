@@ -1,0 +1,408 @@
+[
+  {
+    "event_id": 191,
+    "event_start_time": "00:14:30",
+    "event_end_time": "00:17:30",
+    "game_clock": "11:40.00",
+    "caption": "C. Holmgren is called for a traveling violation."
+  },
+  {
+    "event_id": 192,
+    "event_start_time": "00:57:00",
+    "event_end_time": "01:04:00",
+    "game_clock": "11:16.00",
+    "caption": "A. Thompson misses a jump shot three-pointer. I. Hartenstein grabs the defensive rebound after A. Thompson's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 194,
+    "event_start_time": "01:01:30",
+    "event_end_time": "01:10:00",
+    "game_clock": "11:09.00",
+    "caption": "C. Holmgren makes a running layup two-pointer, assisted by A. Mitchell. A. Sengun commits a personal foul."
+  },
+  {
+    "event_id": 201,
+    "event_start_time": "05:00:30",
+    "event_end_time": "05:04:30",
+    "game_clock": "10:48.00",
+    "caption": "I. Hartenstein steals the ball from A. Sengun on a lost ball."
+  },
+  {
+    "event_id": 202,
+    "event_start_time": "05:12:35",
+    "event_end_time": "05:15:35",
+    "game_clock": "10:38.00",
+    "caption": "I. Hartenstein is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 203,
+    "event_start_time": "05:30:30",
+    "event_end_time": "05:39:00",
+    "game_clock": "10:21.00",
+    "caption": "J. Okogie makes a jump shot three-pointer, assisted by A. Sengun."
+  },
+  {
+    "event_id": 205,
+    "event_start_time": "05:50:30",
+    "event_end_time": "05:59:00",
+    "game_clock": "10:01.00",
+    "caption": "A. Wiggins makes a driving reverse layup two-pointer, assisted by I. Hartenstein."
+  },
+  {
+    "event_id": 207,
+    "event_start_time": "05:59:30",
+    "event_end_time": "06:08:00",
+    "game_clock": "09:52.00",
+    "caption": "A. Sengun makes a jump shot three-pointer, assisted by A. Thompson."
+  },
+  {
+    "event_id": 209,
+    "event_start_time": "06:18:00",
+    "event_end_time": "06:25:00",
+    "game_clock": "09:36.00",
+    "caption": "A. Mitchell misses a driving layup two-pointer. T. Eason grabs the defensive rebound after A. Mitchell's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 211,
+    "event_start_time": "06:19:30",
+    "event_end_time": "06:28:00",
+    "game_clock": "09:32.00",
+    "caption": "A. Mitchell makes a layup two-pointer, assisted by I. Hartenstein."
+  },
+  {
+    "event_id": 213,
+    "event_start_time": "06:37:30",
+    "event_end_time": "06:46:00",
+    "game_clock": "09:14.00",
+    "caption": "T. Eason makes a jump shot three-pointer, assisted by A. Thompson."
+  },
+  {
+    "event_id": 215,
+    "event_start_time": "06:52:30",
+    "event_end_time": "07:01:00",
+    "game_clock": "08:59.00",
+    "caption": "A. Caruso makes a pullup three-pointer, assisted by I. Hartenstein."
+  },
+  {
+    "event_id": 217,
+    "event_start_time": "07:14:00",
+    "event_end_time": "07:17:00",
+    "game_clock": "08:43.00",
+    "caption": "A. Sengun commits an offensive foul."
+  },
+  {
+    "event_id": 220,
+    "event_start_time": "07:40:00",
+    "event_end_time": "07:48:30",
+    "game_clock": "08:29.00",
+    "caption": "C. Holmgren makes a step back jump shot two-pointer, assisted by A. Mitchell."
+  },
+  {
+    "event_id": 222,
+    "event_start_time": "07:52:30",
+    "event_end_time": "07:57:30",
+    "game_clock": "08:19.00",
+    "caption": "A. Thompson's driving layup two-pointer is blocked by A. Mitchell. A. Mitchell blocks A. Thompson's layup two-pointer."
+  },
+  {
+    "event_id": 226,
+    "event_start_time": "08:21:30",
+    "event_end_time": "08:25:30",
+    "game_clock": "08:11.00",
+    "caption": "A. Mitchell commits a personal foul."
+  },
+  {
+    "event_id": 238,
+    "event_start_time": "09:40:00",
+    "event_end_time": "09:47:00",
+    "game_clock": "07:59.00",
+    "caption": "A. Mitchell misses a driving floating two-pointer. S. Adams grabs the defensive rebound after A. Mitchell's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 240,
+    "event_start_time": "09:57:00",
+    "event_end_time": "10:04:00",
+    "game_clock": "07:42.00",
+    "caption": "R. Sheppard misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 243,
+    "event_start_time": "10:32:30",
+    "event_end_time": "10:41:00",
+    "game_clock": "07:25.00",
+    "caption": "A. Mitchell makes a jump shot three-pointer, assisted by I. Hartenstein."
+  },
+  {
+    "event_id": 245,
+    "event_start_time": "11:01:00",
+    "event_end_time": "11:08:00",
+    "game_clock": "06:59.00",
+    "caption": "K. Durant misses a turnaround two-pointer. J. Okogie grabs the offensive rebound after K. Durant's missed turnaround two-pointer."
+  },
+  {
+    "event_id": 247,
+    "event_start_time": "11:03:30",
+    "event_end_time": "11:12:00",
+    "game_clock": "06:54.00",
+    "caption": "R. Sheppard makes a jump shot three-pointer, assisted by J. Okogie."
+  },
+  {
+    "event_id": 249,
+    "event_start_time": "11:20:00",
+    "event_end_time": "11:27:00",
+    "game_clock": "06:40.00",
+    "caption": "I. Hartenstein misses a jump shot three-pointer. K. Durant grabs the defensive rebound after I. Hartenstein's missed three-pointer."
+  },
+  {
+    "event_id": 251,
+    "event_start_time": "11:28:00",
+    "event_end_time": "11:32:00",
+    "game_clock": "06:35.00",
+    "caption": "A. Mitchell commits a personal foul."
+  },
+  {
+    "event_id": 255,
+    "event_start_time": "12:29:30",
+    "event_end_time": "12:34:30",
+    "game_clock": "06:20.00",
+    "caption": "A. Mitchell's driving floating two-pointer is blocked by R. Sheppard. R. Sheppard blocks A. Mitchell's jump shot two-pointer. L. Dort grabs the offensive rebound after A. Mitchell's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 258,
+    "event_start_time": "12:34:30",
+    "event_end_time": "12:41:30",
+    "game_clock": "06:15.00",
+    "caption": "L. Dort misses a jump shot three-pointer. K. Durant grabs the defensive rebound after L. Dort's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 260,
+    "event_start_time": "12:42:30",
+    "event_end_time": "12:53:30",
+    "game_clock": "06:07.00",
+    "caption": "S. Adams misses a running layup two-pointer. S. Adams grabs the offensive rebound after missing his running layup two-pointer. S. Adams misses a tip layup two-pointer."
+  },
+  {
+    "event_id": 264,
+    "event_start_time": "12:47:30",
+    "event_end_time": "12:53:30",
+    "game_clock": "06:01.00",
+    "caption": "C. Holmgren grabs the defensive rebound."
+  },
+  {
+    "event_id": 265,
+    "event_start_time": "12:58:30",
+    "event_end_time": "13:05:30",
+    "game_clock": "05:51.00",
+    "caption": "C. Holmgren misses a turnaround two-pointer. R. Sheppard grabs the defensive rebound after C. Holmgren's missed jump shot."
+  },
+  {
+    "event_id": 267,
+    "event_start_time": "13:08:30",
+    "event_end_time": "13:11:30",
+    "game_clock": "05:44.00",
+    "caption": "S. Adams commits an offensive foul."
+  },
+  {
+    "event_id": 276,
+    "event_start_time": "13:39:00",
+    "event_end_time": "13:46:00",
+    "game_clock": "05:31.00",
+    "caption": "S. Gilgeous-Alexander misses a turnaround two-pointer. A. Mitchell grabs the offensive rebound after S. Gilgeous-Alexander's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 278,
+    "event_start_time": "13:54:00",
+    "event_end_time": "14:01:00",
+    "game_clock": "05:16.00",
+    "caption": "L. Dort misses a fadeaway two-pointer."
+  },
+  {
+    "event_id": 281,
+    "event_start_time": "14:21:30",
+    "event_end_time": "14:24:30",
+    "game_clock": "05:02.00",
+    "caption": "R. Sheppard is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 284,
+    "event_start_time": "14:49:30",
+    "event_end_time": "14:56:30",
+    "game_clock": "04:51.00",
+    "caption": "A. Mitchell misses a jump shot three-pointer. S. Adams grabs the defensive rebound after A. Mitchell's missed three-pointer."
+  },
+  {
+    "event_id": 286,
+    "event_start_time": "15:05:30",
+    "event_end_time": "15:12:30",
+    "game_clock": "04:35.00",
+    "caption": "A. Thompson misses a jump shot three-pointer. I. Hartenstein grabs the defensive rebound after A. Thompson's missed three-pointer."
+  },
+  {
+    "event_id": 288,
+    "event_start_time": "15:11:00",
+    "event_end_time": "15:19:30",
+    "game_clock": "04:27.00",
+    "caption": "A. Mitchell makes a running three-pointer, assisted by C. Wallace."
+  },
+  {
+    "event_id": 290,
+    "event_start_time": "15:34:30",
+    "event_end_time": "15:41:30",
+    "game_clock": "04:06.00",
+    "caption": "R. Sheppard misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 292,
+    "event_start_time": "15:38:30",
+    "event_end_time": "15:41:30",
+    "game_clock": "04:05.00",
+    "caption": "I. Hartenstein commits a personal foul."
+  },
+  {
+    "event_id": 296,
+    "event_start_time": "16:14:00",
+    "event_end_time": "16:21:00",
+    "game_clock": "03:52.00",
+    "caption": "A. Sengun misses a turnaround two-pointer. C. Wallace grabs the defensive rebound after A. Sengun's missed jump shot."
+  },
+  {
+    "event_id": 298,
+    "event_start_time": "16:35:00",
+    "event_end_time": "16:42:00",
+    "game_clock": "03:31.00",
+    "caption": "A. Mitchell misses a jump shot three-pointer. A. Sengun grabs the defensive rebound after A. Mitchell's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 300,
+    "event_start_time": "16:58:00",
+    "event_end_time": "17:01:00",
+    "game_clock": "03:11.00",
+    "caption": "L. Dort commits a personal foul."
+  },
+  {
+    "event_id": 304,
+    "event_start_time": "17:28:30",
+    "event_end_time": "17:37:30",
+    "game_clock": "03:04.00",
+    "caption": "J. Smith Jr. misses a jump shot three-pointer. A. Sengun grabs the offensive rebound after J. Smith Jr.'s missed three-pointer. A. Sengun misses a tip layup two-pointer."
+  },
+  {
+    "event_id": 307,
+    "event_start_time": "17:31:30",
+    "event_end_time": "17:37:30",
+    "game_clock": "03:00.00",
+    "caption": "J. Smith Jr. grabs the offensive rebound."
+  },
+  {
+    "event_id": 308,
+    "event_start_time": "17:44:00",
+    "event_end_time": "17:52:30",
+    "game_clock": "02:46.00",
+    "caption": "Kevin Durant makes a pullup two-pointer."
+  },
+  {
+    "event_id": 313,
+    "event_start_time": "21:40:00",
+    "event_end_time": "21:47:00",
+    "game_clock": "02:35.00",
+    "caption": "J. Williams misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 316,
+    "event_start_time": "22:04:00",
+    "event_end_time": "22:12:30",
+    "game_clock": "02:15.00",
+    "caption": "K. Durant makes a pullup two-pointer."
+  },
+  {
+    "event_id": 317,
+    "event_start_time": "22:18:30",
+    "event_end_time": "22:25:30",
+    "game_clock": "02:03.00",
+    "caption": "L. Dort misses a jump shot three-pointer. C. Holmgren grabs the offensive rebound after L. Dort's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 319,
+    "event_start_time": "22:23:30",
+    "event_end_time": "22:30:30",
+    "game_clock": "01:58.00",
+    "caption": "J. Williams misses a jump shot three-pointer. K. Durant grabs the defensive rebound after J. Williams' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 321,
+    "event_start_time": "22:35:00",
+    "event_end_time": "22:43:30",
+    "game_clock": "01:44.00",
+    "caption": "A. Sengun makes a jump shot three-pointer, assisted by Kevin Durant."
+  },
+  {
+    "event_id": 323,
+    "event_start_time": "22:49:30",
+    "event_end_time": "22:56:30",
+    "game_clock": "01:32.00",
+    "caption": "J. Williams misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 330,
+    "event_start_time": "26:00:30",
+    "event_end_time": "26:07:30",
+    "game_clock": "01:09.00",
+    "caption": "A. Thompson misses a jump shot three-pointer. C. Holmgren grabs the defensive rebound after A. Thompson's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 332,
+    "event_start_time": "26:10:54",
+    "event_end_time": "26:19:24",
+    "game_clock": "00:56.60",
+    "caption": "S. Gilgeous-Alexander makes a driving finger roll layup two-pointer."
+  },
+  {
+    "event_id": 333,
+    "event_start_time": "26:32:06",
+    "event_end_time": "26:40:36",
+    "game_clock": "00:38.00",
+    "caption": "Kevin Durant makes a jump shot two-pointer, assisted by Steven Adams."
+  },
+  {
+    "event_id": 335,
+    "event_start_time": "26:52:21",
+    "event_end_time": "26:59:21",
+    "game_clock": "00:22.80",
+    "caption": "C. Holmgren misses a jump shot three-pointer. K. Durant grabs the defensive rebound after C. Holmgren's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 337,
+    "event_start_time": "27:11:15",
+    "event_end_time": "27:14:15",
+    "game_clock": "00:05.90",
+    "caption": "C. Wallace is called for a kicked ball violation."
+  },
+  {
+    "event_id": 340,
+    "event_start_time": "27:31:57",
+    "event_end_time": "27:34:57",
+    "game_clock": "00:05.10",
+    "caption": "C. Holmgren commits a personal foul."
+  },
+  {
+    "event_id": 348,
+    "event_start_time": "28:28:03",
+    "event_end_time": "28:31:03",
+    "game_clock": "00:03.80",
+    "caption": "A. Thompson commits a personal foul."
+  },
+  {
+    "event_id": 350,
+    "event_start_time": "28:40:33",
+    "event_end_time": "28:49:03",
+    "game_clock": "00:00.70",
+    "caption": "A. Mitchell makes a pullup three-pointer. J. Okogie commits a shooting personal foul."
+  },
+  {
+    "event_id": 874,
+    "event_start_time": "06:22:00",
+    "event_end_time": "06:26:00",
+    "game_clock": "09:33.00",
+    "caption": "I. Hartenstein steals the ball from T. Eason on a lost ball."
+  }
+]

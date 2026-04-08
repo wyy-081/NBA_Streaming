@@ -1,0 +1,401 @@
+[
+  {
+    "event_id": 9,
+    "event_start_time": "00:07:00",
+    "event_end_time": "00:14:00",
+    "game_clock": "11:27.00",
+    "caption": "J. Brunson misses a pullup three-pointer. M. Bridges grabs the defensive rebound after J. Brunson's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 12,
+    "event_start_time": "00:30:00",
+    "event_end_time": "00:38:30",
+    "game_clock": "11:18.00",
+    "caption": "Marcus Bridges makes a cutting layup two-pointer, assisted by Cade Sexton."
+  },
+  {
+    "event_id": 14,
+    "event_start_time": "00:49:30",
+    "event_end_time": "00:52:30",
+    "game_clock": "11:03.00",
+    "caption": "J. Clarkson is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 15,
+    "event_start_time": "01:10:30",
+    "event_end_time": "01:17:30",
+    "game_clock": "10:49.00",
+    "caption": "C. Sexton misses a pullup three-pointer. J. Brunson grabs the defensive rebound after C. Sexton's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 17,
+    "event_start_time": "01:20:30",
+    "event_end_time": "01:30:30",
+    "game_clock": "10:39.00",
+    "caption": "M. Diawara misses a jump shot three-pointer. M. Bridges grabs the offensive rebound after M. Diawara's missed jump shot three-pointer. Mitchell Bridges makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 20,
+    "event_start_time": "01:34:30",
+    "event_end_time": "01:37:30",
+    "game_clock": "10:27.00",
+    "caption": "C. Sexton is called for an out-of-bounds turnover."
+  },
+  {
+    "event_id": 21,
+    "event_start_time": "01:53:30",
+    "event_end_time": "02:00:30",
+    "game_clock": "10:14.00",
+    "caption": "M. Diawara misses an alley-oop layup two-pointer. K. Knueppel grabs the defensive rebound after M. Diawara's missed layup two-pointer."
+  },
+  {
+    "event_id": 23,
+    "event_start_time": "01:58:30",
+    "event_end_time": "02:01:30",
+    "game_clock": "10:11.00",
+    "caption": "K. Knueppel is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 24,
+    "event_start_time": "02:16:00",
+    "event_end_time": "02:24:30",
+    "game_clock": "09:58.00",
+    "caption": "J. Clarkson makes a jump shot three-pointer, assisted by M. Diawara."
+  },
+  {
+    "event_id": 26,
+    "event_start_time": "02:27:00",
+    "event_end_time": "02:35:30",
+    "game_clock": "09:47.00",
+    "caption": "M. Bridges makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 27,
+    "event_start_time": "02:49:00",
+    "event_end_time": "02:57:30",
+    "game_clock": "09:25.00",
+    "caption": "J. Brunson makes a fadeaway jump shot two-pointer."
+  },
+  {
+    "event_id": 28,
+    "event_start_time": "03:03:30",
+    "event_end_time": "03:10:30",
+    "game_clock": "09:13.00",
+    "caption": "L. McNeeley misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 31,
+    "event_start_time": "03:27:30",
+    "event_end_time": "03:34:30",
+    "game_clock": "09:00.00",
+    "caption": "M. Bridges misses a jump shot three-pointer. M. Diawara grabs the offensive rebound after M. Bridges' missed three-pointer."
+  },
+  {
+    "event_id": 33,
+    "event_start_time": "03:31:00",
+    "event_end_time": "03:39:30",
+    "game_clock": "08:54.00",
+    "caption": "J. Brunson makes a jump shot three-pointer, assisted by J. Clarkson."
+  },
+  {
+    "event_id": 35,
+    "event_start_time": "03:47:00",
+    "event_end_time": "03:55:30",
+    "game_clock": "08:38.00",
+    "caption": "M. Diabaté makes a driving layup two-pointer, assisted by C. Sexton."
+  },
+  {
+    "event_id": 37,
+    "event_start_time": "04:00:30",
+    "event_end_time": "04:07:30",
+    "game_clock": "08:27.00",
+    "caption": "J. Brunson misses a driving reverse layup two-pointer. C. Sexton grabs the defensive rebound after J. Brunson's missed driving reverse layup two-pointer."
+  },
+  {
+    "event_id": 39,
+    "event_start_time": "04:07:30",
+    "event_end_time": "04:14:30",
+    "game_clock": "08:20.00",
+    "caption": "K. Knueppel misses a running pullup three-pointer. J. Clarkson grabs the defensive rebound after K. Knueppel's missed three-pointer."
+  },
+  {
+    "event_id": 41,
+    "event_start_time": "04:16:00",
+    "event_end_time": "04:24:30",
+    "game_clock": "08:09.00",
+    "caption": "J. Clarkson makes a pullup two-pointer."
+  },
+  {
+    "event_id": 42,
+    "event_start_time": "04:30:00",
+    "event_end_time": "04:38:30",
+    "game_clock": "07:55.00",
+    "caption": "Michael Bridges makes a jump shot three-pointer, assisted by Luke McNeeley."
+  },
+  {
+    "event_id": 44,
+    "event_start_time": "04:46:00",
+    "event_end_time": "04:54:30",
+    "game_clock": "07:39.00",
+    "caption": "Michael Bridges makes a jump shot three-pointer, assisted by Tyrese Jemison III."
+  },
+  {
+    "event_id": 46,
+    "event_start_time": "04:58:00",
+    "event_end_time": "05:06:30",
+    "game_clock": "07:27.00",
+    "caption": "Marcus Bridges makes a jump shot three-pointer, assisted by Collin Sexton."
+  },
+  {
+    "event_id": 48,
+    "event_start_time": "05:12:00",
+    "event_end_time": "05:20:30",
+    "game_clock": "07:13.00",
+    "caption": "J. Clarkson makes a jump shot three-pointer, assisted by J. Brunson."
+  },
+  {
+    "event_id": 51,
+    "event_start_time": "05:24:30",
+    "event_end_time": "05:28:30",
+    "game_clock": "07:04.00",
+    "caption": "J. Clarkson steals the ball from M. Diabaté on a lost ball."
+  },
+  {
+    "event_id": 52,
+    "event_start_time": "05:31:30",
+    "event_end_time": "05:38:30",
+    "game_clock": "06:56.00",
+    "caption": "J. Brunson misses a pullup three-pointer. M. Bridges grabs the offensive rebound after J. Brunson's missed pullup three-pointer."
+  },
+  {
+    "event_id": 54,
+    "event_start_time": "05:50:30",
+    "event_end_time": "05:57:30",
+    "game_clock": "06:37.00",
+    "caption": "M. Diawara misses a jump shot three-pointer. M. Bridges grabs the offensive rebound after M. Diawara's missed three-pointer."
+  },
+  {
+    "event_id": 56,
+    "event_start_time": "05:50:00",
+    "event_end_time": "05:58:30",
+    "game_clock": "06:35.00",
+    "caption": "J. Brunson makes a jump shot three-pointer, assisted by M. Bridges."
+  },
+  {
+    "event_id": 68,
+    "event_start_time": "09:19:30",
+    "event_end_time": "09:22:30",
+    "game_clock": "06:20.00",
+    "caption": "J. Brunson commits a personal foul."
+  },
+  {
+    "event_id": 70,
+    "event_start_time": "09:37:00",
+    "event_end_time": "09:45:30",
+    "game_clock": "06:15.00",
+    "caption": "Marcus Bridges makes a pullup three-pointer, assisted by R.J. Kalkbrenner."
+  },
+  {
+    "event_id": 72,
+    "event_start_time": "09:58:30",
+    "event_end_time": "10:01:30",
+    "game_clock": "05:58.00",
+    "caption": "M. Bridges is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 86,
+    "event_start_time": "13:28:30",
+    "event_end_time": "13:33:30",
+    "game_clock": "05:33.00",
+    "caption": "M. McBride's jump shot three-pointer is blocked by K. Simpson. K. Simpson blocks M. McBride's jump shot three-pointer."
+  },
+  {
+    "event_id": 88,
+    "event_start_time": "16:40:00",
+    "event_end_time": "16:45:00",
+    "game_clock": "05:33.00",
+    "caption": "Jump ball between R. Kalkbrenner and A. Hukporti, K. Simpson recovers the tip."
+  },
+  {
+    "event_id": 92,
+    "event_start_time": "16:59:00",
+    "event_end_time": "17:06:00",
+    "game_clock": "05:11.00",
+    "caption": "M. Bridges misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 94,
+    "event_start_time": "17:03:00",
+    "event_end_time": "17:06:00",
+    "game_clock": "05:10.00",
+    "caption": "R. Kalkbrenner commits a personal foul."
+  },
+  {
+    "event_id": 100,
+    "event_start_time": "17:43:00",
+    "event_end_time": "17:50:00",
+    "game_clock": "04:58.00",
+    "caption": "G. Yabusele misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 102,
+    "event_start_time": "17:47:00",
+    "event_end_time": "17:50:00",
+    "game_clock": "04:57.00",
+    "caption": "R. Kalkbrenner commits a personal foul."
+  },
+  {
+    "event_id": 106,
+    "event_start_time": "18:31:00",
+    "event_end_time": "18:39:30",
+    "game_clock": "04:49.00",
+    "caption": "J. Brunson makes a step back three-pointer."
+  },
+  {
+    "event_id": 108,
+    "event_start_time": "18:52:30",
+    "event_end_time": "18:59:30",
+    "game_clock": "04:30.00",
+    "caption": "K. Simpson misses a step back three-pointer. G. Yabusele grabs the defensive rebound after K. Simpson's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 110,
+    "event_start_time": "19:06:30",
+    "event_end_time": "19:13:30",
+    "game_clock": "04:16.00",
+    "caption": "J. Brunson misses a jump shot three-pointer. K. Simpson grabs the defensive rebound after J. Brunson's missed three-pointer."
+  },
+  {
+    "event_id": 112,
+    "event_start_time": "19:25:30",
+    "event_end_time": "19:32:30",
+    "game_clock": "03:57.00",
+    "caption": "S. James misses a pullup three-pointer. A. Hukporti grabs the defensive rebound after S. James's missed pullup three-pointer."
+  },
+  {
+    "event_id": 114,
+    "event_start_time": "19:34:30",
+    "event_end_time": "19:41:30",
+    "game_clock": "03:48.00",
+    "caption": "L. Shamet misses a step back three-pointer. M. Plumlee grabs the defensive rebound after L. Shamet's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 116,
+    "event_start_time": "19:48:30",
+    "event_end_time": "19:55:30",
+    "game_clock": "03:34.00",
+    "caption": "K. Simpson misses a jump shot three-pointer. M. Plumlee grabs the offensive rebound after K. Simpson's missed three-pointer."
+  },
+  {
+    "event_id": 118,
+    "event_start_time": "20:00:00",
+    "event_end_time": "20:08:30",
+    "game_clock": "03:20.00",
+    "caption": "T. Salaün makes a jump shot three-pointer, assisted by L. McNeeley."
+  },
+  {
+    "event_id": 120,
+    "event_start_time": "20:19:30",
+    "event_end_time": "20:26:30",
+    "game_clock": "03:03.00",
+    "caption": "J. Brunson misses a turnaround two-pointer. T. Salaün grabs the defensive rebound after J. Brunson's missed jump shot."
+  },
+  {
+    "event_id": 122,
+    "event_start_time": "20:32:30",
+    "event_end_time": "20:39:30",
+    "game_clock": "02:50.00",
+    "caption": "T. Salaün misses a driving floating bank two-pointer. J. Brunson grabs the defensive rebound after T. Salaün's missed driving floating bank two-pointer."
+  },
+  {
+    "event_id": 124,
+    "event_start_time": "20:36:00",
+    "event_end_time": "20:44:30",
+    "game_clock": "02:44.00",
+    "caption": "A. Hukporti makes a running dunk two-pointer, assisted by J. Brunson."
+  },
+  {
+    "event_id": 126,
+    "event_start_time": "20:55:30",
+    "event_end_time": "21:02:30",
+    "game_clock": "02:27.00",
+    "caption": "T. Salaün misses a jump shot three-pointer. A. Hukporti grabs the defensive rebound after T. Salaün's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 128,
+    "event_start_time": "21:05:30",
+    "event_end_time": "21:12:30",
+    "game_clock": "02:17.00",
+    "caption": "M. McBride misses a jump shot three-pointer. M. Plumlee grabs the defensive rebound after M. McBride's missed three-pointer."
+  },
+  {
+    "event_id": 130,
+    "event_start_time": "21:22:00",
+    "event_end_time": "21:30:30",
+    "game_clock": "01:58.00",
+    "caption": "L. McNeeley makes a driving floating bank two-pointer."
+  },
+  {
+    "event_id": 131,
+    "event_start_time": "21:31:00",
+    "event_end_time": "21:39:30",
+    "game_clock": "01:49.00",
+    "caption": "J. Brunson makes a pullup three-pointer. S. James commits a personal foul."
+  },
+  {
+    "event_id": 141,
+    "event_start_time": "22:36:30",
+    "event_end_time": "22:43:30",
+    "game_clock": "01:37.00",
+    "caption": "K. Simpson misses a driving layup two-pointer. D. Peterson grabs the offensive rebound after K. Simpson's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 143,
+    "event_start_time": "22:42:30",
+    "event_end_time": "22:49:30",
+    "game_clock": "01:31.00",
+    "caption": "D. Peterson misses a jump shot three-pointer. T. Salaün grabs the offensive rebound after D. Peterson's missed three-pointer."
+  },
+  {
+    "event_id": 145,
+    "event_start_time": "22:51:30",
+    "event_end_time": "22:58:30",
+    "game_clock": "01:22.00",
+    "caption": "S. James misses a driving layup two-pointer. M. Bridges grabs the defensive rebound after S. James' missed driving layup two-pointer."
+  },
+  {
+    "event_id": 147,
+    "event_start_time": "23:01:30",
+    "event_end_time": "23:08:30",
+    "game_clock": "01:12.00",
+    "caption": "J. Brunson misses a step back three-pointer. D. Peterson grabs the defensive rebound after J. Brunson's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 149,
+    "event_start_time": "23:17:15",
+    "event_end_time": "23:25:45",
+    "game_clock": "00:54.20",
+    "caption": "T. Salaün makes a driving layup two-pointer, assisted by K. Simpson. L. Shamet commits a personal foul."
+  },
+  {
+    "event_id": 157,
+    "event_start_time": "23:22:45",
+    "event_end_time": "23:25:45",
+    "game_clock": "00:54.20",
+    "caption": "T. Jemison III commits a personal foul."
+  },
+  {
+    "event_id": 162,
+    "event_start_time": "25:18:09",
+    "event_end_time": "25:22:09",
+    "game_clock": "00:38.40",
+    "caption": "M. Diabaté steals the ball from J. Brunson on a bad pass."
+  },
+  {
+    "event_id": 163,
+    "event_start_time": "25:37:42",
+    "event_end_time": "25:44:42",
+    "game_clock": "00:17.90",
+    "caption": "K. Simpson misses a driving floating two-pointer."
+  }
+]

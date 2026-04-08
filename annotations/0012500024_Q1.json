@@ -1,0 +1,478 @@
+[
+  {
+    "event_id": 4,
+    "event_start_time": "00:01:30",
+    "event_end_time": "00:06:30",
+    "game_clock": "11:56.00",
+    "caption": "Jump ball between Kristaps Porzingis and JaMychal Green, O. Okongwu recovers the tip."
+  },
+  {
+    "event_id": 8,
+    "event_start_time": "00:17:30",
+    "event_end_time": "00:21:30",
+    "game_clock": "11:40.00",
+    "caption": "J. Green steals the ball from T. Young on a bad pass."
+  },
+  {
+    "event_id": 9,
+    "event_start_time": "00:25:30",
+    "event_end_time": "00:32:30",
+    "game_clock": "11:31.00",
+    "caption": "A. Holiday misses a pullup three-pointer. I. Crawford grabs the offensive rebound after A. Holiday's missed pullup three-pointer."
+  },
+  {
+    "event_id": 11,
+    "event_start_time": "00:31:30",
+    "event_end_time": "00:38:30",
+    "game_clock": "11:25.00",
+    "caption": "A. Holiday misses a jump shot three-pointer. K. Porziņģis grabs the defensive rebound after A. Holiday's missed three-pointer."
+  },
+  {
+    "event_id": 13,
+    "event_start_time": "00:36:00",
+    "event_end_time": "00:44:30",
+    "game_clock": "11:18.00",
+    "caption": "N. Alexander-Walker makes a running three-pointer, assisted by T. Young."
+  },
+  {
+    "event_id": 16,
+    "event_start_time": "01:02:30",
+    "event_end_time": "01:06:30",
+    "game_clock": "10:55.00",
+    "caption": "O. Okongwu steals the ball from R. Sheppard on a lost ball."
+  },
+  {
+    "event_id": 18,
+    "event_start_time": "01:05:30",
+    "event_end_time": "01:09:30",
+    "game_clock": "10:52.00",
+    "caption": "R. Sheppard steals the ball from N. Alexander-Walker on a lost ball."
+  },
+  {
+    "event_id": 19,
+    "event_start_time": "01:05:00",
+    "event_end_time": "01:13:30",
+    "game_clock": "10:49.00",
+    "caption": "R. Sheppard makes a running dunk two-pointer. I. Crawford commits a shooting personal foul."
+  },
+  {
+    "event_id": 24,
+    "event_start_time": "02:01:00",
+    "event_end_time": "02:06:00",
+    "game_clock": "10:39.00",
+    "caption": "J. Green grabs the defensive rebound."
+  },
+  {
+    "event_id": 25,
+    "event_start_time": "02:12:00",
+    "event_end_time": "02:19:00",
+    "game_clock": "10:28.00",
+    "caption": "R. Sheppard misses a jump shot three-pointer. T. Young grabs the defensive rebound after R. Sheppard's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 28,
+    "event_start_time": "02:27:00",
+    "event_end_time": "02:30:00",
+    "game_clock": "10:15.00",
+    "caption": "J. Green is called for a kicked ball violation."
+  },
+  {
+    "event_id": 29,
+    "event_start_time": "03:09:00",
+    "event_end_time": "03:16:00",
+    "game_clock": "10:02.00",
+    "caption": "T. Young misses a step back three-pointer. A. Holiday grabs the defensive rebound after T. Young's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 31,
+    "event_start_time": "03:22:00",
+    "event_end_time": "03:29:00",
+    "game_clock": "09:49.00",
+    "caption": "I. Crawford misses a driving reverse layup two-pointer. Z. Risacher grabs the defensive rebound after I. Crawford's missed driving reverse layup two-pointer."
+  },
+  {
+    "event_id": 34,
+    "event_start_time": "03:46:30",
+    "event_end_time": "03:51:30",
+    "game_clock": "09:41.00",
+    "caption": "K. Porziņģis' cutting layup two-pointer is blocked by R. Sheppard. R. Sheppard blocks K. Porziņģis's layup two-pointer. R. Sheppard grabs the defensive rebound after K. Porziņģis' missed layup two-pointer."
+  },
+  {
+    "event_id": 37,
+    "event_start_time": "03:52:30",
+    "event_end_time": "03:59:30",
+    "game_clock": "09:35.00",
+    "caption": "I. Crawford's running alley-oop layup two-pointer is missed. I. Crawford grabs the offensive rebound after missing his running layup two-pointer."
+  },
+  {
+    "event_id": 39,
+    "event_start_time": "03:57:30",
+    "event_end_time": "04:04:30",
+    "game_clock": "09:30.00",
+    "caption": "J. Okogie misses a jump shot three-pointer. O. Okongwu grabs the defensive rebound after J. Okogie's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 41,
+    "event_start_time": "04:09:30",
+    "event_end_time": "04:14:30",
+    "game_clock": "09:18.00",
+    "caption": "T. Young's step back three-pointer is blocked by J. Okogie. J. Okogie blocks T. Young's jump shot three-pointer. J. Okogie grabs the defensive rebound after T. Young's missed three-pointer."
+  },
+  {
+    "event_id": 44,
+    "event_start_time": "04:11:00",
+    "event_end_time": "04:19:30",
+    "game_clock": "09:14.00",
+    "caption": "J. Okogie makes a running layup two-pointer."
+  },
+  {
+    "event_id": 45,
+    "event_start_time": "04:19:30",
+    "event_end_time": "04:26:30",
+    "game_clock": "09:08.00",
+    "caption": "N. Alexander-Walker misses a pullup three-pointer. A. Holiday grabs the defensive rebound after N. Alexander-Walker's missed pullup three-pointer."
+  },
+  {
+    "event_id": 47,
+    "event_start_time": "04:27:30",
+    "event_end_time": "04:34:30",
+    "game_clock": "09:00.00",
+    "caption": "J. Green misses a jump shot three-pointer. O. Okongwu grabs the defensive rebound after J. Green's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 49,
+    "event_start_time": "04:38:00",
+    "event_end_time": "04:46:30",
+    "game_clock": "08:47.00",
+    "caption": "T. Young makes a jump shot three-pointer, assisted by K. Porziņģis."
+  },
+  {
+    "event_id": 51,
+    "event_start_time": "04:54:00",
+    "event_end_time": "05:02:30",
+    "game_clock": "08:31.00",
+    "caption": "A. Holiday makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 52,
+    "event_start_time": "05:05:30",
+    "event_end_time": "05:12:30",
+    "game_clock": "08:22.00",
+    "caption": "K. Porziņģis misses a jump shot three-pointer. R. Sheppard grabs the defensive rebound after K. Porziņģis's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 54,
+    "event_start_time": "05:14:30",
+    "event_end_time": "05:18:30",
+    "game_clock": "08:16.00",
+    "caption": "Z. Risacher commits a personal foul."
+  },
+  {
+    "event_id": 59,
+    "event_start_time": "09:28:30",
+    "event_end_time": "09:33:30",
+    "game_clock": "08:04.00",
+    "caption": "K. Porziņģis's layup two-pointer is blocked by J. Okogie. J. Okogie blocks K. Porziņģis's layup two-pointer. I. Crawford grabs the defensive rebound after K. Porziņģis's missed layup two-pointer."
+  },
+  {
+    "event_id": 62,
+    "event_start_time": "09:32:00",
+    "event_end_time": "09:40:30",
+    "game_clock": "07:58.00",
+    "caption": "J. Okogie makes a running dunk two-pointer, assisted by I. Crawford."
+  },
+  {
+    "event_id": 64,
+    "event_start_time": "09:48:30",
+    "event_end_time": "09:55:30",
+    "game_clock": "07:44.00",
+    "caption": "Z. Risacher misses a jump shot two-pointer."
+  },
+  {
+    "event_id": 67,
+    "event_start_time": "10:15:30",
+    "event_end_time": "10:22:30",
+    "game_clock": "07:24.00",
+    "caption": "J. Green misses a jump shot three-pointer. O. Okongwu grabs the defensive rebound after J. Green's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 70,
+    "event_start_time": "10:27:30",
+    "event_end_time": "10:31:30",
+    "game_clock": "07:13.00",
+    "caption": "I. Crawford steals the ball from T. Young on a bad pass."
+  },
+  {
+    "event_id": 71,
+    "event_start_time": "10:31:30",
+    "event_end_time": "10:36:30",
+    "game_clock": "07:08.00",
+    "caption": "I. Crawford's running layup two-pointer is blocked by K. Porziņģis. K. Porziņģis blocks I. Crawford's layup two-pointer. I. Crawford grabs the offensive rebound after missing his running layup two-pointer."
+  },
+  {
+    "event_id": 74,
+    "event_start_time": "10:34:00",
+    "event_end_time": "10:42:30",
+    "game_clock": "07:03.00",
+    "caption": "J. Okogie makes a jump shot three-pointer, assisted by I. Crawford."
+  },
+  {
+    "event_id": 77,
+    "event_start_time": "10:48:30",
+    "event_end_time": "10:52:30",
+    "game_clock": "06:52.00",
+    "caption": "J. Okogie steals the ball from N. Alexander-Walker on a lost ball."
+  },
+  {
+    "event_id": 78,
+    "event_start_time": "10:54:30",
+    "event_end_time": "10:58:30",
+    "game_clock": "06:48.00",
+    "caption": "O. Okongwu commits a shooting personal foul."
+  },
+  {
+    "event_id": 84,
+    "event_start_time": "11:37:00",
+    "event_end_time": "11:42:00",
+    "game_clock": "06:45.00",
+    "caption": "Z. Risacher grabs the defensive rebound."
+  },
+  {
+    "event_id": 85,
+    "event_start_time": "11:39:30",
+    "event_end_time": "11:48:00",
+    "game_clock": "06:40.00",
+    "caption": "Z. Risacher makes a running dunk two-pointer."
+  },
+  {
+    "event_id": 86,
+    "event_start_time": "11:58:00",
+    "event_end_time": "12:05:00",
+    "game_clock": "06:24.00",
+    "caption": "R. Sheppard misses a jump shot three-pointer. K. Porziņģis grabs the defensive rebound after R. Sheppard's missed three-pointer."
+  },
+  {
+    "event_id": 88,
+    "event_start_time": "12:18:00",
+    "event_end_time": "12:22:00",
+    "game_clock": "06:07.00",
+    "caption": "J. Green commits a personal foul."
+  },
+  {
+    "event_id": 99,
+    "event_start_time": "13:18:30",
+    "event_end_time": "13:22:30",
+    "game_clock": "05:52.00",
+    "caption": "Z. Risacher steals the ball from J. Davison on a lost ball."
+  },
+  {
+    "event_id": 100,
+    "event_start_time": "13:20:00",
+    "event_end_time": "13:28:30",
+    "game_clock": "05:47.00",
+    "caption": "Z. Risacher makes a running layup two-pointer, assisted by N. Alexander-Walker."
+  },
+  {
+    "event_id": 102,
+    "event_start_time": "13:40:00",
+    "event_end_time": "13:48:30",
+    "game_clock": "05:27.00",
+    "caption": "I. Crawford makes a jump shot three-pointer, assisted by C. Matthews."
+  },
+  {
+    "event_id": 104,
+    "event_start_time": "13:56:00",
+    "event_end_time": "14:04:30",
+    "game_clock": "05:11.00",
+    "caption": "Z. Risacher makes a driving finger roll two-pointer, assisted by L. Kennard."
+  },
+  {
+    "event_id": 111,
+    "event_start_time": "17:46:30",
+    "event_end_time": "17:53:30",
+    "game_clock": "04:51.00",
+    "caption": "J. Davison misses a driving layup two-pointer. O. Okongwu grabs the defensive rebound after J. Davison's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 113,
+    "event_start_time": "17:54:30",
+    "event_end_time": "18:01:30",
+    "game_clock": "04:43.00",
+    "caption": "L. Kennard misses a running layup two-pointer. K. Harris grabs the defensive rebound after L. Kennard's missed running layup two-pointer."
+  },
+  {
+    "event_id": 115,
+    "event_start_time": "17:59:30",
+    "event_end_time": "18:02:30",
+    "game_clock": "04:40.00",
+    "caption": "K. Harris is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 116,
+    "event_start_time": "18:13:30",
+    "event_end_time": "18:22:00",
+    "game_clock": "04:27.00",
+    "caption": "N. Alexander-Walker makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 117,
+    "event_start_time": "18:22:30",
+    "event_end_time": "18:31:00",
+    "game_clock": "04:18.00",
+    "caption": "R. Sheppard makes a step back jump shot two-pointer."
+  },
+  {
+    "event_id": 118,
+    "event_start_time": "18:31:30",
+    "event_end_time": "18:40:00",
+    "game_clock": "04:09.00",
+    "caption": "A. Newell makes an alley-oop dunk two-pointer, assisted by N. Alexander-Walker."
+  },
+  {
+    "event_id": 120,
+    "event_start_time": "18:50:30",
+    "event_end_time": "18:59:00",
+    "game_clock": "03:50.00",
+    "caption": "R. Sheppard makes a pullup two-pointer."
+  },
+  {
+    "event_id": 121,
+    "event_start_time": "19:07:00",
+    "event_end_time": "19:14:00",
+    "game_clock": "03:36.00",
+    "caption": "N. Alexander-Walker misses a jump shot three-pointer. V. Krejčí grabs the offensive rebound after N. Alexander-Walker's missed three-pointer."
+  },
+  {
+    "event_id": 129,
+    "event_start_time": "19:42:30",
+    "event_end_time": "19:46:30",
+    "game_clock": "03:23.00",
+    "caption": "J. Davison steals the ball from L. Kennard on a lost ball."
+  },
+  {
+    "event_id": 130,
+    "event_start_time": "19:47:30",
+    "event_end_time": "19:54:30",
+    "game_clock": "03:17.00",
+    "caption": "J. Davison misses a running three-pointer. T. Young grabs the defensive rebound after J. Davison's missed running three-pointer."
+  },
+  {
+    "event_id": 132,
+    "event_start_time": "20:02:00",
+    "event_end_time": "20:10:30",
+    "game_clock": "03:00.00",
+    "caption": "L. Kennard makes a jump shot three-pointer, assisted by T. Young."
+  },
+  {
+    "event_id": 134,
+    "event_start_time": "20:17:00",
+    "event_end_time": "20:25:30",
+    "game_clock": "02:45.00",
+    "caption": "R. Sheppard makes a jump shot three-pointer, assisted by I. Crawford."
+  },
+  {
+    "event_id": 136,
+    "event_start_time": "20:32:30",
+    "event_end_time": "20:39:30",
+    "game_clock": "02:32.00",
+    "caption": "V. Krejčí misses a turnaround two-pointer. K. Harris grabs the defensive rebound after V. Krejčí's missed jump shot."
+  },
+  {
+    "event_id": 138,
+    "event_start_time": "20:40:30",
+    "event_end_time": "20:43:30",
+    "game_clock": "02:27.00",
+    "caption": "V. Krejčí commits a personal foul."
+  },
+  {
+    "event_id": 144,
+    "event_start_time": "21:01:30",
+    "event_end_time": "21:10:00",
+    "game_clock": "02:21.00",
+    "caption": "A. Holiday makes a pullup two-pointer, assisted by J. Green."
+  },
+  {
+    "event_id": 146,
+    "event_start_time": "21:14:30",
+    "event_end_time": "21:23:00",
+    "game_clock": "02:08.00",
+    "caption": "V. Krejčí makes a jump shot three-pointer, assisted by T. Young."
+  },
+  {
+    "event_id": 148,
+    "event_start_time": "21:25:00",
+    "event_end_time": "21:32:00",
+    "game_clock": "02:00.00",
+    "caption": "J. Green misses a driving layup two-pointer. V. Krejčí grabs the defensive rebound after J. Green's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 150,
+    "event_start_time": "21:32:00",
+    "event_end_time": "21:39:00",
+    "game_clock": "01:53.00",
+    "caption": "V. Krejčí misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 152,
+    "event_start_time": "21:36:00",
+    "event_end_time": "21:39:00",
+    "game_clock": "01:52.00",
+    "caption": "V. Krejčí commits a personal foul."
+  },
+  {
+    "event_id": 156,
+    "event_start_time": "22:02:30",
+    "event_end_time": "22:11:00",
+    "game_clock": "01:39.00",
+    "caption": "A. Holiday makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 158,
+    "event_start_time": "22:25:00",
+    "event_end_time": "22:29:00",
+    "game_clock": "01:20.00",
+    "caption": "J. Davison steals the ball from V. Krejčí on a lost ball."
+  },
+  {
+    "event_id": 159,
+    "event_start_time": "22:29:00",
+    "event_end_time": "22:36:00",
+    "game_clock": "01:15.00",
+    "caption": "J. Okogie misses a running finger roll two-pointer. A. Newell grabs the defensive rebound after J. Okogie's missed running finger roll layup two-pointer."
+  },
+  {
+    "event_id": 161,
+    "event_start_time": "22:36:30",
+    "event_end_time": "22:39:30",
+    "game_clock": "01:11.00",
+    "caption": "T. Young is called for a traveling violation."
+  },
+  {
+    "event_id": 162,
+    "event_start_time": "23:07:00",
+    "event_end_time": "23:10:00",
+    "game_clock": "00:58.60",
+    "caption": "A. Holiday commits an offensive foul."
+  },
+  {
+    "event_id": 166,
+    "event_start_time": "23:53:51",
+    "event_end_time": "24:02:45",
+    "game_clock": "00:38.80",
+    "caption": "T. Young misses a driving layup two-pointer. N. Dante grabs the offensive rebound after T. Young's missed driving layup two-pointer. N. Dante misses a putback layup two-pointer."
+  },
+  {
+    "event_id": 173,
+    "event_start_time": "24:20:18",
+    "event_end_time": "24:23:18",
+    "game_clock": "00:30.30",
+    "caption": "T. Young commits a personal foul."
+  },
+  {
+    "event_id": 181,
+    "event_start_time": "25:53:15",
+    "event_end_time": "25:56:15",
+    "game_clock": "00:02.70",
+    "caption": "N. Dante commits a personal foul."
+  }
+]
