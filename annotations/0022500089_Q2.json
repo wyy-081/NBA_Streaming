@@ -1,0 +1,415 @@
+[
+  {
+    "event_id": 179,
+    "event_start_time": "00:09:30",
+    "event_end_time": "00:12:30",
+    "game_clock": "11:40.00",
+    "caption": "J. Clark is called for a traveling violation."
+  },
+  {
+    "event_id": 181,
+    "event_start_time": "00:33:30",
+    "event_end_time": "00:38:30",
+    "game_clock": "11:23.00",
+    "caption": "M. Thybulle's driving layup two-pointer is blocked by N. Reid. N. Reid blocks M. Thybulle's driving layup two-pointer."
+  },
+  {
+    "event_id": 185,
+    "event_start_time": "00:59:30",
+    "event_end_time": "01:06:30",
+    "game_clock": "11:16.00",
+    "caption": "M. Thybulle misses a jump shot three-pointer. D. DiVincenzo grabs the defensive rebound after M. Thybulle's missed three-pointer."
+  },
+  {
+    "event_id": 188,
+    "event_start_time": "01:10:30",
+    "event_end_time": "01:14:30",
+    "game_clock": "11:06.00",
+    "caption": "M. Thybulle steals the ball from D. DiVincenzo on a bad pass."
+  },
+  {
+    "event_id": 189,
+    "event_start_time": "01:09:00",
+    "event_end_time": "01:17:30",
+    "game_clock": "11:04.00",
+    "caption": "D. Avdija makes a running layup two-pointer, assisted by T. Camara."
+  },
+  {
+    "event_id": 192,
+    "event_start_time": "01:21:30",
+    "event_end_time": "01:25:30",
+    "game_clock": "10:55.00",
+    "caption": "M. Thybulle steals the ball from M. Conley on a bad pass."
+  },
+  {
+    "event_id": 194,
+    "event_start_time": "01:51:30",
+    "event_end_time": "01:58:30",
+    "game_clock": "10:46.00",
+    "caption": "J. Holiday misses a jump shot three-pointer. R. Gobert grabs the defensive rebound after J. Holiday's missed three-pointer."
+  },
+  {
+    "event_id": 196,
+    "event_start_time": "02:04:30",
+    "event_end_time": "02:13:30",
+    "game_clock": "10:33.00",
+    "caption": "M. Conley misses a driving floating two-pointer. M. Conley grabs the offensive rebound after missing his driving floating two-pointer. M. Conley misses a tip layup two-pointer."
+  },
+  {
+    "event_id": 201,
+    "event_start_time": "02:15:00",
+    "event_end_time": "02:23:30",
+    "game_clock": "10:20.00",
+    "caption": "J. Holiday makes a driving layup two-pointer, assisted by M. Thybulle."
+  },
+  {
+    "event_id": 203,
+    "event_start_time": "02:29:30",
+    "event_end_time": "02:36:30",
+    "game_clock": "10:08.00",
+    "caption": "J. Clark misses a jump shot three-pointer. T. Camara grabs the defensive rebound after J. Clark's missed three-pointer."
+  },
+  {
+    "event_id": 205,
+    "event_start_time": "02:38:30",
+    "event_end_time": "02:45:30",
+    "game_clock": "09:59.00",
+    "caption": "T. Camara misses a jump shot three-pointer. D. Clingan grabs the offensive rebound after T. Camara's missed three-pointer."
+  },
+  {
+    "event_id": 207,
+    "event_start_time": "02:44:30",
+    "event_end_time": "02:51:30",
+    "game_clock": "09:53.00",
+    "caption": "D. Avdija misses a jump shot three-pointer. R. Gobert grabs the defensive rebound after D. Avdija's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 209,
+    "event_start_time": "03:02:30",
+    "event_end_time": "03:06:30",
+    "game_clock": "09:38.00",
+    "caption": "D. Clingan commits a personal foul."
+  },
+  {
+    "event_id": 221,
+    "event_start_time": "04:00:00",
+    "event_end_time": "04:05:00",
+    "game_clock": "09:36.00",
+    "caption": "D. Avdija grabs the defensive rebound."
+  },
+  {
+    "event_id": 222,
+    "event_start_time": "04:10:30",
+    "event_end_time": "04:19:00",
+    "game_clock": "09:23.00",
+    "caption": "J. Holiday makes a driving bank hook two-pointer."
+  },
+  {
+    "event_id": 225,
+    "event_start_time": "04:35:00",
+    "event_end_time": "04:39:00",
+    "game_clock": "09:02.00",
+    "caption": "J. Holiday steals the ball from D. DiVincenzo on a lost ball."
+  },
+  {
+    "event_id": 226,
+    "event_start_time": "04:40:00",
+    "event_end_time": "04:47:00",
+    "game_clock": "08:56.00",
+    "caption": "D. Clingan misses a jump shot three-pointer. T. Shannon Jr. grabs the defensive rebound after D. Clingan's missed three-pointer."
+  },
+  {
+    "event_id": 228,
+    "event_start_time": "04:51:00",
+    "event_end_time": "04:58:00",
+    "game_clock": "08:45.00",
+    "caption": "T. Shannon Jr. misses a driving layup two-pointer. D. Clingan grabs the defensive rebound after T. Shannon Jr.'s missed driving layup two-pointer."
+  },
+  {
+    "event_id": 230,
+    "event_start_time": "05:02:00",
+    "event_end_time": "05:09:00",
+    "game_clock": "08:34.00",
+    "caption": "T. Camara misses a jump shot three-pointer. D. DiVincenzo grabs the defensive rebound after T. Camara's missed three-pointer."
+  },
+  {
+    "event_id": 232,
+    "event_start_time": "05:17:00",
+    "event_end_time": "05:24:00",
+    "game_clock": "08:19.00",
+    "caption": "J. McDaniels misses a pullup two-pointer. T. Camara grabs the defensive rebound after J. McDaniels' missed pullup two-pointer."
+  },
+  {
+    "event_id": 234,
+    "event_start_time": "05:35:00",
+    "event_end_time": "05:40:00",
+    "game_clock": "08:01.00",
+    "caption": "D. Avdija's driving layup two-pointer is blocked by J. McDaniels. J. McDaniels blocks D. Avdija's layup two-pointer."
+  },
+  {
+    "event_id": 242,
+    "event_start_time": "06:22:30",
+    "event_end_time": "06:26:30",
+    "game_clock": "07:56.00",
+    "caption": "J. Randle commits a personal foul."
+  },
+  {
+    "event_id": 249,
+    "event_start_time": "07:30:00",
+    "event_end_time": "07:34:00",
+    "game_clock": "07:46.00",
+    "caption": "B. Wesley steals the ball from D. DiVincenzo on a lost ball."
+  },
+  {
+    "event_id": 250,
+    "event_start_time": "07:30:00",
+    "event_end_time": "07:35:00",
+    "game_clock": "07:45.00",
+    "caption": "B. Wesley's driving layup two-pointer is blocked by D. DiVincenzo. D. DiVincenzo blocks B. Wesley's layup two-pointer."
+  },
+  {
+    "event_id": 256,
+    "event_start_time": "08:02:00",
+    "event_end_time": "08:09:00",
+    "game_clock": "07:38.00",
+    "caption": "S. Sharpe misses a pullup two-pointer. J. Randle grabs the defensive rebound after S. Sharpe's missed pullup two-pointer."
+  },
+  {
+    "event_id": 259,
+    "event_start_time": "08:37:00",
+    "event_end_time": "08:45:30",
+    "game_clock": "07:14.00",
+    "caption": "J. Randle makes a turnaround jump shot two-pointer."
+  },
+  {
+    "event_id": 260,
+    "event_start_time": "08:56:30",
+    "event_end_time": "09:01:30",
+    "game_clock": "06:57.00",
+    "caption": "Yang's turnaround hook two-pointer is blocked by R. Gobert. R. Gobert blocks Yang's hook two-pointer. Yang grabs the offensive rebound after missing his turnaround hook two-pointer."
+  },
+  {
+    "event_id": 263,
+    "event_start_time": "09:01:30",
+    "event_end_time": "09:08:30",
+    "game_clock": "06:52.00",
+    "caption": "B. Wesley misses a jump shot three-pointer. T. Shannon Jr. grabs the defensive rebound after B. Wesley's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 265,
+    "event_start_time": "09:08:30",
+    "event_end_time": "09:16:30",
+    "game_clock": "06:45.00",
+    "caption": "J. McDaniels misses a running layup two-pointer. J. Randle grabs the offensive rebound after J. McDaniels' missed running layup two-pointer. J. Randle makes a tip layup two-pointer."
+  },
+  {
+    "event_id": 268,
+    "event_start_time": "09:21:00",
+    "event_end_time": "09:29:30",
+    "game_clock": "06:30.00",
+    "caption": "K. Murray makes a jump shot three-pointer, assisted by D. Avdija."
+  },
+  {
+    "event_id": 270,
+    "event_start_time": "09:45:00",
+    "event_end_time": "09:53:30",
+    "game_clock": "06:06.00",
+    "caption": "J. McDaniels makes a driving dunk two-pointer, assisted by A. Edwards."
+  },
+  {
+    "event_id": 272,
+    "event_start_time": "09:55:30",
+    "event_end_time": "10:00:30",
+    "game_clock": "05:58.00",
+    "caption": "B. Wesley's layup two-pointer is blocked by A. Edwards. A. Edwards blocks B. Wesley's layup two-pointer."
+  },
+  {
+    "event_id": 279,
+    "event_start_time": "13:11:30",
+    "event_end_time": "13:16:30",
+    "game_clock": "05:48.00",
+    "caption": "S. Sharpe's driving layup two-pointer is blocked by J. McDaniels. J. McDaniels blocks S. Sharpe's layup two-pointer. A. Edwards grabs the defensive rebound after S. Sharpe's driving layup two-pointer is blocked."
+  },
+  {
+    "event_id": 282,
+    "event_start_time": "13:16:30",
+    "event_end_time": "13:23:30",
+    "game_clock": "05:43.00",
+    "caption": "J. Randle misses a running three-pointer. R. Gobert grabs the offensive rebound after J. Randle's missed running three-pointer."
+  },
+  {
+    "event_id": 284,
+    "event_start_time": "13:22:30",
+    "event_end_time": "13:26:30",
+    "game_clock": "05:40.00",
+    "caption": "Yang commits a personal foul."
+  },
+  {
+    "event_id": 291,
+    "event_start_time": "14:22:30",
+    "event_end_time": "14:31:00",
+    "game_clock": "05:31.00",
+    "caption": "J. Grant makes a jump shot three-pointer, assisted by B. Wesley."
+  },
+  {
+    "event_id": 293,
+    "event_start_time": "14:49:30",
+    "event_end_time": "14:58:00",
+    "game_clock": "05:04.00",
+    "caption": "A. Edwards makes a step back three-pointer."
+  },
+  {
+    "event_id": 294,
+    "event_start_time": "15:06:00",
+    "event_end_time": "15:13:00",
+    "game_clock": "04:50.00",
+    "caption": "S. Sharpe misses a pullup two-pointer. J. Randle grabs the defensive rebound after S. Sharpe's missed pullup two-pointer."
+  },
+  {
+    "event_id": 296,
+    "event_start_time": "15:19:00",
+    "event_end_time": "15:27:00",
+    "game_clock": "04:37.00",
+    "caption": "A. Edwards misses a driving floating bank two-pointer. A. Edwards grabs the offensive rebound after missing his driving floating bank two-pointer. A. Edwards makes a tip layup two-pointer."
+  },
+  {
+    "event_id": 299,
+    "event_start_time": "15:37:30",
+    "event_end_time": "15:46:00",
+    "game_clock": "04:16.00",
+    "caption": "J. Grant makes a driving layup two-pointer, assisted by D. Clingan."
+  },
+  {
+    "event_id": 301,
+    "event_start_time": "15:52:00",
+    "event_end_time": "15:59:00",
+    "game_clock": "04:04.00",
+    "caption": "A. Edwards misses a pullup two-pointer. D. Clingan grabs the defensive rebound after A. Edwards' missed pullup two-pointer."
+  },
+  {
+    "event_id": 303,
+    "event_start_time": "15:57:30",
+    "event_end_time": "16:06:00",
+    "game_clock": "03:56.00",
+    "caption": "J. Grant makes a running three-pointer, assisted by S. Sharpe."
+  },
+  {
+    "event_id": 314,
+    "event_start_time": "19:09:30",
+    "event_end_time": "19:18:00",
+    "game_clock": "03:42.00",
+    "caption": "J. McDaniels makes a jump shot three-pointer, assisted by J. Randle."
+  },
+  {
+    "event_id": 316,
+    "event_start_time": "19:29:00",
+    "event_end_time": "19:36:00",
+    "game_clock": "03:25.00",
+    "caption": "J. Grant misses a driving dunk two-pointer. N. Reid grabs the defensive rebound after J. Grant's missed driving dunk two-pointer."
+  },
+  {
+    "event_id": 318,
+    "event_start_time": "19:33:30",
+    "event_end_time": "19:42:00",
+    "game_clock": "03:18.00",
+    "caption": "J. McDaniels makes a running layup two-pointer, assisted by N. Reid."
+  },
+  {
+    "event_id": 320,
+    "event_start_time": "19:51:00",
+    "event_end_time": "19:58:00",
+    "game_clock": "03:03.00",
+    "caption": "S. Sharpe misses a jump shot three-pointer. D. DiVincenzo grabs the defensive rebound after S. Sharpe's missed three-pointer."
+  },
+  {
+    "event_id": 322,
+    "event_start_time": "20:05:00",
+    "event_end_time": "20:12:00",
+    "game_clock": "02:49.00",
+    "caption": "J. Randle misses a fadeaway two-pointer. J. Holiday grabs the defensive rebound after J. Randle's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 324,
+    "event_start_time": "20:14:00",
+    "event_end_time": "20:23:00",
+    "game_clock": "02:40.00",
+    "caption": "J. Holiday misses a step back three-pointer. T. Camara grabs the offensive rebound after J. Holiday's missed jump shot three-pointer. T. Camara makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 329,
+    "event_start_time": "20:33:00",
+    "event_end_time": "20:40:00",
+    "game_clock": "02:21.00",
+    "caption": "A. Edwards misses a pullup three-pointer. T. Camara grabs the defensive rebound after A. Edwards's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 331,
+    "event_start_time": "20:44:00",
+    "event_end_time": "20:51:00",
+    "game_clock": "02:10.00",
+    "caption": "S. Sharpe misses a jump shot three-pointer. N. Reid commits a personal foul."
+  },
+  {
+    "event_id": 341,
+    "event_start_time": "22:17:30",
+    "event_end_time": "22:26:00",
+    "game_clock": "01:43.00",
+    "caption": "J. Randle makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 342,
+    "event_start_time": "22:35:00",
+    "event_end_time": "22:38:00",
+    "game_clock": "01:31.00",
+    "caption": "J. McDaniels commits a personal foul."
+  },
+  {
+    "event_id": 344,
+    "event_start_time": "23:04:30",
+    "event_end_time": "23:13:00",
+    "game_clock": "01:18.00",
+    "caption": "J. Grant makes a cutting layup two-pointer, assisted by T. Camara."
+  },
+  {
+    "event_id": 346,
+    "event_start_time": "23:17:00",
+    "event_end_time": "23:20:00",
+    "game_clock": "01:11.00",
+    "caption": "J. McDaniels commits an offensive foul."
+  },
+  {
+    "event_id": 351,
+    "event_start_time": "23:58:00",
+    "event_end_time": "24:06:30",
+    "game_clock": "00:54.20",
+    "caption": "J. Grant makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 352,
+    "event_start_time": "24:13:09",
+    "event_end_time": "24:16:09",
+    "game_clock": "00:49.40",
+    "caption": "J. Grant commits a personal foul."
+  },
+  {
+    "event_id": 354,
+    "event_start_time": "24:50:27",
+    "event_end_time": "24:58:57",
+    "game_clock": "00:36.40",
+    "caption": "A. Edwards makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 355,
+    "event_start_time": "25:02:51",
+    "event_end_time": "25:13:57",
+    "game_clock": "00:29.70",
+    "caption": "D. Avdija misses a jump shot three-pointer. T. Camara grabs the offensive rebound after D. Avdija's missed jump shot three-pointer. T. Camara's putback layup two-pointer is blocked by N. Reid."
+  },
+  {
+    "event_id": 357,
+    "event_start_time": "25:06:57",
+    "event_end_time": "25:11:57",
+    "game_clock": "00:25.60",
+    "caption": "T. Camara's putback layup two-pointer is blocked by N. Reid. N. Reid blocks T. Camara's driving layup two-pointer. A. Edwards grabs the defensive rebound after T. Camara's missed putback layup two-pointer."
+  }
+]

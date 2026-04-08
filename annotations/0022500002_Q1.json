@@ -1,0 +1,436 @@
+[
+  {
+    "event_id": 4,
+    "event_start_time": "00:00:30",
+    "event_end_time": "00:05:30",
+    "game_clock": "11:56.00",
+    "caption": "Jump ball between Deandre Ayton and Draymond Green, G. Vincent recovers the tip."
+  },
+  {
+    "event_id": 7,
+    "event_start_time": "00:14:00",
+    "event_end_time": "00:22:30",
+    "game_clock": "11:39.00",
+    "caption": "Luka Dončić makes a fadeaway jump shot two-pointer."
+  },
+  {
+    "event_id": 8,
+    "event_start_time": "00:28:30",
+    "event_end_time": "00:35:30",
+    "game_clock": "11:27.00",
+    "caption": "D. Green misses a jump shot three-pointer. A. Reaves grabs the defensive rebound after D. Green's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 11,
+    "event_start_time": "00:48:30",
+    "event_end_time": "00:52:30",
+    "game_clock": "11:08.00",
+    "caption": "Draymond Green steals the ball from Luka Dončić on a lost ball."
+  },
+  {
+    "event_id": 12,
+    "event_start_time": "00:53:00",
+    "event_end_time": "01:01:30",
+    "game_clock": "11:00.00",
+    "caption": "B. Podziemski makes a floating jump shot two-pointer, assisted by Jonathan Kuminga."
+  },
+  {
+    "event_id": 14,
+    "event_start_time": "01:14:00",
+    "event_end_time": "01:22:30",
+    "game_clock": "10:39.00",
+    "caption": "A. Reaves makes a driving finger roll two-pointer."
+  },
+  {
+    "event_id": 16,
+    "event_start_time": "01:47:30",
+    "event_end_time": "01:54:30",
+    "game_clock": "10:24.00",
+    "caption": "D. Green misses a turnaround hook two-pointer. L. Dončić grabs the defensive rebound after D. Green's missed hook two-pointer."
+  },
+  {
+    "event_id": 18,
+    "event_start_time": "01:53:30",
+    "event_end_time": "02:00:30",
+    "game_clock": "10:18.00",
+    "caption": "Luka Dončić misses a step back three-pointer. B. Podziemski grabs the defensive rebound after L. Dončić's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 20,
+    "event_start_time": "02:01:00",
+    "event_end_time": "02:09:30",
+    "game_clock": "10:08.00",
+    "caption": "J. Butler III makes a jump shot three-pointer, assisted by B. Podziemski."
+  },
+  {
+    "event_id": 23,
+    "event_start_time": "02:24:30",
+    "event_end_time": "02:28:30",
+    "game_clock": "09:48.00",
+    "caption": "Stephen Curry steals the ball from Andrew Reaves on a bad pass."
+  },
+  {
+    "event_id": 24,
+    "event_start_time": "02:27:30",
+    "event_end_time": "02:34:30",
+    "game_clock": "09:44.00",
+    "caption": "J. Kuminga misses a running layup two-pointer."
+  },
+  {
+    "event_id": 28,
+    "event_start_time": "02:55:00",
+    "event_end_time": "02:59:00",
+    "game_clock": "09:27.00",
+    "caption": "Stephen Curry steals the ball from Andrew Reaves on a bad pass."
+  },
+  {
+    "event_id": 29,
+    "event_start_time": "03:00:00",
+    "event_end_time": "03:04:00",
+    "game_clock": "09:24.00",
+    "caption": "A. Reaves commits a personal foul."
+  },
+  {
+    "event_id": 33,
+    "event_start_time": "03:56:30",
+    "event_end_time": "04:05:00",
+    "game_clock": "09:07.00",
+    "caption": "Luka Dončić makes a jump shot three-pointer, assisted by Anthony Reaves."
+  },
+  {
+    "event_id": 35,
+    "event_start_time": "04:17:00",
+    "event_end_time": "04:24:00",
+    "game_clock": "08:49.00",
+    "caption": "D. Green misses a jump shot three-pointer. L. Dončić grabs the defensive rebound after D. Green's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 37,
+    "event_start_time": "04:27:30",
+    "event_end_time": "04:36:00",
+    "game_clock": "08:36.00",
+    "caption": "D. Ayton makes a turnaround hook two-pointer, assisted by L. Dončić."
+  },
+  {
+    "event_id": 39,
+    "event_start_time": "04:32:30",
+    "event_end_time": "04:41:00",
+    "game_clock": "08:31.00",
+    "caption": "Jimmy Butler III makes a dunk two-pointer, assisted by Jonathan Kuminga."
+  },
+  {
+    "event_id": 41,
+    "event_start_time": "04:42:00",
+    "event_end_time": "04:45:00",
+    "game_clock": "08:27.00",
+    "caption": "R. Hachimura commits an offensive foul."
+  },
+  {
+    "event_id": 44,
+    "event_start_time": "05:11:00",
+    "event_end_time": "05:19:30",
+    "game_clock": "08:13.00",
+    "caption": "Stephen Curry makes a jump shot three-pointer, assisted by Draymond Green."
+  },
+  {
+    "event_id": 46,
+    "event_start_time": "05:29:00",
+    "event_end_time": "05:37:30",
+    "game_clock": "07:55.00",
+    "caption": "D. Ayton makes a layup two-pointer, assisted by G. Vincent."
+  },
+  {
+    "event_id": 48,
+    "event_start_time": "05:41:30",
+    "event_end_time": "05:48:30",
+    "game_clock": "07:45.00",
+    "caption": "Stephen Curry misses a jump shot three-pointer. R. Hachimura grabs the defensive rebound after S. Curry's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 50,
+    "event_start_time": "05:50:30",
+    "event_end_time": "05:57:30",
+    "game_clock": "07:36.00",
+    "caption": "Luka Dončić misses a step back three-pointer. Draymond Green grabs the defensive rebound after Luka Dončić's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 52,
+    "event_start_time": "06:00:30",
+    "event_end_time": "06:07:30",
+    "game_clock": "07:26.00",
+    "caption": "J. Kuminga misses a pullup two-pointer. L. Dončić grabs the defensive rebound after J. Kuminga's missed pullup two-pointer."
+  },
+  {
+    "event_id": 61,
+    "event_start_time": "07:13:30",
+    "event_end_time": "07:16:30",
+    "game_clock": "06:42.00",
+    "caption": "D. Green is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 63,
+    "event_start_time": "10:54:00",
+    "event_end_time": "11:01:00",
+    "game_clock": "06:28.00",
+    "caption": "Michael Smart misses a jump shot three-pointer. Draymond Green grabs the defensive rebound after Marcus Smart's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 65,
+    "event_start_time": "11:05:00",
+    "event_end_time": "11:12:00",
+    "game_clock": "06:17.00",
+    "caption": "B. Hield misses a jump shot three-pointer. Luka Dončić grabs the defensive rebound after Buddy Hield's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 67,
+    "event_start_time": "11:10:00",
+    "event_end_time": "11:15:00",
+    "game_clock": "06:12.00",
+    "caption": "A. Reaves' running layup two-pointer is blocked by G. Payton II. G. Payton II blocks A. Reaves's layup two-pointer."
+  },
+  {
+    "event_id": 72,
+    "event_start_time": "11:30:00",
+    "event_end_time": "11:34:00",
+    "game_clock": "06:09.00",
+    "caption": "Stephen Curry steals the ball from Luka Dončić on a bad pass."
+  },
+  {
+    "event_id": 73,
+    "event_start_time": "11:36:00",
+    "event_end_time": "11:39:00",
+    "game_clock": "06:04.00",
+    "caption": "B. Hield is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 74,
+    "event_start_time": "12:03:00",
+    "event_end_time": "12:10:00",
+    "game_clock": "05:46.00",
+    "caption": "A. Reaves misses a jump shot three-pointer. Draymond Green grabs the defensive rebound after Andrew Reaves' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 76,
+    "event_start_time": "12:12:00",
+    "event_end_time": "12:15:00",
+    "game_clock": "05:40.00",
+    "caption": "D. Ayton commits a personal foul."
+  },
+  {
+    "event_id": 80,
+    "event_start_time": "12:49:30",
+    "event_end_time": "12:59:30",
+    "game_clock": "05:33.00",
+    "caption": "G. Payton II misses a cutting layup two-pointer. G. Payton II grabs the offensive rebound after missing his layup two-pointer. G. Payton II's putback layup two-pointer is blocked by D. Ayton."
+  },
+  {
+    "event_id": 82,
+    "event_start_time": "12:52:30",
+    "event_end_time": "12:57:30",
+    "game_clock": "05:30.00",
+    "caption": "G. Payton II's putback layup two-pointer is blocked by D. Ayton. D. Ayton blocks G. Payton II's layup two-pointer. L. Dončić grabs the defensive rebound after G. Payton II's missed layup two-pointer."
+  },
+  {
+    "event_id": 85,
+    "event_start_time": "12:59:30",
+    "event_end_time": "13:06:30",
+    "game_clock": "05:23.00",
+    "caption": "Luka Dončić misses a running layup two-pointer. D. Ayton grabs the offensive rebound after L. Dončić's missed running layup two-pointer."
+  },
+  {
+    "event_id": 87,
+    "event_start_time": "13:03:30",
+    "event_end_time": "13:06:30",
+    "game_clock": "05:22.00",
+    "caption": "Draymond Green commits a technical foul."
+  },
+  {
+    "event_id": 90,
+    "event_start_time": "13:51:00",
+    "event_end_time": "13:58:00",
+    "game_clock": "05:14.00",
+    "caption": "Luka Dončić misses a step back three-pointer. Jonathan Kuminga grabs the defensive rebound after Luka Dončić's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 93,
+    "event_start_time": "13:58:00",
+    "event_end_time": "14:02:00",
+    "game_clock": "05:08.00",
+    "caption": "Marcus Smart steals the ball from Jonathan Kuminga on a bad pass."
+  },
+  {
+    "event_id": 94,
+    "event_start_time": "14:00:00",
+    "event_end_time": "14:07:00",
+    "game_clock": "05:05.00",
+    "caption": "Michael Smart misses a jump shot three-pointer. Al Horford grabs the defensive rebound after Marcus Smart's missed three-pointer."
+  },
+  {
+    "event_id": 96,
+    "event_start_time": "14:08:00",
+    "event_end_time": "14:11:00",
+    "game_clock": "05:00.00",
+    "caption": "G. Payton II commits an offensive charge foul."
+  },
+  {
+    "event_id": 101,
+    "event_start_time": "14:39:30",
+    "event_end_time": "14:43:30",
+    "game_clock": "04:49.00",
+    "caption": "G. Payton II commits a personal foul."
+  },
+  {
+    "event_id": 105,
+    "event_start_time": "15:30:00",
+    "event_end_time": "15:35:00",
+    "game_clock": "04:47.00",
+    "caption": "Jonathan Kuminga grabs the defensive rebound."
+  },
+  {
+    "event_id": 106,
+    "event_start_time": "15:42:30",
+    "event_end_time": "15:51:00",
+    "game_clock": "04:32.00",
+    "caption": "Jonathan Kuminga makes a jump shot three-pointer, assisted by Stephen Curry."
+  },
+  {
+    "event_id": 109,
+    "event_start_time": "15:54:00",
+    "event_end_time": "15:58:00",
+    "game_clock": "04:24.00",
+    "caption": "B. Hield steals the ball from D. Ayton on a bad pass."
+  },
+  {
+    "event_id": 110,
+    "event_start_time": "15:51:30",
+    "event_end_time": "16:00:00",
+    "game_clock": "04:23.00",
+    "caption": "B. Hield makes a layup two-pointer."
+  },
+  {
+    "event_id": 111,
+    "event_start_time": "16:07:30",
+    "event_end_time": "16:16:00",
+    "game_clock": "04:07.00",
+    "caption": "Luka Dončić makes a pullup two-pointer."
+  },
+  {
+    "event_id": 113,
+    "event_start_time": "16:20:00",
+    "event_end_time": "16:27:00",
+    "game_clock": "03:57.00",
+    "caption": "Stephen Curry misses a step back three-pointer."
+  },
+  {
+    "event_id": 124,
+    "event_start_time": "16:57:00",
+    "event_end_time": "17:04:00",
+    "game_clock": "03:41.00",
+    "caption": "J. Vanderbilt misses an alley-oop layup two-pointer. Al Horford grabs the defensive rebound after J. Vanderbilt's missed layup two-pointer."
+  },
+  {
+    "event_id": 126,
+    "event_start_time": "17:15:00",
+    "event_end_time": "17:19:00",
+    "game_clock": "03:26.00",
+    "caption": "J. LaRavia commits a shooting personal foul."
+  },
+  {
+    "event_id": 130,
+    "event_start_time": "18:20:00",
+    "event_end_time": "18:27:00",
+    "game_clock": "03:12.00",
+    "caption": "Luka Dončić misses a step back three-pointer. Al Horford grabs the defensive rebound after Luka Dončić's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 132,
+    "event_start_time": "18:32:30",
+    "event_end_time": "18:41:00",
+    "game_clock": "02:57.00",
+    "caption": "B. Hield makes a pullup three-pointer. G. Payton II commits a personal foul."
+  },
+  {
+    "event_id": 140,
+    "event_start_time": "23:17:30",
+    "event_end_time": "23:24:30",
+    "game_clock": "02:21.00",
+    "caption": "B. Podziemski misses a fadeaway two-pointer. J. Hayes grabs the defensive rebound after B. Podziemski's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 142,
+    "event_start_time": "23:28:30",
+    "event_end_time": "23:31:30",
+    "game_clock": "02:13.00",
+    "caption": "J. Butler III commits a personal foul."
+  },
+  {
+    "event_id": 147,
+    "event_start_time": "24:01:00",
+    "event_end_time": "24:05:00",
+    "game_clock": "02:01.00",
+    "caption": "J. Butler III steals the ball from M. Smart on a bad pass."
+  },
+  {
+    "event_id": 151,
+    "event_start_time": "24:44:00",
+    "event_end_time": "24:51:00",
+    "game_clock": "01:38.00",
+    "caption": "J. Butler III misses a turnaround two-pointer. J. Hayes grabs the defensive rebound after J. Butler III's missed turnaround two-pointer."
+  },
+  {
+    "event_id": 153,
+    "event_start_time": "24:55:00",
+    "event_end_time": "24:59:00",
+    "game_clock": "01:30.00",
+    "caption": "W. Richard commits a shooting personal foul."
+  },
+  {
+    "event_id": 157,
+    "event_start_time": "25:49:00",
+    "event_end_time": "25:57:30",
+    "game_clock": "01:09.00",
+    "caption": "Al Horford makes a jump shot three-pointer, assisted by Jimmy Butler III."
+  },
+  {
+    "event_id": 160,
+    "event_start_time": "26:03:24",
+    "event_end_time": "26:07:24",
+    "game_clock": "00:58.70",
+    "caption": "W. Richard steals the ball from A. Reaves on a lost ball."
+  },
+  {
+    "event_id": 161,
+    "event_start_time": "26:08:06",
+    "event_end_time": "26:11:06",
+    "game_clock": "00:56.00",
+    "caption": "B. Podziemski commits an offensive foul."
+  },
+  {
+    "event_id": 164,
+    "event_start_time": "26:52:21",
+    "event_end_time": "27:00:51",
+    "game_clock": "00:37.20",
+    "caption": "A. Reaves makes a driving finger roll two-pointer."
+  },
+  {
+    "event_id": 166,
+    "event_start_time": "27:04:21",
+    "event_end_time": "27:08:21",
+    "game_clock": "00:32.30",
+    "caption": "J. Vanderbilt steals the ball from G. Santos on a bad pass."
+  },
+  {
+    "event_id": 167,
+    "event_start_time": "27:05:27",
+    "event_end_time": "27:13:57",
+    "game_clock": "00:27.70",
+    "caption": "J. Hayes makes a running alley-oop layup two-pointer, assisted by A. Reaves. M. Smart commits a personal foul."
+  },
+  {
+    "event_id": 182,
+    "event_start_time": "30:41:00",
+    "event_end_time": "30:48:00",
+    "game_clock": "00:00.50",
+    "caption": "A. Reaves misses a pullup three-pointer."
+  }
+]

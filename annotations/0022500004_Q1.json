@@ -1,0 +1,429 @@
+[
+  {
+    "event_id": 4,
+    "event_start_time": "00:05:00",
+    "event_end_time": "00:10:00",
+    "game_clock": "11:56.00",
+    "caption": "Jump ball between Victor Wembanyama and DeMar DeRozan, Jonathan Champagnie recovers the tip."
+  },
+  {
+    "event_id": 8,
+    "event_start_time": "00:13:00",
+    "event_end_time": "00:17:00",
+    "game_clock": "11:48.00",
+    "caption": "A. Davis steals the ball from H. Barnes on a bad pass."
+  },
+  {
+    "event_id": 9,
+    "event_start_time": "00:16:00",
+    "event_end_time": "00:27:00",
+    "game_clock": "11:44.00",
+    "caption": "C. Flagg's running alley-oop dunk is missed. A. Davis grabs the offensive rebound after C. Flagg's missed running alley-oop dunk two-pointer. A. Davis makes a putback dunk two-pointer."
+  },
+  {
+    "event_id": 12,
+    "event_start_time": "00:43:00",
+    "event_end_time": "00:47:00",
+    "game_clock": "11:20.00",
+    "caption": "P. Washington commits a personal foul."
+  },
+  {
+    "event_id": 16,
+    "event_start_time": "01:49:30",
+    "event_end_time": "01:58:00",
+    "game_clock": "10:59.00",
+    "caption": "A. Davis makes a step back jump shot two-pointer, assisted by D. Lively II."
+  },
+  {
+    "event_id": 18,
+    "event_start_time": "02:06:00",
+    "event_end_time": "02:13:00",
+    "game_clock": "10:45.00",
+    "caption": "D. Vassell misses a pullup two-pointer. D. Lively II grabs the defensive rebound after D. Vassell's missed pullup two-pointer."
+  },
+  {
+    "event_id": 21,
+    "event_start_time": "02:08:30",
+    "event_end_time": "02:17:00",
+    "game_clock": "10:40.00",
+    "caption": "P. Washington makes a running finger roll two-pointer."
+  },
+  {
+    "event_id": 22,
+    "event_start_time": "02:14:00",
+    "event_end_time": "02:17:00",
+    "game_clock": "10:40.00",
+    "caption": "V. Wembanyama is called for a defensive goaltending violation."
+  },
+  {
+    "event_id": 23,
+    "event_start_time": "02:47:00",
+    "event_end_time": "02:54:00",
+    "game_clock": "10:18.00",
+    "caption": "V. Wembanyama misses a driving bank two-pointer. A. Davis grabs the defensive rebound after V. Wembanyama's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 25,
+    "event_start_time": "03:03:00",
+    "event_end_time": "03:10:00",
+    "game_clock": "10:02.00",
+    "caption": "C. Flagg misses a pullup two-pointer. P. Washington commits a personal foul."
+  },
+  {
+    "event_id": 34,
+    "event_start_time": "04:35:30",
+    "event_end_time": "04:44:00",
+    "game_clock": "09:32.00",
+    "caption": "D. Lively II makes a dunk two-pointer, assisted by A. Davis."
+  },
+  {
+    "event_id": 37,
+    "event_start_time": "05:01:30",
+    "event_end_time": "05:10:00",
+    "game_clock": "09:16.00",
+    "caption": "V. Wembanyama makes a pullup two-pointer, assisted by D. Vassell."
+  },
+  {
+    "event_id": 39,
+    "event_start_time": "05:20:00",
+    "event_end_time": "05:27:00",
+    "game_clock": "09:00.00",
+    "caption": "N. Marshall misses a turnaround two-pointer. D. Lively II grabs the offensive rebound after N. Marshall's missed turnaround two-pointer."
+  },
+  {
+    "event_id": 41,
+    "event_start_time": "05:31:00",
+    "event_end_time": "05:38:00",
+    "game_clock": "08:49.00",
+    "caption": "A. Davis misses a driving layup two-pointer. H. Barnes grabs the defensive rebound after A. Davis's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 44,
+    "event_start_time": "05:36:30",
+    "event_end_time": "05:45:00",
+    "game_clock": "08:41.00",
+    "caption": "D. Vassell makes a running three-pointer, assisted by S. Castle."
+  },
+  {
+    "event_id": 46,
+    "event_start_time": "05:50:00",
+    "event_end_time": "05:55:00",
+    "game_clock": "08:30.00",
+    "caption": "A. Davis's driving layup two-pointer is blocked by V. Wembanyama. V. Wembanyama blocks A. Davis's driving layup two-pointer. J. Champagnie grabs the defensive rebound after A. Davis's missed layup two-pointer."
+  },
+  {
+    "event_id": 50,
+    "event_start_time": "05:56:30",
+    "event_end_time": "06:05:00",
+    "game_clock": "08:21.00",
+    "caption": "S. Castle makes a pullup two-pointer."
+  },
+  {
+    "event_id": 51,
+    "event_start_time": "06:12:00",
+    "event_end_time": "06:19:00",
+    "game_clock": "08:08.00",
+    "caption": "K. Thompson misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 56,
+    "event_start_time": "06:37:00",
+    "event_end_time": "06:45:30",
+    "game_clock": "07:56.00",
+    "caption": "H. Barnes makes a jump shot three-pointer, assisted by S. Castle."
+  },
+  {
+    "event_id": 58,
+    "event_start_time": "06:56:30",
+    "event_end_time": "07:03:30",
+    "game_clock": "07:39.00",
+    "caption": "A. Davis misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 61,
+    "event_start_time": "07:25:30",
+    "event_end_time": "07:32:30",
+    "game_clock": "07:29.00",
+    "caption": "K. Thompson misses a pullup two-pointer. A. Davis grabs the offensive rebound after K. Thompson's missed jump shot."
+  },
+  {
+    "event_id": 63,
+    "event_start_time": "07:28:30",
+    "event_end_time": "07:32:30",
+    "game_clock": "07:29.00",
+    "caption": "J. Champagnie commits a shooting personal foul."
+  },
+  {
+    "event_id": 67,
+    "event_start_time": "08:46:30",
+    "event_end_time": "08:55:00",
+    "game_clock": "07:16.00",
+    "caption": "V. Wembanyama makes a driving dunk two-pointer, assisted by H. Barnes."
+  },
+  {
+    "event_id": 69,
+    "event_start_time": "09:13:30",
+    "event_end_time": "09:22:00",
+    "game_clock": "06:49.00",
+    "caption": "M. Christie makes a jump shot three-pointer, assisted by N. Marshall."
+  },
+  {
+    "event_id": 81,
+    "event_start_time": "13:30:30",
+    "event_end_time": "13:33:30",
+    "game_clock": "06:17.00",
+    "caption": "S. Castle commits a personal foul."
+  },
+  {
+    "event_id": 83,
+    "event_start_time": "13:48:30",
+    "event_end_time": "13:57:00",
+    "game_clock": "06:09.00",
+    "caption": "D. Russell makes a driving floating bank two-pointer. A. Davis commits a personal foul."
+  },
+  {
+    "event_id": 89,
+    "event_start_time": "14:50:30",
+    "event_end_time": "14:55:30",
+    "game_clock": "06:01.00",
+    "caption": "D. Russell grabs the defensive rebound."
+  },
+  {
+    "event_id": 90,
+    "event_start_time": "15:04:30",
+    "event_end_time": "15:07:30",
+    "game_clock": "05:49.00",
+    "caption": "M. Christie is called for an out-of-bounds turnover."
+  },
+  {
+    "event_id": 93,
+    "event_start_time": "15:27:30",
+    "event_end_time": "15:34:30",
+    "game_clock": "05:37.00",
+    "caption": "D. Vassell misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 96,
+    "event_start_time": "15:56:30",
+    "event_end_time": "16:03:30",
+    "game_clock": "05:21.00",
+    "caption": "A. Davis misses a step back jump shot. S. Castle grabs the defensive rebound after A. Davis's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 98,
+    "event_start_time": "16:04:30",
+    "event_end_time": "16:07:30",
+    "game_clock": "05:16.00",
+    "caption": "L. Kornet commits an offensive foul."
+  },
+  {
+    "event_id": 103,
+    "event_start_time": "16:32:30",
+    "event_end_time": "16:41:00",
+    "game_clock": "05:05.00",
+    "caption": "R. Nembhard makes a pullup jump shot two-pointer."
+  },
+  {
+    "event_id": 104,
+    "event_start_time": "16:56:00",
+    "event_end_time": "17:03:00",
+    "game_clock": "04:44.00",
+    "caption": "D. Harper misses a pullup two-pointer. A. Davis grabs the defensive rebound after D. Harper's missed pullup two-pointer."
+  },
+  {
+    "event_id": 106,
+    "event_start_time": "17:04:00",
+    "event_end_time": "17:11:00",
+    "game_clock": "04:36.00",
+    "caption": "A. Davis misses a driving floating two-pointer. S. Castle grabs the defensive rebound after A. Davis's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 108,
+    "event_start_time": "17:11:00",
+    "event_end_time": "17:14:00",
+    "game_clock": "04:31.00",
+    "caption": "D. Harper is called for an out-of-bounds turnover."
+  },
+  {
+    "event_id": 109,
+    "event_start_time": "17:35:30",
+    "event_end_time": "17:42:30",
+    "game_clock": "04:17.00",
+    "caption": "A. Davis misses a driving floating two-pointer. A. Davis grabs the offensive rebound after missing his driving floating two-pointer."
+  },
+  {
+    "event_id": 111,
+    "event_start_time": "17:38:30",
+    "event_end_time": "17:41:30",
+    "game_clock": "04:17.00",
+    "caption": "L. Kornet commits a personal foul."
+  },
+  {
+    "event_id": 118,
+    "event_start_time": "20:42:00",
+    "event_end_time": "20:46:00",
+    "game_clock": "04:11.00",
+    "caption": "D. Harper commits a personal foul."
+  },
+  {
+    "event_id": 122,
+    "event_start_time": "21:26:30",
+    "event_end_time": "21:31:30",
+    "game_clock": "04:08.00",
+    "caption": "D. Harper grabs the defensive rebound."
+  },
+  {
+    "event_id": 123,
+    "event_start_time": "21:45:00",
+    "event_end_time": "21:53:30",
+    "game_clock": "03:47.00",
+    "caption": "D. Vassell makes a pullup two-pointer, assisted by K. Johnson."
+  },
+  {
+    "event_id": 127,
+    "event_start_time": "22:07:00",
+    "event_end_time": "22:15:30",
+    "game_clock": "03:33.00",
+    "caption": "R. Nembhard makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 128,
+    "event_start_time": "22:21:00",
+    "event_end_time": "22:29:30",
+    "game_clock": "03:19.00",
+    "caption": "D. Vassell makes a pullup two-pointer, assisted by L. Kornet."
+  },
+  {
+    "event_id": 130,
+    "event_start_time": "22:35:00",
+    "event_end_time": "22:43:30",
+    "game_clock": "03:05.00",
+    "caption": "A. Davis makes a turnaround jump shot two-pointer, assisted by D. Russell."
+  },
+  {
+    "event_id": 140,
+    "event_start_time": "26:35:30",
+    "event_end_time": "26:42:30",
+    "game_clock": "02:51.00",
+    "caption": "D. Vassell misses a pullup two-pointer. N. Marshall grabs the defensive rebound after D. Vassell's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 142,
+    "event_start_time": "26:42:30",
+    "event_end_time": "26:47:30",
+    "game_clock": "02:44.00",
+    "caption": "L. Kornet blocks N. Marshall's driving floating two-pointer. L. Kornet blocks N. Marshall's jump shot two-pointer. V. Wembanyama grabs the defensive rebound after N. Marshall's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 145,
+    "event_start_time": "26:55:00",
+    "event_end_time": "26:58:00",
+    "game_clock": "02:35.00",
+    "caption": "D. Harper is called for a palming violation."
+  },
+  {
+    "event_id": 148,
+    "event_start_time": "27:22:30",
+    "event_end_time": "27:26:30",
+    "game_clock": "02:25.00",
+    "caption": "D. Harper commits a personal foul."
+  },
+  {
+    "event_id": 153,
+    "event_start_time": "28:18:30",
+    "event_end_time": "28:25:30",
+    "game_clock": "02:09.00",
+    "caption": "D. Harper misses a pullup two-pointer."
+  },
+  {
+    "event_id": 155,
+    "event_start_time": "28:23:30",
+    "event_end_time": "28:26:30",
+    "game_clock": "02:07.00",
+    "caption": "L. Kornet commits a personal foul."
+  },
+  {
+    "event_id": 162,
+    "event_start_time": "29:36:00",
+    "event_end_time": "29:40:00",
+    "game_clock": "01:54.00",
+    "caption": "C. Flagg steals the ball from H. Barnes on a bad pass."
+  },
+  {
+    "event_id": 163,
+    "event_start_time": "29:42:30",
+    "event_end_time": "29:49:30",
+    "game_clock": "01:47.00",
+    "caption": "D. Russell misses a running three-pointer. V. Wembanyama grabs the defensive rebound after D. Russell's missed running three-pointer."
+  },
+  {
+    "event_id": 165,
+    "event_start_time": "29:55:30",
+    "event_end_time": "30:02:30",
+    "game_clock": "01:34.00",
+    "caption": "D. Harper misses a driving reverse layup two-pointer."
+  },
+  {
+    "event_id": 168,
+    "event_start_time": "29:59:30",
+    "event_end_time": "30:02:30",
+    "game_clock": "01:33.00",
+    "caption": "D. Lively II commits a personal foul."
+  },
+  {
+    "event_id": 170,
+    "event_start_time": "30:32:30",
+    "event_end_time": "30:41:00",
+    "game_clock": "01:26.00",
+    "caption": "V. Wembanyama makes a cutting dunk two-pointer, assisted by D. Harper."
+  },
+  {
+    "event_id": 172,
+    "event_start_time": "30:49:00",
+    "event_end_time": "30:52:00",
+    "game_clock": "01:15.00",
+    "caption": "D. Lively II commits an offensive foul."
+  },
+  {
+    "event_id": 175,
+    "event_start_time": "31:20:03",
+    "event_end_time": "31:27:03",
+    "game_clock": "00:56.30",
+    "caption": "J. McLaughlin misses a jump shot three-pointer. C. Flagg grabs the defensive rebound after J. McLaughlin's missed three-pointer."
+  },
+  {
+    "event_id": 177,
+    "event_start_time": "31:28:33",
+    "event_end_time": "31:35:33",
+    "game_clock": "00:47.80",
+    "caption": "M. Christie misses a running three-pointer. K. Johnson grabs the defensive rebound after M. Christie's missed running three-pointer."
+  },
+  {
+    "event_id": 179,
+    "event_start_time": "31:43:09",
+    "event_end_time": "31:47:09",
+    "game_clock": "00:36.20",
+    "caption": "D. Lively II commits a personal foul."
+  },
+  {
+    "event_id": 187,
+    "event_start_time": "32:42:57",
+    "event_end_time": "32:47:57",
+    "game_clock": "00:31.50",
+    "caption": "C. Flagg grabs the defensive rebound."
+  },
+  {
+    "event_id": 188,
+    "event_start_time": "32:50:27",
+    "event_end_time": "32:53:27",
+    "game_clock": "00:27.00",
+    "caption": "J. McLaughlin commits a personal foul."
+  },
+  {
+    "event_id": 192,
+    "event_start_time": "33:49:57",
+    "event_end_time": "33:58:27",
+    "game_clock": "00:03.90",
+    "caption": "V. Wembanyama makes a fadeaway jump shot two-pointer."
+  }
+]

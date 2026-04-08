@@ -1,0 +1,436 @@
+[
+  {
+    "event_id": 166,
+    "event_start_time": "00:01:00",
+    "event_end_time": "00:09:30",
+    "game_clock": "11:46.00",
+    "caption": "C. Anthony makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 168,
+    "event_start_time": "00:24:30",
+    "event_end_time": "00:28:30",
+    "game_clock": "11:26.00",
+    "caption": "K. Kuzma steals the ball from J. Mogbo on a bad pass."
+  },
+  {
+    "event_id": 170,
+    "event_start_time": "00:27:30",
+    "event_end_time": "00:31:30",
+    "game_clock": "11:23.00",
+    "caption": "J. Shead steals the ball from K. Kuzma on a lost ball."
+  },
+  {
+    "event_id": 171,
+    "event_start_time": "00:28:00",
+    "event_end_time": "00:36:30",
+    "game_clock": "11:19.00",
+    "caption": "R. Barrett makes a layup two-pointer, assisted by J. Shead."
+  },
+  {
+    "event_id": 173,
+    "event_start_time": "00:51:30",
+    "event_end_time": "00:58:30",
+    "game_clock": "10:58.00",
+    "caption": "A. Coffey misses a pullup two-pointer. J. Mogbo grabs the defensive rebound after A. Coffey's missed pullup two-pointer."
+  },
+  {
+    "event_id": 175,
+    "event_start_time": "01:00:30",
+    "event_end_time": "01:04:30",
+    "game_clock": "10:52.00",
+    "caption": "C. Anthony commits a personal foul."
+  },
+  {
+    "event_id": 187,
+    "event_start_time": "02:42:30",
+    "event_end_time": "02:51:00",
+    "game_clock": "10:34.00",
+    "caption": "G. Trent Jr. makes a driving reverse layup two-pointer, assisted by T. Prince."
+  },
+  {
+    "event_id": 189,
+    "event_start_time": "03:03:00",
+    "event_end_time": "03:10:00",
+    "game_clock": "10:16.00",
+    "caption": "S. Barnes misses a turnaround two-pointer. T. Prince grabs the defensive rebound after S. Barnes' missed turnaround two-pointer."
+  },
+  {
+    "event_id": 191,
+    "event_start_time": "03:10:00",
+    "event_end_time": "03:17:00",
+    "game_clock": "10:09.00",
+    "caption": "B. Portis misses a jump shot three-pointer. G. Dick grabs the defensive rebound after B. Portis's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 193,
+    "event_start_time": "03:18:30",
+    "event_end_time": "03:27:00",
+    "game_clock": "09:58.00",
+    "caption": "R. Barrett makes a turnaround two-pointer."
+  },
+  {
+    "event_id": 196,
+    "event_start_time": "03:55:00",
+    "event_end_time": "04:02:00",
+    "game_clock": "09:39.00",
+    "caption": "C. Anthony misses a step back three-pointer. R. Barrett grabs the defensive rebound after C. Anthony's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 198,
+    "event_start_time": "04:09:00",
+    "event_end_time": "04:16:00",
+    "game_clock": "09:25.00",
+    "caption": "G. Dick misses a turnaround two-pointer. B. Portis grabs the defensive rebound after G. Dick's missed jump shot."
+  },
+  {
+    "event_id": 201,
+    "event_start_time": "04:21:00",
+    "event_end_time": "04:25:00",
+    "game_clock": "09:14.00",
+    "caption": "R. Barrett steals the ball from G. Trent Jr. on a lost ball."
+  },
+  {
+    "event_id": 205,
+    "event_start_time": "04:23:30",
+    "event_end_time": "04:32:00",
+    "game_clock": "09:08.00",
+    "caption": "R. Barrett makes a running layup two-pointer, assisted by I. Quickley."
+  },
+  {
+    "event_id": 207,
+    "event_start_time": "04:43:00",
+    "event_end_time": "04:46:00",
+    "game_clock": "08:54.00",
+    "caption": "I. Quickley commits a personal foul."
+  },
+  {
+    "event_id": 213,
+    "event_start_time": "05:24:00",
+    "event_end_time": "05:32:30",
+    "game_clock": "08:44.00",
+    "caption": "K. Kuzma makes a alley-oop layup two-pointer, assisted by C. Anthony."
+  },
+  {
+    "event_id": 215,
+    "event_start_time": "05:37:00",
+    "event_end_time": "05:45:30",
+    "game_clock": "08:31.00",
+    "caption": "B. Ingram makes a cutting layup two-pointer, assisted by I. Quickley."
+  },
+  {
+    "event_id": 217,
+    "event_start_time": "05:48:30",
+    "event_end_time": "05:55:30",
+    "game_clock": "08:22.00",
+    "caption": "T. Prince misses a jump shot three-pointer. J. Poeltl grabs the defensive rebound after T. Prince's missed three-pointer."
+  },
+  {
+    "event_id": 219,
+    "event_start_time": "05:57:30",
+    "event_end_time": "06:01:30",
+    "game_clock": "08:16.00",
+    "caption": "B. Portis commits a shooting personal foul."
+  },
+  {
+    "event_id": 223,
+    "event_start_time": "06:59:30",
+    "event_end_time": "07:04:30",
+    "game_clock": "08:14.00",
+    "caption": "B. Portis grabs the defensive rebound."
+  },
+  {
+    "event_id": 225,
+    "event_start_time": "07:06:30",
+    "event_end_time": "07:10:30",
+    "game_clock": "08:08.00",
+    "caption": "I. Quickley steals the ball from C. Anthony on a lost ball."
+  },
+  {
+    "event_id": 226,
+    "event_start_time": "07:09:30",
+    "event_end_time": "07:16:30",
+    "game_clock": "08:04.00",
+    "caption": "G. Dick misses a running pullup three-pointer. B. Portis grabs the defensive rebound after G. Dick's missed running pullup three-pointer."
+  },
+  {
+    "event_id": 228,
+    "event_start_time": "07:16:30",
+    "event_end_time": "07:23:30",
+    "game_clock": "07:57.00",
+    "caption": "G. Trent Jr. misses a running three-pointer. J. Poeltl grabs the defensive rebound after G. Trent Jr.'s missed three-pointer."
+  },
+  {
+    "event_id": 230,
+    "event_start_time": "07:22:30",
+    "event_end_time": "07:35:30",
+    "game_clock": "07:51.00",
+    "caption": "B. Ingram misses a running pullup three-pointer. I. Quickley grabs the offensive rebound after B. Ingram's missed running pullup three-pointer. I. Quickley makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 233,
+    "event_start_time": "07:35:30",
+    "event_end_time": "07:42:30",
+    "game_clock": "07:38.00",
+    "caption": "B. Portis misses a jump shot three-pointer. B. Ingram grabs the defensive rebound after B. Portis's missed three-pointer."
+  },
+  {
+    "event_id": 238,
+    "event_start_time": "07:44:00",
+    "event_end_time": "07:52:30",
+    "game_clock": "07:27.00",
+    "caption": "B. Ingram makes a jump shot three-pointer, assisted by I. Quickley."
+  },
+  {
+    "event_id": 245,
+    "event_start_time": "11:22:00",
+    "event_end_time": "11:30:30",
+    "game_clock": "07:07.00",
+    "caption": "K. Kuzma makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 246,
+    "event_start_time": "11:37:00",
+    "event_end_time": "11:45:30",
+    "game_clock": "06:52.00",
+    "caption": "B. Ingram makes a turnaround hook two-pointer, assisted by O. Agbaji."
+  },
+  {
+    "event_id": 248,
+    "event_start_time": "12:04:30",
+    "event_end_time": "12:11:30",
+    "game_clock": "06:27.00",
+    "caption": "G. Trent Jr. misses a step back three-pointer. J. Battle grabs the defensive rebound after G. Trent Jr.'s missed jump shot three-pointer."
+  },
+  {
+    "event_id": 250,
+    "event_start_time": "12:08:00",
+    "event_end_time": "12:16:30",
+    "game_clock": "06:21.00",
+    "caption": "O. Agbaji makes a running dunk two-pointer, assisted by I. Quickley."
+  },
+  {
+    "event_id": 259,
+    "event_start_time": "12:48:00",
+    "event_end_time": "12:59:00",
+    "game_clock": "06:02.00",
+    "caption": "M. Turner misses a driving layup two-pointer. G. Antetokounmpo grabs the offensive rebound after M. Turner's missed driving layup two-pointer. G. Antetokounmpo's tip layup two-pointer is missed."
+  },
+  {
+    "event_id": 262,
+    "event_start_time": "12:53:00",
+    "event_end_time": "12:59:00",
+    "game_clock": "05:58.00",
+    "caption": "J. Poeltl grabs the defensive rebound."
+  },
+  {
+    "event_id": 263,
+    "event_start_time": "12:55:00",
+    "event_end_time": "13:02:00",
+    "game_clock": "05:55.00",
+    "caption": "I. Quickley misses a driving floating two-pointer. M. Turner grabs the defensive rebound after I. Quickley's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 265,
+    "event_start_time": "13:08:00",
+    "event_end_time": "13:15:00",
+    "game_clock": "05:42.00",
+    "caption": "R. Rollins misses a jump shot three-pointer. B. Ingram grabs the defensive rebound after R. Rollins' missed three-pointer."
+  },
+  {
+    "event_id": 267,
+    "event_start_time": "13:10:30",
+    "event_end_time": "13:19:00",
+    "game_clock": "05:37.00",
+    "caption": "J. Battle makes a running three-pointer, assisted by B. Ingram. B. Ingram commits a personal foul."
+  },
+  {
+    "event_id": 275,
+    "event_start_time": "14:47:00",
+    "event_end_time": "14:52:00",
+    "game_clock": "05:23.00",
+    "caption": "J. Battle grabs the defensive rebound."
+  },
+  {
+    "event_id": 277,
+    "event_start_time": "14:51:00",
+    "event_end_time": "14:55:00",
+    "game_clock": "05:20.00",
+    "caption": "R. Rollins steals the ball from J. Battle on a bad pass."
+  },
+  {
+    "event_id": 279,
+    "event_start_time": "14:56:00",
+    "event_end_time": "15:00:00",
+    "game_clock": "05:15.00",
+    "caption": "J. Battle steals the ball from A. Green on a lost ball."
+  },
+  {
+    "event_id": 280,
+    "event_start_time": "15:16:00",
+    "event_end_time": "15:23:00",
+    "game_clock": "04:54.00",
+    "caption": "B. Ingram misses a fadeaway two-pointer. G. Antetokounmpo grabs the defensive rebound after B. Ingram's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 282,
+    "event_start_time": "15:25:00",
+    "event_end_time": "15:28:00",
+    "game_clock": "04:47.00",
+    "caption": "G. Antetokounmpo loses the ball out-of-bounds."
+  },
+  {
+    "event_id": 283,
+    "event_start_time": "15:43:30",
+    "event_end_time": "15:47:30",
+    "game_clock": "04:36.00",
+    "caption": "M. Turner commits a personal foul."
+  },
+  {
+    "event_id": 289,
+    "event_start_time": "16:36:30",
+    "event_end_time": "16:41:30",
+    "game_clock": "04:33.00",
+    "caption": "M. Turner grabs the defensive rebound."
+  },
+  {
+    "event_id": 290,
+    "event_start_time": "16:51:00",
+    "event_end_time": "16:59:30",
+    "game_clock": "04:16.00",
+    "caption": "G. Trent Jr. makes a step back jump shot two-pointer."
+  },
+  {
+    "event_id": 291,
+    "event_start_time": "17:01:00",
+    "event_end_time": "17:09:30",
+    "game_clock": "04:06.00",
+    "caption": "S. Barnes makes a fadeaway two-pointer."
+  },
+  {
+    "event_id": 292,
+    "event_start_time": "17:14:00",
+    "event_end_time": "17:22:30",
+    "game_clock": "03:53.00",
+    "caption": "Giannis Antetokounmpo makes a dunk two-pointer, assisted by M. Turner."
+  },
+  {
+    "event_id": 294,
+    "event_start_time": "17:23:00",
+    "event_end_time": "17:31:30",
+    "game_clock": "03:44.00",
+    "caption": "S. Barnes makes a layup two-pointer. O. Agbaji commits a personal foul."
+  },
+  {
+    "event_id": 301,
+    "event_start_time": "18:55:00",
+    "event_end_time": "19:00:00",
+    "game_clock": "03:20.00",
+    "caption": "S. Barnes grabs the defensive rebound."
+  },
+  {
+    "event_id": 302,
+    "event_start_time": "19:04:00",
+    "event_end_time": "19:07:00",
+    "game_clock": "03:13.00",
+    "caption": "S. Barnes is called for an out-of-bounds turnover."
+  },
+  {
+    "event_id": 306,
+    "event_start_time": "22:12:00",
+    "event_end_time": "22:20:30",
+    "game_clock": "03:02.00",
+    "caption": "R. Rollins makes a floating jump shot two-pointer, assisted by G. Trent Jr."
+  },
+  {
+    "event_id": 308,
+    "event_start_time": "22:29:00",
+    "event_end_time": "22:37:30",
+    "game_clock": "02:45.00",
+    "caption": "J. Poeltl makes a driving layup two-pointer, assisted by I. Quickley."
+  },
+  {
+    "event_id": 310,
+    "event_start_time": "22:47:00",
+    "event_end_time": "22:55:30",
+    "game_clock": "02:27.00",
+    "caption": "R. Rollins makes a step back three-pointer."
+  },
+  {
+    "event_id": 311,
+    "event_start_time": "23:02:00",
+    "event_end_time": "23:10:30",
+    "game_clock": "02:12.00",
+    "caption": "J. Poeltl makes a layup two-pointer, assisted by S. Barnes."
+  },
+  {
+    "event_id": 313,
+    "event_start_time": "23:21:30",
+    "event_end_time": "23:28:30",
+    "game_clock": "01:55.00",
+    "caption": "A. Green misses a jump shot three-pointer. I. Quickley grabs the defensive rebound after A. Green's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 316,
+    "event_start_time": "23:53:00",
+    "event_end_time": "24:01:30",
+    "game_clock": "01:43.00",
+    "caption": "B. Ingram makes a step back jump shot two-pointer, assisted by J. Poeltl."
+  },
+  {
+    "event_id": 318,
+    "event_start_time": "24:11:00",
+    "event_end_time": "24:19:30",
+    "game_clock": "01:25.00",
+    "caption": "A. Green makes a jump shot three-pointer, assisted by G. Antetokounmpo. A. Green commits a personal foul."
+  },
+  {
+    "event_id": 325,
+    "event_start_time": "25:16:00",
+    "event_end_time": "25:19:00",
+    "game_clock": "01:10.00",
+    "caption": "M. Turner commits a personal foul."
+  },
+  {
+    "event_id": 332,
+    "event_start_time": "25:13:00",
+    "event_end_time": "25:18:00",
+    "game_clock": "01:10.00",
+    "caption": "G. Antetokounmpo grabs the defensive rebound."
+  },
+  {
+    "event_id": 333,
+    "event_start_time": "26:22:00",
+    "event_end_time": "26:27:00",
+    "game_clock": "01:09.00",
+    "caption": "Jump ball between Giannis Antetokounmpo and Jakob Poeltl, R. Rollins recovers the tip."
+  },
+  {
+    "event_id": 336,
+    "event_start_time": "27:14:00",
+    "event_end_time": "27:22:30",
+    "game_clock": "00:52.00",
+    "caption": "G. Trent Jr. makes a jump shot three-pointer, assisted by R. Rollins."
+  },
+  {
+    "event_id": 338,
+    "event_start_time": "27:43:42",
+    "event_end_time": "27:50:42",
+    "game_clock": "00:29.60",
+    "caption": "B. Ingram misses a jump shot three-pointer. G. Antetokounmpo grabs the defensive rebound after B. Ingram's missed three-pointer."
+  },
+  {
+    "event_id": 340,
+    "event_start_time": "28:08:45",
+    "event_end_time": "28:15:45",
+    "game_clock": "00:04.60",
+    "caption": "G. Trent Jr. misses a pullup three-pointer. S. Barnes grabs the defensive rebound after G. Trent Jr.'s missed pullup three-pointer."
+  },
+  {
+    "event_id": 342,
+    "event_start_time": "28:13:03",
+    "event_end_time": "28:20:03",
+    "game_clock": "00:00.30",
+    "caption": "S. Barnes misses a driving floating three-pointer."
+  }
+]

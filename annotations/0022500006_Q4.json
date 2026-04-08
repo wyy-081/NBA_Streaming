@@ -1,0 +1,366 @@
+[
+  {
+    "event_id": 507,
+    "event_start_time": "00:02:30",
+    "event_end_time": "00:11:00",
+    "game_clock": "11:36.00",
+    "caption": "T. Hardaway Jr. makes a jump shot three-pointer, assisted by J. Murray."
+  },
+  {
+    "event_id": 509,
+    "event_start_time": "00:32:30",
+    "event_end_time": "00:41:00",
+    "game_clock": "11:06.00",
+    "caption": "Draymond Green makes a jump shot three-pointer, assisted by Jimmy Butler III."
+  },
+  {
+    "event_id": 511,
+    "event_start_time": "00:55:30",
+    "event_end_time": "01:04:00",
+    "game_clock": "10:43.00",
+    "caption": "B. Brown makes a turnaround jump shot two-pointer. B. Brown commits a personal foul."
+  },
+  {
+    "event_id": 516,
+    "event_start_time": "01:58:30",
+    "event_end_time": "02:03:30",
+    "game_clock": "10:24.00",
+    "caption": "J. Valančiūnas grabs the defensive rebound."
+  },
+  {
+    "event_id": 518,
+    "event_start_time": "02:19:30",
+    "event_end_time": "02:23:30",
+    "game_clock": "10:04.00",
+    "caption": "W. Richard steals the ball from J. Murray on a bad pass."
+  },
+  {
+    "event_id": 519,
+    "event_start_time": "02:32:30",
+    "event_end_time": "02:39:30",
+    "game_clock": "09:50.00",
+    "caption": "J. Butler III misses a turnaround two-pointer. B. Brown grabs the defensive rebound after J. Butler III's missed jump shot."
+  },
+  {
+    "event_id": 522,
+    "event_start_time": "02:40:30",
+    "event_end_time": "02:44:30",
+    "game_clock": "09:43.00",
+    "caption": "B. Podziemski steals the ball from J. Murray on a lost ball."
+  },
+  {
+    "event_id": 523,
+    "event_start_time": "02:43:30",
+    "event_end_time": "02:50:30",
+    "game_clock": "09:39.00",
+    "caption": "B. Hield misses a running three-pointer. J. Valančiūnas grabs the defensive rebound after B. Hield's missed running three-pointer."
+  },
+  {
+    "event_id": 525,
+    "event_start_time": "02:48:30",
+    "event_end_time": "02:51:30",
+    "game_clock": "09:37.00",
+    "caption": "B. Podziemski commits a personal foul."
+  },
+  {
+    "event_id": 529,
+    "event_start_time": "03:27:00",
+    "event_end_time": "03:35:30",
+    "game_clock": "09:23.00",
+    "caption": "Aaron Gordon makes a dunk two-pointer, assisted by Jamal Murray."
+  },
+  {
+    "event_id": 531,
+    "event_start_time": "03:42:30",
+    "event_end_time": "03:49:30",
+    "game_clock": "09:10.00",
+    "caption": "W. Richard misses a jump shot three-pointer. Aaron Gordon grabs the defensive rebound after W. Richard's missed three-pointer."
+  },
+  {
+    "event_id": 533,
+    "event_start_time": "04:00:30",
+    "event_end_time": "04:07:30",
+    "game_clock": "08:52.00",
+    "caption": "J. Valančiūnas misses a jump shot two-pointer. B. Podziemski grabs the defensive rebound after J. Valančiūnas's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 535,
+    "event_start_time": "04:07:30",
+    "event_end_time": "04:14:30",
+    "game_clock": "08:45.00",
+    "caption": "B. Podziemski misses a pullup three-pointer."
+  },
+  {
+    "event_id": 538,
+    "event_start_time": "04:30:00",
+    "event_end_time": "04:38:30",
+    "game_clock": "08:35.00",
+    "caption": "Aaron Gordon makes a jump shot three-pointer, assisted by Jonas Valančiūnas."
+  },
+  {
+    "event_id": 540,
+    "event_start_time": "04:46:30",
+    "event_end_time": "04:51:30",
+    "game_clock": "08:21.00",
+    "caption": "J. Butler III's jump shot two-pointer is blocked by J. Valančiūnas. J. Valančiūnas blocks J. Butler III's jump shot two-pointer. B. Brown grabs the defensive rebound after J. Butler III's jump shot two-pointer is blocked."
+  },
+  {
+    "event_id": 543,
+    "event_start_time": "04:48:30",
+    "event_end_time": "04:55:30",
+    "game_clock": "08:19.00",
+    "caption": "B. Brown misses a running layup two-pointer. Draymond Green grabs the defensive rebound after Buddy Brown's missed running layup two-pointer."
+  },
+  {
+    "event_id": 545,
+    "event_start_time": "04:57:30",
+    "event_end_time": "05:04:30",
+    "game_clock": "08:10.00",
+    "caption": "W. Richard misses a running three-pointer. T. Hardaway Jr. grabs the defensive rebound after W. Richard's missed running three-pointer."
+  },
+  {
+    "event_id": 547,
+    "event_start_time": "05:12:00",
+    "event_end_time": "05:20:30",
+    "game_clock": "07:53.00",
+    "caption": "Aaron Gordon makes a pullup two-pointer."
+  },
+  {
+    "event_id": 560,
+    "event_start_time": "09:07:00",
+    "event_end_time": "09:14:00",
+    "game_clock": "07:30.00",
+    "caption": "B. Podziemski misses a driving floating two-pointer. B. Brown grabs the defensive rebound after B. Podziemski's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 562,
+    "event_start_time": "09:12:30",
+    "event_end_time": "09:21:00",
+    "game_clock": "07:22.00",
+    "caption": "Aaron Gordon makes a driving layup two-pointer, assisted by Bruce Brown. W. Richard commits a shooting personal foul."
+  },
+  {
+    "event_id": 566,
+    "event_start_time": "10:04:00",
+    "event_end_time": "10:11:00",
+    "game_clock": "07:04.00",
+    "caption": "J. Kuminga misses a jump shot three-pointer. Christian Braun grabs the defensive rebound after Jonathan Kuminga's missed three-pointer."
+  },
+  {
+    "event_id": 568,
+    "event_start_time": "10:16:00",
+    "event_end_time": "10:23:00",
+    "game_clock": "06:52.00",
+    "caption": "Nikola Jokić misses a floating two-pointer."
+  },
+  {
+    "event_id": 570,
+    "event_start_time": "10:53:00",
+    "event_end_time": "10:58:00",
+    "game_clock": "06:52.00",
+    "caption": "Jump ball between Stephen Curry and Brandon Brown, W. Richard recovers the tip."
+  },
+  {
+    "event_id": 575,
+    "event_start_time": "10:55:30",
+    "event_end_time": "11:04:00",
+    "game_clock": "06:44.00",
+    "caption": "W. Richard makes a pullup three-pointer."
+  },
+  {
+    "event_id": 576,
+    "event_start_time": "11:19:00",
+    "event_end_time": "11:26:00",
+    "game_clock": "06:23.00",
+    "caption": "Nikola Jokić misses a jump shot three-pointer. W. Richard grabs the defensive rebound after Nikola Jokic's missed three-pointer."
+  },
+  {
+    "event_id": 578,
+    "event_start_time": "11:34:30",
+    "event_end_time": "11:43:00",
+    "game_clock": "06:05.00",
+    "caption": "Stephen Curry makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 585,
+    "event_start_time": "15:21:30",
+    "event_end_time": "15:30:00",
+    "game_clock": "05:51.00",
+    "caption": "Jamal Murray makes a driving layup two-pointer, assisted by Nikola Jokić."
+  },
+  {
+    "event_id": 588,
+    "event_start_time": "15:48:00",
+    "event_end_time": "15:51:00",
+    "game_clock": "05:30.00",
+    "caption": "Nikola Jokic commits a personal foul."
+  },
+  {
+    "event_id": 590,
+    "event_start_time": "16:12:30",
+    "event_end_time": "16:21:00",
+    "game_clock": "05:23.00",
+    "caption": "Jonathan Kuminga makes a reverse dunk two-pointer, assisted by W. Richard. Jamal Murray commits a shooting personal foul."
+  },
+  {
+    "event_id": 596,
+    "event_start_time": "16:46:00",
+    "event_end_time": "16:51:00",
+    "game_clock": "05:20.00",
+    "caption": "Cameron Johnson grabs the defensive rebound."
+  },
+  {
+    "event_id": 597,
+    "event_start_time": "16:51:30",
+    "event_end_time": "17:00:00",
+    "game_clock": "05:12.00",
+    "caption": "Cameron Johnson makes a jump shot three-pointer, assisted by Aaron Gordon."
+  },
+  {
+    "event_id": 599,
+    "event_start_time": "17:06:30",
+    "event_end_time": "17:15:00",
+    "game_clock": "04:57.00",
+    "caption": "Stephen Curry makes a driving reverse layup two-pointer."
+  },
+  {
+    "event_id": 600,
+    "event_start_time": "17:27:00",
+    "event_end_time": "17:34:00",
+    "game_clock": "04:39.00",
+    "caption": "A. Gordon misses a turnaround two-pointer. W. Richard grabs the defensive rebound after A. Gordon's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 603,
+    "event_start_time": "17:41:00",
+    "event_end_time": "17:45:00",
+    "game_clock": "04:26.00",
+    "caption": "C. Johnson steals the ball from A. Horford on a bad pass."
+  },
+  {
+    "event_id": 604,
+    "event_start_time": "17:47:00",
+    "event_end_time": "17:50:00",
+    "game_clock": "04:21.00",
+    "caption": "Christian Braun loses the ball out-of-bounds on a lost ball turnover."
+  },
+  {
+    "event_id": 607,
+    "event_start_time": "18:33:00",
+    "event_end_time": "18:40:00",
+    "game_clock": "04:02.00",
+    "caption": "Stephen Curry misses a jump shot three-pointer. Aaron Gordon grabs the defensive rebound after Stephen Curry's missed three-pointer."
+  },
+  {
+    "event_id": 609,
+    "event_start_time": "18:42:30",
+    "event_end_time": "18:51:00",
+    "game_clock": "03:50.00",
+    "caption": "Nikola Jokic makes a turnaround two-pointer."
+  },
+  {
+    "event_id": 613,
+    "event_start_time": "20:55:00",
+    "event_end_time": "21:02:00",
+    "game_clock": "03:30.00",
+    "caption": "D. Green misses a jump shot three-pointer. J. Butler III grabs the offensive rebound after D. Green's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 615,
+    "event_start_time": "20:59:00",
+    "event_end_time": "21:06:00",
+    "game_clock": "03:26.00",
+    "caption": "J. Butler III misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 618,
+    "event_start_time": "21:42:00",
+    "event_end_time": "21:49:00",
+    "game_clock": "03:03.00",
+    "caption": "J. Murray misses a step back jump shot two-pointer. Nikola Jokić grabs the offensive rebound after Jamal Murray's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 620,
+    "event_start_time": "21:55:00",
+    "event_end_time": "22:02:00",
+    "game_clock": "02:50.00",
+    "caption": "Nikola Jokić's driving hook two-pointer is missed. Draymond Green grabs the defensive rebound after Nikola Jokic's missed hook two-pointer."
+  },
+  {
+    "event_id": 622,
+    "event_start_time": "22:06:00",
+    "event_end_time": "22:10:00",
+    "game_clock": "02:42.00",
+    "caption": "C. Johnson commits a shooting personal foul."
+  },
+  {
+    "event_id": 626,
+    "event_start_time": "23:19:30",
+    "event_end_time": "23:26:30",
+    "game_clock": "02:23.00",
+    "caption": "Jamal Murray misses a driving layup two-pointer. Christian Braun commits a shooting personal foul."
+  },
+  {
+    "event_id": 634,
+    "event_start_time": "25:10:30",
+    "event_end_time": "25:13:30",
+    "game_clock": "01:46.00",
+    "caption": "Stephen Curry commits a personal foul."
+  },
+  {
+    "event_id": 637,
+    "event_start_time": "25:43:00",
+    "event_end_time": "25:47:00",
+    "game_clock": "01:36.00",
+    "caption": "Al Horford commits a shooting personal foul."
+  },
+  {
+    "event_id": 641,
+    "event_start_time": "26:24:00",
+    "event_end_time": "26:29:00",
+    "game_clock": "01:34.00",
+    "caption": "Draymond Green grabs the defensive rebound."
+  },
+  {
+    "event_id": 642,
+    "event_start_time": "26:31:30",
+    "event_end_time": "26:40:00",
+    "game_clock": "01:24.00",
+    "caption": "Stephen Curry makes a pullup three-pointer."
+  },
+  {
+    "event_id": 643,
+    "event_start_time": "27:01:00",
+    "event_end_time": "27:08:00",
+    "game_clock": "01:00.00",
+    "caption": "Jamal Murray misses a pullup two-pointer. Draymond Green grabs the defensive rebound after Jamal Murray's missed pullup two-pointer."
+  },
+  {
+    "event_id": 645,
+    "event_start_time": "27:17:51",
+    "event_end_time": "27:24:51",
+    "game_clock": "00:43.70",
+    "caption": "Stephen Curry misses a driving reverse layup two-pointer. Nikola Jokić grabs the defensive rebound after Stephen Curry's missed driving reverse layup two-pointer."
+  },
+  {
+    "event_id": 647,
+    "event_start_time": "27:33:03",
+    "event_end_time": "27:41:33",
+    "game_clock": "00:26.00",
+    "caption": "Aaron Gordon makes a jump shot three-pointer, assisted by Nikola Jokić."
+  },
+  {
+    "event_id": 654,
+    "event_start_time": "29:30:39",
+    "event_end_time": "29:39:09",
+    "game_clock": "00:21.90",
+    "caption": "Stephen Curry makes a pullup three-pointer, assisted by Draymond Green."
+  },
+  {
+    "event_id": 663,
+    "event_start_time": "31:44:24",
+    "event_end_time": "31:51:24",
+    "game_clock": "00:02.70",
+    "caption": "Nikola Jokić misses a finger roll layup two-pointer."
+  }
+]

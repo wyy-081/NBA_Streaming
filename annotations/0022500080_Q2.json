@@ -1,0 +1,401 @@
+[
+  {
+    "event_id": 219,
+    "event_start_time": "00:09:30",
+    "event_end_time": "00:18:00",
+    "game_clock": "11:39.00",
+    "caption": "Marcus Bridgess makes a jump shot three-pointer, assisted by B. Miller."
+  },
+  {
+    "event_id": 221,
+    "event_start_time": "00:55:30",
+    "event_end_time": "00:58:30",
+    "game_clock": "11:20.00",
+    "caption": "M. Bridges commits a personal foul."
+  },
+  {
+    "event_id": 223,
+    "event_start_time": "00:57:00",
+    "event_end_time": "01:05:30",
+    "game_clock": "11:13.00",
+    "caption": "E. Dëmin makes a step back three-pointer."
+  },
+  {
+    "event_id": 224,
+    "event_start_time": "01:12:30",
+    "event_end_time": "01:19:30",
+    "game_clock": "11:00.00",
+    "caption": "B. Miller misses a step back jump shot. M. Porter Jr. grabs the defensive rebound after B. Miller's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 226,
+    "event_start_time": "01:26:30",
+    "event_end_time": "01:33:30",
+    "game_clock": "10:46.00",
+    "caption": "M. Porter Jr. misses a pullup three-pointer. T. Martin grabs the offensive rebound after M. Porter Jr.'s missed jump shot three-pointer."
+  },
+  {
+    "event_id": 228,
+    "event_start_time": "01:35:30",
+    "event_end_time": "01:42:30",
+    "game_clock": "10:37.00",
+    "caption": "T. Martin misses a jump shot three-pointer. N. Clowney grabs the offensive rebound after T. Martin's missed three-pointer."
+  },
+  {
+    "event_id": 230,
+    "event_start_time": "01:40:30",
+    "event_end_time": "01:43:30",
+    "game_clock": "10:35.00",
+    "caption": "K. Knueppel commits a personal foul."
+  },
+  {
+    "event_id": 234,
+    "event_start_time": "02:17:30",
+    "event_end_time": "02:26:00",
+    "game_clock": "10:29.00",
+    "caption": "N. Claxton makes a layup two-pointer, assisted by T. Martin. S. James commits a personal foul."
+  },
+  {
+    "event_id": 239,
+    "event_start_time": "02:51:00",
+    "event_end_time": "02:56:00",
+    "game_clock": "10:26.00",
+    "caption": "M. Bridges grabs the defensive rebound."
+  },
+  {
+    "event_id": 240,
+    "event_start_time": "03:01:00",
+    "event_end_time": "03:08:00",
+    "game_clock": "10:16.00",
+    "caption": "M. Bridges misses a jump shot three-pointer. N. Claxton grabs the defensive rebound after M. Bridges' missed three-pointer."
+  },
+  {
+    "event_id": 242,
+    "event_start_time": "03:08:30",
+    "event_end_time": "03:17:00",
+    "game_clock": "10:06.00",
+    "caption": "N. Claxton makes a driving layup two-pointer, assisted by T. Martin. R. Kalkbrenner commits a personal foul."
+  },
+  {
+    "event_id": 247,
+    "event_start_time": "04:09:00",
+    "event_end_time": "04:17:30",
+    "game_clock": "09:43.00",
+    "caption": "B. Miller makes a step back three-pointer, assisted by R. Kalkbrenner."
+  },
+  {
+    "event_id": 249,
+    "event_start_time": "04:27:30",
+    "event_end_time": "04:36:30",
+    "game_clock": "09:27.00",
+    "caption": "M. Porter Jr. misses a driving floating two-pointer. N. Claxton grabs the offensive rebound after M. Porter Jr.'s missed driving floating two-pointer. N. Claxton makes a tip layup two-pointer."
+  },
+  {
+    "event_id": 252,
+    "event_start_time": "04:44:30",
+    "event_end_time": "04:48:30",
+    "game_clock": "09:13.00",
+    "caption": "M. Porter Jr. commits a personal foul."
+  },
+  {
+    "event_id": 262,
+    "event_start_time": "07:35:00",
+    "event_end_time": "07:42:00",
+    "game_clock": "08:59.00",
+    "caption": "M. Porter Jr. misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 265,
+    "event_start_time": "07:51:30",
+    "event_end_time": "07:54:30",
+    "game_clock": "08:51.00",
+    "caption": "N. Clowney commits a personal foul."
+  },
+  {
+    "event_id": 267,
+    "event_start_time": "08:33:00",
+    "event_end_time": "08:40:00",
+    "game_clock": "08:39.00",
+    "caption": "B. Miller misses a jump shot three-pointer. E. Dëmin grabs the defensive rebound after B. Miller's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 269,
+    "event_start_time": "08:41:00",
+    "event_end_time": "08:48:00",
+    "game_clock": "08:31.00",
+    "caption": "E. Dëmin misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 272,
+    "event_start_time": "09:03:30",
+    "event_end_time": "09:12:00",
+    "game_clock": "08:16.00",
+    "caption": "M. Diabaté makes a floating jump shot two-pointer, assisted by B. Miller."
+  },
+  {
+    "event_id": 274,
+    "event_start_time": "09:25:00",
+    "event_end_time": "09:32:00",
+    "game_clock": "07:57.00",
+    "caption": "N. Clowney misses a driving layup two-pointer. M. Diabaté grabs the defensive rebound after N. Clowney's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 276,
+    "event_start_time": "09:31:30",
+    "event_end_time": "09:40:00",
+    "game_clock": "07:48.00",
+    "caption": "T. Salaün makes a jump shot three-pointer, assisted by S. James."
+  },
+  {
+    "event_id": 293,
+    "event_start_time": "13:02:30",
+    "event_end_time": "13:11:00",
+    "game_clock": "07:21.00",
+    "caption": "D. Sharpe makes a step back three-pointer, assisted by M. Porter Jr."
+  },
+  {
+    "event_id": 295,
+    "event_start_time": "13:22:30",
+    "event_end_time": "13:31:00",
+    "game_clock": "07:01.00",
+    "caption": "B. Miller makes a jump shot three-pointer, assisted by T. Salaün."
+  },
+  {
+    "event_id": 297,
+    "event_start_time": "13:40:30",
+    "event_end_time": "13:49:00",
+    "game_clock": "06:43.00",
+    "caption": "C. Thomas makes a driving finger roll two-pointer, assisted by M. Porter Jr. D. Sharpe commits a shooting personal foul."
+  },
+  {
+    "event_id": 305,
+    "event_start_time": "14:52:00",
+    "event_end_time": "14:56:00",
+    "game_clock": "06:29.00",
+    "caption": "M. Diabaté commits a personal foul."
+  },
+  {
+    "event_id": 312,
+    "event_start_time": "16:02:00",
+    "event_end_time": "16:09:00",
+    "game_clock": "06:16.00",
+    "caption": "B. Miller misses a step back jump shot. B. Saraf grabs the defensive rebound after B. Miller's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 314,
+    "event_start_time": "17:13:30",
+    "event_end_time": "17:16:30",
+    "game_clock": "05:53.00",
+    "caption": "T. Salaün commits a personal foul."
+  },
+  {
+    "event_id": 318,
+    "event_start_time": "17:26:30",
+    "event_end_time": "17:33:30",
+    "game_clock": "05:37.00",
+    "caption": "L. Ball misses a jump shot three-pointer. C. Thomas grabs the defensive rebound after L. Ball's missed three-pointer."
+  },
+  {
+    "event_id": 320,
+    "event_start_time": "17:42:00",
+    "event_end_time": "17:50:30",
+    "game_clock": "05:19.00",
+    "caption": "D. Sharpe makes a hook two-pointer, assisted by C. Thomas."
+  },
+  {
+    "event_id": 322,
+    "event_start_time": "17:49:30",
+    "event_end_time": "17:56:30",
+    "game_clock": "05:14.00",
+    "caption": "T. Salaün misses a driving reverse layup two-pointer. T. Mann commits a personal foul."
+  },
+  {
+    "event_id": 335,
+    "event_start_time": "20:22:30",
+    "event_end_time": "20:25:30",
+    "game_clock": "04:54.00",
+    "caption": "C. Thomas is called for a traveling violation."
+  },
+  {
+    "event_id": 336,
+    "event_start_time": "17:52:30",
+    "event_end_time": "17:55:30",
+    "game_clock": "05:14.00",
+    "caption": "T. Mann commits a personal foul."
+  },
+  {
+    "event_id": 338,
+    "event_start_time": "20:55:00",
+    "event_end_time": "21:03:30",
+    "game_clock": "04:34.00",
+    "caption": "L. Ball makes a jump shot three-pointer, assisted by C. Sexton."
+  },
+  {
+    "event_id": 340,
+    "event_start_time": "21:09:30",
+    "event_end_time": "21:16:30",
+    "game_clock": "04:22.00",
+    "caption": "D. Sharpe misses a jump shot three-pointer. M. Bridges grabs the defensive rebound after D. Sharpe's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 342,
+    "event_start_time": "21:20:00",
+    "event_end_time": "21:28:30",
+    "game_clock": "04:09.00",
+    "caption": "Michael Bridges makes a dunk two-pointer, assisted by LaMelo Ball."
+  },
+  {
+    "event_id": 344,
+    "event_start_time": "21:34:00",
+    "event_end_time": "21:42:30",
+    "game_clock": "03:55.00",
+    "caption": "B. Saraf makes a fadeaway jump shot two-pointer. D. Sharpe commits a shooting personal foul."
+  },
+  {
+    "event_id": 352,
+    "event_start_time": "22:40:30",
+    "event_end_time": "22:47:30",
+    "game_clock": "03:38.00",
+    "caption": "Z. Williams misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 354,
+    "event_start_time": "22:46:30",
+    "event_end_time": "22:49:30",
+    "game_clock": "03:35.00",
+    "caption": "T. Mann commits a personal foul."
+  },
+  {
+    "event_id": 363,
+    "event_start_time": "23:57:00",
+    "event_end_time": "24:00:00",
+    "game_clock": "03:28.00",
+    "caption": "C. Sexton commits a personal foul."
+  },
+  {
+    "event_id": 372,
+    "event_start_time": "28:01:00",
+    "event_end_time": "28:06:00",
+    "game_clock": "03:25.00",
+    "caption": "M. Bridges grabs the defensive rebound."
+  },
+  {
+    "event_id": 373,
+    "event_start_time": "28:09:30",
+    "event_end_time": "28:18:00",
+    "game_clock": "03:14.00",
+    "caption": "B. Miller makes an alley-oop dunk two-pointer, assisted by L. Ball."
+  },
+  {
+    "event_id": 375,
+    "event_start_time": "28:25:00",
+    "event_end_time": "28:28:00",
+    "game_clock": "03:04.00",
+    "caption": "L. Ball commits a personal foul."
+  },
+  {
+    "event_id": 379,
+    "event_start_time": "29:24:00",
+    "event_end_time": "29:29:00",
+    "game_clock": "02:51.00",
+    "caption": "M. Bridges grabs the defensive rebound."
+  },
+  {
+    "event_id": 380,
+    "event_start_time": "29:45:00",
+    "event_end_time": "29:52:00",
+    "game_clock": "02:30.00",
+    "caption": "L. Ball misses a driving floating two-pointer. M. Porter Jr. grabs the defensive rebound after L. Ball's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 382,
+    "event_start_time": "29:56:00",
+    "event_end_time": "30:01:00",
+    "game_clock": "02:19.00",
+    "caption": "B. Saraf's layup two-pointer is blocked by R. Kalkbrenner. R. Kalkbrenner blocks B. Saraf's layup two-pointer. R. Kalkbrenner grabs the defensive rebound after B. Saraf's missed layup two-pointer."
+  },
+  {
+    "event_id": 385,
+    "event_start_time": "29:59:30",
+    "event_end_time": "30:08:00",
+    "game_clock": "02:13.00",
+    "caption": "Michael Bridges makes a running dunk two-pointer, assisted by LaMelo Ball."
+  },
+  {
+    "event_id": 387,
+    "event_start_time": "30:16:00",
+    "event_end_time": "30:19:00",
+    "game_clock": "02:02.00",
+    "caption": "K. Knueppel commits a personal foul."
+  },
+  {
+    "event_id": 393,
+    "event_start_time": "31:13:00",
+    "event_end_time": "31:16:00",
+    "game_clock": "01:58.00",
+    "caption": "Z. Williams commits a personal foul."
+  },
+  {
+    "event_id": 399,
+    "event_start_time": "32:18:30",
+    "event_end_time": "32:22:30",
+    "game_clock": "01:47.00",
+    "caption": "B. Miller steals the ball from C. Thomas on a bad pass."
+  },
+  {
+    "event_id": 400,
+    "event_start_time": "32:19:00",
+    "event_end_time": "32:27:30",
+    "game_clock": "01:43.00",
+    "caption": "B. Miller makes a running alley-oop dunk two-pointer, assisted by L. Ball."
+  },
+  {
+    "event_id": 402,
+    "event_start_time": "32:34:30",
+    "event_end_time": "32:41:30",
+    "game_clock": "01:30.00",
+    "caption": "C. Thomas misses a jump shot three-pointer. T. Mann grabs the defensive rebound after C. Thomas's missed three-pointer."
+  },
+  {
+    "event_id": 404,
+    "event_start_time": "32:41:00",
+    "event_end_time": "32:49:30",
+    "game_clock": "01:21.00",
+    "caption": "Michael Bridges makes a running jump shot two-pointer, assisted by Tyrese Mann."
+  },
+  {
+    "event_id": 409,
+    "event_start_time": "33:34:48",
+    "event_end_time": "33:41:48",
+    "game_clock": "00:57.90",
+    "caption": "M. Porter Jr. misses a step back three-pointer. B. Saraf grabs the offensive rebound after M. Porter Jr.'s missed jump shot three-pointer."
+  },
+  {
+    "event_id": 411,
+    "event_start_time": "33:40:00",
+    "event_end_time": "33:48:30",
+    "game_clock": "00:50.20",
+    "caption": "N. Claxton makes a alley-oop layup two-pointer, assisted by M. Porter Jr. B. Saraf commits a personal foul."
+  },
+  {
+    "event_id": 418,
+    "event_start_time": "35:05:57",
+    "event_end_time": "35:10:57",
+    "game_clock": "00:15.80",
+    "caption": "B. Saraf's layup two-pointer is blocked by M. Diabaté. M. Diabaté blocks B. Saraf's layup two-pointer. M. Diabaté grabs the defensive rebound after B. Saraf's missed layup two-pointer."
+  },
+  {
+    "event_id": 422,
+    "event_start_time": "35:07:18",
+    "event_end_time": "35:15:48",
+    "game_clock": "00:11.90",
+    "caption": "M. Diabaté makes a running dunk two-pointer."
+  },
+  {
+    "event_id": 423,
+    "event_start_time": "35:33:36",
+    "event_end_time": "35:40:36",
+    "game_clock": "00:00.00",
+    "caption": "C. Thomas misses a driving layup two-pointer. M. Bridges grabs the defensive rebound after C. Thomas' missed driving layup two-pointer."
+  }
+]

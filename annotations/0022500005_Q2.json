@@ -1,0 +1,394 @@
+[
+  {
+    "event_id": 172,
+    "event_start_time": "00:00:00",
+    "event_end_time": "00:06:00",
+    "game_clock": "11:32.00",
+    "caption": "S. Gilgeous-Alexander makes a driving finger roll two-pointer."
+  },
+  {
+    "event_id": 173,
+    "event_start_time": "00:10:30",
+    "event_end_time": "00:19:00",
+    "game_clock": "11:19.00",
+    "caption": "J. Huff makes a alley-oop layup two-pointer, assisted by J. Walker."
+  },
+  {
+    "event_id": 175,
+    "event_start_time": "00:29:30",
+    "event_end_time": "00:38:00",
+    "game_clock": "11:00.00",
+    "caption": "A. Mitchell makes a driving floating two-pointer, assisted by S. Gilgeous-Alexander."
+  },
+  {
+    "event_id": 177,
+    "event_start_time": "00:48:00",
+    "event_end_time": "00:55:00",
+    "game_clock": "10:44.00",
+    "caption": "A. Nesmith misses a pullup two-pointer. J. Huff grabs the offensive rebound after A. Nesmith's missed pullup two-pointer."
+  },
+  {
+    "event_id": 179,
+    "event_start_time": "00:54:00",
+    "event_end_time": "01:01:00",
+    "game_clock": "10:38.00",
+    "caption": "J. Huff misses a jump shot three-pointer. I. Hartenstein grabs the defensive rebound after J. Huff's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 182,
+    "event_start_time": "01:11:00",
+    "event_end_time": "01:15:00",
+    "game_clock": "10:22.00",
+    "caption": "O. Toppin steals the ball from I. Hartenstein on a bad pass."
+  },
+  {
+    "event_id": 183,
+    "event_start_time": "01:20:00",
+    "event_end_time": "01:24:00",
+    "game_clock": "10:15.00",
+    "caption": "C. Youngblood commits a shooting personal foul."
+  },
+  {
+    "event_id": 187,
+    "event_start_time": "02:22:30",
+    "event_end_time": "02:27:30",
+    "game_clock": "09:56.00",
+    "caption": "A. Mitchell's cutting layup two-pointer is blocked by J. Huff. J. Huff blocks A. Mitchell's driving layup two-pointer. A. Nesmith grabs the defensive rebound after A. Mitchell's missed layup two-pointer."
+  },
+  {
+    "event_id": 190,
+    "event_start_time": "02:42:30",
+    "event_end_time": "02:49:30",
+    "game_clock": "09:36.00",
+    "caption": "O. Toppin misses a driving floating two-pointer. I. Hartenstein grabs the defensive rebound after O. Toppin's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 192,
+    "event_start_time": "02:45:00",
+    "event_end_time": "02:53:30",
+    "game_clock": "09:31.00",
+    "caption": "C. Youngblood makes a running three-pointer, assisted by A. Mitchell."
+  },
+  {
+    "event_id": 195,
+    "event_start_time": "03:05:30",
+    "event_end_time": "03:09:30",
+    "game_clock": "09:14.00",
+    "caption": "A. Mitchell steals the ball from J. Walker on a bad pass."
+  },
+  {
+    "event_id": 196,
+    "event_start_time": "03:12:30",
+    "event_end_time": "03:19:30",
+    "game_clock": "09:06.00",
+    "caption": "O. Dieng misses a jump shot three-pointer. A. Nesmith grabs the defensive rebound after O. Dieng's missed three-pointer."
+  },
+  {
+    "event_id": 198,
+    "event_start_time": "03:20:30",
+    "event_end_time": "03:23:30",
+    "game_clock": "09:01.00",
+    "caption": "I. Hartenstein commits a personal foul."
+  },
+  {
+    "event_id": 206,
+    "event_start_time": "04:03:30",
+    "event_end_time": "04:12:00",
+    "game_clock": "08:50.00",
+    "caption": "O. Toppin makes a jump shot two-pointer, assisted by A. Nembhard."
+  },
+  {
+    "event_id": 208,
+    "event_start_time": "04:20:00",
+    "event_end_time": "04:27:00",
+    "game_clock": "08:36.00",
+    "caption": "O. Dieng misses a jump shot three-pointer. O. Toppin grabs the defensive rebound after O. Dieng's missed three-pointer."
+  },
+  {
+    "event_id": 210,
+    "event_start_time": "04:30:00",
+    "event_end_time": "04:34:00",
+    "game_clock": "08:29.00",
+    "caption": "C. Youngblood commits a personal foul."
+  },
+  {
+    "event_id": 222,
+    "event_start_time": "05:39:00",
+    "event_end_time": "05:47:30",
+    "game_clock": "08:07.00",
+    "caption": "S. Gilgeous-Alexander makes a pullup two-pointer."
+  },
+  {
+    "event_id": 223,
+    "event_start_time": "06:04:00",
+    "event_end_time": "06:07:00",
+    "game_clock": "07:48.00",
+    "caption": "I. Jackson commits an offensive foul."
+  },
+  {
+    "event_id": 230,
+    "event_start_time": "06:51:00",
+    "event_end_time": "06:59:30",
+    "game_clock": "07:30.00",
+    "caption": "L. Dort makes a jump shot three-pointer, assisted by J. Williams."
+  },
+  {
+    "event_id": 232,
+    "event_start_time": "07:05:30",
+    "event_end_time": "07:10:30",
+    "game_clock": "07:18.00",
+    "caption": "B. Mathurin's turnaround two-pointer is blocked by S. Gilgeous-Alexander. S. Gilgeous-Alexander blocks B. Mathurin's jump shot two-pointer. S. Gilgeous-Alexander grabs the defensive rebound after B. Mathurin's missed turnaround two-pointer."
+  },
+  {
+    "event_id": 235,
+    "event_start_time": "07:18:30",
+    "event_end_time": "07:22:30",
+    "game_clock": "07:08.00",
+    "caption": "T. Bradley commits a personal foul."
+  },
+  {
+    "event_id": 240,
+    "event_start_time": "11:38:00",
+    "event_end_time": "11:45:00",
+    "game_clock": "06:49.00",
+    "caption": "P. Siakam misses a pullup two-pointer. L. Dort grabs the defensive rebound after P. Siakam's missed pullup two-pointer."
+  },
+  {
+    "event_id": 242,
+    "event_start_time": "11:46:30",
+    "event_end_time": "11:55:00",
+    "game_clock": "06:38.00",
+    "caption": "J. Williams makes a jump shot three-pointer, assisted by S. Gilgeous-Alexander."
+  },
+  {
+    "event_id": 244,
+    "event_start_time": "12:07:30",
+    "event_end_time": "12:16:00",
+    "game_clock": "06:17.00",
+    "caption": "P. Siakam makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 245,
+    "event_start_time": "12:18:00",
+    "event_end_time": "12:25:00",
+    "game_clock": "06:09.00",
+    "caption": "B. Barnhizer misses a driving floating two-pointer. P. Siakam grabs the defensive rebound after B. Barnhizer's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 247,
+    "event_start_time": "12:25:30",
+    "event_end_time": "12:29:30",
+    "game_clock": "06:04.00",
+    "caption": "J. Williams commits a personal foul."
+  },
+  {
+    "event_id": 255,
+    "event_start_time": "13:24:30",
+    "event_end_time": "13:29:30",
+    "game_clock": "06:03.00",
+    "caption": "B. Barnhizer grabs the defensive rebound."
+  },
+  {
+    "event_id": 256,
+    "event_start_time": "13:42:30",
+    "event_end_time": "13:45:30",
+    "game_clock": "05:48.00",
+    "caption": "J. Williams commits an offensive foul."
+  },
+  {
+    "event_id": 263,
+    "event_start_time": "14:13:00",
+    "event_end_time": "14:21:30",
+    "game_clock": "05:39.00",
+    "caption": "B. Sheppard makes a jump shot three-pointer, assisted by A. Nembhard. T. Bradley commits a personal foul."
+  },
+  {
+    "event_id": 272,
+    "event_start_time": "14:29:15",
+    "event_end_time": "14:34:15",
+    "game_clock": "05:23.00",
+    "caption": "P. Siakam grabs the defensive rebound."
+  },
+  {
+    "event_id": 273,
+    "event_start_time": "15:26:00",
+    "event_end_time": "15:33:00",
+    "game_clock": "05:16.00",
+    "caption": "P. Siakam misses a pullup two-pointer. I. Hartenstein grabs the defensive rebound after P. Siakam's missed jump shot."
+  },
+  {
+    "event_id": 275,
+    "event_start_time": "15:37:00",
+    "event_end_time": "15:44:00",
+    "game_clock": "05:05.00",
+    "caption": "A. Wiggins misses a cutting layup two-pointer. P. Siakam grabs the defensive rebound after A. Wiggins' missed layup two-pointer."
+  },
+  {
+    "event_id": 277,
+    "event_start_time": "15:42:00",
+    "event_end_time": "15:45:00",
+    "game_clock": "05:03.00",
+    "caption": "C. Holmgren commits a personal foul."
+  },
+  {
+    "event_id": 282,
+    "event_start_time": "16:35:30",
+    "event_end_time": "16:40:30",
+    "game_clock": "05:00.00",
+    "caption": "A. Wiggins grabs the defensive rebound."
+  },
+  {
+    "event_id": 283,
+    "event_start_time": "16:41:30",
+    "event_end_time": "16:44:30",
+    "game_clock": "04:57.00",
+    "caption": "B. Sheppard commits a personal foul."
+  },
+  {
+    "event_id": 287,
+    "event_start_time": "17:16:30",
+    "event_end_time": "17:23:30",
+    "game_clock": "04:48.00",
+    "caption": "C. Holmgren misses a turnaround two-pointer. B. Mathurin grabs the defensive rebound after C. Holmgren's missed jump shot."
+  },
+  {
+    "event_id": 289,
+    "event_start_time": "17:25:30",
+    "event_end_time": "17:32:30",
+    "game_clock": "04:39.00",
+    "caption": "B. Mathurin misses a running layup two-pointer. I. Hartenstein grabs the defensive rebound after B. Mathurin's missed running layup two-pointer."
+  },
+  {
+    "event_id": 291,
+    "event_start_time": "17:31:30",
+    "event_end_time": "17:36:30",
+    "game_clock": "04:33.00",
+    "caption": "A. Wiggins' running layup two-pointer is blocked by T. Bradley. T. Bradley blocks A. Wiggins's layup two-pointer. A. Nesmith grabs the defensive rebound after A. Wiggins' running layup two-pointer is blocked."
+  },
+  {
+    "event_id": 294,
+    "event_start_time": "17:53:30",
+    "event_end_time": "18:00:30",
+    "game_clock": "04:11.00",
+    "caption": "A. Nesmith misses a jump shot two-pointer. P. Siakam grabs the offensive rebound after A. Nesmith's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 296,
+    "event_start_time": "18:02:30",
+    "event_end_time": "18:09:30",
+    "game_clock": "04:02.00",
+    "caption": "P. Siakam misses a jump shot three-pointer. A. Wiggins grabs the defensive rebound after P. Siakam's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 301,
+    "event_start_time": "18:50:00",
+    "event_end_time": "18:54:00",
+    "game_clock": "03:49.00",
+    "caption": "B. Mathurin commits a personal foul."
+  },
+  {
+    "event_id": 305,
+    "event_start_time": "19:49:30",
+    "event_end_time": "19:52:30",
+    "game_clock": "03:37.00",
+    "caption": "B. Mathurin commits an offensive foul."
+  },
+  {
+    "event_id": 308,
+    "event_start_time": "20:16:00",
+    "event_end_time": "20:24:30",
+    "game_clock": "03:23.00",
+    "caption": "A. Wiggins makes a jump shot three-pointer, assisted by C. Holmgren."
+  },
+  {
+    "event_id": 315,
+    "event_start_time": "24:03:45",
+    "event_end_time": "24:10:45",
+    "game_clock": "03:09.00",
+    "caption": "O. Toppin misses a jump shot three-pointer. C. Holmgren commits a personal foul."
+  },
+  {
+    "event_id": 322,
+    "event_start_time": "25:47:30",
+    "event_end_time": "25:54:30",
+    "game_clock": "02:31.00",
+    "caption": "S. Gilgeous-Alexander misses a driving finger roll two-pointer. B. Mathurin grabs the defensive rebound after S. Gilgeous-Alexander's missed driving finger roll layup two-pointer."
+  },
+  {
+    "event_id": 324,
+    "event_start_time": "25:54:30",
+    "event_end_time": "26:01:30",
+    "game_clock": "02:24.00",
+    "caption": "A. Nesmith misses a running three-pointer. S. Gilgeous-Alexander grabs the defensive rebound after A. Nesmith's missed running three-pointer."
+  },
+  {
+    "event_id": 326,
+    "event_start_time": "26:00:00",
+    "event_end_time": "26:08:30",
+    "game_clock": "02:16.00",
+    "caption": "S. Gilgeous-Alexander makes a pullup two-pointer."
+  },
+  {
+    "event_id": 328,
+    "event_start_time": "26:21:30",
+    "event_end_time": "26:25:30",
+    "game_clock": "01:58.00",
+    "caption": "S. Gilgeous-Alexander steals the ball from A. Nembhard on a bad pass."
+  },
+  {
+    "event_id": 329,
+    "event_start_time": "26:43:30",
+    "event_end_time": "26:47:30",
+    "game_clock": "01:38.00",
+    "caption": "J. Walker commits a personal foul."
+  },
+  {
+    "event_id": 337,
+    "event_start_time": "26:40:30",
+    "event_end_time": "26:45:30",
+    "game_clock": "01:38.00",
+    "caption": "O. Toppin grabs the defensive rebound."
+  },
+  {
+    "event_id": 338,
+    "event_start_time": "27:45:30",
+    "event_end_time": "27:54:00",
+    "game_clock": "01:24.00",
+    "caption": "O. Toppin makes a reverse dunk two-pointer, assisted by P. Siakam. A. Nesmith commits a personal foul."
+  },
+  {
+    "event_id": 346,
+    "event_start_time": "29:01:51",
+    "event_end_time": "29:08:51",
+    "game_clock": "00:58.00",
+    "caption": "P. Siakam misses a step back three-pointer. A. Wiggins grabs the defensive rebound after P. Siakam's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 348,
+    "event_start_time": "29:25:06",
+    "event_end_time": "29:32:06",
+    "game_clock": "00:34.80",
+    "caption": "S. Gilgeous-Alexander misses a fadeaway two-pointer. B. Mathurin grabs the defensive rebound after S. Gilgeous-Alexander's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 350,
+    "event_start_time": "29:28:06",
+    "event_end_time": "29:36:36",
+    "game_clock": "00:29.30",
+    "caption": "B. Mathurin makes a running dunk two-pointer."
+  },
+  {
+    "event_id": 356,
+    "event_start_time": "31:02:54",
+    "event_end_time": "31:11:24",
+    "game_clock": "00:18.30",
+    "caption": "A. Mitchell makes a driving layup two-pointer. O. Dieng commits a personal foul."
+  },
+  {
+    "event_id": 365,
+    "event_start_time": "32:27:54",
+    "event_end_time": "32:30:54",
+    "game_clock": "00:03.10",
+    "caption": "B. Mathurin commits a personal foul."
+  }
+]

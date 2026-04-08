@@ -1,0 +1,429 @@
+[
+  {
+    "event_id": 337,
+    "event_start_time": "00:07:30",
+    "event_end_time": "00:11:30",
+    "game_clock": "11:44.00",
+    "caption": "W. Kessler steals the ball from I. Zubac on a lost ball."
+  },
+  {
+    "event_id": 338,
+    "event_start_time": "00:17:30",
+    "event_end_time": "00:27:30",
+    "game_clock": "11:33.00",
+    "caption": "K. Filipowski misses a jump shot three-pointer. W. Kessler grabs the offensive rebound after K. Filipowski's missed three-pointer. W. Kessler makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 341,
+    "event_start_time": "00:28:30",
+    "event_end_time": "00:35:30",
+    "game_clock": "11:22.00",
+    "caption": "K. Leonard misses a jump shot three-pointer. K. Leonard grabs the offensive rebound after missing his jump shot three-pointer."
+  },
+  {
+    "event_id": 343,
+    "event_start_time": "00:30:00",
+    "event_end_time": "00:38:30",
+    "game_clock": "11:18.00",
+    "caption": "K. Leonard makes a pullup two-pointer."
+  },
+  {
+    "event_id": 344,
+    "event_start_time": "01:00:30",
+    "event_end_time": "01:07:30",
+    "game_clock": "10:50.00",
+    "caption": "K. George misses a pullup three-pointer."
+  },
+  {
+    "event_id": 347,
+    "event_start_time": "01:34:30",
+    "event_end_time": "01:43:00",
+    "game_clock": "10:32.00",
+    "caption": "D. Jones Jr. makes a jump shot three-pointer, assisted by I. Zubac."
+  },
+  {
+    "event_id": 349,
+    "event_start_time": "01:49:00",
+    "event_end_time": "01:56:00",
+    "game_clock": "10:20.00",
+    "caption": "K. Filipowski misses a jump shot three-pointer. K. Leonard grabs the defensive rebound after K. Filipowski's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 351,
+    "event_start_time": "02:09:00",
+    "event_end_time": "02:16:00",
+    "game_clock": "10:00.00",
+    "caption": "K. Leonard misses a pullup two-pointer. K. George grabs the defensive rebound after K. Leonard's missed pullup two-pointer."
+  },
+  {
+    "event_id": 353,
+    "event_start_time": "02:20:00",
+    "event_end_time": "02:24:00",
+    "game_clock": "09:52.00",
+    "caption": "K. Leonard commits a personal foul."
+  },
+  {
+    "event_id": 357,
+    "event_start_time": "03:25:00",
+    "event_end_time": "03:32:00",
+    "game_clock": "09:37.00",
+    "caption": "B. Beal misses a jump shot three-pointer. K. Filipowski grabs the defensive rebound after B. Beal's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 359,
+    "event_start_time": "03:38:30",
+    "event_end_time": "03:47:00",
+    "game_clock": "09:21.00",
+    "caption": "K. Filipowski makes a cutting dunk two-pointer, assisted by L. Markkanen."
+  },
+  {
+    "event_id": 361,
+    "event_start_time": "03:53:30",
+    "event_end_time": "04:02:00",
+    "game_clock": "09:06.00",
+    "caption": "D. Jones Jr. makes a cutting dunk two-pointer, assisted by I. Zubac."
+  },
+  {
+    "event_id": 364,
+    "event_start_time": "04:34:00",
+    "event_end_time": "04:41:00",
+    "game_clock": "08:43.00",
+    "caption": "L. Markkanen misses a jump shot three-pointer. K. Filipowski grabs the offensive rebound after L. Markkanen's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 366,
+    "event_start_time": "04:38:30",
+    "event_end_time": "04:47:00",
+    "game_clock": "08:36.00",
+    "caption": "L. Markkanen makes an alley-oop layup two-pointer, assisted by W. Kessler."
+  },
+  {
+    "event_id": 368,
+    "event_start_time": "04:54:00",
+    "event_end_time": "05:01:00",
+    "game_clock": "08:23.00",
+    "caption": "J. Harden misses a step back three-pointer. W. Kessler grabs the defensive rebound after J. Harden's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 370,
+    "event_start_time": "05:03:00",
+    "event_end_time": "05:14:00",
+    "game_clock": "08:14.00",
+    "caption": "K. George misses a pullup three-pointer. L. Markkanen grabs the offensive rebound after K. George's missed pullup three-pointer. L. Markkanen's putback layup two-pointer is blocked by I. Zubac."
+  },
+  {
+    "event_id": 372,
+    "event_start_time": "05:07:00",
+    "event_end_time": "05:12:00",
+    "game_clock": "08:10.00",
+    "caption": "L. Markkanen's putback layup two-pointer is blocked by I. Zubac. I. Zubac blocks L. Markkanen's layup two-pointer."
+  },
+  {
+    "event_id": 375,
+    "event_start_time": "05:11:00",
+    "event_end_time": "05:14:00",
+    "game_clock": "08:08.00",
+    "caption": "D. Jones Jr. is called for a kicked ball violation."
+  },
+  {
+    "event_id": 376,
+    "event_start_time": "05:41:00",
+    "event_end_time": "05:49:30",
+    "game_clock": "08:01.00",
+    "caption": "S. Mykhailiuk makes a jump shot three-pointer, assisted by K. Filipowski."
+  },
+  {
+    "event_id": 379,
+    "event_start_time": "05:54:30",
+    "event_end_time": "05:58:30",
+    "game_clock": "07:51.00",
+    "caption": "S. Mykhailiuk steals the ball from J. Harden on a bad pass."
+  },
+  {
+    "event_id": 380,
+    "event_start_time": "05:57:00",
+    "event_end_time": "06:05:30",
+    "game_clock": "07:45.00",
+    "caption": "K. Filipowski makes a running dunk two-pointer, assisted by K. George."
+  },
+  {
+    "event_id": 383,
+    "event_start_time": "09:15:00",
+    "event_end_time": "09:22:00",
+    "game_clock": "07:30.00",
+    "caption": "I. Zubac misses a hook two-pointer. D. Jones Jr. grabs the offensive rebound after I. Zubac's missed hook two-pointer."
+  },
+  {
+    "event_id": 385,
+    "event_start_time": "09:14:30",
+    "event_end_time": "09:23:00",
+    "game_clock": "07:28.00",
+    "caption": "D. Jones Jr. makes a tip dunk two-pointer."
+  },
+  {
+    "event_id": 386,
+    "event_start_time": "09:26:00",
+    "event_end_time": "09:33:00",
+    "game_clock": "07:19.00",
+    "caption": "K. Filipowski misses a jump shot three-pointer. K. Leonard grabs the defensive rebound after K. Filipowski's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 388,
+    "event_start_time": "09:36:00",
+    "event_end_time": "09:39:00",
+    "game_clock": "07:12.00",
+    "caption": "W. Kessler commits a personal foul."
+  },
+  {
+    "event_id": 390,
+    "event_start_time": "10:08:00",
+    "event_end_time": "10:16:30",
+    "game_clock": "06:53.00",
+    "caption": "I. Zubac makes a reverse layup two-pointer, assisted by J. Harden. B. Beal commits a personal foul."
+  },
+  {
+    "event_id": 402,
+    "event_start_time": "11:29:30",
+    "event_end_time": "11:34:30",
+    "game_clock": "06:30.00",
+    "caption": "J. Harden grabs the defensive rebound."
+  },
+  {
+    "event_id": 404,
+    "event_start_time": "11:53:30",
+    "event_end_time": "11:57:30",
+    "game_clock": "06:07.00",
+    "caption": "K. George steals the ball from I. Zubac on a lost ball."
+  },
+  {
+    "event_id": 405,
+    "event_start_time": "11:53:00",
+    "event_end_time": "12:01:30",
+    "game_clock": "06:04.00",
+    "caption": "K. George makes a running layup two-pointer, assisted by L. Markkanen."
+  },
+  {
+    "event_id": 407,
+    "event_start_time": "12:15:30",
+    "event_end_time": "12:22:30",
+    "game_clock": "05:44.00",
+    "caption": "J. Harden misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 409,
+    "event_start_time": "12:21:30",
+    "event_end_time": "12:24:30",
+    "game_clock": "05:41.00",
+    "caption": "W. Kessler commits a personal foul."
+  },
+  {
+    "event_id": 411,
+    "event_start_time": "12:54:30",
+    "event_end_time": "13:01:30",
+    "game_clock": "05:38.00",
+    "caption": "D. Jones Jr. misses a jump shot three-pointer. I. Zubac grabs the offensive rebound after D. Jones Jr.'s missed jump shot three-pointer."
+  },
+  {
+    "event_id": 413,
+    "event_start_time": "12:56:00",
+    "event_end_time": "13:04:30",
+    "game_clock": "05:34.00",
+    "caption": "D. Jones Jr. makes a cutting dunk two-pointer, assisted by I. Zubac. W. Kessler commits a shooting personal foul."
+  },
+  {
+    "event_id": 418,
+    "event_start_time": "13:50:30",
+    "event_end_time": "13:53:30",
+    "game_clock": "05:28.00",
+    "caption": "D. Jones Jr. commits a personal foul."
+  },
+  {
+    "event_id": 422,
+    "event_start_time": "14:31:30",
+    "event_end_time": "14:36:30",
+    "game_clock": "05:17.00",
+    "caption": "B. Sensabaugh's pullup two-pointer is blocked by D. Jones Jr. D. Jones Jr. blocks B. Sensabaugh's jump shot two-pointer. I. Zubac grabs the defensive rebound after B. Sensabaugh's missed pullup two-pointer."
+  },
+  {
+    "event_id": 425,
+    "event_start_time": "14:34:00",
+    "event_end_time": "14:42:30",
+    "game_clock": "05:12.00",
+    "caption": "D. Jones Jr. makes a running layup two-pointer, assisted by J. Harden. B. Sensabaugh commits a shooting personal foul."
+  },
+  {
+    "event_id": 433,
+    "event_start_time": "17:55:00",
+    "event_end_time": "18:00:00",
+    "game_clock": "05:11.00",
+    "caption": "B. Sensabaugh grabs the defensive rebound."
+  },
+  {
+    "event_id": 434,
+    "event_start_time": "18:06:30",
+    "event_end_time": "18:15:00",
+    "game_clock": "04:57.00",
+    "caption": "B. Sensabaugh makes a pullup two-pointer, assisted by J. Nurkić."
+  },
+  {
+    "event_id": 437,
+    "event_start_time": "18:29:00",
+    "event_end_time": "18:36:00",
+    "game_clock": "04:37.00",
+    "caption": "D. Jones Jr. misses a jump shot three-pointer. T. Hendricks grabs the defensive rebound after D. Jones Jr.'s missed three-pointer."
+  },
+  {
+    "event_id": 439,
+    "event_start_time": "18:45:00",
+    "event_end_time": "18:52:00",
+    "game_clock": "04:21.00",
+    "caption": "J. Nurkić misses a jump shot two-pointer. I. Zubac grabs the defensive rebound after J. Nurkić's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 441,
+    "event_start_time": "18:52:00",
+    "event_end_time": "18:59:00",
+    "game_clock": "04:14.00",
+    "caption": "K. Leonard misses a running three-pointer. A. Bailey grabs the defensive rebound after K. Leonard's missed running three-pointer."
+  },
+  {
+    "event_id": 443,
+    "event_start_time": "18:59:30",
+    "event_end_time": "19:08:00",
+    "game_clock": "04:04.00",
+    "caption": "K. George makes a jump shot three-pointer, assisted by A. Bailey."
+  },
+  {
+    "event_id": 445,
+    "event_start_time": "19:15:30",
+    "event_end_time": "19:24:00",
+    "game_clock": "03:48.00",
+    "caption": "J. Collins makes a jump shot three-pointer, assisted by J. Harden."
+  },
+  {
+    "event_id": 448,
+    "event_start_time": "19:32:00",
+    "event_end_time": "19:36:00",
+    "game_clock": "03:35.00",
+    "caption": "J. Collins steals the ball from K. George on a bad pass."
+  },
+  {
+    "event_id": 449,
+    "event_start_time": "19:31:30",
+    "event_end_time": "19:40:00",
+    "game_clock": "03:32.00",
+    "caption": "J. Collins makes a running dunk two-pointer, assisted by D. Jones Jr."
+  },
+  {
+    "event_id": 451,
+    "event_start_time": "19:44:00",
+    "event_end_time": "19:51:00",
+    "game_clock": "03:22.00",
+    "caption": "B. Sensabaugh misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 458,
+    "event_start_time": "20:16:30",
+    "event_end_time": "20:25:00",
+    "game_clock": "03:13.00",
+    "caption": "J. Nurkić makes a layup two-pointer, assisted by B. Sensabaugh."
+  },
+  {
+    "event_id": 461,
+    "event_start_time": "20:58:00",
+    "event_end_time": "21:05:00",
+    "game_clock": "02:52.00",
+    "caption": "J. Collins misses a jump shot three-pointer. W. Clayton Jr. grabs the defensive rebound after J. Collins's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 463,
+    "event_start_time": "21:10:30",
+    "event_end_time": "21:19:00",
+    "game_clock": "02:37.00",
+    "caption": "T. Hendricks makes a floating jump shot two-pointer, assisted by J. Nurkić."
+  },
+  {
+    "event_id": 465,
+    "event_start_time": "21:31:30",
+    "event_end_time": "21:40:00",
+    "game_clock": "02:16.00",
+    "caption": "I. Zubac makes a turnaround hook two-pointer, assisted by J. Harden."
+  },
+  {
+    "event_id": 467,
+    "event_start_time": "21:50:00",
+    "event_end_time": "21:53:00",
+    "game_clock": "02:02.00",
+    "caption": "W. Clayton Jr. is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 470,
+    "event_start_time": "22:22:30",
+    "event_end_time": "22:26:30",
+    "game_clock": "01:50.00",
+    "caption": "W. Clayton Jr. commits a personal foul."
+  },
+  {
+    "event_id": 474,
+    "event_start_time": "23:28:00",
+    "event_end_time": "23:35:00",
+    "game_clock": "01:36.00",
+    "caption": "J. Nurkić misses a reverse layup two-pointer. I. Zubac grabs the defensive rebound after J. Nurkić's missed reverse layup two-pointer."
+  },
+  {
+    "event_id": 476,
+    "event_start_time": "23:36:30",
+    "event_end_time": "23:45:00",
+    "game_clock": "01:25.00",
+    "caption": "K. Leonard makes a jump shot three-pointer, assisted by J. Harden."
+  },
+  {
+    "event_id": 478,
+    "event_start_time": "23:51:00",
+    "event_end_time": "23:58:00",
+    "game_clock": "01:13.00",
+    "caption": "B. Sensabaugh misses a jump shot three-pointer. T. Hendricks grabs the offensive rebound after B. Sensabaugh's missed three-pointer."
+  },
+  {
+    "event_id": 480,
+    "event_start_time": "23:55:30",
+    "event_end_time": "24:04:00",
+    "game_clock": "01:06.00",
+    "caption": "B. Sensabaugh makes a jump shot three-pointer, assisted by W. Clayton Jr. B. Sensabaugh commits a shooting personal foul."
+  },
+  {
+    "event_id": 487,
+    "event_start_time": "25:53:42",
+    "event_end_time": "26:00:42",
+    "game_clock": "00:38.70",
+    "caption": "J. Nurkić misses a jump shot three-pointer. I. Zubac grabs the defensive rebound after J. Nurkić's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 489,
+    "event_start_time": "26:01:12",
+    "event_end_time": "26:08:12",
+    "game_clock": "00:31.90",
+    "caption": "J. Collins misses a floating two-pointer. J. Nurkić grabs the defensive rebound after J. Collins' missed floating two-pointer."
+  },
+  {
+    "event_id": 491,
+    "event_start_time": "26:17:57",
+    "event_end_time": "26:26:27",
+    "game_clock": "00:12.60",
+    "caption": "J. Nurkić makes a dunk two-pointer, assisted by W. Clayton Jr."
+  },
+  {
+    "event_id": 493,
+    "event_start_time": "26:23:27",
+    "event_end_time": "26:26:27",
+    "game_clock": "00:12.60",
+    "caption": "J. Nurkić commits a technical foul."
+  },
+  {
+    "event_id": 497,
+    "event_start_time": "27:30:36",
+    "event_end_time": "27:37:36",
+    "game_clock": "00:00.50",
+    "caption": "J. Harden misses a jump shot three-pointer. I. Zubac grabs the offensive rebound after J. Harden's missed jump shot three-pointer."
+  }
+]

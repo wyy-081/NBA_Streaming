@@ -1,0 +1,464 @@
+[
+  {
+    "event_id": 4,
+    "event_start_time": "00:00:00",
+    "event_end_time": "-1:59:00",
+    "game_clock": "11:56.00",
+    "caption": "Jump ball between W. Carter Jr. and N. Vučević, T. Jones recovers the tip."
+  },
+  {
+    "event_id": 7,
+    "event_start_time": "00:06:30",
+    "event_end_time": "00:13:30",
+    "game_clock": "11:42.00",
+    "caption": "W. Carter Jr. misses a pullup three-pointer. T. Jones grabs the defensive rebound after W. Carter Jr.'s missed pullup three-pointer."
+  },
+  {
+    "event_id": 9,
+    "event_start_time": "00:11:00",
+    "event_end_time": "00:19:30",
+    "game_clock": "11:35.00",
+    "caption": "J. Giddey makes a running layup two-pointer, assisted by T. Jones."
+  },
+  {
+    "event_id": 11,
+    "event_start_time": "00:29:30",
+    "event_end_time": "00:32:30",
+    "game_clock": "11:21.00",
+    "caption": "P. Banchero steps out-of-bounds turnover."
+  },
+  {
+    "event_id": 12,
+    "event_start_time": "00:55:30",
+    "event_end_time": "01:02:30",
+    "game_clock": "11:07.00",
+    "caption": "N. Vučević misses a turnaround two-pointer. P. Banchero grabs the defensive rebound after N. Vučević's missed turnaround two-pointer."
+  },
+  {
+    "event_id": 14,
+    "event_start_time": "01:12:30",
+    "event_end_time": "01:19:30",
+    "game_clock": "10:50.00",
+    "caption": "T. Jones misses a driving floating two-pointer. W. Carter Jr. grabs the offensive rebound after T. Jones's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 16,
+    "event_start_time": "01:19:30",
+    "event_end_time": "01:31:30",
+    "game_clock": "10:43.00",
+    "caption": "T. Jones misses a jump shot three-pointer. D. Bane grabs the offensive rebound after T. Jones's missed three-pointer. D. Bane makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 19,
+    "event_start_time": "01:32:30",
+    "event_end_time": "01:39:30",
+    "game_clock": "10:30.00",
+    "caption": "M. Buzelis misses a pullup three-pointer. D. Bane grabs the defensive rebound after M. Buzelis's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 21,
+    "event_start_time": "01:43:30",
+    "event_end_time": "01:50:30",
+    "game_clock": "10:19.00",
+    "caption": "D. Bane misses a driving finger roll two-pointer. M. Buzelis grabs the defensive rebound after D. Bane's missed driving finger roll layup two-pointer."
+  },
+  {
+    "event_id": 23,
+    "event_start_time": "01:55:30",
+    "event_end_time": "02:02:30",
+    "game_clock": "10:07.00",
+    "caption": "I. Okoro misses a jump shot three-pointer. P. Banchero grabs the defensive rebound after I. Okoro's missed three-pointer."
+  },
+  {
+    "event_id": 25,
+    "event_start_time": "02:01:00",
+    "event_end_time": "02:09:30",
+    "game_clock": "09:59.00",
+    "caption": "P. Banchero makes a driving layup two-pointer, assisted by T. Jones. J. Giddey commits a shooting personal foul."
+  },
+  {
+    "event_id": 30,
+    "event_start_time": "02:50:30",
+    "event_end_time": "02:57:30",
+    "game_clock": "09:42.00",
+    "caption": "I. Okoro misses a jump shot three-pointer. F. Wagner grabs the defensive rebound after I. Okoro's missed three-pointer."
+  },
+  {
+    "event_id": 32,
+    "event_start_time": "03:00:30",
+    "event_end_time": "03:07:30",
+    "game_clock": "09:32.00",
+    "caption": "W. Carter Jr. misses a pullup two-pointer. J. Giddey grabs the defensive rebound after W. Carter Jr.'s missed jump shot two-pointer."
+  },
+  {
+    "event_id": 34,
+    "event_start_time": "03:09:30",
+    "event_end_time": "03:16:30",
+    "game_clock": "09:23.00",
+    "caption": "T. Jones misses a jump shot three-pointer. W. Carter Jr. grabs the defensive rebound after T. Jones's missed three-pointer."
+  },
+  {
+    "event_id": 36,
+    "event_start_time": "03:13:00",
+    "event_end_time": "03:21:30",
+    "game_clock": "09:17.00",
+    "caption": "F. Wagner makes a running finger roll two-pointer, assisted by D. Bane."
+  },
+  {
+    "event_id": 38,
+    "event_start_time": "03:27:00",
+    "event_end_time": "03:35:30",
+    "game_clock": "09:03.00",
+    "caption": "T. Jones makes a jump shot three-pointer, assisted by N. Vučević."
+  },
+  {
+    "event_id": 40,
+    "event_start_time": "03:54:30",
+    "event_end_time": "03:57:30",
+    "game_clock": "08:41.00",
+    "caption": "M. Buzelis commits a personal foul."
+  },
+  {
+    "event_id": 42,
+    "event_start_time": "04:19:00",
+    "event_end_time": "04:26:00",
+    "game_clock": "08:34.00",
+    "caption": "W. Carter Jr. misses a driving floating two-pointer. J. Giddey grabs the defensive rebound after W. Carter Jr.'s missed driving floating two-pointer."
+  },
+  {
+    "event_id": 44,
+    "event_start_time": "04:28:00",
+    "event_end_time": "04:32:00",
+    "game_clock": "08:28.00",
+    "caption": "F. Wagner commits a shooting personal foul."
+  },
+  {
+    "event_id": 52,
+    "event_start_time": "05:32:00",
+    "event_end_time": "05:39:00",
+    "game_clock": "08:19.00",
+    "caption": "A. Black misses a pullup three-pointer. N. Vučević grabs the defensive rebound after A. Black's missed pullup three-pointer."
+  },
+  {
+    "event_id": 54,
+    "event_start_time": "05:43:00",
+    "event_end_time": "05:50:00",
+    "game_clock": "08:08.00",
+    "caption": "M. Buzelis misses a driving floating two-pointer. F. Wagner grabs the defensive rebound after M. Buzelis's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 56,
+    "event_start_time": "05:49:30",
+    "event_end_time": "05:58:00",
+    "game_clock": "07:59.00",
+    "caption": "P. Banchero makes a driving floating jump shot two-pointer."
+  },
+  {
+    "event_id": 57,
+    "event_start_time": "06:08:00",
+    "event_end_time": "06:15:00",
+    "game_clock": "07:43.00",
+    "caption": "I. Okoro misses a driving reverse layup two-pointer. P. Banchero grabs the defensive rebound after I. Okoro's missed driving reverse layup two-pointer."
+  },
+  {
+    "event_id": 59,
+    "event_start_time": "06:15:00",
+    "event_end_time": "06:20:00",
+    "game_clock": "07:36.00",
+    "caption": "P. Banchero's driving floating two-pointer is blocked by I. Okoro. I. Okoro blocks P. Banchero's jump shot two-pointer. J. Giddey grabs the defensive rebound after P. Banchero's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 62,
+    "event_start_time": "06:21:00",
+    "event_end_time": "06:28:00",
+    "game_clock": "07:30.00",
+    "caption": "M. Buzelis misses a running dunk two-pointer. A. Black grabs the defensive rebound after M. Buzelis' missed running dunk two-pointer."
+  },
+  {
+    "event_id": 64,
+    "event_start_time": "06:28:00",
+    "event_end_time": "06:35:00",
+    "game_clock": "07:23.00",
+    "caption": "F. Wagner misses a running layup two-pointer. N. Vučević grabs the defensive rebound after F. Wagner's missed running layup two-pointer."
+  },
+  {
+    "event_id": 66,
+    "event_start_time": "06:35:00",
+    "event_end_time": "06:40:00",
+    "game_clock": "07:16.00",
+    "caption": "I. Okoro's running layup two-pointer is blocked by P. Banchero. P. Banchero blocks I. Okoro's layup two-pointer. W. Carter Jr. grabs the defensive rebound after I. Okoro's running layup two-pointer is blocked."
+  },
+  {
+    "event_id": 69,
+    "event_start_time": "06:37:30",
+    "event_end_time": "06:46:00",
+    "game_clock": "07:11.00",
+    "caption": "F. Wagner makes a running alley-oop dunk two-pointer, assisted by D. Bane. D. Bane commits a personal foul."
+  },
+  {
+    "event_id": 79,
+    "event_start_time": "10:49:30",
+    "event_end_time": "10:56:30",
+    "game_clock": "06:40.00",
+    "caption": "P. Banchero misses a pullup two-pointer. D. Bane grabs the offensive rebound after P. Banchero's missed pullup two-pointer."
+  },
+  {
+    "event_id": 81,
+    "event_start_time": "10:52:00",
+    "event_end_time": "11:00:30",
+    "game_clock": "06:35.00",
+    "caption": "D. Bane makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 83,
+    "event_start_time": "11:11:30",
+    "event_end_time": "11:18:30",
+    "game_clock": "06:18.00",
+    "caption": "M. Buzelis misses a jump shot three-pointer. P. Banchero grabs the defensive rebound after M. Buzelis's missed three-pointer."
+  },
+  {
+    "event_id": 86,
+    "event_start_time": "11:26:30",
+    "event_end_time": "11:30:30",
+    "game_clock": "06:04.00",
+    "caption": "M. Buzelis steals the ball from F. Wagner on a bad pass."
+  },
+  {
+    "event_id": 87,
+    "event_start_time": "11:37:30",
+    "event_end_time": "11:44:30",
+    "game_clock": "05:52.00",
+    "caption": "K. Huerter misses a jump shot three-pointer. M. Buzelis grabs the offensive rebound after K. Huerter's missed three-pointer."
+  },
+  {
+    "event_id": 89,
+    "event_start_time": "11:39:00",
+    "event_end_time": "11:47:30",
+    "game_clock": "05:48.00",
+    "caption": "J. Giddey makes a pullup three-pointer, assisted by K. Huerter."
+  },
+  {
+    "event_id": 91,
+    "event_start_time": "11:55:30",
+    "event_end_time": "11:58:30",
+    "game_clock": "05:37.00",
+    "caption": "M. Buzelis commits a personal foul."
+  },
+  {
+    "event_id": 99,
+    "event_start_time": "12:30:30",
+    "event_end_time": "12:39:00",
+    "game_clock": "05:21.00",
+    "caption": "P. Banchero makes a jump shot three-pointer, assisted by W. Carter Jr."
+  },
+  {
+    "event_id": 101,
+    "event_start_time": "12:52:00",
+    "event_end_time": "12:59:00",
+    "game_clock": "05:02.00",
+    "caption": "K. Huerter misses a jump shot three-pointer. A. Black grabs the defensive rebound after K. Huerter's missed three-pointer."
+  },
+  {
+    "event_id": 103,
+    "event_start_time": "12:58:30",
+    "event_end_time": "13:07:00",
+    "game_clock": "04:53.00",
+    "caption": "A. Black makes a running finger roll two-pointer."
+  },
+  {
+    "event_id": 104,
+    "event_start_time": "13:17:30",
+    "event_end_time": "13:26:00",
+    "game_clock": "04:34.00",
+    "caption": "N. Vučević makes a turnaround two-pointer, assisted by J. Giddey."
+  },
+  {
+    "event_id": 106,
+    "event_start_time": "13:27:30",
+    "event_end_time": "13:36:00",
+    "game_clock": "04:24.00",
+    "caption": "P. Banchero makes a pullup two-pointer."
+  },
+  {
+    "event_id": 107,
+    "event_start_time": "13:52:00",
+    "event_end_time": "13:55:00",
+    "game_clock": "04:05.00",
+    "caption": "W. Carter Jr. commits a personal foul."
+  },
+  {
+    "event_id": 115,
+    "event_start_time": "14:27:00",
+    "event_end_time": "14:35:30",
+    "game_clock": "03:55.00",
+    "caption": "A. Dosunmu makes a cutting layup two-pointer, assisted by K. Huerter."
+  },
+  {
+    "event_id": 117,
+    "event_start_time": "14:47:30",
+    "event_end_time": "14:54:30",
+    "game_clock": "03:37.00",
+    "caption": "T. da Silva misses a driving layup two-pointer. P. Williams grabs the defensive rebound after T. da Silva's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 119,
+    "event_start_time": "14:49:00",
+    "event_end_time": "14:57:30",
+    "game_clock": "03:33.00",
+    "caption": "A. Dosunmu makes a running dunk two-pointer, assisted by T. Jones."
+  },
+  {
+    "event_id": 121,
+    "event_start_time": "15:05:30",
+    "event_end_time": "15:12:30",
+    "game_clock": "03:19.00",
+    "caption": "P. Banchero misses a pullup three-pointer. P. Williams grabs the defensive rebound after P. Banchero's missed pullup three-pointer."
+  },
+  {
+    "event_id": 123,
+    "event_start_time": "15:10:00",
+    "event_end_time": "15:18:30",
+    "game_clock": "03:12.00",
+    "caption": "P. Williams makes a running pullup three-pointer."
+  },
+  {
+    "event_id": 124,
+    "event_start_time": "15:32:30",
+    "event_end_time": "15:39:30",
+    "game_clock": "02:52.00",
+    "caption": "T. da Silva misses a jump shot three-pointer. K. Huerter grabs the defensive rebound after T. da Silva's missed three-pointer."
+  },
+  {
+    "event_id": 126,
+    "event_start_time": "15:42:00",
+    "event_end_time": "15:50:30",
+    "game_clock": "02:40.00",
+    "caption": "K. Huerter makes a cutting layup two-pointer, assisted by P. Williams."
+  },
+  {
+    "event_id": 128,
+    "event_start_time": "15:52:30",
+    "event_end_time": "15:55:30",
+    "game_clock": "02:35.00",
+    "caption": "T. Jones commits a personal foul."
+  },
+  {
+    "event_id": 133,
+    "event_start_time": "19:10:00",
+    "event_end_time": "19:18:30",
+    "game_clock": "02:16.00",
+    "caption": "F. Wagner makes a driving finger roll two-pointer."
+  },
+  {
+    "event_id": 134,
+    "event_start_time": "19:15:30",
+    "event_end_time": "19:22:30",
+    "game_clock": "02:13.00",
+    "caption": "A. Dosunmu misses a driving layup two-pointer. G. Bitadze grabs the defensive rebound after A. Dosunmu's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 136,
+    "event_start_time": "19:20:00",
+    "event_end_time": "19:28:30",
+    "game_clock": "02:06.00",
+    "caption": "T. da Silva makes a layup two-pointer, assisted by J. Howard."
+  },
+  {
+    "event_id": 138,
+    "event_start_time": "19:36:30",
+    "event_end_time": "19:43:30",
+    "game_clock": "01:52.00",
+    "caption": "P. Williams misses a cutting layup two-pointer. A. Black grabs the defensive rebound after P. Williams' missed layup two-pointer."
+  },
+  {
+    "event_id": 140,
+    "event_start_time": "19:42:00",
+    "event_end_time": "19:50:30",
+    "game_clock": "01:44.00",
+    "caption": "A. Black makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 141,
+    "event_start_time": "19:53:30",
+    "event_end_time": "20:02:30",
+    "game_clock": "01:35.00",
+    "caption": "J. Smith misses a turnaround hook two-pointer. K. Huerter grabs the offensive rebound after J. Smith's missed turnaround hook two-pointer. K. Huerter's tip layup two-pointer is missed."
+  },
+  {
+    "event_id": 144,
+    "event_start_time": "19:56:30",
+    "event_end_time": "20:02:30",
+    "game_clock": "01:31.00",
+    "caption": "K. Huerter grabs the offensive rebound."
+  },
+  {
+    "event_id": 145,
+    "event_start_time": "19:56:00",
+    "event_end_time": "20:04:30",
+    "game_clock": "01:30.00",
+    "caption": "K. Huerter makes a fadeaway two-pointer. F. Wagner commits a personal foul."
+  },
+  {
+    "event_id": 151,
+    "event_start_time": "20:53:30",
+    "event_end_time": "21:00:30",
+    "game_clock": "01:16.00",
+    "caption": "F. Wagner misses a driving floating two-pointer."
+  },
+  {
+    "event_id": 156,
+    "event_start_time": "21:18:30",
+    "event_end_time": "21:27:00",
+    "game_clock": "01:02.00",
+    "caption": "T. Jones makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 157,
+    "event_start_time": "21:26:57",
+    "event_end_time": "21:35:27",
+    "game_clock": "00:54.00",
+    "caption": "T. da Silva makes a cutting layup two-pointer, assisted by G. Bitadze."
+  },
+  {
+    "event_id": 159,
+    "event_start_time": "21:42:03",
+    "event_end_time": "21:50:33",
+    "game_clock": "00:40.50",
+    "caption": "J. Smith makes a turnaround two-pointer. J. Howard commits a personal foul."
+  },
+  {
+    "event_id": 163,
+    "event_start_time": "22:17:09",
+    "event_end_time": "22:22:09",
+    "game_clock": "00:37.10",
+    "caption": "G. Bitadze grabs the defensive rebound."
+  },
+  {
+    "event_id": 164,
+    "event_start_time": "22:20:18",
+    "event_end_time": "22:28:48",
+    "game_clock": "00:31.40",
+    "caption": "F. Wagner makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 165,
+    "event_start_time": "22:30:09",
+    "event_end_time": "22:35:09",
+    "game_clock": "00:26.40",
+    "caption": "T. Jones' driving layup two-pointer is blocked by J. Howard. J. Howard blocks T. Jones's layup two-pointer. F. Wagner grabs the defensive rebound after T. Jones' missed driving layup two-pointer."
+  },
+  {
+    "event_id": 169,
+    "event_start_time": "22:52:45",
+    "event_end_time": "22:56:45",
+    "game_clock": "00:04.80",
+    "caption": "T. Jones steals the ball from A. Black on a bad pass."
+  },
+  {
+    "event_id": 170,
+    "event_start_time": "22:56:15",
+    "event_end_time": "23:03:15",
+    "game_clock": "00:00.30",
+    "caption": "A. Dosunmu misses a driving floating two-pointer. I. Okoro grabs the offensive rebound after A. Dosunmu's missed driving floating two-pointer."
+  }
+]
