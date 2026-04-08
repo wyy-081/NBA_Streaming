@@ -1,0 +1,408 @@
+[
+  {
+    "event_id": 313,
+    "event_start_time": "00:06:00",
+    "event_end_time": "00:09:00",
+    "game_clock": "11:45.00",
+    "caption": "J. Williams is called for a kicked ball violation."
+  },
+  {
+    "event_id": 315,
+    "event_start_time": "00:24:00",
+    "event_end_time": "00:28:00",
+    "game_clock": "11:42.00",
+    "caption": "B. Barnhizer steals the ball from P. Watson on a bad pass."
+  },
+  {
+    "event_id": 316,
+    "event_start_time": "00:40:00",
+    "event_end_time": "00:47:00",
+    "game_clock": "11:25.00",
+    "caption": "C. Wallace misses a jump shot three-pointer. J. Valančiūnas grabs the defensive rebound after C. Wallace's missed three-pointer."
+  },
+  {
+    "event_id": 318,
+    "event_start_time": "01:05:00",
+    "event_end_time": "01:12:00",
+    "game_clock": "11:00.00",
+    "caption": "T. Hardaway Jr. misses a pullup three-pointer. J. Williams grabs the defensive rebound after T. Hardaway Jr.'s missed pullup three-pointer."
+  },
+  {
+    "event_id": 320,
+    "event_start_time": "01:17:30",
+    "event_end_time": "01:26:00",
+    "game_clock": "10:45.00",
+    "caption": "C. Wallace makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 321,
+    "event_start_time": "01:33:00",
+    "event_end_time": "01:36:00",
+    "game_clock": "10:35.00",
+    "caption": "J. Williams commits a personal foul."
+  },
+  {
+    "event_id": 323,
+    "event_start_time": "02:00:00",
+    "event_end_time": "02:05:00",
+    "game_clock": "10:26.00",
+    "caption": "B. Brown's driving layup two-pointer is blocked by J. Williams. J. Williams blocks B. Brown's driving layup two-pointer. C. Wallace grabs the defensive rebound after B. Brown's driving layup two-pointer is blocked."
+  },
+  {
+    "event_id": 326,
+    "event_start_time": "02:17:30",
+    "event_end_time": "02:26:00",
+    "game_clock": "10:06.00",
+    "caption": "C. Wallace makes a step back three-pointer, assisted by J. Williams."
+  },
+  {
+    "event_id": 328,
+    "event_start_time": "02:39:00",
+    "event_end_time": "02:46:00",
+    "game_clock": "09:47.00",
+    "caption": "P. Watson misses a floating two-pointer. P. Watson grabs the offensive rebound after missing his floating two-pointer."
+  },
+  {
+    "event_id": 330,
+    "event_start_time": "02:39:30",
+    "event_end_time": "02:48:00",
+    "game_clock": "09:44.00",
+    "caption": "Cameron Johnson makes a jump shot three-pointer, assisted by Paul Watson."
+  },
+  {
+    "event_id": 332,
+    "event_start_time": "02:55:00",
+    "event_end_time": "02:58:00",
+    "game_clock": "09:34.00",
+    "caption": "B. Brown commits a personal foul."
+  },
+  {
+    "event_id": 334,
+    "event_start_time": "03:17:00",
+    "event_end_time": "03:20:00",
+    "game_clock": "09:28.00",
+    "caption": "B. Brown commits a personal foul."
+  },
+  {
+    "event_id": 336,
+    "event_start_time": "03:38:30",
+    "event_end_time": "03:43:30",
+    "game_clock": "09:22.00",
+    "caption": "C. Wallace's driving layup two-pointer is blocked by J. Valančiūnas. J. Valančiūnas blocks C. Wallace's layup two-pointer. Cameron Johnson grabs the defensive rebound after C. Wallace's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 340,
+    "event_start_time": "03:56:30",
+    "event_end_time": "04:00:30",
+    "game_clock": "09:05.00",
+    "caption": "B. Barnhizer steals the ball from P. Watson on a bad pass."
+  },
+  {
+    "event_id": 341,
+    "event_start_time": "03:59:30",
+    "event_end_time": "04:06:30",
+    "game_clock": "09:01.00",
+    "caption": "C. Wallace misses a jump shot three-pointer. J. Valančiūnas grabs the defensive rebound after C. Wallace's missed three-pointer."
+  },
+  {
+    "event_id": 343,
+    "event_start_time": "04:15:30",
+    "event_end_time": "04:18:30",
+    "game_clock": "08:48.00",
+    "caption": "J. Valančiūnas commits an offensive foul."
+  },
+  {
+    "event_id": 346,
+    "event_start_time": "04:36:00",
+    "event_end_time": "04:44:30",
+    "game_clock": "08:35.00",
+    "caption": "J. Williams makes a jump shot three-pointer, assisted by B. Barnhizer."
+  },
+  {
+    "event_id": 348,
+    "event_start_time": "04:59:00",
+    "event_end_time": "05:07:30",
+    "game_clock": "08:12.00",
+    "caption": "Cameron Johnson makes a driving layup two-pointer, assisted by Patrick Watson."
+  },
+  {
+    "event_id": 350,
+    "event_start_time": "05:15:30",
+    "event_end_time": "05:20:30",
+    "game_clock": "07:58.00",
+    "caption": "A. Wiggins' driving layup two-pointer is blocked by J. Valančiūnas. J. Valančiūnas blocks A. Wiggins's layup two-pointer. T. Hardaway Jr. grabs the defensive rebound after A. Wiggins' driving layup two-pointer is blocked."
+  },
+  {
+    "event_id": 353,
+    "event_start_time": "05:22:30",
+    "event_end_time": "05:25:30",
+    "game_clock": "07:54.00",
+    "caption": "P. Watson commits an offensive foul."
+  },
+  {
+    "event_id": 356,
+    "event_start_time": "05:49:30",
+    "event_end_time": "05:58:00",
+    "game_clock": "07:37.00",
+    "caption": "O. Dieng makes a jump shot two-pointer."
+  },
+  {
+    "event_id": 357,
+    "event_start_time": "06:06:00",
+    "event_end_time": "06:09:00",
+    "game_clock": "07:26.00",
+    "caption": "Cameron Johnson commits an offensive foul."
+  },
+  {
+    "event_id": 360,
+    "event_start_time": "06:28:00",
+    "event_end_time": "06:33:00",
+    "game_clock": "07:14.00",
+    "caption": "P. Watson blocks J. Williams' dunk two-pointer. P. Watson blocks J. Williams' dunk two-pointer. J. Williams grabs the offensive rebound after missing his dunk two-pointer."
+  },
+  {
+    "event_id": 363,
+    "event_start_time": "06:35:00",
+    "event_end_time": "06:42:00",
+    "game_clock": "07:07.00",
+    "caption": "A. Wiggins misses a step back three-pointer. J. Williams grabs the offensive rebound after A. Wiggins's missed jump shot three-pointer. J. Valančiūnas commits a shooting personal foul."
+  },
+  {
+    "event_id": 370,
+    "event_start_time": "08:45:30",
+    "event_end_time": "08:52:30",
+    "game_clock": "06:44.00",
+    "caption": "Cameron Johnson misses a driving layup two-pointer. C. Wallace grabs the defensive rebound after C. Johnson's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 372,
+    "event_start_time": "08:55:30",
+    "event_end_time": "09:02:30",
+    "game_clock": "06:34.00",
+    "caption": "A. Wiggins misses a driving layup two-pointer. J. Valančiūnas grabs the defensive rebound after A. Wiggins' missed driving layup two-pointer."
+  },
+  {
+    "event_id": 375,
+    "event_start_time": "09:04:00",
+    "event_end_time": "09:12:30",
+    "game_clock": "06:23.00",
+    "caption": "B. Brown makes a jump shot three-pointer, assisted by T. Hardaway Jr."
+  },
+  {
+    "event_id": 384,
+    "event_start_time": "12:17:00",
+    "event_end_time": "12:24:00",
+    "game_clock": "06:10.00",
+    "caption": "B. Carlson misses a jump shot three-pointer. B. Brown grabs the defensive rebound after B. Carlson's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 387,
+    "event_start_time": "12:54:30",
+    "event_end_time": "13:01:30",
+    "game_clock": "05:46.00",
+    "caption": "Cameron Johnson misses a fadeaway three-pointer. O. Dieng grabs the defensive rebound after Cameron Johnson's missed three-pointer."
+  },
+  {
+    "event_id": 389,
+    "event_start_time": "13:10:30",
+    "event_end_time": "13:17:30",
+    "game_clock": "05:30.00",
+    "caption": "C. Youngblood misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 392,
+    "event_start_time": "13:33:00",
+    "event_end_time": "13:40:00",
+    "game_clock": "05:26.00",
+    "caption": "O. Dieng misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 395,
+    "event_start_time": "13:51:30",
+    "event_end_time": "14:00:00",
+    "game_clock": "05:12.00",
+    "caption": "B. Brown makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 396,
+    "event_start_time": "14:03:30",
+    "event_end_time": "14:12:00",
+    "game_clock": "05:00.00",
+    "caption": "C. Wallace makes a driving dunk two-pointer."
+  },
+  {
+    "event_id": 397,
+    "event_start_time": "14:24:00",
+    "event_end_time": "14:27:00",
+    "game_clock": "04:45.00",
+    "caption": "C. Wallace commits a personal foul."
+  },
+  {
+    "event_id": 401,
+    "event_start_time": "14:47:00",
+    "event_end_time": "14:54:00",
+    "game_clock": "04:37.00",
+    "caption": "P. Watson misses a jump shot three-pointer. C. Youngblood grabs the defensive rebound after P. Watson's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 403,
+    "event_start_time": "15:03:00",
+    "event_end_time": "15:10:00",
+    "game_clock": "04:21.00",
+    "caption": "C. Wallace misses a driving finger roll two-pointer. P. Watson grabs the defensive rebound after C. Wallace's missed driving finger roll layup two-pointer. O. Dieng commits a personal foul."
+  },
+  {
+    "event_id": 411,
+    "event_start_time": "16:25:00",
+    "event_end_time": "16:33:30",
+    "game_clock": "04:02.00",
+    "caption": "B. Carlson makes a cutting dunk two-pointer, assisted by C. Wallace."
+  },
+  {
+    "event_id": 413,
+    "event_start_time": "16:44:30",
+    "event_end_time": "16:51:30",
+    "game_clock": "03:45.00",
+    "caption": "B. Brown misses a pullup two-pointer. C. Wallace grabs the defensive rebound after B. Brown's missed pullup two-pointer."
+  },
+  {
+    "event_id": 415,
+    "event_start_time": "16:49:30",
+    "event_end_time": "16:52:30",
+    "game_clock": "03:43.00",
+    "caption": "B. Brown commits a personal foul."
+  },
+  {
+    "event_id": 426,
+    "event_start_time": "17:36:00",
+    "event_end_time": "17:40:00",
+    "game_clock": "03:22.00",
+    "caption": "S. Jones steals the ball from J. Williams on a lost ball."
+  },
+  {
+    "event_id": 427,
+    "event_start_time": "17:45:00",
+    "event_end_time": "17:49:00",
+    "game_clock": "03:15.00",
+    "caption": "B. Carlson commits a personal foul."
+  },
+  {
+    "event_id": 434,
+    "event_start_time": "18:27:30",
+    "event_end_time": "18:32:30",
+    "game_clock": "03:12.00",
+    "caption": "J. Williams grabs the defensive rebound."
+  },
+  {
+    "event_id": 436,
+    "event_start_time": "18:38:30",
+    "event_end_time": "18:42:30",
+    "game_clock": "03:02.00",
+    "caption": "S. Jones steals the ball from M. Leons on a bad pass."
+  },
+  {
+    "event_id": 437,
+    "event_start_time": "18:39:00",
+    "event_end_time": "18:47:30",
+    "game_clock": "02:58.00",
+    "caption": "H. Tyson makes a running layup two-pointer."
+  },
+  {
+    "event_id": 440,
+    "event_start_time": "22:07:00",
+    "event_end_time": "22:10:00",
+    "game_clock": "02:35.00",
+    "caption": "A. Wiggins is called for an out-of-bounds turnover."
+  },
+  {
+    "event_id": 441,
+    "event_start_time": "22:36:00",
+    "event_end_time": "22:43:00",
+    "game_clock": "02:17.00",
+    "caption": "H. Tyson misses a pullup three-pointer. J. Williams grabs the defensive rebound after H. Tyson's missed pullup three-pointer."
+  },
+  {
+    "event_id": 443,
+    "event_start_time": "22:48:00",
+    "event_end_time": "22:55:00",
+    "game_clock": "02:05.00",
+    "caption": "C. Youngblood misses a pullup three-pointer. J. Strawther grabs the defensive rebound after C. Youngblood's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 445,
+    "event_start_time": "23:10:00",
+    "event_end_time": "23:17:00",
+    "game_clock": "01:43.00",
+    "caption": "Z. Nnaji misses a jump shot three-pointer. C. Youngblood grabs the defensive rebound after Z. Nnaji's missed three-pointer."
+  },
+  {
+    "event_id": 447,
+    "event_start_time": "23:17:00",
+    "event_end_time": "23:20:00",
+    "game_clock": "01:39.00",
+    "caption": "J. Pickett commits a personal foul."
+  },
+  {
+    "event_id": 451,
+    "event_start_time": "24:09:00",
+    "event_end_time": "24:16:00",
+    "game_clock": "01:28.00",
+    "caption": "J. Pickett misses a jump shot three-pointer. H. Tyson grabs the offensive rebound after J. Pickett's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 453,
+    "event_start_time": "24:16:00",
+    "event_end_time": "24:23:00",
+    "game_clock": "01:21.00",
+    "caption": "Z. Nnaji misses a jump shot three-pointer. H. Tyson grabs the offensive rebound after Z. Nnaji's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 455,
+    "event_start_time": "24:21:00",
+    "event_end_time": "24:26:00",
+    "game_clock": "01:16.00",
+    "caption": "H. Tyson's tip dunk two-pointer is blocked by Draymond Green. J. Williams grabs the defensive rebound after H. Tyson's missed tip dunk."
+  },
+  {
+    "event_id": 458,
+    "event_start_time": "24:52:30",
+    "event_end_time": "24:59:30",
+    "game_clock": "01:03.00",
+    "caption": "A. Wiggins misses a driving layup two-pointer. Z. Nnaji grabs the defensive rebound after A. Wiggins' missed driving layup two-pointer."
+  },
+  {
+    "event_id": 460,
+    "event_start_time": "25:01:42",
+    "event_end_time": "25:10:12",
+    "game_clock": "00:52.10",
+    "caption": "Z. Nnaji makes a reverse layup two-pointer, assisted by H. Tyson."
+  },
+  {
+    "event_id": 462,
+    "event_start_time": "25:21:15",
+    "event_end_time": "25:29:45",
+    "game_clock": "00:35.20",
+    "caption": "A. Wiggins makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 463,
+    "event_start_time": "25:47:45",
+    "event_end_time": "25:54:45",
+    "game_clock": "00:14.80",
+    "caption": "J. Pickett misses a pullup two-pointer. B. Carlson grabs the defensive rebound after J. Pickett's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 465,
+    "event_start_time": "24:23:00",
+    "event_end_time": "24:26:00",
+    "game_clock": "01:16.00",
+    "caption": "M. Leons blocks [Player]'s [technical action] [two-pointer/three-pointer]."
+  },
+  {
+    "event_id": 466,
+    "event_start_time": "26:01:51",
+    "event_end_time": "26:08:51",
+    "game_clock": "00:00.70",
+    "caption": "J. Williams misses a pullup three-pointer."
+  }
+]

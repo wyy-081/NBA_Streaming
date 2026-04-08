@@ -1,0 +1,450 @@
+[
+  {
+    "event_id": 4,
+    "event_start_time": "00:06:00",
+    "event_end_time": "00:11:00",
+    "game_clock": "11:56.00",
+    "caption": "Jump ball between J. Jackson Jr. and Y. Missi, J. Morant recovers the tip."
+  },
+  {
+    "event_id": 8,
+    "event_start_time": "00:15:00",
+    "event_end_time": "00:19:00",
+    "game_clock": "11:47.00",
+    "caption": "Y. Missi steals the ball from J. Jackson Jr. on a bad pass."
+  },
+  {
+    "event_id": 9,
+    "event_start_time": "00:15:30",
+    "event_end_time": "00:24:00",
+    "game_clock": "11:43.00",
+    "caption": "J. Poole makes a driving floating jump shot two-pointer."
+  },
+  {
+    "event_id": 10,
+    "event_start_time": "00:37:30",
+    "event_end_time": "00:46:00",
+    "game_clock": "11:21.00",
+    "caption": "J. Morant makes a step back jump shot two-pointer."
+  },
+  {
+    "event_id": 11,
+    "event_start_time": "00:55:00",
+    "event_end_time": "00:58:00",
+    "game_clock": "11:09.00",
+    "caption": "J. Morant commits a personal foul."
+  },
+  {
+    "event_id": 13,
+    "event_start_time": "01:25:00",
+    "event_end_time": "01:32:00",
+    "game_clock": "11:00.00",
+    "caption": "Z. Williamson misses a step back jump shot. J. Wells grabs the defensive rebound after Z. Williamson's missed jump shot."
+  },
+  {
+    "event_id": 15,
+    "event_start_time": "01:32:00",
+    "event_end_time": "01:35:00",
+    "game_clock": "10:56.00",
+    "caption": "J. Poole commits a personal foul."
+  },
+  {
+    "event_id": 18,
+    "event_start_time": "02:23:30",
+    "event_end_time": "02:30:30",
+    "game_clock": "10:42.00",
+    "caption": "J. Wells misses a jump shot three-pointer. H. Jones grabs the defensive rebound after J. Wells' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 20,
+    "event_start_time": "02:30:00",
+    "event_end_time": "02:38:30",
+    "game_clock": "10:33.00",
+    "caption": "J. Poole makes a jump shot three-pointer, assisted by Y. Missi."
+  },
+  {
+    "event_id": 22,
+    "event_start_time": "02:46:30",
+    "event_end_time": "02:53:30",
+    "game_clock": "10:19.00",
+    "caption": "K. Caldwell-Pope misses a pullup two-pointer."
+  },
+  {
+    "event_id": 25,
+    "event_start_time": "03:11:30",
+    "event_end_time": "03:18:30",
+    "game_clock": "10:11.00",
+    "caption": "J. Morant misses a pullup three-pointer. Z. Williamson grabs the defensive rebound after J. Morant's missed pullup three-pointer."
+  },
+  {
+    "event_id": 27,
+    "event_start_time": "03:21:30",
+    "event_end_time": "03:25:30",
+    "game_clock": "10:04.00",
+    "caption": "K. Caldwell-Pope commits a shooting personal foul."
+  },
+  {
+    "event_id": 32,
+    "event_start_time": "04:00:30",
+    "event_end_time": "04:05:30",
+    "game_clock": "10:02.00",
+    "caption": "J. Morant grabs the defensive rebound."
+  },
+  {
+    "event_id": 33,
+    "event_start_time": "04:16:30",
+    "event_end_time": "04:19:30",
+    "game_clock": "09:49.00",
+    "caption": "J. Jackson Jr. commits an offensive foul."
+  },
+  {
+    "event_id": 36,
+    "event_start_time": "04:42:00",
+    "event_end_time": "04:45:00",
+    "game_clock": "09:38.00",
+    "caption": "J. Wells commits a personal foul."
+  },
+  {
+    "event_id": 38,
+    "event_start_time": "05:09:00",
+    "event_end_time": "05:14:00",
+    "game_clock": "09:31.00",
+    "caption": "Z. Williamson's driving layup two-pointer is blocked by J. Landale. J. Landale blocks Z. Williamson's layup two-pointer."
+  },
+  {
+    "event_id": 42,
+    "event_start_time": "05:35:30",
+    "event_end_time": "05:44:00",
+    "game_clock": "09:27.00",
+    "caption": "J. Poole makes a jump shot three-pointer, assisted by Z. Williamson."
+  },
+  {
+    "event_id": 44,
+    "event_start_time": "05:47:30",
+    "event_end_time": "05:56:00",
+    "game_clock": "09:15.00",
+    "caption": "J. Morant makes a driving floating jump shot two-pointer."
+  },
+  {
+    "event_id": 50,
+    "event_start_time": "06:38:00",
+    "event_end_time": "06:46:30",
+    "game_clock": "08:48.00",
+    "caption": "H. Jones makes a step back three-pointer, assisted by T. Murphy III."
+  },
+  {
+    "event_id": 53,
+    "event_start_time": "09:57:30",
+    "event_end_time": "10:00:30",
+    "game_clock": "08:36.00",
+    "caption": "H. Jones commits a personal foul."
+  },
+  {
+    "event_id": 55,
+    "event_start_time": "10:26:30",
+    "event_end_time": "10:31:30",
+    "game_clock": "08:25.00",
+    "caption": "S. Aldama's jump shot three-pointer is blocked by H. Jones. H. Jones blocks S. Aldama's jump shot three-pointer. Z. Williamson grabs the defensive rebound after S. Aldama's missed three-pointer."
+  },
+  {
+    "event_id": 58,
+    "event_start_time": "10:35:00",
+    "event_end_time": "10:43:30",
+    "game_clock": "08:14.00",
+    "caption": "T. Murphy III makes a pullup two-pointer, assisted by J. Poole."
+  },
+  {
+    "event_id": 61,
+    "event_start_time": "10:49:30",
+    "event_end_time": "10:53:30",
+    "game_clock": "08:03.00",
+    "caption": "Z. Williamson steals the ball from J. Morant on a bad pass."
+  },
+  {
+    "event_id": 62,
+    "event_start_time": "10:54:30",
+    "event_end_time": "11:01:30",
+    "game_clock": "07:57.00",
+    "caption": "J. Poole misses a running three-pointer. J. Landale grabs the defensive rebound after J. Poole's missed three-pointer."
+  },
+  {
+    "event_id": 64,
+    "event_start_time": "11:06:00",
+    "event_end_time": "11:14:30",
+    "game_clock": "07:43.00",
+    "caption": "O. Prosper makes a cutting dunk two-pointer, assisted by J. Wells."
+  },
+  {
+    "event_id": 65,
+    "event_start_time": "11:24:00",
+    "event_end_time": "11:27:00",
+    "game_clock": "07:31.00",
+    "caption": "Y. Missi is called for a traveling violation."
+  },
+  {
+    "event_id": 69,
+    "event_start_time": "11:53:00",
+    "event_end_time": "11:56:00",
+    "game_clock": "07:22.00",
+    "caption": "S. Aldama commits an offensive foul."
+  },
+  {
+    "event_id": 72,
+    "event_start_time": "12:13:30",
+    "event_end_time": "12:22:00",
+    "game_clock": "07:07.00",
+    "caption": "H. Jones makes a jump shot three-pointer, assisted by T. Murphy III."
+  },
+  {
+    "event_id": 74,
+    "event_start_time": "12:25:30",
+    "event_end_time": "12:34:00",
+    "game_clock": "06:55.00",
+    "caption": "J. Wells makes a pullup three-pointer."
+  },
+  {
+    "event_id": 75,
+    "event_start_time": "12:48:00",
+    "event_end_time": "12:55:00",
+    "game_clock": "06:35.00",
+    "caption": "S. Bey misses a driving finger roll two-pointer."
+  },
+  {
+    "event_id": 84,
+    "event_start_time": "13:20:00",
+    "event_end_time": "13:27:00",
+    "game_clock": "06:23.00",
+    "caption": "S. Aldama misses a jump shot three-pointer. H. Jones grabs the defensive rebound after S. Aldama's missed three-pointer."
+  },
+  {
+    "event_id": 86,
+    "event_start_time": "13:31:00",
+    "event_end_time": "13:43:00",
+    "game_clock": "06:12.00",
+    "caption": "H. Jones misses a pullup three-pointer. Y. Missi grabs the offensive rebound after H. Jones's missed jump shot three-pointer. Y. Missi makes a tip layup two-pointer."
+  },
+  {
+    "event_id": 89,
+    "event_start_time": "13:47:00",
+    "event_end_time": "13:54:00",
+    "game_clock": "05:56.00",
+    "caption": "K. Caldwell-Pope misses a jump shot three-pointer. T. Murphy III grabs the defensive rebound after K. Caldwell-Pope's missed three-pointer."
+  },
+  {
+    "event_id": 91,
+    "event_start_time": "13:52:30",
+    "event_end_time": "14:01:00",
+    "game_clock": "05:48.00",
+    "caption": "T. Murphy III makes a running layup two-pointer, assisted by J. Poole."
+  },
+  {
+    "event_id": 94,
+    "event_start_time": "14:05:00",
+    "event_end_time": "14:09:00",
+    "game_clock": "05:39.00",
+    "caption": "H. Jones steals the ball from J. Small on a bad pass."
+  },
+  {
+    "event_id": 95,
+    "event_start_time": "14:12:30",
+    "event_end_time": "14:21:00",
+    "game_clock": "05:28.00",
+    "caption": "J. Poole makes a driving floating jump shot two-pointer."
+  },
+  {
+    "event_id": 96,
+    "event_start_time": "14:28:00",
+    "event_end_time": "14:35:00",
+    "game_clock": "05:15.00",
+    "caption": "J. Jackson Jr. misses a jump shot three-pointer. H. Jones grabs the defensive rebound after J. Jackson Jr.'s missed jump shot three-pointer."
+  },
+  {
+    "event_id": 98,
+    "event_start_time": "14:43:30",
+    "event_end_time": "14:52:00",
+    "game_clock": "04:57.00",
+    "caption": "T. Murphy III makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 106,
+    "event_start_time": "18:04:00",
+    "event_end_time": "18:11:00",
+    "game_clock": "04:45.00",
+    "caption": "J. Jackson Jr. misses a jump shot three-pointer. J. Hawkins grabs the defensive rebound after J. Jackson Jr.'s missed jump shot three-pointer."
+  },
+  {
+    "event_id": 108,
+    "event_start_time": "18:29:00",
+    "event_end_time": "18:36:00",
+    "game_clock": "04:20.00",
+    "caption": "T. Murphy III misses a floating three-pointer."
+  },
+  {
+    "event_id": 111,
+    "event_start_time": "18:52:00",
+    "event_end_time": "19:00:30",
+    "game_clock": "04:08.00",
+    "caption": "J. Jackson Jr. makes a driving finger roll two-pointer, assisted by J. Small."
+  },
+  {
+    "event_id": 114,
+    "event_start_time": "19:07:30",
+    "event_end_time": "19:11:30",
+    "game_clock": "03:56.00",
+    "caption": "C. Coward steals the ball from H. Dickinson on a bad pass."
+  },
+  {
+    "event_id": 115,
+    "event_start_time": "19:15:30",
+    "event_end_time": "19:19:30",
+    "game_clock": "03:50.00",
+    "caption": "T. Murphy III commits a personal foul."
+  },
+  {
+    "event_id": 123,
+    "event_start_time": "20:15:00",
+    "event_end_time": "20:23:30",
+    "game_clock": "03:30.00",
+    "caption": "J. Fears makes a fadeaway jump shot two-pointer."
+  },
+  {
+    "event_id": 124,
+    "event_start_time": "20:30:00",
+    "event_end_time": "20:38:30",
+    "game_clock": "03:15.00",
+    "caption": "J. Jackson Jr. makes a driving floating jump shot two-pointer, assisted by S. Aldama. H. Dickinson commits a personal foul."
+  },
+  {
+    "event_id": 129,
+    "event_start_time": "21:12:00",
+    "event_end_time": "21:19:00",
+    "game_clock": "03:03.00",
+    "caption": "Z. Williamson misses a driving layup two-pointer. Z. Williamson grabs the offensive rebound after missing his driving layup two-pointer."
+  },
+  {
+    "event_id": 132,
+    "event_start_time": "21:16:00",
+    "event_end_time": "21:21:00",
+    "game_clock": "02:59.00",
+    "caption": "Z. Williamson's driving layup two-pointer is blocked by S. Aldama. S. Aldama blocks Z. Williamson's layup two-pointer. J. Jackson Jr. grabs the defensive rebound after Z. Williamson's driving layup two-pointer is blocked."
+  },
+  {
+    "event_id": 135,
+    "event_start_time": "21:25:00",
+    "event_end_time": "21:30:00",
+    "game_clock": "02:50.00",
+    "caption": "S. Aldama's driving layup two-pointer is blocked by Draymond Green. J. Jackson Jr. grabs the offensive rebound after S. Aldama's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 137,
+    "event_start_time": "21:35:00",
+    "event_end_time": "21:42:00",
+    "game_clock": "02:40.00",
+    "caption": "J. Jackson Jr. misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 142,
+    "event_start_time": "22:01:30",
+    "event_end_time": "22:08:30",
+    "game_clock": "02:36.00",
+    "caption": "K. Caldwell-Pope misses a jump shot three-pointer. Z. Williamson grabs the defensive rebound after K. Caldwell-Pope's missed three-pointer."
+  },
+  {
+    "event_id": 144,
+    "event_start_time": "22:05:30",
+    "event_end_time": "22:08:30",
+    "game_clock": "02:35.00",
+    "caption": "C. Coward commits a personal foul."
+  },
+  {
+    "event_id": 147,
+    "event_start_time": "22:35:30",
+    "event_end_time": "22:39:30",
+    "game_clock": "02:22.00",
+    "caption": "C. Coward steals the ball from J. Hawkins on a lost ball."
+  },
+  {
+    "event_id": 148,
+    "event_start_time": "22:34:00",
+    "event_end_time": "22:42:30",
+    "game_clock": "02:20.00",
+    "caption": "C. Coward makes a running layup two-pointer. J. Fears commits a personal foul."
+  },
+  {
+    "event_id": 153,
+    "event_start_time": "24:45:30",
+    "event_end_time": "24:54:00",
+    "game_clock": "02:09.00",
+    "caption": "H. Dickinson makes a floating jump shot two-pointer, assisted by J. Fears."
+  },
+  {
+    "event_id": 155,
+    "event_start_time": "25:09:00",
+    "event_end_time": "25:16:00",
+    "game_clock": "01:48.00",
+    "caption": "O. Prosper misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 165,
+    "event_start_time": "26:05:30",
+    "event_end_time": "26:08:30",
+    "game_clock": "01:39.00",
+    "caption": "H. Dickinson commits an offensive foul."
+  },
+  {
+    "event_id": 168,
+    "event_start_time": "26:27:30",
+    "event_end_time": "26:36:00",
+    "game_clock": "01:26.00",
+    "caption": "O. Prosper makes a driving dunk two-pointer, assisted by J. Morant."
+  },
+  {
+    "event_id": 170,
+    "event_start_time": "26:53:00",
+    "event_end_time": "27:00:00",
+    "game_clock": "01:03.00",
+    "caption": "H. Dickinson misses a jump shot two-pointer. J. Morant grabs the defensive rebound after H. Dickinson's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 172,
+    "event_start_time": "27:05:09",
+    "event_end_time": "27:13:39",
+    "game_clock": "00:48.90",
+    "caption": "J. Morant makes a pullup three-pointer."
+  },
+  {
+    "event_id": 173,
+    "event_start_time": "27:19:27",
+    "event_end_time": "27:26:27",
+    "game_clock": "00:38.70",
+    "caption": "J. Fears misses a driving reverse layup two-pointer. J. Morant grabs the defensive rebound after J. Fears' missed driving reverse layup two-pointer."
+  },
+  {
+    "event_id": 175,
+    "event_start_time": "27:22:51",
+    "event_end_time": "27:31:21",
+    "game_clock": "00:32.80",
+    "caption": "J. Wells makes a running three-pointer, assisted by J. Morant."
+  },
+  {
+    "event_id": 177,
+    "event_start_time": "27:50:48",
+    "event_end_time": "27:53:48",
+    "game_clock": "00:14.10",
+    "caption": "J. Wells commits a personal foul."
+  },
+  {
+    "event_id": 187,
+    "event_start_time": "28:53:06",
+    "event_end_time": "29:00:06",
+    "game_clock": "00:00.60",
+    "caption": "J. Morant misses a step back jump shot."
+  },
+  {
+    "event_id": 209,
+    "event_start_time": "21:27:00",
+    "event_end_time": "21:30:00",
+    "game_clock": "02:50.00",
+    "caption": "H. Dickinson blocks [Player]'s [technical action] [two-pointer/three-pointer]."
+  }
+]

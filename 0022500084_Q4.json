@@ -1,0 +1,464 @@
+[
+  {
+    "event_id": 578,
+    "event_start_time": "00:06:30",
+    "event_end_time": "00:13:30",
+    "game_clock": "11:46.00",
+    "caption": "J. Smith misses a jump shot three-pointer. A. Thompson grabs the defensive rebound after J. Smith's missed three-pointer."
+  },
+  {
+    "event_id": 580,
+    "event_start_time": "00:12:00",
+    "event_end_time": "00:20:30",
+    "game_clock": "11:38.00",
+    "caption": "A. Thompson makes a pullup two-pointer."
+  },
+  {
+    "event_id": 581,
+    "event_start_time": "00:39:30",
+    "event_end_time": "00:46:30",
+    "game_clock": "11:13.00",
+    "caption": "J. Giddey misses a driving layup two-pointer. I. Stewart grabs the defensive rebound after J. Giddey's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 583,
+    "event_start_time": "00:45:30",
+    "event_end_time": "00:50:30",
+    "game_clock": "11:07.00",
+    "caption": "J. Green's running layup two-pointer is blocked by M. Buzelis. M. Buzelis blocks J. Green's driving layup two-pointer. J. Smith grabs the defensive rebound after J. Green's running layup two-pointer is blocked."
+  },
+  {
+    "event_id": 587,
+    "event_start_time": "00:52:30",
+    "event_end_time": "00:56:30",
+    "game_clock": "11:01.00",
+    "caption": "J. Green steals the ball from J. Giddey on a bad pass."
+  },
+  {
+    "event_id": 588,
+    "event_start_time": "00:58:30",
+    "event_end_time": "01:02:30",
+    "game_clock": "10:57.00",
+    "caption": "J. Giddey commits a shooting personal foul."
+  },
+  {
+    "event_id": 596,
+    "event_start_time": "02:15:30",
+    "event_end_time": "02:22:30",
+    "game_clock": "10:31.00",
+    "caption": "M. Buzelis misses a jump shot three-pointer. C. Cunningham grabs the defensive rebound after M. Buzelis's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 598,
+    "event_start_time": "02:28:30",
+    "event_end_time": "02:32:30",
+    "game_clock": "10:21.00",
+    "caption": "T. Jones commits a personal foul."
+  },
+  {
+    "event_id": 605,
+    "event_start_time": "02:25:30",
+    "event_end_time": "02:30:30",
+    "game_clock": "10:21.00",
+    "caption": "I. Okoro grabs the defensive rebound."
+  },
+  {
+    "event_id": 606,
+    "event_start_time": "02:28:30",
+    "event_end_time": "02:31:30",
+    "game_clock": "10:21.00",
+    "caption": "I. Stewart commits a personal foul."
+  },
+  {
+    "event_id": 608,
+    "event_start_time": "03:40:00",
+    "event_end_time": "03:44:00",
+    "game_clock": "10:13.00",
+    "caption": "A. Thompson commits a personal foul."
+  },
+  {
+    "event_id": 612,
+    "event_start_time": "04:36:30",
+    "event_end_time": "04:41:30",
+    "game_clock": "10:11.00",
+    "caption": "C. Cunningham grabs the defensive rebound."
+  },
+  {
+    "event_id": 613,
+    "event_start_time": "04:53:00",
+    "event_end_time": "05:01:30",
+    "game_clock": "09:52.00",
+    "caption": "I. Stewart makes a jump shot three-pointer, assisted by A. Thompson."
+  },
+  {
+    "event_id": 615,
+    "event_start_time": "05:09:30",
+    "event_end_time": "05:16:30",
+    "game_clock": "09:38.00",
+    "caption": "A. Dosunmu misses a driving layup two-pointer. A. Dosunmu grabs the offensive rebound after missing his driving layup two-pointer."
+  },
+  {
+    "event_id": 617,
+    "event_start_time": "05:19:00",
+    "event_end_time": "05:27:30",
+    "game_clock": "09:26.00",
+    "caption": "M. Buzelis makes a cutting dunk two-pointer, assisted by I. Okoro."
+  },
+  {
+    "event_id": 619,
+    "event_start_time": "05:34:00",
+    "event_end_time": "05:41:00",
+    "game_clock": "09:15.00",
+    "caption": "C. Cunningham misses a fadeaway two-pointer."
+  },
+  {
+    "event_id": 625,
+    "event_start_time": "06:31:00",
+    "event_end_time": "06:38:00",
+    "game_clock": "09:07.00",
+    "caption": "C. Cunningham misses a pullup two-pointer. I. Stewart grabs the offensive rebound after C. Cunningham's missed pullup two-pointer."
+  },
+  {
+    "event_id": 627,
+    "event_start_time": "06:37:00",
+    "event_end_time": "06:44:00",
+    "game_clock": "09:01.00",
+    "caption": "I. Stewart misses a layup two-pointer. I. Stewart grabs the offensive rebound after missing his layup two-pointer. I. Stewart's tip layup two-pointer is missed."
+  },
+  {
+    "event_id": 631,
+    "event_start_time": "06:40:00",
+    "event_end_time": "06:44:00",
+    "game_clock": "09:01.00",
+    "caption": "I. Okoro commits a shooting personal foul."
+  },
+  {
+    "event_id": 639,
+    "event_start_time": "07:59:30",
+    "event_end_time": "08:06:30",
+    "game_clock": "08:45.00",
+    "caption": "P. Williams misses a jump shot three-pointer. C. Cunningham grabs the defensive rebound after P. Williams' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 641,
+    "event_start_time": "08:06:30",
+    "event_end_time": "08:11:30",
+    "game_clock": "08:38.00",
+    "caption": "C. Cunningham's running layup two-pointer is blocked by P. Williams. P. Williams blocks C. Cunningham's layup two-pointer. P. Williams grabs the defensive rebound after C. Cunningham's missed running layup two-pointer."
+  },
+  {
+    "event_id": 650,
+    "event_start_time": "06:38:00",
+    "event_end_time": "06:44:00",
+    "game_clock": "09:01.00",
+    "caption": "I. Stewart grabs the offensive rebound."
+  },
+  {
+    "event_id": 653,
+    "event_start_time": "11:42:00",
+    "event_end_time": "11:50:30",
+    "game_clock": "08:14.00",
+    "caption": "C. Cunningham makes a turnaround two-pointer."
+  },
+  {
+    "event_id": 654,
+    "event_start_time": "08:12:30",
+    "event_end_time": "08:15:30",
+    "game_clock": "08:34.00",
+    "caption": "M. Buzelis is called for an out-of-bounds turnover."
+  },
+  {
+    "event_id": 655,
+    "event_start_time": "12:04:30",
+    "event_end_time": "12:11:30",
+    "game_clock": "07:54.00",
+    "caption": "A. Dosunmu misses a jump shot three-pointer. M. Buzelis grabs the offensive rebound after A. Dosunmu's missed three-pointer."
+  },
+  {
+    "event_id": 657,
+    "event_start_time": "12:08:30",
+    "event_end_time": "12:15:30",
+    "game_clock": "07:50.00",
+    "caption": "A. Dosunmu misses a jump shot three-pointer. M. Buzelis grabs the offensive rebound after A. Dosunmu's missed three-pointer."
+  },
+  {
+    "event_id": 659,
+    "event_start_time": "12:17:30",
+    "event_end_time": "12:24:30",
+    "game_clock": "07:41.00",
+    "caption": "K. Huerter misses a step back three-pointer. J. Duren grabs the defensive rebound after K. Huerter's missed three-pointer."
+  },
+  {
+    "event_id": 661,
+    "event_start_time": "12:24:30",
+    "event_end_time": "12:29:30",
+    "game_clock": "07:34.00",
+    "caption": "C. LeVert's driving layup two-pointer is blocked by K. Huerter. K. Huerter blocks C. LeVert's layup two-pointer. C. Cunningham grabs the offensive rebound after C. LeVert's driving layup two-pointer is blocked."
+  },
+  {
+    "event_id": 664,
+    "event_start_time": "12:28:30",
+    "event_end_time": "12:31:30",
+    "game_clock": "07:33.00",
+    "caption": "N. Vučević commits a personal foul."
+  },
+  {
+    "event_id": 666,
+    "event_start_time": "13:03:00",
+    "event_end_time": "13:07:00",
+    "game_clock": "07:19.00",
+    "caption": "K. Huerter commits a shooting personal foul."
+  },
+  {
+    "event_id": 678,
+    "event_start_time": "14:12:30",
+    "event_end_time": "14:15:30",
+    "game_clock": "07:09.00",
+    "caption": "D. Robinson commits a personal foul."
+  },
+  {
+    "event_id": 682,
+    "event_start_time": "14:36:30",
+    "event_end_time": "14:45:00",
+    "game_clock": "06:59.00",
+    "caption": "K. Huerter makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 685,
+    "event_start_time": "15:02:00",
+    "event_end_time": "15:09:00",
+    "game_clock": "06:36.00",
+    "caption": "A. Thompson misses a jump shot two-pointer. M. Buzelis grabs the defensive rebound after A. Thompson's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 687,
+    "event_start_time": "15:14:00",
+    "event_end_time": "15:21:00",
+    "game_clock": "06:24.00",
+    "caption": "M. Buzelis misses a jump shot three-pointer. T. Harris grabs the defensive rebound after M. Buzelis's missed three-pointer."
+  },
+  {
+    "event_id": 689,
+    "event_start_time": "15:24:00",
+    "event_end_time": "15:31:00",
+    "game_clock": "06:14.00",
+    "caption": "J. Duren misses a driving layup two-pointer. M. Buzelis grabs the defensive rebound after J. Duren's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 692,
+    "event_start_time": "15:30:30",
+    "event_end_time": "15:39:00",
+    "game_clock": "06:05.00",
+    "caption": "M. Buzelis makes a finger roll layup two-pointer."
+  },
+  {
+    "event_id": 693,
+    "event_start_time": "15:47:30",
+    "event_end_time": "15:56:00",
+    "game_clock": "05:48.00",
+    "caption": "T. Harris makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 694,
+    "event_start_time": "15:56:00",
+    "event_end_time": "16:01:00",
+    "game_clock": "05:42.00",
+    "caption": "D. Terry's driving layup two-pointer is blocked by J. Duren. J. Duren blocks D. Terry's layup two-pointer. C. LeVert grabs the defensive rebound after D. Terry's driving layup two-pointer is blocked."
+  },
+  {
+    "event_id": 697,
+    "event_start_time": "16:11:30",
+    "event_end_time": "16:20:00",
+    "game_clock": "05:24.00",
+    "caption": "J. Duren makes a driving hook two-pointer."
+  },
+  {
+    "event_id": 698,
+    "event_start_time": "16:27:30",
+    "event_end_time": "16:36:00",
+    "game_clock": "05:08.00",
+    "caption": "N. Vučević makes a floating jump shot two-pointer, assisted by T. Jones."
+  },
+  {
+    "event_id": 711,
+    "event_start_time": "19:47:00",
+    "event_end_time": "19:55:30",
+    "game_clock": "04:55.00",
+    "caption": "C. Cunningham makes a jump shot three-pointer."
+  },
+  {
+    "event_id": 712,
+    "event_start_time": "20:09:30",
+    "event_end_time": "20:16:30",
+    "game_clock": "04:35.00",
+    "caption": "N. Vučević misses a turnaround hook two-pointer. A. Thompson grabs the defensive rebound after N. Vučević's missed turnaround hook two-pointer."
+  },
+  {
+    "event_id": 715,
+    "event_start_time": "20:15:00",
+    "event_end_time": "20:19:00",
+    "game_clock": "04:30.00",
+    "caption": "T. Jones steals the ball from A. Thompson on a bad pass."
+  },
+  {
+    "event_id": 716,
+    "event_start_time": "20:28:00",
+    "event_end_time": "20:36:30",
+    "game_clock": "04:14.00",
+    "caption": "N. Vučević makes a jump shot two-pointer, assisted by J. Giddey."
+  },
+  {
+    "event_id": 719,
+    "event_start_time": "21:08:30",
+    "event_end_time": "21:17:00",
+    "game_clock": "03:50.00",
+    "caption": "A. Thompson makes a reverse layup two-pointer, assisted by C. Cunningham."
+  },
+  {
+    "event_id": 721,
+    "event_start_time": "21:25:00",
+    "event_end_time": "21:28:00",
+    "game_clock": "03:39.00",
+    "caption": "R. Holland II commits a personal foul."
+  },
+  {
+    "event_id": 725,
+    "event_start_time": "22:03:00",
+    "event_end_time": "22:10:00",
+    "game_clock": "03:23.00",
+    "caption": "M. Buzelis misses a turnaround two-pointer. R. Holland II grabs the defensive rebound after M. Buzelis's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 727,
+    "event_start_time": "22:07:30",
+    "event_end_time": "22:16:00",
+    "game_clock": "03:16.00",
+    "caption": "R. Holland II makes a running layup two-pointer."
+  },
+  {
+    "event_id": 728,
+    "event_start_time": "22:27:00",
+    "event_end_time": "22:32:00",
+    "game_clock": "02:59.00",
+    "caption": "N. Vučević's driving layup two-pointer is blocked by I. Stewart. I. Stewart blocks N. Vučević's layup two-pointer. A. Thompson grabs the defensive rebound after N. Vučević's driving layup two-pointer is blocked."
+  },
+  {
+    "event_id": 731,
+    "event_start_time": "22:29:30",
+    "event_end_time": "22:38:00",
+    "game_clock": "02:54.00",
+    "caption": "R. Holland II makes a running three-pointer, assisted by A. Thompson."
+  },
+  {
+    "event_id": 733,
+    "event_start_time": "22:45:30",
+    "event_end_time": "22:54:00",
+    "game_clock": "02:38.00",
+    "caption": "N. Vučević makes a jump shot two-pointer, assisted by T. Jones."
+  },
+  {
+    "event_id": 735,
+    "event_start_time": "23:01:30",
+    "event_end_time": "23:10:00",
+    "game_clock": "02:22.00",
+    "caption": "C. Cunningham makes a fadeaway jump shot two-pointer."
+  },
+  {
+    "event_id": 736,
+    "event_start_time": "23:18:30",
+    "event_end_time": "23:27:00",
+    "game_clock": "02:05.00",
+    "caption": "M. Buzelis makes a dunk two-pointer, assisted by T. Jones."
+  },
+  {
+    "event_id": 738,
+    "event_start_time": "23:39:30",
+    "event_end_time": "23:48:00",
+    "game_clock": "01:47.00",
+    "caption": "C. Cunningham makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 739,
+    "event_start_time": "23:58:00",
+    "event_end_time": "24:06:30",
+    "game_clock": "01:31.00",
+    "caption": "N. Vučević makes a hook two-pointer, assisted by J. Giddey."
+  },
+  {
+    "event_id": 746,
+    "event_start_time": "26:20:00",
+    "event_end_time": "26:27:00",
+    "game_clock": "01:09.00",
+    "caption": "C. Cunningham misses a pullup two-pointer. N. Vučević grabs the defensive rebound after C. Cunningham's missed pullup two-pointer."
+  },
+  {
+    "event_id": 748,
+    "event_start_time": "26:38:45",
+    "event_end_time": "26:41:45",
+    "game_clock": "00:52.80",
+    "caption": "T. Jones is called for an out-of-bounds turnover."
+  },
+  {
+    "event_id": 749,
+    "event_start_time": "27:01:09",
+    "event_end_time": "27:08:09",
+    "game_clock": "00:38.60",
+    "caption": "C. Cunningham misses a pullup three-pointer. I. Okoro grabs the defensive rebound after C. Cunningham's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 751,
+    "event_start_time": "27:08:21",
+    "event_end_time": "27:11:21",
+    "game_clock": "00:34.40",
+    "caption": "R. Holland II commits a personal foul."
+  },
+  {
+    "event_id": 755,
+    "event_start_time": "28:00:51",
+    "event_end_time": "28:05:51",
+    "game_clock": "00:32.40",
+    "caption": "J. Duren grabs the defensive rebound."
+  },
+  {
+    "event_id": 757,
+    "event_start_time": "28:38:39",
+    "event_end_time": "28:47:09",
+    "game_clock": "00:19.90",
+    "caption": "C. Cunningham makes a driving layup two-pointer, assisted by J. Duren."
+  },
+  {
+    "event_id": 764,
+    "event_start_time": "28:52:03",
+    "event_end_time": "28:55:03",
+    "game_clock": "00:13.80",
+    "caption": "C. Cunningham commits a personal foul."
+  },
+  {
+    "event_id": 774,
+    "event_start_time": "36:18:03",
+    "event_end_time": "36:25:03",
+    "game_clock": "00:08.70",
+    "caption": "C. Cunningham misses a jump shot three-pointer. T. Harris grabs the offensive rebound after C. Cunningham's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 776,
+    "event_start_time": "36:23:39",
+    "event_end_time": "36:30:39",
+    "game_clock": "00:03.10",
+    "caption": "T. Harris misses a step back three-pointer. J. Giddey grabs the defensive rebound after T. Harris's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 778,
+    "event_start_time": "36:26:39",
+    "event_end_time": "36:29:39",
+    "game_clock": "00:03.10",
+    "caption": "C. Cunningham commits a personal foul."
+  },
+  {
+    "event_id": 785,
+    "event_start_time": "37:32:24",
+    "event_end_time": "37:39:24",
+    "game_clock": "00:00.30",
+    "caption": "R. Holland II misses a running three-pointer."
+  }
+]

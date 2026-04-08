@@ -1,0 +1,394 @@
+[
+  {
+    "event_id": 366,
+    "event_start_time": "00:05:00",
+    "event_end_time": "00:13:30",
+    "game_clock": "11:43.00",
+    "caption": "C. Cunningham makes a jump shot three-pointer, assisted by D. Robinson."
+  },
+  {
+    "event_id": 368,
+    "event_start_time": "00:22:00",
+    "event_end_time": "00:30:30",
+    "game_clock": "11:26.00",
+    "caption": "C. McCollum makes a jump shot three-pointer, assisted by K. Middleton."
+  },
+  {
+    "event_id": 370,
+    "event_start_time": "00:36:00",
+    "event_end_time": "00:44:30",
+    "game_clock": "11:12.00",
+    "caption": "J. Duren makes a cutting layup two-pointer, assisted by C. Cunningham."
+  },
+  {
+    "event_id": 373,
+    "event_start_time": "00:44:30",
+    "event_end_time": "00:48:30",
+    "game_clock": "11:07.00",
+    "caption": "C. Cunningham steals the ball from C. McCollum on a lost ball."
+  },
+  {
+    "event_id": 374,
+    "event_start_time": "00:41:00",
+    "event_end_time": "00:49:30",
+    "game_clock": "11:07.00",
+    "caption": "J. Duren makes a running layup two-pointer, assisted by C. Cunningham."
+  },
+  {
+    "event_id": 376,
+    "event_start_time": "01:12:30",
+    "event_end_time": "01:21:00",
+    "game_clock": "10:38.00",
+    "caption": "K. George makes a pullup two-pointer, assisted by C. McCollum."
+  },
+  {
+    "event_id": 378,
+    "event_start_time": "01:34:00",
+    "event_end_time": "01:41:00",
+    "game_clock": "10:19.00",
+    "caption": "D. Robinson misses a jump shot three-pointer. K. George grabs the defensive rebound after D. Robinson's missed three-pointer."
+  },
+  {
+    "event_id": 380,
+    "event_start_time": "01:41:30",
+    "event_end_time": "01:50:00",
+    "game_clock": "10:09.00",
+    "caption": "K. George makes a pullup three-pointer. K. George commits a personal foul."
+  },
+  {
+    "event_id": 385,
+    "event_start_time": "02:55:00",
+    "event_end_time": "03:00:00",
+    "game_clock": "09:46.00",
+    "caption": "K. George grabs the defensive rebound."
+  },
+  {
+    "event_id": 386,
+    "event_start_time": "03:09:00",
+    "event_end_time": "03:16:00",
+    "game_clock": "09:32.00",
+    "caption": "K. Middleton misses a jump shot three-pointer. C. McCollum grabs the offensive rebound after K. Middleton's missed three-pointer."
+  },
+  {
+    "event_id": 388,
+    "event_start_time": "03:10:30",
+    "event_end_time": "03:19:00",
+    "game_clock": "09:28.00",
+    "caption": "C. McCollum makes a step back three-pointer."
+  },
+  {
+    "event_id": 389,
+    "event_start_time": "03:29:00",
+    "event_end_time": "03:36:00",
+    "game_clock": "09:12.00",
+    "caption": "C. Cunningham misses a step back three-pointer. K. Middleton grabs the defensive rebound after C. Cunningham's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 391,
+    "event_start_time": "03:35:00",
+    "event_end_time": "03:42:00",
+    "game_clock": "09:06.00",
+    "caption": "A. Sarr misses a jump shot three-pointer. J. Duren grabs the defensive rebound after A. Sarr's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 393,
+    "event_start_time": "03:51:00",
+    "event_end_time": "03:58:00",
+    "game_clock": "08:50.00",
+    "caption": "D. Robinson misses a jump shot three-pointer. A. Sarr grabs the defensive rebound after D. Robinson's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 395,
+    "event_start_time": "03:56:30",
+    "event_end_time": "04:05:00",
+    "game_clock": "08:42.00",
+    "caption": "C. McCollum makes a pullup three-pointer."
+  },
+  {
+    "event_id": 396,
+    "event_start_time": "04:18:00",
+    "event_end_time": "04:21:00",
+    "game_clock": "08:26.00",
+    "caption": "J. Duren commits an offensive foul."
+  },
+  {
+    "event_id": 400,
+    "event_start_time": "05:06:48",
+    "event_end_time": "05:10:48",
+    "game_clock": "08:08.00",
+    "caption": "C. Cunningham steals the ball from K. Middleton on a bad pass."
+  },
+  {
+    "event_id": 401,
+    "event_start_time": "05:09:00",
+    "event_end_time": "05:17:30",
+    "game_clock": "08:02.00",
+    "caption": "C. Cunningham makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 402,
+    "event_start_time": "05:25:00",
+    "event_end_time": "05:33:30",
+    "game_clock": "07:46.00",
+    "caption": "K. George makes a driving layup two-pointer. J. Duren commits a personal foul."
+  },
+  {
+    "event_id": 406,
+    "event_start_time": "05:55:00",
+    "event_end_time": "06:00:00",
+    "game_clock": "07:43.00",
+    "caption": "K. George grabs the offensive rebound."
+  },
+  {
+    "event_id": 407,
+    "event_start_time": "06:05:00",
+    "event_end_time": "06:08:00",
+    "game_clock": "07:35.00",
+    "caption": "T. Johnson is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 408,
+    "event_start_time": "06:25:00",
+    "event_end_time": "06:28:00",
+    "game_clock": "07:29.00",
+    "caption": "K. George commits a personal foul."
+  },
+  {
+    "event_id": 410,
+    "event_start_time": "06:57:00",
+    "event_end_time": "07:05:30",
+    "game_clock": "07:16.00",
+    "caption": "J. Duren makes a dunk two-pointer, assisted by C. Cunningham."
+  },
+  {
+    "event_id": 412,
+    "event_start_time": "07:05:30",
+    "event_end_time": "07:08:30",
+    "game_clock": "07:13.00",
+    "caption": "A. Thompson commits a personal foul."
+  },
+  {
+    "event_id": 414,
+    "event_start_time": "07:27:00",
+    "event_end_time": "07:30:00",
+    "game_clock": "07:06.00",
+    "caption": "C. Cunningham commits a personal foul."
+  },
+  {
+    "event_id": 416,
+    "event_start_time": "07:48:00",
+    "event_end_time": "07:56:30",
+    "game_clock": "07:01.00",
+    "caption": "C. McCollum makes a jump shot three-pointer, assisted by K. Middleton."
+  },
+  {
+    "event_id": 418,
+    "event_start_time": "08:09:00",
+    "event_end_time": "08:17:30",
+    "game_clock": "06:40.00",
+    "caption": "C. Cunningham makes a jump shot three-pointer, assisted by A. Thompson."
+  },
+  {
+    "event_id": 421,
+    "event_start_time": "08:25:30",
+    "event_end_time": "08:29:30",
+    "game_clock": "06:27.00",
+    "caption": "A. Thompson steals the ball from K. George on a lost ball."
+  },
+  {
+    "event_id": 422,
+    "event_start_time": "08:41:00",
+    "event_end_time": "08:44:00",
+    "game_clock": "06:14.00",
+    "caption": "A. Thompson is called for a traveling violation."
+  },
+  {
+    "event_id": 428,
+    "event_start_time": "12:03:00",
+    "event_end_time": "12:10:00",
+    "game_clock": "05:58.00",
+    "caption": "C. McCollum misses a step back three-pointer. J. Duren grabs the defensive rebound after C. McCollum's missed three-pointer."
+  },
+  {
+    "event_id": 430,
+    "event_start_time": "12:18:30",
+    "event_end_time": "12:27:00",
+    "game_clock": "05:40.00",
+    "caption": "D. Robinson makes a jump shot three-pointer, assisted by J. Duren. T. Johnson commits a personal foul."
+  },
+  {
+    "event_id": 437,
+    "event_start_time": "13:13:00",
+    "event_end_time": "13:16:00",
+    "game_clock": "05:30.00",
+    "caption": "K. George loses the ball out-of-bounds."
+  },
+  {
+    "event_id": 440,
+    "event_start_time": "13:38:30",
+    "event_end_time": "13:47:00",
+    "game_clock": "05:14.00",
+    "caption": "D. Robinson makes a jump shot three-pointer, assisted by T. Harris."
+  },
+  {
+    "event_id": 442,
+    "event_start_time": "13:56:00",
+    "event_end_time": "13:59:00",
+    "game_clock": "05:02.00",
+    "caption": "R. Holland II commits a personal foul."
+  },
+  {
+    "event_id": 444,
+    "event_start_time": "14:25:00",
+    "event_end_time": "14:33:00",
+    "game_clock": "04:50.00",
+    "caption": "W. Riley misses a driving layup two-pointer. M. Bagley III grabs the offensive rebound after W. Riley's missed driving layup two-pointer. M. Bagley III makes a putback dunk two-pointer."
+  },
+  {
+    "event_id": 447,
+    "event_start_time": "14:37:00",
+    "event_end_time": "14:44:00",
+    "game_clock": "04:38.00",
+    "caption": "C. Cunningham misses a driving layup two-pointer. M. Bagley III grabs the defensive rebound after C. Cunningham's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 449,
+    "event_start_time": "14:44:00",
+    "event_end_time": "14:49:00",
+    "game_clock": "04:31.00",
+    "caption": "C. McCollum's finger roll layup two-pointer is blocked by T. Harris. T. Harris blocks C. McCollum's layup two-pointer. T. Harris grabs the defensive rebound after C. McCollum's missed finger roll layup two-pointer."
+  },
+  {
+    "event_id": 452,
+    "event_start_time": "14:51:00",
+    "event_end_time": "14:59:30",
+    "game_clock": "04:22.00",
+    "caption": "T. Harris makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 453,
+    "event_start_time": "15:04:30",
+    "event_end_time": "15:11:30",
+    "game_clock": "04:11.00",
+    "caption": "C. Kispert misses a jump shot three-pointer. R. Holland II grabs the defensive rebound after C. Kispert's missed three-pointer."
+  },
+  {
+    "event_id": 456,
+    "event_start_time": "15:14:30",
+    "event_end_time": "15:18:30",
+    "game_clock": "04:02.00",
+    "caption": "C. McCollum steals the ball from R. Holland II on a lost ball."
+  },
+  {
+    "event_id": 457,
+    "event_start_time": "15:23:30",
+    "event_end_time": "15:28:30",
+    "game_clock": "03:52.00",
+    "caption": "M. Bagley III's layup two-pointer is blocked by J. Duren. J. Duren blocks M. Bagley III's layup two-pointer. J. Duren grabs the defensive rebound after M. Bagley III's missed layup two-pointer."
+  },
+  {
+    "event_id": 460,
+    "event_start_time": "15:29:30",
+    "event_end_time": "15:32:30",
+    "game_clock": "03:48.00",
+    "caption": "D. Robinson is called for an out-of-bounds turnover."
+  },
+  {
+    "event_id": 465,
+    "event_start_time": "16:08:30",
+    "event_end_time": "16:17:00",
+    "game_clock": "03:29.00",
+    "caption": "C. Kispert makes a turnaround two-pointer."
+  },
+  {
+    "event_id": 466,
+    "event_start_time": "16:31:00",
+    "event_end_time": "16:34:00",
+    "game_clock": "03:12.00",
+    "caption": "M. Bagley III commits a defensive-3-second technical foul."
+  },
+  {
+    "event_id": 472,
+    "event_start_time": "17:14:00",
+    "event_end_time": "17:22:30",
+    "game_clock": "03:05.00",
+    "caption": "C. Lanier makes a jump shot three-pointer, assisted by C. Cunningham. J. Green commits a personal foul."
+  },
+  {
+    "event_id": 483,
+    "event_start_time": "21:04:30",
+    "event_end_time": "21:09:30",
+    "game_clock": "02:46.00",
+    "caption": "J. Green grabs the defensive rebound."
+  },
+  {
+    "event_id": 484,
+    "event_start_time": "21:26:30",
+    "event_end_time": "21:33:30",
+    "game_clock": "02:24.00",
+    "caption": "C. Lanier misses a jump shot three-pointer. M. Bagley III grabs the defensive rebound after C. Lanier's missed three-pointer."
+  },
+  {
+    "event_id": 486,
+    "event_start_time": "21:53:30",
+    "event_end_time": "22:00:30",
+    "game_clock": "01:57.00",
+    "caption": "C. Kispert misses a jump shot three-pointer. P. Reed grabs the defensive rebound after C. Kispert's missed three-pointer."
+  },
+  {
+    "event_id": 488,
+    "event_start_time": "22:06:30",
+    "event_end_time": "22:13:30",
+    "game_clock": "01:44.00",
+    "caption": "C. Lanier misses a jump shot three-pointer. P. Reed grabs the offensive rebound after C. Lanier's missed three-pointer."
+  },
+  {
+    "event_id": 490,
+    "event_start_time": "22:15:30",
+    "event_end_time": "22:18:30",
+    "game_clock": "01:37.00",
+    "caption": "D. Jenkins is called for an out-of-bounds turnover."
+  },
+  {
+    "event_id": 491,
+    "event_start_time": "22:38:00",
+    "event_end_time": "22:45:00",
+    "game_clock": "01:22.00",
+    "caption": "C. Kispert misses a jump shot three-pointer. P. Reed grabs the defensive rebound after C. Kispert's missed three-pointer."
+  },
+  {
+    "event_id": 493,
+    "event_start_time": "22:55:30",
+    "event_end_time": "23:04:00",
+    "game_clock": "01:02.00",
+    "caption": "J. Green makes a jump shot three-pointer, assisted by C. Lanier."
+  },
+  {
+    "event_id": 495,
+    "event_start_time": "23:07:06",
+    "event_end_time": "23:15:36",
+    "game_clock": "00:51.30",
+    "caption": "M. Bagley III makes a hook two-pointer, assisted by K. George."
+  },
+  {
+    "event_id": 497,
+    "event_start_time": "23:26:21",
+    "event_end_time": "23:34:51",
+    "game_clock": "00:34.30",
+    "caption": "P. Reed makes a reverse layup two-pointer, assisted by R. Holland II. P. Reed commits a personal foul."
+  },
+  {
+    "event_id": 503,
+    "event_start_time": "24:53:45",
+    "event_end_time": "25:02:15",
+    "game_clock": "00:04.30",
+    "caption": "C. Lanier makes a jump shot three-pointer, assisted by D. Jenkins."
+  },
+  {
+    "event_id": 505,
+    "event_start_time": "25:03:30",
+    "event_end_time": "25:10:30",
+    "game_clock": "00:00.30",
+    "caption": "K. George misses a step back three-pointer."
+  }
+]

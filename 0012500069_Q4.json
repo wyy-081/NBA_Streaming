@@ -1,0 +1,401 @@
+[
+  {
+    "event_id": 523,
+    "event_start_time": "00:10:00",
+    "event_end_time": "00:18:30",
+    "game_clock": "11:36.00",
+    "caption": "T. Jackson-Davis makes a layup two-pointer."
+  },
+  {
+    "event_id": 525,
+    "event_start_time": "00:31:30",
+    "event_end_time": "00:38:30",
+    "game_clock": "11:17.00",
+    "caption": "K. Sanders misses a jump shot three-pointer. G. Santos grabs the defensive rebound after K. Sanders' missed three-pointer."
+  },
+  {
+    "event_id": 527,
+    "event_start_time": "00:57:30",
+    "event_end_time": "01:04:30",
+    "game_clock": "10:51.00",
+    "caption": "B. Hield misses a jump shot three-pointer. J. Telfort grabs the defensive rebound after B. Hield's missed three-pointer."
+  },
+  {
+    "event_id": 529,
+    "event_start_time": "01:11:30",
+    "event_end_time": "01:18:30",
+    "game_clock": "10:37.00",
+    "caption": "T. Washington Jr. misses a jump shot three-pointer. G. Santos grabs the defensive rebound after T. Washington Jr.'s missed three-pointer."
+  },
+  {
+    "event_id": 531,
+    "event_start_time": "01:15:00",
+    "event_end_time": "01:23:30",
+    "game_clock": "10:31.00",
+    "caption": "Stephen Curry makes a running three-pointer."
+  },
+  {
+    "event_id": 532,
+    "event_start_time": "01:34:00",
+    "event_end_time": "01:41:00",
+    "game_clock": "10:15.00",
+    "caption": "P. Baldwin Jr. misses a jump shot three-pointer. J. Telfort grabs the offensive rebound after P. Baldwin Jr.'s missed jump shot three-pointer."
+  },
+  {
+    "event_id": 534,
+    "event_start_time": "01:36:30",
+    "event_end_time": "01:43:30",
+    "game_clock": "10:12.00",
+    "caption": "J. Telfort misses a jump shot two-pointer. Y. Niederhäuser commits a shooting personal foul."
+  },
+  {
+    "event_id": 544,
+    "event_start_time": "03:10:30",
+    "event_end_time": "03:14:30",
+    "game_clock": "09:40.00",
+    "caption": "G. Santos steals the ball from P. Baldwin Jr. on a lost ball."
+  },
+  {
+    "event_id": 545,
+    "event_start_time": "03:12:00",
+    "event_end_time": "03:20:30",
+    "game_clock": "09:35.00",
+    "caption": "B. Hield makes a running three-pointer, assisted by S. Curry."
+  },
+  {
+    "event_id": 549,
+    "event_start_time": "06:33:30",
+    "event_end_time": "06:45:30",
+    "game_clock": "09:22.00",
+    "caption": "K. Brown misses a hook two-pointer. Y. Niederhäuser grabs the offensive rebound after K. Brown's missed hook two-pointer. Y. Niederhäuser misses a tip layup two-pointer."
+  },
+  {
+    "event_id": 553,
+    "event_start_time": "06:41:30",
+    "event_end_time": "06:46:30",
+    "game_clock": "09:14.00",
+    "caption": "Y. Niederhäuser's tip layup two-pointer is blocked by T. Jackson-Davis. T. Jackson-Davis blocks Y. Niederhäuser's layup two-pointer. Stephen Curry grabs the defensive rebound after Y. Niederhäuser's missed tip layup two-pointer."
+  },
+  {
+    "event_id": 556,
+    "event_start_time": "06:50:30",
+    "event_end_time": "06:54:30",
+    "game_clock": "09:08.00",
+    "caption": "Y. Niederhäuser commits a shooting personal foul."
+  },
+  {
+    "event_id": 561,
+    "event_start_time": "07:35:00",
+    "event_end_time": "07:40:00",
+    "game_clock": "09:04.00",
+    "caption": "J. Telfort grabs the defensive rebound."
+  },
+  {
+    "event_id": 562,
+    "event_start_time": "07:46:00",
+    "event_end_time": "07:50:00",
+    "game_clock": "08:56.00",
+    "caption": "T. Jackson-Davis commits a personal foul."
+  },
+  {
+    "event_id": 566,
+    "event_start_time": "08:38:00",
+    "event_end_time": "08:41:00",
+    "game_clock": "08:49.00",
+    "caption": "J. Telfort commits a personal foul."
+  },
+  {
+    "event_id": 570,
+    "event_start_time": "09:06:30",
+    "event_end_time": "09:15:00",
+    "game_clock": "08:42.00",
+    "caption": "G. Payton II makes a cutting layup two-pointer, assisted by G. Santos."
+  },
+  {
+    "event_id": 572,
+    "event_start_time": "09:24:30",
+    "event_end_time": "09:33:00",
+    "game_clock": "08:24.00",
+    "caption": "J. Telfort makes a layup two-pointer, assisted by P. Baldwin Jr."
+  },
+  {
+    "event_id": 574,
+    "event_start_time": "09:33:00",
+    "event_end_time": "09:40:00",
+    "game_clock": "08:18.00",
+    "caption": "Stephen Curry misses a pullup three-pointer. T. Washington Jr. grabs the defensive rebound after Stephen Curry's missed pullup three-pointer."
+  },
+  {
+    "event_id": 576,
+    "event_start_time": "09:39:30",
+    "event_end_time": "09:48:00",
+    "game_clock": "08:09.00",
+    "caption": "K. Sanders makes a layup two-pointer. G. Santos commits a personal foul."
+  },
+  {
+    "event_id": 586,
+    "event_start_time": "10:46:30",
+    "event_end_time": "10:49:30",
+    "game_clock": "07:51.00",
+    "caption": "T. Jackson-Davis is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 587,
+    "event_start_time": "11:04:00",
+    "event_end_time": "11:11:00",
+    "game_clock": "07:37.00",
+    "caption": "J. Telfort misses a jump shot three-pointer. L. Cryer grabs the defensive rebound after J. Telfort's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 589,
+    "event_start_time": "11:11:30",
+    "event_end_time": "11:20:00",
+    "game_clock": "07:27.00",
+    "caption": "P. Spencer makes a fadeaway jump shot two-pointer."
+  },
+  {
+    "event_id": 590,
+    "event_start_time": "11:37:00",
+    "event_end_time": "11:44:00",
+    "game_clock": "07:04.00",
+    "caption": "P. Baldwin Jr. misses a jump shot three-pointer. Y. Niederhäuser grabs the offensive rebound after P. Baldwin Jr.'s missed jump shot three-pointer."
+  },
+  {
+    "event_id": 592,
+    "event_start_time": "11:41:00",
+    "event_end_time": "11:44:00",
+    "game_clock": "07:02.00",
+    "caption": "Y. Niederhäuser loses the ball out-of-bounds."
+  },
+  {
+    "event_id": 597,
+    "event_start_time": "12:36:00",
+    "event_end_time": "12:43:00",
+    "game_clock": "06:42.00",
+    "caption": "P. Spencer misses a layup two-pointer."
+  },
+  {
+    "event_id": 601,
+    "event_start_time": "13:04:30",
+    "event_end_time": "13:08:30",
+    "game_clock": "06:25.00",
+    "caption": "L. Cryer steals the ball from Y. Niederhäuser on a bad pass."
+  },
+  {
+    "event_id": 602,
+    "event_start_time": "13:10:30",
+    "event_end_time": "13:17:30",
+    "game_clock": "06:18.00",
+    "caption": "Q. Post misses a jump shot three-pointer. J. Preston grabs the defensive rebound after Q. Post's missed three-pointer."
+  },
+  {
+    "event_id": 604,
+    "event_start_time": "13:18:00",
+    "event_end_time": "13:26:30",
+    "game_clock": "06:08.00",
+    "caption": "Y. Niederhäuser makes a running dunk two-pointer, assisted by P. Baldwin Jr."
+  },
+  {
+    "event_id": 606,
+    "event_start_time": "13:43:00",
+    "event_end_time": "13:46:00",
+    "game_clock": "05:49.00",
+    "caption": "G. Santos is called for a traveling violation."
+  },
+  {
+    "event_id": 607,
+    "event_start_time": "14:07:00",
+    "event_end_time": "14:15:30",
+    "game_clock": "05:33.00",
+    "caption": "J. Preston makes a floating jump shot two-pointer, assisted by K. Sanders."
+  },
+  {
+    "event_id": 612,
+    "event_start_time": "17:30:00",
+    "event_end_time": "17:33:00",
+    "game_clock": "05:16.00",
+    "caption": "Q. Post commits an offensive foul."
+  },
+  {
+    "event_id": 615,
+    "event_start_time": "17:51:00",
+    "event_end_time": "17:58:00",
+    "game_clock": "05:06.00",
+    "caption": "Y. Niederhäuser misses a layup two-pointer. W. Richard grabs the defensive rebound after Y. Niederhäuser's missed layup two-pointer."
+  },
+  {
+    "event_id": 617,
+    "event_start_time": "18:04:30",
+    "event_end_time": "18:13:00",
+    "game_clock": "04:50.00",
+    "caption": "W. Richard makes a reverse layup two-pointer, assisted by L. Cryer."
+  },
+  {
+    "event_id": 619,
+    "event_start_time": "18:29:00",
+    "event_end_time": "18:36:00",
+    "game_clock": "04:28.00",
+    "caption": "K. Sanders misses a jump shot two-pointer."
+  },
+  {
+    "event_id": 621,
+    "event_start_time": "18:35:30",
+    "event_end_time": "18:44:00",
+    "game_clock": "04:19.00",
+    "caption": "W. Richard makes a running three-pointer, assisted by L. Cryer."
+  },
+  {
+    "event_id": 623,
+    "event_start_time": "18:51:00",
+    "event_end_time": "18:58:00",
+    "game_clock": "04:06.00",
+    "caption": "J. Preston misses a layup two-pointer. Q. Post grabs the defensive rebound after J. Preston's missed layup two-pointer."
+  },
+  {
+    "event_id": 625,
+    "event_start_time": "19:04:00",
+    "event_end_time": "19:11:00",
+    "game_clock": "03:53.00",
+    "caption": "W. Richard misses a jump shot three-pointer. J. Preston grabs the defensive rebound after W. Richard's missed three-pointer."
+  },
+  {
+    "event_id": 627,
+    "event_start_time": "19:06:30",
+    "event_end_time": "19:15:00",
+    "game_clock": "03:48.00",
+    "caption": "J. Telfort makes a layup two-pointer, assisted by P. Baldwin Jr."
+  },
+  {
+    "event_id": 629,
+    "event_start_time": "19:26:00",
+    "event_end_time": "19:33:00",
+    "game_clock": "03:31.00",
+    "caption": "W. Richard misses a jump shot three-pointer. P. Spencer grabs the offensive rebound after W. Richard's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 631,
+    "event_start_time": "18:30:00",
+    "event_end_time": "18:36:00",
+    "game_clock": "04:28.00",
+    "caption": "L. Cryer grabs the defensive rebound."
+  },
+  {
+    "event_id": 636,
+    "event_start_time": "20:03:30",
+    "event_end_time": "20:12:00",
+    "game_clock": "03:07.00",
+    "caption": "Y. Niederhäuser makes a hook two-pointer, assisted by K. Sanders."
+  },
+  {
+    "event_id": 638,
+    "event_start_time": "20:22:00",
+    "event_end_time": "20:29:00",
+    "game_clock": "02:51.00",
+    "caption": "P. Spencer misses a jump shot three-pointer. Y. Niederhäuser grabs the defensive rebound after P. Spencer's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 640,
+    "event_start_time": "20:47:00",
+    "event_end_time": "20:54:00",
+    "game_clock": "02:26.00",
+    "caption": "P. Baldwin Jr. misses a jump shot three-pointer. J. Rowe grabs the defensive rebound after P. Baldwin Jr.'s missed jump shot three-pointer."
+  },
+  {
+    "event_id": 642,
+    "event_start_time": "20:55:30",
+    "event_end_time": "21:04:00",
+    "game_clock": "02:15.00",
+    "caption": "P. Spencer makes a layup two-pointer, assisted by J. Rowe. K. Sanders commits a personal foul."
+  },
+  {
+    "event_id": 647,
+    "event_start_time": "21:55:00",
+    "event_end_time": "22:02:00",
+    "game_clock": "01:50.00",
+    "caption": "J. Telfort misses a jump shot three-pointer. L. Cryer grabs the defensive rebound after J. Telfort's missed three-pointer."
+  },
+  {
+    "event_id": 649,
+    "event_start_time": "22:01:00",
+    "event_end_time": "22:08:00",
+    "game_clock": "01:44.00",
+    "caption": "P. Spencer misses a running three-pointer. T. Jackson-Davis grabs the offensive rebound after P. Spencer's missed running three-pointer."
+  },
+  {
+    "event_id": 651,
+    "event_start_time": "22:01:30",
+    "event_end_time": "22:10:00",
+    "game_clock": "01:41.00",
+    "caption": "T. Jackson-Davis makes a reverse layup two-pointer."
+  },
+  {
+    "event_id": 652,
+    "event_start_time": "22:29:00",
+    "event_end_time": "22:36:00",
+    "game_clock": "01:19.00",
+    "caption": "K. Sanders misses a jump shot three-pointer. J. Preston grabs the offensive rebound after K. Sanders' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 655,
+    "event_start_time": "22:43:00",
+    "event_end_time": "22:47:00",
+    "game_clock": "01:08.00",
+    "caption": "T. Jackson-Davis commits a personal foul."
+  },
+  {
+    "event_id": 660,
+    "event_start_time": "23:42:00",
+    "event_end_time": "23:47:00",
+    "game_clock": "01:03.00",
+    "caption": "P. Baldwin Jr. grabs the offensive rebound."
+  },
+  {
+    "event_id": 661,
+    "event_start_time": "23:48:27",
+    "event_end_time": "23:56:57",
+    "game_clock": "00:55.00",
+    "caption": "K. Sanders makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 662,
+    "event_start_time": "24:01:39",
+    "event_end_time": "24:10:09",
+    "game_clock": "00:43.00",
+    "caption": "W. Richard makes a jump shot three-pointer, assisted by P. Spencer. T. Jackson-Davis commits a personal foul."
+  },
+  {
+    "event_id": 672,
+    "event_start_time": "27:54:45",
+    "event_end_time": "28:01:45",
+    "game_clock": "00:16.20",
+    "caption": "W. Richard misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 675,
+    "event_start_time": "28:24:03",
+    "event_end_time": "28:33:51",
+    "game_clock": "00:11.20",
+    "caption": "T. Jackson-Davis misses a layup two-pointer. T. Jackson-Davis grabs the offensive rebound after missing his layup two-pointer. T. Jackson-Davis makes a tip layup two-pointer."
+  },
+  {
+    "event_id": 678,
+    "event_start_time": "28:30:54",
+    "event_end_time": "28:33:54",
+    "game_clock": "00:10.80",
+    "caption": "W. Richard commits a personal foul."
+  },
+  {
+    "event_id": 683,
+    "event_start_time": "30:48:58",
+    "event_end_time": "30:55:58",
+    "game_clock": "00:07.50",
+    "caption": "W. Richard misses a jump shot three-pointer. L. Cryer grabs the offensive rebound after W. Richard's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 685,
+    "event_start_time": "31:14:21",
+    "event_end_time": "31:21:21",
+    "game_clock": "00:03.00",
+    "caption": "L. Cryer misses a jump shot three-pointer. P. Baldwin Jr. grabs the defensive rebound after L. Cryer's missed three-pointer."
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "event_id": 178,
+    "event_start_time": "00:06:00",
+    "event_end_time": "00:14:30",
+    "game_clock": "11:44.00",
+    "caption": "B. Sheppard makes a jump shot three-pointer, assisted by O. Toppin."
+  },
+  {
+    "event_id": 180,
+    "event_start_time": "00:26:30",
+    "event_end_time": "00:33:30",
+    "game_clock": "11:26.00",
+    "caption": "S. Castle misses a jump shot three-pointer. B. Sheppard grabs the defensive rebound after S. Castle's missed three-pointer."
+  },
+  {
+    "event_id": 182,
+    "event_start_time": "00:34:00",
+    "event_end_time": "00:42:30",
+    "game_clock": "11:16.00",
+    "caption": "P. Siakam makes a running jump shot two-pointer, assisted by A. Nesmith."
+  },
+  {
+    "event_id": 184,
+    "event_start_time": "00:53:00",
+    "event_end_time": "01:01:30",
+    "game_clock": "10:57.00",
+    "caption": "K. Johnson makes a finger roll layup two-pointer."
+  },
+  {
+    "event_id": 186,
+    "event_start_time": "01:07:30",
+    "event_end_time": "01:11:30",
+    "game_clock": "10:46.00",
+    "caption": "H. Barnes steals the ball from P. Siakam on a bad pass."
+  },
+  {
+    "event_id": 187,
+    "event_start_time": "01:09:00",
+    "event_end_time": "01:17:30",
+    "game_clock": "10:41.00",
+    "caption": "K. Johnson makes a running layup two-pointer, assisted by H. Barnes."
+  },
+  {
+    "event_id": 190,
+    "event_start_time": "01:43:00",
+    "event_end_time": "01:46:00",
+    "game_clock": "10:32.00",
+    "caption": "P. Siakam commits an offensive foul."
+  },
+  {
+    "event_id": 193,
+    "event_start_time": "02:16:00",
+    "event_end_time": "02:23:00",
+    "game_clock": "10:12.00",
+    "caption": "K. Johnson misses a layup two-pointer. B. Sheppard grabs the defensive rebound after K. Johnson's missed layup two-pointer."
+  },
+  {
+    "event_id": 195,
+    "event_start_time": "02:20:00",
+    "event_end_time": "02:23:00",
+    "game_clock": "10:11.00",
+    "caption": "K. Johnson commits a personal foul."
+  },
+  {
+    "event_id": 197,
+    "event_start_time": "02:47:00",
+    "event_end_time": "02:55:30",
+    "game_clock": "09:58.00",
+    "caption": "P. Siakam makes a jump shot three-pointer, assisted by T. Peter. A. Nesmith commits a personal foul."
+  },
+  {
+    "event_id": 209,
+    "event_start_time": "04:28:00",
+    "event_end_time": "04:36:30",
+    "game_clock": "09:18.00",
+    "caption": "B. Mathurin makes a pullup three-pointer."
+  },
+  {
+    "event_id": 211,
+    "event_start_time": "04:44:30",
+    "event_end_time": "04:52:30",
+    "game_clock": "09:04.00",
+    "caption": "D. Harper misses a driving finger roll two-pointer. V. Wembanyama grabs the offensive rebound after D. Harper's missed driving finger roll layup two-pointer. V. Wembanyama misses a putback dunk two-pointer."
+  },
+  {
+    "event_id": 214,
+    "event_start_time": "04:46:30",
+    "event_end_time": "04:52:30",
+    "game_clock": "09:03.00",
+    "caption": "V. Wembanyama grabs the offensive rebound."
+  },
+  {
+    "event_id": 215,
+    "event_start_time": "04:48:30",
+    "event_end_time": "04:52:30",
+    "game_clock": "09:03.00",
+    "caption": "B. Mathurin commits a personal foul."
+  },
+  {
+    "event_id": 219,
+    "event_start_time": "05:49:00",
+    "event_end_time": "05:57:30",
+    "game_clock": "08:50.00",
+    "caption": "A. Nesmith makes a jump shot three-pointer, assisted by P. Siakam."
+  },
+  {
+    "event_id": 221,
+    "event_start_time": "06:08:30",
+    "event_end_time": "06:15:30",
+    "game_clock": "08:33.00",
+    "caption": "K. Johnson misses a jump shot three-pointer. B. Mathurin grabs the defensive rebound after K. Johnson's missed three-pointer."
+  },
+  {
+    "event_id": 223,
+    "event_start_time": "06:18:30",
+    "event_end_time": "06:25:30",
+    "game_clock": "08:23.00",
+    "caption": "A. Nembhard misses a pullup three-pointer. S. Castle grabs the defensive rebound after A. Nembhard's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 225,
+    "event_start_time": "06:30:30",
+    "event_end_time": "06:33:30",
+    "game_clock": "08:14.00",
+    "caption": "I. Jackson commits a personal foul."
+  },
+  {
+    "event_id": 231,
+    "event_start_time": "07:08:30",
+    "event_end_time": "07:15:30",
+    "game_clock": "08:03.00",
+    "caption": "S. Castle misses a floating two-pointer. P. Siakam grabs the defensive rebound after S. Castle's missed floating two-pointer."
+  },
+  {
+    "event_id": 233,
+    "event_start_time": "07:11:00",
+    "event_end_time": "07:19:30",
+    "game_clock": "07:58.00",
+    "caption": "A. Nesmith makes a running three-pointer, assisted by P. Siakam."
+  },
+  {
+    "event_id": 238,
+    "event_start_time": "10:38:00",
+    "event_end_time": "10:45:00",
+    "game_clock": "07:42.00",
+    "caption": "J. Champagnie misses a jump shot three-pointer. A. Nesmith grabs the defensive rebound after J. Champagnie's missed three-pointer."
+  },
+  {
+    "event_id": 240,
+    "event_start_time": "10:47:30",
+    "event_end_time": "10:56:00",
+    "game_clock": "07:30.00",
+    "caption": "I. Jackson makes a step back jump shot two-pointer, assisted by A. Nembhard."
+  },
+  {
+    "event_id": 242,
+    "event_start_time": "11:09:00",
+    "event_end_time": "11:16:00",
+    "game_clock": "07:11.00",
+    "caption": "L. Kornet misses an alley-oop layup two-pointer. S. Castle commits a shooting personal foul."
+  },
+  {
+    "event_id": 249,
+    "event_start_time": "12:25:30",
+    "event_end_time": "12:29:30",
+    "game_clock": "06:50.00",
+    "caption": "A. Nesmith commits a personal foul."
+  },
+  {
+    "event_id": 253,
+    "event_start_time": "13:32:00",
+    "event_end_time": "13:35:00",
+    "game_clock": "06:46.00",
+    "caption": "A. Nembhard is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 255,
+    "event_start_time": "13:55:00",
+    "event_end_time": "13:59:00",
+    "game_clock": "06:28.00",
+    "caption": "I. Jackson steals the ball from J. Champagnie on a lost ball."
+  },
+  {
+    "event_id": 256,
+    "event_start_time": "13:56:30",
+    "event_end_time": "14:05:00",
+    "game_clock": "06:23.00",
+    "caption": "B. Mathurin makes a running finger roll layup two-pointer. I. Jackson commits a personal foul."
+  },
+  {
+    "event_id": 265,
+    "event_start_time": "15:15:30",
+    "event_end_time": "15:22:30",
+    "game_clock": "05:55.00",
+    "caption": "A. Nembhard misses a fadeaway two-pointer."
+  },
+  {
+    "event_id": 268,
+    "event_start_time": "15:40:30",
+    "event_end_time": "15:43:30",
+    "game_clock": "05:48.00",
+    "caption": "P. Siakam commits a personal foul."
+  },
+  {
+    "event_id": 272,
+    "event_start_time": "16:40:30",
+    "event_end_time": "16:49:00",
+    "game_clock": "05:39.00",
+    "caption": "P. Siakam makes a turnaround jump shot two-pointer."
+  },
+  {
+    "event_id": 273,
+    "event_start_time": "16:58:00",
+    "event_end_time": "17:05:00",
+    "game_clock": "05:24.00",
+    "caption": "S. Castle misses a jump shot three-pointer. B. Mathurin grabs the defensive rebound after S. Castle's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 275,
+    "event_start_time": "17:06:00",
+    "event_end_time": "17:13:00",
+    "game_clock": "05:16.00",
+    "caption": "B. Mathurin misses a running pullup three-pointer. A. Nembhard grabs the offensive rebound after B. Mathurin's missed three-pointer."
+  },
+  {
+    "event_id": 277,
+    "event_start_time": "17:15:30",
+    "event_end_time": "17:24:00",
+    "game_clock": "05:04.00",
+    "caption": "J. Wiseman makes a reverse layup two-pointer, assisted by P. Siakam."
+  },
+  {
+    "event_id": 279,
+    "event_start_time": "17:32:00",
+    "event_end_time": "17:39:00",
+    "game_clock": "04:50.00",
+    "caption": "D. Vassell misses a step back jump shot. L. Kornet grabs the offensive rebound after D. Vassell's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 281,
+    "event_start_time": "17:39:00",
+    "event_end_time": "17:43:00",
+    "game_clock": "04:46.00",
+    "caption": "B. Sheppard commits a personal foul."
+  },
+  {
+    "event_id": 289,
+    "event_start_time": "18:47:30",
+    "event_end_time": "18:56:00",
+    "game_clock": "04:28.00",
+    "caption": "A. Nembhard makes a pullup jump shot two-pointer."
+  },
+  {
+    "event_id": 290,
+    "event_start_time": "19:14:30",
+    "event_end_time": "19:23:00",
+    "game_clock": "04:01.00",
+    "caption": "S. Castle makes a step back three-pointer, assisted by D. Vassell."
+  },
+  {
+    "event_id": 292,
+    "event_start_time": "19:31:00",
+    "event_end_time": "19:38:00",
+    "game_clock": "03:47.00",
+    "caption": "A. Nembhard misses a step back three-pointer."
+  },
+  {
+    "event_id": 296,
+    "event_start_time": "23:17:00",
+    "event_end_time": "23:20:00",
+    "game_clock": "03:33.00",
+    "caption": "D. Vassell commits a personal foul."
+  },
+  {
+    "event_id": 298,
+    "event_start_time": "23:49:00",
+    "event_end_time": "23:56:00",
+    "game_clock": "03:25.00",
+    "caption": "P. Siakam misses a turnaround two-pointer. O. Toppin grabs the offensive rebound after P. Siakam's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 300,
+    "event_start_time": "23:58:00",
+    "event_end_time": "24:05:00",
+    "game_clock": "03:16.00",
+    "caption": "O. Toppin misses a jump shot three-pointer. D. Vassell grabs the defensive rebound after O. Toppin's missed three-pointer."
+  },
+  {
+    "event_id": 302,
+    "event_start_time": "24:05:30",
+    "event_end_time": "24:14:00",
+    "game_clock": "03:06.00",
+    "caption": "D. Vassell makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 303,
+    "event_start_time": "24:24:30",
+    "event_end_time": "24:33:00",
+    "game_clock": "02:47.00",
+    "caption": "O. Toppin makes a cutting dunk two-pointer, assisted by A. Nembhard."
+  },
+  {
+    "event_id": 306,
+    "event_start_time": "24:46:00",
+    "event_end_time": "24:50:00",
+    "game_clock": "02:29.00",
+    "caption": "O. Toppin steals the ball from L. Kornet on a bad pass."
+  },
+  {
+    "event_id": 307,
+    "event_start_time": "24:54:00",
+    "event_end_time": "24:58:00",
+    "game_clock": "02:23.00",
+    "caption": "V. Wembanyama commits a shooting personal foul."
+  },
+  {
+    "event_id": 316,
+    "event_start_time": "26:11:00",
+    "event_end_time": "26:19:30",
+    "game_clock": "02:04.00",
+    "caption": "V. Wembanyama makes a bank jump shot two-pointer."
+  },
+  {
+    "event_id": 317,
+    "event_start_time": "26:19:30",
+    "event_end_time": "26:26:30",
+    "game_clock": "01:58.00",
+    "caption": "A. Nesmith misses a jump shot three-pointer. V. Wembanyama grabs the defensive rebound after A. Nesmith's missed three-pointer."
+  },
+  {
+    "event_id": 319,
+    "event_start_time": "26:41:00",
+    "event_end_time": "26:49:30",
+    "game_clock": "01:34.00",
+    "caption": "D. Harper makes a finger roll layup two-pointer."
+  },
+  {
+    "event_id": 320,
+    "event_start_time": "26:50:30",
+    "event_end_time": "26:57:30",
+    "game_clock": "01:27.00",
+    "caption": "P. Siakam misses a jump shot three-pointer. V. Wembanyama grabs the defensive rebound after P. Siakam's missed three-pointer."
+  },
+  {
+    "event_id": 322,
+    "event_start_time": "26:56:00",
+    "event_end_time": "27:04:30",
+    "game_clock": "01:19.00",
+    "caption": "S. Castle makes a driving finger roll two-pointer, assisted by V. Wembanyama."
+  },
+  {
+    "event_id": 324,
+    "event_start_time": "27:16:30",
+    "event_end_time": "27:20:30",
+    "game_clock": "01:02.00",
+    "caption": "V. Wembanyama steals the ball from B. Mathurin on a lost ball."
+  },
+  {
+    "event_id": 325,
+    "event_start_time": "27:25:15",
+    "event_end_time": "27:32:15",
+    "game_clock": "00:52.80",
+    "caption": "D. Harper misses a jump shot two-pointer. P. Siakam grabs the defensive rebound after D. Harper's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 327,
+    "event_start_time": "27:47:33",
+    "event_end_time": "27:56:03",
+    "game_clock": "00:28.00",
+    "caption": "A. Nembhard makes a jump shot three-pointer, assisted by A. Nesmith. P. Siakam commits a shooting personal foul."
+  },
+  {
+    "event_id": 335,
+    "event_start_time": "29:07:09",
+    "event_end_time": "29:12:09",
+    "game_clock": "00:04.50",
+    "caption": "O. Toppin grabs the defensive rebound."
+  },
+  {
+    "event_id": 336,
+    "event_start_time": "29:10:33",
+    "event_end_time": "29:17:33",
+    "game_clock": "00:01.10",
+    "caption": "O. Toppin misses a pullup three-pointer."
+  }
+]

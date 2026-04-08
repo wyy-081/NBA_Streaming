@@ -1,0 +1,401 @@
+[
+  {
+    "event_id": 512,
+    "event_start_time": "00:25:00",
+    "event_end_time": "00:35:00",
+    "game_clock": "11:38.00",
+    "caption": "K. Filipowski misses a jump shot three-pointer. J. Nurkić grabs the offensive rebound after K. Filipowski's missed three-pointer. J. Nurkić makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 515,
+    "event_start_time": "00:49:30",
+    "event_end_time": "00:58:00",
+    "game_clock": "11:11.00",
+    "caption": "J. Collins makes a turnaround two-pointer, assisted by C. Paul."
+  },
+  {
+    "event_id": 517,
+    "event_start_time": "01:04:30",
+    "event_end_time": "01:13:00",
+    "game_clock": "10:56.00",
+    "caption": "L. Markkanen makes a jump shot three-pointer, assisted by W. Clayton Jr. K. Filipowski commits a personal foul."
+  },
+  {
+    "event_id": 524,
+    "event_start_time": "02:20:00",
+    "event_end_time": "02:32:00",
+    "game_clock": "10:29.00",
+    "caption": "W. Clayton Jr. misses a jump shot three-pointer. W. Clayton Jr. grabs the offensive rebound after missing his jump shot three-pointer. W. Clayton Jr. makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 527,
+    "event_start_time": "02:40:00",
+    "event_end_time": "02:47:00",
+    "game_clock": "10:09.00",
+    "caption": "K. Dunn misses a floating two-pointer. J. Nurkić grabs the defensive rebound after K. Dunn's missed floating two-pointer."
+  },
+  {
+    "event_id": 529,
+    "event_start_time": "02:58:00",
+    "event_end_time": "03:05:00",
+    "game_clock": "09:51.00",
+    "caption": "J. Nurkić misses a jump shot three-pointer. J. Collins grabs the defensive rebound after J. Nurkić's missed three-pointer."
+  },
+  {
+    "event_id": 531,
+    "event_start_time": "03:08:00",
+    "event_end_time": "03:15:00",
+    "game_clock": "09:41.00",
+    "caption": "K. Dunn misses a jump shot three-pointer. K. Dunn grabs the offensive rebound after missing his jump shot three-pointer."
+  },
+  {
+    "event_id": 533,
+    "event_start_time": "03:15:00",
+    "event_end_time": "03:22:00",
+    "game_clock": "09:34.00",
+    "caption": "B. Lopez misses a jump shot three-pointer. W. Clayton Jr. grabs the defensive rebound after B. Lopez's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 535,
+    "event_start_time": "03:28:00",
+    "event_end_time": "03:35:00",
+    "game_clock": "09:21.00",
+    "caption": "L. Markkanen misses a step back jump shot."
+  },
+  {
+    "event_id": 538,
+    "event_start_time": "03:45:30",
+    "event_end_time": "03:52:30",
+    "game_clock": "09:10.00",
+    "caption": "J. Collins misses a pullup two-pointer. L. Markkanen grabs the defensive rebound after J. Collins's missed jump shot."
+  },
+  {
+    "event_id": 540,
+    "event_start_time": "03:54:30",
+    "event_end_time": "03:59:30",
+    "game_clock": "09:01.00",
+    "caption": "W. Clayton Jr.'s driving layup two-pointer is blocked by N. Batum. N. Batum blocks W. Clayton Jr.'s layup two-pointer. N. Batum grabs the defensive rebound after W. Clayton Jr.'s driving layup two-pointer is blocked."
+  },
+  {
+    "event_id": 543,
+    "event_start_time": "04:05:30",
+    "event_end_time": "04:12:30",
+    "game_clock": "08:50.00",
+    "caption": "C. Paul misses a jump shot three-pointer. J. Nurkić grabs the defensive rebound after C. Paul's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 546,
+    "event_start_time": "04:20:30",
+    "event_end_time": "04:24:30",
+    "game_clock": "08:36.00",
+    "caption": "C. Paul steals the ball from W. Clayton Jr. on a bad pass."
+  },
+  {
+    "event_id": 547,
+    "event_start_time": "04:37:30",
+    "event_end_time": "04:40:30",
+    "game_clock": "08:21.00",
+    "caption": "B. Lopez commits an offensive foul."
+  },
+  {
+    "event_id": 557,
+    "event_start_time": "05:40:30",
+    "event_end_time": "05:47:30",
+    "game_clock": "08:06.00",
+    "caption": "K. George misses a jump shot three-pointer. N. Batum grabs the defensive rebound after K. George's missed three-pointer."
+  },
+  {
+    "event_id": 559,
+    "event_start_time": "05:46:30",
+    "event_end_time": "05:56:30",
+    "game_clock": "08:00.00",
+    "caption": "C. Christie misses a running three-pointer. J. Collins grabs the offensive rebound after C. Christie's missed running three-pointer. J. Collins makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 564,
+    "event_start_time": "06:53:30",
+    "event_end_time": "06:57:30",
+    "game_clock": "07:36.00",
+    "caption": "B. Lopez commits a personal foul."
+  },
+  {
+    "event_id": 570,
+    "event_start_time": "07:59:00",
+    "event_end_time": "08:06:00",
+    "game_clock": "07:21.00",
+    "caption": "C. Paul misses a jump shot three-pointer. B. Sensabaugh grabs the defensive rebound after C. Paul's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 573,
+    "event_start_time": "08:18:00",
+    "event_end_time": "08:21:00",
+    "game_clock": "07:05.00",
+    "caption": "W. Kessler commits a personal foul."
+  },
+  {
+    "event_id": 575,
+    "event_start_time": "08:34:00",
+    "event_end_time": "08:42:30",
+    "game_clock": "07:00.00",
+    "caption": "B. Lopez makes a jump shot three-pointer, assisted by C. Paul."
+  },
+  {
+    "event_id": 581,
+    "event_start_time": "12:17:30",
+    "event_end_time": "12:24:30",
+    "game_clock": "06:31.00",
+    "caption": "K. Filipowski misses a fadeaway two-pointer. J. Collins grabs the defensive rebound after K. Filipowski's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 583,
+    "event_start_time": "12:31:30",
+    "event_end_time": "12:38:30",
+    "game_clock": "06:17.00",
+    "caption": "N. Batum misses a jump shot three-pointer. C. Christie grabs the offensive rebound after N. Batum's missed three-pointer."
+  },
+  {
+    "event_id": 585,
+    "event_start_time": "12:34:00",
+    "event_end_time": "12:42:30",
+    "game_clock": "06:12.00",
+    "caption": "B. Lopez makes a jump shot three-pointer, assisted by C. Christie."
+  },
+  {
+    "event_id": 587,
+    "event_start_time": "12:55:30",
+    "event_end_time": "12:58:30",
+    "game_clock": "05:56.00",
+    "caption": "N. Batum commits a personal foul."
+  },
+  {
+    "event_id": 591,
+    "event_start_time": "13:17:00",
+    "event_end_time": "13:22:00",
+    "game_clock": "05:54.00",
+    "caption": "B. Sensabaugh's cutting layup two-pointer is blocked by J. Collins. J. Collins blocks B. Sensabaugh's driving layup two-pointer. J. Collins grabs the defensive rebound after B. Sensabaugh's missed layup two-pointer."
+  },
+  {
+    "event_id": 594,
+    "event_start_time": "13:25:00",
+    "event_end_time": "13:32:00",
+    "game_clock": "05:46.00",
+    "caption": "B. Lopez misses a jump shot three-pointer. C. Paul grabs the offensive rebound after B. Lopez's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 596,
+    "event_start_time": "13:30:30",
+    "event_end_time": "13:39:00",
+    "game_clock": "05:38.00",
+    "caption": "C. Paul makes a pullup three-pointer."
+  },
+  {
+    "event_id": 597,
+    "event_start_time": "13:50:00",
+    "event_end_time": "13:57:00",
+    "game_clock": "05:21.00",
+    "caption": "B. Sensabaugh misses a pullup three-pointer. L. Markkanen grabs the offensive rebound after B. Sensabaugh's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 599,
+    "event_start_time": "13:55:00",
+    "event_end_time": "13:58:00",
+    "game_clock": "05:19.00",
+    "caption": "C. Paul commits a personal foul."
+  },
+  {
+    "event_id": 601,
+    "event_start_time": "14:48:30",
+    "event_end_time": "14:51:30",
+    "game_clock": "05:06.00",
+    "caption": "C. Paul commits a personal foul."
+  },
+  {
+    "event_id": 603,
+    "event_start_time": "15:08:00",
+    "event_end_time": "15:16:30",
+    "game_clock": "05:00.00",
+    "caption": "B. Sensabaugh makes a pullup two-pointer, assisted by K. George."
+  },
+  {
+    "event_id": 605,
+    "event_start_time": "15:30:30",
+    "event_end_time": "15:33:30",
+    "game_clock": "04:43.00",
+    "caption": "B. Sensabaugh commits a personal foul."
+  },
+  {
+    "event_id": 607,
+    "event_start_time": "15:56:30",
+    "event_end_time": "16:01:30",
+    "game_clock": "04:35.00",
+    "caption": "C. Christie's driving layup two-pointer is blocked by W. Kessler. W. Kessler blocks C. Christie's layup two-pointer."
+  },
+  {
+    "event_id": 611,
+    "event_start_time": "16:21:00",
+    "event_end_time": "16:28:00",
+    "game_clock": "04:29.00",
+    "caption": "C. Paul misses a pullup two-pointer. B. Sensabaugh grabs the defensive rebound after C. Paul's missed pullup two-pointer."
+  },
+  {
+    "event_id": 613,
+    "event_start_time": "16:45:00",
+    "event_end_time": "16:52:00",
+    "game_clock": "04:05.00",
+    "caption": "K. George misses a pullup three-pointer. B. Lopez grabs the defensive rebound after K. George's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 615,
+    "event_start_time": "16:53:00",
+    "event_end_time": "17:00:00",
+    "game_clock": "03:57.00",
+    "caption": "J. Collins' running alley-oop dunk is missed. L. Markkanen grabs the defensive rebound after J. Collins' missed running alley-oop dunk two-pointer."
+  },
+  {
+    "event_id": 617,
+    "event_start_time": "16:56:30",
+    "event_end_time": "17:05:00",
+    "game_clock": "03:51.00",
+    "caption": "B. Sensabaugh makes a floating jump shot two-pointer, assisted by L. Markkanen. N. Batum commits a personal foul."
+  },
+  {
+    "event_id": 631,
+    "event_start_time": "18:32:00",
+    "event_end_time": "18:39:00",
+    "game_clock": "03:29.00",
+    "caption": "C. Christie misses a hook two-pointer. J. Collins grabs the offensive rebound after C. Christie's missed hook two-pointer."
+  },
+  {
+    "event_id": 633,
+    "event_start_time": "18:34:00",
+    "event_end_time": "18:39:00",
+    "game_clock": "03:27.00",
+    "caption": "J. Collins' dunk two-pointer is blocked by W. Kessler. W. Kessler blocks J. Collins's dunk two-pointer. Y. Niederhäuser grabs the offensive rebound after J. Collins' missed dunk."
+  },
+  {
+    "event_id": 638,
+    "event_start_time": "18:38:00",
+    "event_end_time": "18:42:00",
+    "game_clock": "03:26.00",
+    "caption": "W. Kessler commits a shooting personal foul."
+  },
+  {
+    "event_id": 645,
+    "event_start_time": "19:37:30",
+    "event_end_time": "19:42:30",
+    "game_clock": "03:24.00",
+    "caption": "A. Bailey grabs the defensive rebound."
+  },
+  {
+    "event_id": 646,
+    "event_start_time": "19:55:30",
+    "event_end_time": "20:02:30",
+    "game_clock": "03:06.00",
+    "caption": "B. Sensabaugh misses a jump shot three-pointer. W. Kessler grabs the offensive rebound after B. Sensabaugh's missed three-pointer."
+  },
+  {
+    "event_id": 649,
+    "event_start_time": "20:02:30",
+    "event_end_time": "20:06:30",
+    "game_clock": "03:00.00",
+    "caption": "K. Sanders steals the ball from W. Kessler on a bad pass."
+  },
+  {
+    "event_id": 650,
+    "event_start_time": "20:10:00",
+    "event_end_time": "20:18:30",
+    "game_clock": "02:49.00",
+    "caption": "C. Christie makes a jump shot three-pointer, assisted by K. Brown."
+  },
+  {
+    "event_id": 652,
+    "event_start_time": "20:27:00",
+    "event_end_time": "20:34:00",
+    "game_clock": "02:35.00",
+    "caption": "A. Bailey misses a pullup two-pointer. C. Christie grabs the defensive rebound after A. Bailey's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 654,
+    "event_start_time": "20:40:30",
+    "event_end_time": "20:43:30",
+    "game_clock": "02:24.00",
+    "caption": "T. Hendricks commits a personal foul."
+  },
+  {
+    "event_id": 664,
+    "event_start_time": "25:11:30",
+    "event_end_time": "25:20:00",
+    "game_clock": "02:07.00",
+    "caption": "K. Filipowski makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 665,
+    "event_start_time": "25:26:30",
+    "event_end_time": "25:35:00",
+    "game_clock": "01:52.00",
+    "caption": "J. Collins makes a driving layup two-pointer, assisted by K. Sanders."
+  },
+  {
+    "event_id": 667,
+    "event_start_time": "25:42:30",
+    "event_end_time": "25:49:30",
+    "game_clock": "01:41.00",
+    "caption": "A. Bailey misses a jump shot three-pointer. W. Clayton Jr. grabs the offensive rebound after A. Bailey's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 669,
+    "event_start_time": "25:43:00",
+    "event_end_time": "25:51:30",
+    "game_clock": "01:38.00",
+    "caption": "T. Hendricks makes a jump shot three-pointer, assisted by W. Clayton Jr."
+  },
+  {
+    "event_id": 671,
+    "event_start_time": "26:02:30",
+    "event_end_time": "26:11:00",
+    "game_clock": "01:22.00",
+    "caption": "Y. Niederhäuser makes a dunk two-pointer, assisted by K. Brown."
+  },
+  {
+    "event_id": 673,
+    "event_start_time": "26:18:00",
+    "event_end_time": "26:26:30",
+    "game_clock": "01:10.00",
+    "caption": "T. Hendricks makes a cutting dunk two-pointer, assisted by K. Filipowski."
+  },
+  {
+    "event_id": 675,
+    "event_start_time": "26:36:06",
+    "event_end_time": "26:43:06",
+    "game_clock": "00:59.10",
+    "caption": "K. Sanders misses a pullup two-pointer. K. Brown grabs the offensive rebound after K. Sanders' missed jump shot two-pointer."
+  },
+  {
+    "event_id": 677,
+    "event_start_time": "26:42:39",
+    "event_end_time": "26:46:39",
+    "game_clock": "00:55.50",
+    "caption": "A. Bailey commits a personal foul."
+  },
+  {
+    "event_id": 682,
+    "event_start_time": "28:03:39",
+    "event_end_time": "28:08:39",
+    "game_clock": "00:39.80",
+    "caption": "T. Hendricks' jump shot two-pointer is blocked by J. Collins. J. Collins blocks T. Hendricks's jump shot two-pointer. T. Hendricks grabs the offensive rebound after missing his jump shot."
+  },
+  {
+    "event_id": 685,
+    "event_start_time": "28:10:39",
+    "event_end_time": "28:17:39",
+    "game_clock": "00:32.80",
+    "caption": "T. Hendricks misses a jump shot three-pointer. K. Sanders grabs the defensive rebound after T. Hendricks' missed three-pointer."
+  },
+  {
+    "event_id": 687,
+    "event_start_time": "28:32:03",
+    "event_end_time": "28:36:03",
+    "game_clock": "00:14.40",
+    "caption": "K. Filipowski commits a personal foul."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "event_id": 477,
+    "event_start_time": "00:03:30",
+    "event_end_time": "00:07:30",
+    "game_clock": "11:47.00",
+    "caption": "H. Tyson steals the ball from J. Williams on a bad pass."
+  },
+  {
+    "event_id": 478,
+    "event_start_time": "00:11:00",
+    "event_end_time": "00:19:30",
+    "game_clock": "11:36.00",
+    "caption": "J. Strawther makes a pullup three-pointer, assisted by D. Holmes II."
+  },
+  {
+    "event_id": 480,
+    "event_start_time": "00:29:30",
+    "event_end_time": "00:36:30",
+    "game_clock": "11:20.00",
+    "caption": "O. Dieng misses a jump shot three-pointer. J. Strawther grabs the defensive rebound after O. Dieng's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 482,
+    "event_start_time": "00:41:00",
+    "event_end_time": "00:49:30",
+    "game_clock": "11:06.00",
+    "caption": "J. Pickett makes a jump shot two-pointer, assisted by J. Strawther."
+  },
+  {
+    "event_id": 485,
+    "event_start_time": "03:51:00",
+    "event_end_time": "03:59:30",
+    "game_clock": "10:50.00",
+    "caption": "C. Youngblood makes a jump shot three-pointer, assisted by A. Wiggins."
+  },
+  {
+    "event_id": 487,
+    "event_start_time": "04:08:00",
+    "event_end_time": "04:16:30",
+    "game_clock": "10:33.00",
+    "caption": "J. Pickett makes a pullup two-pointer."
+  },
+  {
+    "event_id": 489,
+    "event_start_time": "04:29:30",
+    "event_end_time": "04:33:30",
+    "game_clock": "10:15.00",
+    "caption": "Z. Nnaji steals the ball from A. Wiggins on a lost ball."
+  },
+  {
+    "event_id": 490,
+    "event_start_time": "04:34:30",
+    "event_end_time": "04:41:30",
+    "game_clock": "10:09.00",
+    "caption": "Z. Nnaji misses a reverse layup two-pointer. B. Barnhizer grabs the defensive rebound after Z. Nnaji's missed reverse layup two-pointer."
+  },
+  {
+    "event_id": 493,
+    "event_start_time": "04:43:30",
+    "event_end_time": "04:50:30",
+    "game_clock": "10:00.00",
+    "caption": "A. Wiggins misses a jump shot three-pointer. Z. Nnaji grabs the defensive rebound after A. Wiggins' missed three-pointer."
+  },
+  {
+    "event_id": 495,
+    "event_start_time": "05:06:30",
+    "event_end_time": "05:13:30",
+    "game_clock": "09:37.00",
+    "caption": "D. Holmes II misses a jump shot three-pointer. C. Youngblood grabs the defensive rebound after D. Holmes II's missed three-pointer."
+  },
+  {
+    "event_id": 498,
+    "event_start_time": "05:22:30",
+    "event_end_time": "05:26:30",
+    "game_clock": "09:22.00",
+    "caption": "J. Strawther steals the ball from B. Barnhizer on a lost ball."
+  },
+  {
+    "event_id": 499,
+    "event_start_time": "05:33:00",
+    "event_end_time": "05:41:30",
+    "game_clock": "09:08.00",
+    "caption": "J. Strawther makes a jump shot three-pointer, assisted by H. Tyson."
+  },
+  {
+    "event_id": 506,
+    "event_start_time": "06:44:30",
+    "event_end_time": "06:48:30",
+    "game_clock": "08:46.00",
+    "caption": "Z. Nnaji steals the ball from O. Dieng on a lost ball."
+  },
+  {
+    "event_id": 507,
+    "event_start_time": "06:49:30",
+    "event_end_time": "06:56:30",
+    "game_clock": "08:40.00",
+    "caption": "H. Tyson misses a jump shot three-pointer. C. Youngblood grabs the defensive rebound after H. Tyson's missed three-pointer."
+  },
+  {
+    "event_id": 509,
+    "event_start_time": "07:05:30",
+    "event_end_time": "07:08:30",
+    "game_clock": "08:27.00",
+    "caption": "Z. Nnaji commits a personal foul."
+  },
+  {
+    "event_id": 511,
+    "event_start_time": "07:35:00",
+    "event_end_time": "07:42:00",
+    "game_clock": "08:13.00",
+    "caption": "O. Dieng misses a step back three-pointer."
+  },
+  {
+    "event_id": 516,
+    "event_start_time": "08:08:30",
+    "event_end_time": "08:12:30",
+    "game_clock": "07:53.00",
+    "caption": "O. Dieng steals the ball from J. Pickett on a bad pass."
+  },
+  {
+    "event_id": 517,
+    "event_start_time": "08:08:00",
+    "event_end_time": "08:16:30",
+    "game_clock": "07:50.00",
+    "caption": "O. Dieng makes a running dunk two-pointer."
+  },
+  {
+    "event_id": 522,
+    "event_start_time": "11:17:30",
+    "event_end_time": "11:24:30",
+    "game_clock": "07:36.00",
+    "caption": "H. Tyson misses a jump shot three-pointer. M. Leons grabs the defensive rebound after H. Tyson's missed three-pointer."
+  },
+  {
+    "event_id": 524,
+    "event_start_time": "11:23:00",
+    "event_end_time": "11:31:30",
+    "game_clock": "07:28.00",
+    "caption": "B. Carlson makes a jump shot three-pointer, assisted by M. Leons."
+  },
+  {
+    "event_id": 526,
+    "event_start_time": "11:41:30",
+    "event_end_time": "11:48:30",
+    "game_clock": "07:12.00",
+    "caption": "Z. Nnaji misses a jump shot three-pointer. B. Carlson grabs the defensive rebound after Z. Nnaji's missed three-pointer."
+  },
+  {
+    "event_id": 528,
+    "event_start_time": "11:56:30",
+    "event_end_time": "11:59:30",
+    "game_clock": "07:00.00",
+    "caption": "C. Jones commits a personal foul."
+  },
+  {
+    "event_id": 530,
+    "event_start_time": "12:21:00",
+    "event_end_time": "12:28:00",
+    "game_clock": "06:48.00",
+    "caption": "C. Youngblood misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 532,
+    "event_start_time": "12:26:00",
+    "event_end_time": "12:29:00",
+    "game_clock": "06:46.00",
+    "caption": "C. Jones commits a personal foul."
+  },
+  {
+    "event_id": 534,
+    "event_start_time": "12:43:00",
+    "event_end_time": "12:51:30",
+    "game_clock": "06:42.00",
+    "caption": "O. Dieng makes a step back three-pointer, assisted by C. Youngblood."
+  },
+  {
+    "event_id": 535,
+    "event_start_time": "13:07:30",
+    "event_end_time": "13:14:30",
+    "game_clock": "06:20.00",
+    "caption": "C. Jones misses a floating two-pointer. B. Carlson grabs the defensive rebound after C. Jones's missed floating two-pointer."
+  },
+  {
+    "event_id": 537,
+    "event_start_time": "13:18:30",
+    "event_end_time": "13:21:30",
+    "game_clock": "06:12.00",
+    "caption": "H. Tyson commits a personal foul."
+  },
+  {
+    "event_id": 545,
+    "event_start_time": "16:51:00",
+    "event_end_time": "16:58:00",
+    "game_clock": "06:01.00",
+    "caption": "B. Carlson misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 547,
+    "event_start_time": "16:56:00",
+    "event_end_time": "16:59:00",
+    "game_clock": "05:59.00",
+    "caption": "D. Holmes II commits a personal foul."
+  },
+  {
+    "event_id": 551,
+    "event_start_time": "17:51:30",
+    "event_end_time": "17:58:30",
+    "game_clock": "05:45.00",
+    "caption": "T. Bates misses a pullup two-pointer. B. Carlson grabs the defensive rebound after T. Bates' missed pullup two-pointer."
+  },
+  {
+    "event_id": 553,
+    "event_start_time": "18:04:00",
+    "event_end_time": "18:12:30",
+    "game_clock": "05:30.00",
+    "caption": "O. Dieng makes a jump shot two-pointer."
+  },
+  {
+    "event_id": 554,
+    "event_start_time": "18:21:30",
+    "event_end_time": "18:28:30",
+    "game_clock": "05:15.00",
+    "caption": "C. Jones misses a pullup two-pointer. C. Youngblood grabs the defensive rebound after C. Jones's missed pullup two-pointer."
+  },
+  {
+    "event_id": 556,
+    "event_start_time": "18:30:30",
+    "event_end_time": "18:37:30",
+    "game_clock": "05:06.00",
+    "caption": "B. Barnhizer misses a jump shot three-pointer. D. Holmes II grabs the defensive rebound after B. Barnhizer's missed three-pointer."
+  },
+  {
+    "event_id": 560,
+    "event_start_time": "18:45:30",
+    "event_end_time": "18:52:30",
+    "game_clock": "04:51.00",
+    "caption": "J. Pickett misses a jump shot three-pointer. M. Leons grabs the defensive rebound after J. Pickett's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 562,
+    "event_start_time": "19:05:00",
+    "event_end_time": "19:12:00",
+    "game_clock": "04:32.00",
+    "caption": "C. Youngblood misses a jump shot three-pointer. D. Holmes II grabs the defensive rebound after C. Youngblood's missed three-pointer."
+  },
+  {
+    "event_id": 564,
+    "event_start_time": "19:26:00",
+    "event_end_time": "19:33:00",
+    "game_clock": "04:11.00",
+    "caption": "H. Tyson misses a turnaround two-pointer. O. Dieng grabs the defensive rebound after H. Tyson's missed turnaround two-pointer."
+  },
+  {
+    "event_id": 567,
+    "event_start_time": "19:37:00",
+    "event_end_time": "19:44:00",
+    "game_clock": "04:00.00",
+    "caption": "B. Barnhizer misses a driving layup two-pointer. H. Tyson grabs the defensive rebound after B. Barnhizer's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 574,
+    "event_start_time": "21:20:00",
+    "event_end_time": "21:27:00",
+    "game_clock": "03:48.00",
+    "caption": "M. Brown misses a hook two-pointer. O. Dieng grabs the defensive rebound after M. Brown's missed hook two-pointer."
+  },
+  {
+    "event_id": 576,
+    "event_start_time": "21:36:30",
+    "event_end_time": "21:45:00",
+    "game_clock": "03:29.00",
+    "caption": "O. Dieng makes a pullup two-pointer, assisted by B. Carlson."
+  },
+  {
+    "event_id": 578,
+    "event_start_time": "21:50:00",
+    "event_end_time": "21:57:00",
+    "game_clock": "03:18.00",
+    "caption": "C. Jones misses a pullup three-pointer. B. Carlson grabs the defensive rebound after C. Jones's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 580,
+    "event_start_time": "22:05:00",
+    "event_end_time": "22:12:00",
+    "game_clock": "03:03.00",
+    "caption": "O. Dieng misses a step back three-pointer."
+  },
+  {
+    "event_id": 583,
+    "event_start_time": "22:30:00",
+    "event_end_time": "22:37:00",
+    "game_clock": "02:47.00",
+    "caption": "T. Bates misses a jump shot three-pointer. O. Dieng grabs the defensive rebound after T. Bates' missed three-pointer. M. Brown commits a personal foul."
+  },
+  {
+    "event_id": 589,
+    "event_start_time": "23:25:30",
+    "event_end_time": "23:30:30",
+    "game_clock": "02:32.00",
+    "caption": "M. Brown grabs the defensive rebound."
+  },
+  {
+    "event_id": 590,
+    "event_start_time": "23:35:30",
+    "event_end_time": "23:42:30",
+    "game_clock": "02:22.00",
+    "caption": "C. Jones misses a step back three-pointer. M. Brown grabs the offensive rebound after C. Jones's missed jump shot three-pointer. C. Youngblood commits a personal foul."
+  },
+  {
+    "event_id": 597,
+    "event_start_time": "24:29:00",
+    "event_end_time": "24:34:00",
+    "game_clock": "02:04.00",
+    "caption": "O. Dieng's layup two-pointer is blocked by C. Jones. C. Jones blocks O. Dieng's layup two-pointer. C. Jones grabs the defensive rebound after O. Dieng's missed layup two-pointer."
+  },
+  {
+    "event_id": 600,
+    "event_start_time": "24:39:00",
+    "event_end_time": "24:42:00",
+    "game_clock": "01:57.00",
+    "caption": "B. Barnhizer commits a personal foul."
+  },
+  {
+    "event_id": 603,
+    "event_start_time": "25:10:30",
+    "event_end_time": "25:14:30",
+    "game_clock": "01:46.00",
+    "caption": "B. Barnhizer steals the ball from K. Edwards on a bad pass."
+  },
+  {
+    "event_id": 604,
+    "event_start_time": "25:11:00",
+    "event_end_time": "25:19:30",
+    "game_clock": "01:42.00",
+    "caption": "C. Youngblood makes a running layup two-pointer, assisted by M. Leons."
+  },
+  {
+    "event_id": 606,
+    "event_start_time": "25:31:00",
+    "event_end_time": "25:38:00",
+    "game_clock": "01:29.00",
+    "caption": "D. Holmes II misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 609,
+    "event_start_time": "25:52:30",
+    "event_end_time": "25:59:30",
+    "game_clock": "01:17.00",
+    "caption": "B. Carlson misses a jump shot three-pointer. M. Leons grabs the offensive rebound after B. Carlson's missed three-pointer."
+  },
+  {
+    "event_id": 611,
+    "event_start_time": "26:05:30",
+    "event_end_time": "26:12:30",
+    "game_clock": "01:04.00",
+    "caption": "C. Youngblood misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 613,
+    "event_start_time": "26:09:30",
+    "event_end_time": "26:12:30",
+    "game_clock": "01:03.00",
+    "caption": "M. Leons commits a personal foul."
+  },
+  {
+    "event_id": 618,
+    "event_start_time": "27:18:09",
+    "event_end_time": "27:25:09",
+    "game_clock": "00:43.60",
+    "caption": "O. Dieng misses a step back three-pointer. D. Holmes II grabs the defensive rebound after O. Dieng's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 620,
+    "event_start_time": "27:22:15",
+    "event_end_time": "27:30:45",
+    "game_clock": "00:37.00",
+    "caption": "T. Bates makes a running layup two-pointer, assisted by C. Jones."
+  },
+  {
+    "event_id": 623,
+    "event_start_time": "29:18:30",
+    "event_end_time": "29:27:00",
+    "game_clock": "00:28.60",
+    "caption": "M. Leons makes a jump shot three-pointer, assisted by O. Dieng."
+  },
+  {
+    "event_id": 625,
+    "event_start_time": "29:36:45",
+    "event_end_time": "29:45:15",
+    "game_clock": "00:12.80",
+    "caption": "C. Jones makes a driving floating jump shot two-pointer. C. Youngblood commits a shooting personal foul."
+  },
+  {
+    "event_id": 629,
+    "event_start_time": "30:19:00",
+    "event_end_time": "30:24:00",
+    "game_clock": "00:10.90",
+    "caption": "M. Brown grabs the offensive rebound."
+  },
+  {
+    "event_id": 630,
+    "event_start_time": "30:20:06",
+    "event_end_time": "30:29:45",
+    "game_clock": "00:09.80",
+    "caption": "M. Brown misses a putback layup two-pointer. D. Holmes II grabs the offensive rebound after M. Brown's missed putback layup two-pointer. D. Holmes II's putback layup two-pointer is blocked by O. Dieng."
+  },
+  {
+    "event_id": 632,
+    "event_start_time": "30:22:45",
+    "event_end_time": "30:27:45",
+    "game_clock": "00:07.20",
+    "caption": "D. Holmes II's putback layup two-pointer is blocked by O. Dieng. O. Dieng blocks D. Holmes II's layup two-pointer. B. Barnhizer grabs the defensive rebound after D. Holmes II's missed layup two-pointer."
+  },
+  {
+    "event_id": 635,
+    "event_start_time": "30:27:06",
+    "event_end_time": "30:35:36",
+    "game_clock": "00:00.30",
+    "caption": "O. Dieng makes a pullup three-pointer."
+  }
+]

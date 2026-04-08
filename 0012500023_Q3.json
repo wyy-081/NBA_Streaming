@@ -1,0 +1,429 @@
+[
+  {
+    "event_id": 344,
+    "event_start_time": "00:07:30",
+    "event_end_time": "00:14:30",
+    "game_clock": "11:45.00",
+    "caption": "J. Poole misses a jump shot three-pointer. P. Banchero grabs the defensive rebound after J. Poole's missed three-pointer."
+  },
+  {
+    "event_id": 347,
+    "event_start_time": "00:48:30",
+    "event_end_time": "00:57:00",
+    "game_clock": "11:21.00",
+    "caption": "F. Wagner makes a jump shot three-pointer, assisted by W. Carter Jr."
+  },
+  {
+    "event_id": 350,
+    "event_start_time": "01:01:00",
+    "event_end_time": "01:05:00",
+    "game_clock": "11:12.00",
+    "caption": "F. Wagner steals the ball from Z. Williamson on a lost ball."
+  },
+  {
+    "event_id": 351,
+    "event_start_time": "01:01:30",
+    "event_end_time": "01:10:00",
+    "game_clock": "11:08.00",
+    "caption": "F. Wagner makes a running dunk two-pointer, assisted by T. Jones."
+  },
+  {
+    "event_id": 353,
+    "event_start_time": "01:16:00",
+    "event_end_time": "01:30:00",
+    "game_clock": "10:56.00",
+    "caption": "J. Poole misses a driving floating bank two-pointer. Z. Williamson grabs the offensive rebound after J. Poole's missed driving floating bank two-pointer. Z. Williamson makes a tip layup two-pointer."
+  },
+  {
+    "event_id": 356,
+    "event_start_time": "01:24:30",
+    "event_end_time": "01:33:00",
+    "game_clock": "10:45.00",
+    "caption": "T. Jones makes a jump shot three-pointer, assisted by W. Carter Jr."
+  },
+  {
+    "event_id": 358,
+    "event_start_time": "01:42:00",
+    "event_end_time": "01:45:00",
+    "game_clock": "10:33.00",
+    "caption": "D. Bane commits a personal foul."
+  },
+  {
+    "event_id": 360,
+    "event_start_time": "02:13:00",
+    "event_end_time": "02:20:00",
+    "game_clock": "10:20.00",
+    "caption": "J. Poole misses a pullup three-pointer. W. Carter Jr. grabs the defensive rebound after J. Poole's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 362,
+    "event_start_time": "02:25:30",
+    "event_end_time": "02:34:00",
+    "game_clock": "10:05.00",
+    "caption": "D. Bane makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 364,
+    "event_start_time": "02:55:00",
+    "event_end_time": "03:03:30",
+    "game_clock": "09:51.00",
+    "caption": "J. Poole makes a driving finger roll two-pointer, assisted by Z. Williamson."
+  },
+  {
+    "event_id": 366,
+    "event_start_time": "03:06:30",
+    "event_end_time": "03:13:30",
+    "game_clock": "09:42.00",
+    "caption": "P. Banchero misses a step back three-pointer. T. Murphy III grabs the defensive rebound after P. Banchero's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 369,
+    "event_start_time": "03:34:00",
+    "event_end_time": "03:42:30",
+    "game_clock": "09:31.00",
+    "caption": "T. Murphy III makes a jump shot three-pointer."
+  },
+  {
+    "event_id": 370,
+    "event_start_time": "04:00:30",
+    "event_end_time": "04:07:30",
+    "game_clock": "09:07.00",
+    "caption": "P. Banchero misses a driving floating two-pointer. Z. Williamson grabs the defensive rebound after P. Banchero's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 372,
+    "event_start_time": "04:06:00",
+    "event_end_time": "04:14:30",
+    "game_clock": "08:59.00",
+    "caption": "T. Murphy III makes a running alley-oop dunk two-pointer, assisted by Z. Williamson."
+  },
+  {
+    "event_id": 374,
+    "event_start_time": "04:26:30",
+    "event_end_time": "04:29:30",
+    "game_clock": "08:44.00",
+    "caption": "W. Carter Jr. commits an offensive foul."
+  },
+  {
+    "event_id": 377,
+    "event_start_time": "04:46:00",
+    "event_end_time": "04:54:30",
+    "game_clock": "08:35.00",
+    "caption": "J. Poole makes a driving layup two-pointer."
+  },
+  {
+    "event_id": 378,
+    "event_start_time": "05:07:00",
+    "event_end_time": "05:15:30",
+    "game_clock": "08:14.00",
+    "caption": "P. Banchero makes a jump shot three-pointer, assisted by T. Jones."
+  },
+  {
+    "event_id": 380,
+    "event_start_time": "05:18:00",
+    "event_end_time": "05:26:30",
+    "game_clock": "08:03.00",
+    "caption": "Y. Missi makes a cutting dunk two-pointer, assisted by T. Murphy III. Z. Williamson commits a personal foul."
+  },
+  {
+    "event_id": 387,
+    "event_start_time": "05:27:30",
+    "event_end_time": "05:32:30",
+    "game_clock": "07:56.00",
+    "caption": "W. Carter Jr. grabs the offensive rebound."
+  },
+  {
+    "event_id": 388,
+    "event_start_time": "05:30:30",
+    "event_end_time": "05:34:30",
+    "game_clock": "07:56.00",
+    "caption": "Y. Missi commits a personal foul."
+  },
+  {
+    "event_id": 393,
+    "event_start_time": "09:36:30",
+    "event_end_time": "09:41:30",
+    "game_clock": "07:53.00",
+    "caption": "T. Murphy III grabs the defensive rebound."
+  },
+  {
+    "event_id": 394,
+    "event_start_time": "09:54:30",
+    "event_end_time": "10:01:30",
+    "game_clock": "07:35.00",
+    "caption": "T. Murphy III misses a jump shot three-pointer. D. Bane grabs the defensive rebound after T. Murphy III's missed three-pointer."
+  },
+  {
+    "event_id": 397,
+    "event_start_time": "10:22:30",
+    "event_end_time": "10:29:30",
+    "game_clock": "07:24.00",
+    "caption": "D. Bane misses a pullup two-pointer. H. Jones grabs the defensive rebound after D. Bane's missed pullup two-pointer."
+  },
+  {
+    "event_id": 399,
+    "event_start_time": "10:40:00",
+    "event_end_time": "10:48:30",
+    "game_clock": "07:04.00",
+    "caption": "J. Poole makes a jump shot three-pointer, assisted by T. Murphy III."
+  },
+  {
+    "event_id": 401,
+    "event_start_time": "10:59:30",
+    "event_end_time": "11:02:30",
+    "game_clock": "06:50.00",
+    "caption": "P. Banchero commits an offensive foul."
+  },
+  {
+    "event_id": 407,
+    "event_start_time": "14:14:00",
+    "event_end_time": "14:19:00",
+    "game_clock": "06:37.00",
+    "caption": "H. Jones' driving layup two-pointer is blocked by W. Carter Jr. W. Carter Jr. blocks H. Jones's layup two-pointer. Y. Missi grabs the offensive rebound after H. Jones' missed driving layup two-pointer."
+  },
+  {
+    "event_id": 410,
+    "event_start_time": "14:20:00",
+    "event_end_time": "14:25:00",
+    "game_clock": "06:31.00",
+    "caption": "Y. Missi's layup two-pointer is blocked by W. Carter Jr. W. Carter Jr. blocks Y. Missi's layup two-pointer. M. Peavy grabs the offensive rebound after Y. Missi's missed layup two-pointer."
+  },
+  {
+    "event_id": 413,
+    "event_start_time": "14:24:30",
+    "event_end_time": "14:33:00",
+    "game_clock": "06:24.00",
+    "caption": "T. Murphy III makes a jump shot three-pointer, assisted by J. Poole."
+  },
+  {
+    "event_id": 414,
+    "event_start_time": "14:28:00",
+    "event_end_time": "14:35:00",
+    "game_clock": "06:23.00",
+    "caption": "F. Wagner misses a driving layup two-pointer."
+  },
+  {
+    "event_id": 417,
+    "event_start_time": "14:51:30",
+    "event_end_time": "15:00:00",
+    "game_clock": "06:09.00",
+    "caption": "Y. Missi makes a dunk two-pointer, assisted by H. Jones."
+  },
+  {
+    "event_id": 419,
+    "event_start_time": "15:13:30",
+    "event_end_time": "15:22:00",
+    "game_clock": "05:47.00",
+    "caption": "W. Carter Jr. makes a jump shot three-pointer, assisted by Paolo Banchero."
+  },
+  {
+    "event_id": 421,
+    "event_start_time": "15:33:00",
+    "event_end_time": "15:47:00",
+    "game_clock": "05:30.00",
+    "caption": "M. Peavy misses a jump shot three-pointer. Y. Missi grabs the offensive rebound after M. Peavy's missed three-pointer. Y. Missi misses a tip layup two-pointer."
+  },
+  {
+    "event_id": 424,
+    "event_start_time": "15:41:00",
+    "event_end_time": "15:47:00",
+    "game_clock": "05:23.00",
+    "caption": "Y. Missi grabs the offensive rebound."
+  },
+  {
+    "event_id": 425,
+    "event_start_time": "15:46:00",
+    "event_end_time": "15:50:00",
+    "game_clock": "05:20.00",
+    "caption": "F. Wagner commits a shooting personal foul."
+  },
+  {
+    "event_id": 437,
+    "event_start_time": "16:54:30",
+    "event_end_time": "17:02:30",
+    "game_clock": "05:09.00",
+    "caption": "P. Banchero misses a jump shot two-pointer. W. Carter Jr. grabs the offensive rebound after P. Banchero's missed jump shot two-pointer. W. Carter Jr. makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 440,
+    "event_start_time": "16:59:30",
+    "event_end_time": "17:02:30",
+    "game_clock": "05:07.00",
+    "caption": "T. Murphy III commits a personal foul."
+  },
+  {
+    "event_id": 443,
+    "event_start_time": "17:27:30",
+    "event_end_time": "17:32:30",
+    "game_clock": "05:04.00",
+    "caption": "T. Murphy III grabs the defensive rebound."
+  },
+  {
+    "event_id": 444,
+    "event_start_time": "17:41:30",
+    "event_end_time": "17:45:30",
+    "game_clock": "04:53.00",
+    "caption": "P. Banchero commits a personal foul."
+  },
+  {
+    "event_id": 450,
+    "event_start_time": "18:51:30",
+    "event_end_time": "18:58:30",
+    "game_clock": "04:31.00",
+    "caption": "J. Richardson misses a jump shot three-pointer. J. Fears grabs the defensive rebound after J. Richardson's missed three-pointer."
+  },
+  {
+    "event_id": 452,
+    "event_start_time": "19:03:30",
+    "event_end_time": "19:10:30",
+    "game_clock": "04:19.00",
+    "caption": "J. Fears misses a layup two-pointer."
+  },
+  {
+    "event_id": 461,
+    "event_start_time": "19:35:30",
+    "event_end_time": "19:44:00",
+    "game_clock": "04:05.00",
+    "caption": "J. Hawkins makes a jump shot three-pointer, assisted by M. Peavy."
+  },
+  {
+    "event_id": 463,
+    "event_start_time": "19:42:00",
+    "event_end_time": "19:49:00",
+    "game_clock": "04:01.00",
+    "caption": "J. Howard misses a jump shot three-pointer. J. Hawkins grabs the defensive rebound after J. Howard's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 466,
+    "event_start_time": "19:47:00",
+    "event_end_time": "19:51:00",
+    "game_clock": "03:57.00",
+    "caption": "J. Richardson steals the ball from J. Hawkins on a lost ball."
+  },
+  {
+    "event_id": 467,
+    "event_start_time": "19:46:30",
+    "event_end_time": "19:55:00",
+    "game_clock": "03:54.00",
+    "caption": "W. Carter Jr. makes a layup two-pointer."
+  },
+  {
+    "event_id": 469,
+    "event_start_time": "20:06:00",
+    "event_end_time": "20:13:00",
+    "game_clock": "03:37.00",
+    "caption": "J. Hawkins misses a step back three-pointer. J. Fears grabs the offensive rebound after J. Hawkins's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 471,
+    "event_start_time": "20:09:00",
+    "event_end_time": "20:12:00",
+    "game_clock": "03:36.00",
+    "caption": "M. Peavy is called for a traveling violation."
+  },
+  {
+    "event_id": 479,
+    "event_start_time": "20:43:30",
+    "event_end_time": "20:47:30",
+    "game_clock": "03:27.00",
+    "caption": "J. Hawkins commits a shooting personal foul."
+  },
+  {
+    "event_id": 484,
+    "event_start_time": "21:37:00",
+    "event_end_time": "21:40:00",
+    "game_clock": "03:16.00",
+    "caption": "J. Fears is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 485,
+    "event_start_time": "21:55:00",
+    "event_end_time": "22:02:00",
+    "game_clock": "03:02.00",
+    "caption": "T. da Silva misses a pullup two-pointer. M. Peavy grabs the defensive rebound after T. da Silva's missed pullup two-pointer."
+  },
+  {
+    "event_id": 487,
+    "event_start_time": "22:08:00",
+    "event_end_time": "22:15:00",
+    "game_clock": "02:49.00",
+    "caption": "J. Fears misses a jump shot three-pointer. A. Black grabs the defensive rebound after J. Fears' missed jump shot three-pointer."
+  },
+  {
+    "event_id": 489,
+    "event_start_time": "22:25:00",
+    "event_end_time": "22:32:00",
+    "game_clock": "02:32.00",
+    "caption": "J. Richardson misses a driving floating two-pointer. J. Richardson grabs the offensive rebound after missing his driving floating two-pointer."
+  },
+  {
+    "event_id": 491,
+    "event_start_time": "22:27:30",
+    "event_end_time": "22:36:00",
+    "game_clock": "02:27.00",
+    "caption": "T. da Silva makes a cutting dunk two-pointer, assisted by J. Richardson."
+  },
+  {
+    "event_id": 494,
+    "event_start_time": "25:42:00",
+    "event_end_time": "25:50:30",
+    "game_clock": "02:11.00",
+    "caption": "J. Hawkins makes a jump shot two-pointer. J. Richardson commits a personal foul."
+  },
+  {
+    "event_id": 498,
+    "event_start_time": "26:36:00",
+    "event_end_time": "26:40:00",
+    "game_clock": "01:55.00",
+    "caption": "H. Dickinson commits a personal foul."
+  },
+  {
+    "event_id": 502,
+    "event_start_time": "27:32:30",
+    "event_end_time": "27:39:30",
+    "game_clock": "01:43.00",
+    "caption": "J. Hawkins misses a jump shot three-pointer. G. Bitadze grabs the defensive rebound after J. Hawkins's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 504,
+    "event_start_time": "27:53:00",
+    "event_end_time": "28:01:30",
+    "game_clock": "01:20.00",
+    "caption": "G. Bitadze makes a layup two-pointer, assisted by A. Black. A. Black commits a personal foul."
+  },
+  {
+    "event_id": 510,
+    "event_start_time": "29:11:06",
+    "event_end_time": "29:18:06",
+    "game_clock": "00:49.10",
+    "caption": "A. Black misses a pullup two-pointer. J. Fears grabs the defensive rebound after A. Black's missed pullup two-pointer."
+  },
+  {
+    "event_id": 512,
+    "event_start_time": "29:22:54",
+    "event_end_time": "29:29:54",
+    "game_clock": "00:37.30",
+    "caption": "B. McGowens misses a turnaround two-pointer. G. Bitadze grabs the defensive rebound after B. McGowens's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 514,
+    "event_start_time": "29:34:06",
+    "event_end_time": "29:37:06",
+    "game_clock": "00:29.10",
+    "caption": "B. McGowens commits a personal foul."
+  },
+  {
+    "event_id": 518,
+    "event_start_time": "30:37:21",
+    "event_end_time": "30:45:51",
+    "game_clock": "00:07.80",
+    "caption": "H. Dickinson makes a turnaround hook two-pointer, assisted by M. Peavy."
+  },
+  {
+    "event_id": 521,
+    "event_start_time": "30:52:15",
+    "event_end_time": "30:56:15",
+    "game_clock": "00:01.90",
+    "caption": "H. Dickinson steals the ball from T. da Silva on a bad pass."
+  }
+]

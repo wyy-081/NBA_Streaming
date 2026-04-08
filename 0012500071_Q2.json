@@ -1,0 +1,429 @@
+[
+  {
+    "event_id": 187,
+    "event_start_time": "00:08:00",
+    "event_end_time": "00:12:00",
+    "game_clock": "11:44.00",
+    "caption": "V. Edgecombe steals the ball from T. Newton on a bad pass."
+  },
+  {
+    "event_id": 188,
+    "event_start_time": "00:09:30",
+    "event_end_time": "00:18:00",
+    "game_clock": "11:39.00",
+    "caption": "T. Maxey makes a running finger roll layup two-pointer, assisted by V. Edgecombe. T. Maxey commits a personal foul."
+  },
+  {
+    "event_id": 195,
+    "event_start_time": "02:01:30",
+    "event_end_time": "02:10:00",
+    "game_clock": "11:01.00",
+    "caption": "T. Maxey makes a pullup three-pointer, assisted by J. Embiid."
+  },
+  {
+    "event_id": 197,
+    "event_start_time": "02:21:00",
+    "event_end_time": "02:26:00",
+    "game_clock": "10:44.00",
+    "caption": "Z. Pullin's driving floating two-pointer is blocked by K. Oubre Jr. K. Oubre Jr. blocks Z. Pullin's jump shot two-pointer. J. Embiid grabs the defensive rebound after Z. Pullin's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 200,
+    "event_start_time": "02:29:00",
+    "event_end_time": "02:36:00",
+    "game_clock": "10:36.00",
+    "caption": "J. Embiid misses a pullup three-pointer. L. Miller grabs the defensive rebound after J. Embiid's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 202,
+    "event_start_time": "02:36:30",
+    "event_end_time": "02:45:00",
+    "game_clock": "10:26.00",
+    "caption": "R. Zikarsky makes a hook two-pointer, assisted by Z. Pullin."
+  },
+  {
+    "event_id": 204,
+    "event_start_time": "02:55:30",
+    "event_end_time": "03:04:00",
+    "game_clock": "10:07.00",
+    "caption": "K. Oubre Jr. makes a driving layup two-pointer, assisted by J. Embiid."
+  },
+  {
+    "event_id": 207,
+    "event_start_time": "03:09:00",
+    "event_end_time": "03:13:00",
+    "game_clock": "09:57.00",
+    "caption": "J. Embiid steals the ball from R. Zikarsky on a lost ball."
+  },
+  {
+    "event_id": 208,
+    "event_start_time": "03:12:30",
+    "event_end_time": "03:21:00",
+    "game_clock": "09:50.00",
+    "caption": "J. Walker makes a running layup two-pointer, assisted by J. Embiid."
+  },
+  {
+    "event_id": 210,
+    "event_start_time": "03:41:00",
+    "event_end_time": "03:48:00",
+    "game_clock": "09:24.00",
+    "caption": "J. Clark misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 216,
+    "event_start_time": "04:12:30",
+    "event_end_time": "04:16:30",
+    "game_clock": "09:10.00",
+    "caption": "J. Beringer steals the ball from K. Oubre Jr. on a bad pass."
+  },
+  {
+    "event_id": 217,
+    "event_start_time": "04:16:30",
+    "event_end_time": "04:25:00",
+    "game_clock": "09:06.00",
+    "caption": "J. Beringer makes a running dunk two-pointer."
+  },
+  {
+    "event_id": 218,
+    "event_start_time": "04:32:30",
+    "event_end_time": "04:35:30",
+    "game_clock": "08:55.00",
+    "caption": "J. Embiid commits an offensive foul."
+  },
+  {
+    "event_id": 223,
+    "event_start_time": "05:10:30",
+    "event_end_time": "05:17:30",
+    "game_clock": "08:46.00",
+    "caption": "L. Miller misses a driving floating two-pointer. J. Walker grabs the defensive rebound after L. Miller's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 225,
+    "event_start_time": "05:20:30",
+    "event_end_time": "05:24:30",
+    "game_clock": "08:39.00",
+    "caption": "Z. Pullin commits a personal foul."
+  },
+  {
+    "event_id": 233,
+    "event_start_time": "06:21:30",
+    "event_end_time": "06:26:30",
+    "game_clock": "08:23.00",
+    "caption": "J. Juzang's driving floating two-pointer is blocked by A. Bona. A. Bona blocks J. Juzang's jump shot two-pointer. T. Maxey grabs the defensive rebound after J. Juzang's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 236,
+    "event_start_time": "06:22:00",
+    "event_end_time": "06:30:30",
+    "game_clock": "08:20.00",
+    "caption": "V. Edgecombe makes a running dunk two-pointer, assisted by T. Maxey."
+  },
+  {
+    "event_id": 239,
+    "event_start_time": "09:35:00",
+    "event_end_time": "09:43:30",
+    "game_clock": "08:05.00",
+    "caption": "J. Clark makes a driving floating two-pointer, assisted by L. Miller."
+  },
+  {
+    "event_id": 241,
+    "event_start_time": "09:50:30",
+    "event_end_time": "09:53:30",
+    "game_clock": "07:54.00",
+    "caption": "J. Walker is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 243,
+    "event_start_time": "10:07:30",
+    "event_end_time": "10:11:30",
+    "game_clock": "07:46.00",
+    "caption": "V. Edgecombe steals the ball from J. Clark on a bad pass."
+  },
+  {
+    "event_id": 244,
+    "event_start_time": "10:25:30",
+    "event_end_time": "10:32:30",
+    "game_clock": "07:27.00",
+    "caption": "K. Oubre Jr. misses a driving floating two-pointer."
+  },
+  {
+    "event_id": 247,
+    "event_start_time": "11:03:30",
+    "event_end_time": "11:10:30",
+    "game_clock": "07:15.00",
+    "caption": "V. Edgecombe misses a jump shot two-pointer. A. Bona grabs the offensive rebound after V. Edgecombe's missed jump shot."
+  },
+  {
+    "event_id": 249,
+    "event_start_time": "11:04:00",
+    "event_end_time": "11:12:30",
+    "game_clock": "07:12.00",
+    "caption": "A. Bona makes a tip dunk two-pointer."
+  },
+  {
+    "event_id": 250,
+    "event_start_time": "11:17:30",
+    "event_end_time": "11:22:30",
+    "game_clock": "07:01.00",
+    "caption": "R. Dillingham's floating two-pointer is blocked by T. Maxey. T. Maxey blocks R. Dillingham's jump shot two-pointer."
+  },
+  {
+    "event_id": 255,
+    "event_start_time": "11:29:30",
+    "event_end_time": "11:33:30",
+    "game_clock": "06:55.00",
+    "caption": "L. Miller steals the ball from V. Edgecombe on a lost ball."
+  },
+  {
+    "event_id": 256,
+    "event_start_time": "11:31:00",
+    "event_end_time": "11:39:30",
+    "game_clock": "06:50.00",
+    "caption": "J. Clark makes a running three-pointer, assisted by L. Miller."
+  },
+  {
+    "event_id": 258,
+    "event_start_time": "11:50:30",
+    "event_end_time": "11:57:30",
+    "game_clock": "06:33.00",
+    "caption": "K. Oubre Jr. misses a driving finger roll two-pointer. L. Miller grabs the defensive rebound after K. Oubre Jr.'s missed driving finger roll layup two-pointer."
+  },
+  {
+    "event_id": 260,
+    "event_start_time": "12:00:00",
+    "event_end_time": "12:08:30",
+    "game_clock": "06:21.00",
+    "caption": "J. Juzang makes a floating jump shot two-pointer."
+  },
+  {
+    "event_id": 266,
+    "event_start_time": "15:24:00",
+    "event_end_time": "15:32:30",
+    "game_clock": "06:00.00",
+    "caption": "Q. Grimes makes a driving finger roll two-pointer."
+  },
+  {
+    "event_id": 267,
+    "event_start_time": "15:49:48",
+    "event_end_time": "15:56:48",
+    "game_clock": "05:37.00",
+    "caption": "J. Juzang misses a jump shot three-pointer. J. Walker grabs the defensive rebound after J. Juzang's missed three-pointer."
+  },
+  {
+    "event_id": 269,
+    "event_start_time": "15:59:30",
+    "event_end_time": "16:08:00",
+    "game_clock": "05:25.00",
+    "caption": "J. Walker makes a layup two-pointer, assisted by T. Maxey."
+  },
+  {
+    "event_id": 271,
+    "event_start_time": "16:12:30",
+    "event_end_time": "16:19:30",
+    "game_clock": "05:14.00",
+    "caption": "J. Clark misses a driving floating two-pointer. J. Walker grabs the defensive rebound after J. Clark's missed driving floating two-pointer."
+  },
+  {
+    "event_id": 273,
+    "event_start_time": "16:25:30",
+    "event_end_time": "16:29:30",
+    "game_clock": "05:04.00",
+    "caption": "L. Miller commits a personal foul."
+  },
+  {
+    "event_id": 281,
+    "event_start_time": "17:29:00",
+    "event_end_time": "17:36:00",
+    "game_clock": "04:47.00",
+    "caption": "R. Dillingham misses a turnaround jump shot. V. Edgecombe grabs the defensive rebound after R. Dillingham's missed jump shot."
+  },
+  {
+    "event_id": 284,
+    "event_start_time": "17:40:00",
+    "event_end_time": "17:44:00",
+    "game_clock": "04:37.00",
+    "caption": "R. Dillingham steals the ball from J. Walker on a bad pass."
+  },
+  {
+    "event_id": 285,
+    "event_start_time": "17:41:30",
+    "event_end_time": "17:50:00",
+    "game_clock": "04:32.00",
+    "caption": "L. Miller makes a running layup two-pointer, assisted by R. Dillingham."
+  },
+  {
+    "event_id": 287,
+    "event_start_time": "18:04:00",
+    "event_end_time": "18:07:00",
+    "game_clock": "04:14.00",
+    "caption": "Q. Grimes steps out-of-bounds."
+  },
+  {
+    "event_id": 288,
+    "event_start_time": "18:29:00",
+    "event_end_time": "18:37:30",
+    "game_clock": "03:55.00",
+    "caption": "J. Clark makes a jump shot three-pointer, assisted by R. Dillingham."
+  },
+  {
+    "event_id": 291,
+    "event_start_time": "19:12:00",
+    "event_end_time": "19:19:00",
+    "game_clock": "03:33.00",
+    "caption": "V. Edgecombe misses a turnaround two-pointer. J. Juzang grabs the defensive rebound after V. Edgecombe's missed turnaround two-pointer."
+  },
+  {
+    "event_id": 293,
+    "event_start_time": "19:44:54",
+    "event_end_time": "19:47:54",
+    "game_clock": "03:27.00",
+    "caption": "R. Dillingham is called for a traveling violation."
+  },
+  {
+    "event_id": 301,
+    "event_start_time": "20:27:00",
+    "event_end_time": "20:35:30",
+    "game_clock": "03:13.00",
+    "caption": "Joel Embiid makes a jump shot three-pointer, assisted by Tyrese Maxey."
+  },
+  {
+    "event_id": 304,
+    "event_start_time": "20:42:30",
+    "event_end_time": "20:46:30",
+    "game_clock": "03:01.00",
+    "caption": "T. Maxey steals the ball from R. Dillingham on a lost ball."
+  },
+  {
+    "event_id": 305,
+    "event_start_time": "20:43:00",
+    "event_end_time": "20:51:30",
+    "game_clock": "02:57.00",
+    "caption": "T. Maxey makes a running dunk two-pointer."
+  },
+  {
+    "event_id": 306,
+    "event_start_time": "20:59:00",
+    "event_end_time": "21:07:30",
+    "game_clock": "02:41.00",
+    "caption": "R. Zikarsky makes a driving finger roll two-pointer, assisted by J. Clark."
+  },
+  {
+    "event_id": 308,
+    "event_start_time": "21:10:30",
+    "event_end_time": "21:18:30",
+    "game_clock": "02:32.00",
+    "caption": "Q. Grimes misses a driving layup two-pointer. D. Barlow grabs the offensive rebound after Q. Grimes' missed driving layup two-pointer. D. Barlow misses a tip layup two-pointer."
+  },
+  {
+    "event_id": 312,
+    "event_start_time": "21:14:30",
+    "event_end_time": "21:17:30",
+    "game_clock": "02:31.00",
+    "caption": "J. Juzang commits a personal foul."
+  },
+  {
+    "event_id": 316,
+    "event_start_time": "21:44:30",
+    "event_end_time": "21:47:30",
+    "game_clock": "02:27.00",
+    "caption": "R. Zikarsky commits a personal foul."
+  },
+  {
+    "event_id": 318,
+    "event_start_time": "22:05:30",
+    "event_end_time": "22:14:00",
+    "game_clock": "02:24.00",
+    "caption": "Q. Grimes makes a driving finger roll two-pointer, assisted by J. Embiid."
+  },
+  {
+    "event_id": 320,
+    "event_start_time": "22:24:00",
+    "event_end_time": "22:31:00",
+    "game_clock": "02:08.00",
+    "caption": "J. Clark misses a step back three-pointer. R. Zikarsky grabs the offensive rebound after J. Clark's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 322,
+    "event_start_time": "22:31:00",
+    "event_end_time": "22:44:00",
+    "game_clock": "02:01.00",
+    "caption": "J. Juzang misses a jump shot three-pointer. L. Miller grabs the offensive rebound after J. Juzang's missed three-pointer. L. Miller makes a putback layup two-pointer."
+  },
+  {
+    "event_id": 325,
+    "event_start_time": "22:56:00",
+    "event_end_time": "23:03:00",
+    "game_clock": "01:36.00",
+    "caption": "J. Embiid misses a fadeaway two-pointer. J. Juzang grabs the defensive rebound after J. Embiid's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 327,
+    "event_start_time": "23:05:00",
+    "event_end_time": "23:13:30",
+    "game_clock": "01:25.00",
+    "caption": "J. Juzang makes a driving floating jump shot two-pointer."
+  },
+  {
+    "event_id": 339,
+    "event_start_time": "23:18:00",
+    "event_end_time": "23:23:00",
+    "game_clock": "01:14.00",
+    "caption": "J. Embiid's layup two-pointer is blocked by R. Zikarsky. R. Zikarsky blocks J. Embiid's layup two-pointer. B. Hyland grabs the defensive rebound after J. Embiid's missed layup two-pointer."
+  },
+  {
+    "event_id": 342,
+    "event_start_time": "26:43:36",
+    "event_end_time": "26:50:36",
+    "game_clock": "00:52.80",
+    "caption": "J. Beringer misses a reverse layup two-pointer. J. Embiid grabs the defensive rebound after J. Beringer's missed reverse layup two-pointer."
+  },
+  {
+    "event_id": 344,
+    "event_start_time": "26:47:15",
+    "event_end_time": "26:55:45",
+    "game_clock": "00:46.60",
+    "caption": "J. Embiid makes a running finger roll two-pointer."
+  },
+  {
+    "event_id": 345,
+    "event_start_time": "26:57:57",
+    "event_end_time": "27:00:57",
+    "game_clock": "00:43.00",
+    "caption": "Z. Pullin is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 346,
+    "event_start_time": "27:18:57",
+    "event_end_time": "27:21:57",
+    "game_clock": "00:33.00",
+    "caption": "J. Embiid is called for a bad pass out-of-bounds turnover."
+  },
+  {
+    "event_id": 347,
+    "event_start_time": "27:34:06",
+    "event_end_time": "27:42:36",
+    "game_clock": "00:25.50",
+    "caption": "B. Hyland makes a step back three-pointer, assisted by Z. Pullin."
+  },
+  {
+    "event_id": 350,
+    "event_start_time": "28:03:54",
+    "event_end_time": "28:07:54",
+    "game_clock": "00:03.50",
+    "caption": "Z. Pullin steals the ball from T. Maxey on a bad pass."
+  },
+  {
+    "event_id": 351,
+    "event_start_time": "28:02:48",
+    "event_end_time": "28:11:18",
+    "game_clock": "00:01.10",
+    "caption": "J. Beringer makes a running finger roll two-pointer, assisted by J. Clark. T. Maxey commits a personal foul."
+  },
+  {
+    "event_id": 356,
+    "event_start_time": "28:05:18",
+    "event_end_time": "28:10:18",
+    "game_clock": "00:01.10",
+    "caption": "J. Embiid grabs the defensive rebound."
+  }
+]

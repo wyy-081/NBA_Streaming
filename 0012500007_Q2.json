@@ -1,0 +1,408 @@
+[
+  {
+    "event_id": 166,
+    "event_start_time": "00:12:00",
+    "event_end_time": "00:16:00",
+    "game_clock": "11:39.00",
+    "caption": "J. Hayes steals the ball from Z. LaVine on a bad pass."
+  },
+  {
+    "event_id": 167,
+    "event_start_time": "00:25:00",
+    "event_end_time": "00:34:00",
+    "game_clock": "11:25.00",
+    "caption": "A. Reaves misses a driving layup two-pointer. J. Hayes grabs the offensive rebound after A. Reaves' missed driving layup two-pointer. J. Hayes misses a tip layup two-pointer."
+  },
+  {
+    "event_id": 170,
+    "event_start_time": "00:28:00",
+    "event_end_time": "00:34:00",
+    "game_clock": "11:22.00",
+    "caption": "A. Reaves grabs the offensive rebound."
+  },
+  {
+    "event_id": 171,
+    "event_start_time": "00:31:00",
+    "event_end_time": "00:34:00",
+    "game_clock": "11:21.00",
+    "caption": "A. Reaves turns the ball over on a bad pass out-of-bounds."
+  },
+  {
+    "event_id": 172,
+    "event_start_time": "00:45:30",
+    "event_end_time": "00:52:30",
+    "game_clock": "11:11.00",
+    "caption": "D. Carter misses a driving layup two-pointer. J. Hayes grabs the defensive rebound after D. Carter's missed driving layup two-pointer."
+  },
+  {
+    "event_id": 176,
+    "event_start_time": "00:52:00",
+    "event_end_time": "01:00:30",
+    "game_clock": "11:02.00",
+    "caption": "J. Vanderbilt makes a running layup two-pointer."
+  },
+  {
+    "event_id": 177,
+    "event_start_time": "01:17:30",
+    "event_end_time": "01:24:30",
+    "game_clock": "10:39.00",
+    "caption": "D. Carter misses a step back three-pointer. J. Vanderbilt grabs the defensive rebound after D. Carter's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 181,
+    "event_start_time": "01:40:30",
+    "event_end_time": "01:47:30",
+    "game_clock": "10:16.00",
+    "caption": "J. Vanderbilt misses a driving floating two-pointer."
+  },
+  {
+    "event_id": 185,
+    "event_start_time": "02:03:30",
+    "event_end_time": "02:12:00",
+    "game_clock": "10:02.00",
+    "caption": "Z. LaVine makes a pullup three-pointer."
+  },
+  {
+    "event_id": 186,
+    "event_start_time": "02:24:00",
+    "event_end_time": "02:31:00",
+    "game_clock": "09:44.00",
+    "caption": "A. Reaves misses a jump shot three-pointer. D. Cardwell grabs the defensive rebound after A. Reaves' missed three-pointer."
+  },
+  {
+    "event_id": 188,
+    "event_start_time": "02:41:00",
+    "event_end_time": "02:45:00",
+    "game_clock": "09:30.00",
+    "caption": "G. Vincent commits a shooting personal foul."
+  },
+  {
+    "event_id": 197,
+    "event_start_time": "04:10:00",
+    "event_end_time": "04:14:00",
+    "game_clock": "08:57.00",
+    "caption": "G. Vincent steals the ball from Z. LaVine on a lost ball."
+  },
+  {
+    "event_id": 198,
+    "event_start_time": "04:10:30",
+    "event_end_time": "04:19:00",
+    "game_clock": "08:53.00",
+    "caption": "G. Vincent makes a running finger roll two-pointer."
+  },
+  {
+    "event_id": 199,
+    "event_start_time": "04:29:00",
+    "event_end_time": "04:36:00",
+    "game_clock": "08:37.00",
+    "caption": "D. Schröder misses a step back jump shot. D. Cardwell grabs the offensive rebound after D. Schröder's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 201,
+    "event_start_time": "04:38:00",
+    "event_end_time": "04:45:00",
+    "game_clock": "08:28.00",
+    "caption": "Zach LaVine misses a step back three-pointer."
+  },
+  {
+    "event_id": 208,
+    "event_start_time": "05:08:00",
+    "event_end_time": "05:16:30",
+    "game_clock": "08:12.00",
+    "caption": "J. Hayes makes a cutting dunk two-pointer, assisted by G. Vincent."
+  },
+  {
+    "event_id": 210,
+    "event_start_time": "05:27:30",
+    "event_end_time": "05:34:30",
+    "game_clock": "07:55.00",
+    "caption": "Zach LaVine misses a pullup two-pointer. J. Hayes grabs the defensive rebound after Z. LaVine's missed pullup two-pointer."
+  },
+  {
+    "event_id": 213,
+    "event_start_time": "05:41:30",
+    "event_end_time": "05:45:30",
+    "game_clock": "07:42.00",
+    "caption": "D. Plowden steals the ball from A. Reaves on a bad pass."
+  },
+  {
+    "event_id": 214,
+    "event_start_time": "05:41:00",
+    "event_end_time": "05:49:30",
+    "game_clock": "07:39.00",
+    "caption": "D. Plowden makes a running dunk two-pointer."
+  },
+  {
+    "event_id": 215,
+    "event_start_time": "06:00:30",
+    "event_end_time": "06:07:30",
+    "game_clock": "07:22.00",
+    "caption": "A. Reaves misses a pullup three-pointer. J. Hayes grabs the offensive rebound after A. Reaves' missed pullup three-pointer."
+  },
+  {
+    "event_id": 217,
+    "event_start_time": "05:59:00",
+    "event_end_time": "06:07:30",
+    "game_clock": "07:21.00",
+    "caption": "J. Hayes makes a tip dunk two-pointer."
+  },
+  {
+    "event_id": 218,
+    "event_start_time": "06:14:30",
+    "event_end_time": "06:17:30",
+    "game_clock": "07:11.00",
+    "caption": "D. Schröder commits an offensive foul."
+  },
+  {
+    "event_id": 230,
+    "event_start_time": "06:55:00",
+    "event_end_time": "06:58:00",
+    "game_clock": "06:59.00",
+    "caption": "I. Jones commits a personal foul."
+  },
+  {
+    "event_id": 238,
+    "event_start_time": "10:15:00",
+    "event_end_time": "10:19:00",
+    "game_clock": "06:50.00",
+    "caption": "K. Ellis steals the ball from L. Dončić on a bad pass."
+  },
+  {
+    "event_id": 239,
+    "event_start_time": "10:15:30",
+    "event_end_time": "10:24:00",
+    "game_clock": "06:46.00",
+    "caption": "D. Schröder makes a running layup two-pointer, assisted by K. Ellis."
+  },
+  {
+    "event_id": 241,
+    "event_start_time": "10:33:00",
+    "event_end_time": "10:38:00",
+    "game_clock": "06:31.00",
+    "caption": "J. LaRavia's driving dunk two-pointer is blocked by D. Eubanks. D. Eubanks blocks J. LaRavia's dunk two-pointer. K. Ellis grabs the defensive rebound after J. LaRavia's missed driving dunk."
+  },
+  {
+    "event_id": 244,
+    "event_start_time": "10:39:00",
+    "event_end_time": "10:46:00",
+    "game_clock": "06:25.00",
+    "caption": "D. Schröder misses a running three-pointer. D. Ayton grabs the defensive rebound after D. Schröder's missed running three-pointer."
+  },
+  {
+    "event_id": 246,
+    "event_start_time": "10:46:30",
+    "event_end_time": "10:55:00",
+    "game_clock": "06:15.00",
+    "caption": "G. Vincent makes a jump shot three-pointer, assisted by R. Hachimura."
+  },
+  {
+    "event_id": 248,
+    "event_start_time": "11:02:30",
+    "event_end_time": "11:11:00",
+    "game_clock": "05:59.00",
+    "caption": "K. Ellis makes a jump shot three-pointer, assisted by N. Clifford."
+  },
+  {
+    "event_id": 250,
+    "event_start_time": "11:18:00",
+    "event_end_time": "11:21:00",
+    "game_clock": "05:49.00",
+    "caption": "N. Clifford commits a personal foul."
+  },
+  {
+    "event_id": 254,
+    "event_start_time": "11:52:00",
+    "event_end_time": "12:00:30",
+    "game_clock": "05:39.00",
+    "caption": "G. Vincent makes a pullup three-pointer, assisted by L. Dončić."
+  },
+  {
+    "event_id": 256,
+    "event_start_time": "12:07:30",
+    "event_end_time": "12:14:30",
+    "game_clock": "05:26.00",
+    "caption": "D. Schröder misses a pullup two-pointer. L. Dončić grabs the defensive rebound after D. Schröder's missed jump shot two-pointer."
+  },
+  {
+    "event_id": 258,
+    "event_start_time": "12:16:30",
+    "event_end_time": "12:20:30",
+    "game_clock": "05:20.00",
+    "caption": "N. Clifford commits a shooting personal foul."
+  },
+  {
+    "event_id": 265,
+    "event_start_time": "13:28:30",
+    "event_end_time": "13:31:30",
+    "game_clock": "05:08.00",
+    "caption": "D. Eubanks commits an offensive foul."
+  },
+  {
+    "event_id": 268,
+    "event_start_time": "14:02:30",
+    "event_end_time": "14:11:00",
+    "game_clock": "04:46.00",
+    "caption": "G. Vincent makes a pullup three-pointer, assisted by L. Dončić. D. Ayton commits a shooting personal foul."
+  },
+  {
+    "event_id": 274,
+    "event_start_time": "15:12:30",
+    "event_end_time": "15:17:30",
+    "game_clock": "04:24.00",
+    "caption": "D. Ayton grabs the defensive rebound."
+  },
+  {
+    "event_id": 275,
+    "event_start_time": "03:58:00",
+    "event_end_time": "04:03:00",
+    "game_clock": "09:08.00",
+    "caption": "A. Reaves' driving layup two-pointer is blocked by I. Jones. I. Jones blocks A. Reaves's layup two-pointer. I. Jones grabs the defensive rebound after A. Reaves' missed driving layup two-pointer."
+  },
+  {
+    "event_id": 278,
+    "event_start_time": "15:18:00",
+    "event_end_time": "15:26:30",
+    "game_clock": "04:16.00",
+    "caption": "D. Ayton makes a jump shot two-pointer, assisted by L. Dončić."
+  },
+  {
+    "event_id": 280,
+    "event_start_time": "15:38:00",
+    "event_end_time": "15:46:30",
+    "game_clock": "03:56.00",
+    "caption": "K. Ellis makes a pullup three-pointer, assisted by D. Eubanks."
+  },
+  {
+    "event_id": 282,
+    "event_start_time": "16:00:00",
+    "event_end_time": "16:08:30",
+    "game_clock": "03:34.00",
+    "caption": "D. Ayton makes a driving floating jump shot two-pointer, assisted by L. Dončić."
+  },
+  {
+    "event_id": 284,
+    "event_start_time": "16:14:30",
+    "event_end_time": "16:21:30",
+    "game_clock": "03:22.00",
+    "caption": "D. Šarić misses a jump shot three-pointer. M. Smart grabs the defensive rebound after D. Šarić's missed three-pointer."
+  },
+  {
+    "event_id": 288,
+    "event_start_time": "16:31:30",
+    "event_end_time": "16:38:30",
+    "game_clock": "03:05.00",
+    "caption": "M. Smart misses a jump shot three-pointer. Z. LaVine grabs the defensive rebound after M. Smart's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 290,
+    "event_start_time": "16:40:30",
+    "event_end_time": "16:47:30",
+    "game_clock": "02:56.00",
+    "caption": "N. Clifford misses a jump shot three-pointer."
+  },
+  {
+    "event_id": 298,
+    "event_start_time": "20:05:30",
+    "event_end_time": "20:12:30",
+    "game_clock": "02:34.00",
+    "caption": "D. Ayton misses a turnaround hook two-pointer. D. Šarić grabs the defensive rebound after D. Ayton's missed hook two-pointer."
+  },
+  {
+    "event_id": 300,
+    "event_start_time": "20:19:30",
+    "event_end_time": "20:26:30",
+    "game_clock": "02:20.00",
+    "caption": "Zach LaVine misses a pullup three-pointer. D. Ayton grabs the defensive rebound after Z. LaVine's missed pullup three-pointer."
+  },
+  {
+    "event_id": 302,
+    "event_start_time": "20:28:30",
+    "event_end_time": "20:33:30",
+    "game_clock": "02:11.00",
+    "caption": "Luka Dončić's running pullup three-pointer is blocked by Draymond Green. D. Schröder grabs the defensive rebound after L. Dončić's missed running pullup three-pointer."
+  },
+  {
+    "event_id": 304,
+    "event_start_time": "20:42:30",
+    "event_end_time": "20:46:30",
+    "game_clock": "02:00.00",
+    "caption": "L. Dončić commits a shooting personal foul."
+  },
+  {
+    "event_id": 308,
+    "event_start_time": "21:48:00",
+    "event_end_time": "21:55:00",
+    "game_clock": "01:46.00",
+    "caption": "Michael Smart misses a jump shot three-pointer. D. Eubanks grabs the defensive rebound after M. Smart's missed jump shot three-pointer."
+  },
+  {
+    "event_id": 310,
+    "event_start_time": "22:05:00",
+    "event_end_time": "22:09:00",
+    "game_clock": "01:32.00",
+    "caption": "D. Ayton commits a shooting personal foul."
+  },
+  {
+    "event_id": 313,
+    "event_start_time": "20:30:30",
+    "event_end_time": "20:33:30",
+    "game_clock": "02:11.00",
+    "caption": "D. Eubanks blocks [Player]'s [technical action] [two-pointer/three-pointer]."
+  },
+  {
+    "event_id": 315,
+    "event_start_time": "23:06:00",
+    "event_end_time": "23:14:30",
+    "game_clock": "01:19.00",
+    "caption": "R. Hachimura makes a jump shot three-pointer."
+  },
+  {
+    "event_id": 317,
+    "event_start_time": "23:20:00",
+    "event_end_time": "23:28:30",
+    "game_clock": "01:05.00",
+    "caption": "D. Schröder makes a driving layup two-pointer, assisted by K. Ellis."
+  },
+  {
+    "event_id": 320,
+    "event_start_time": "23:37:18",
+    "event_end_time": "23:41:18",
+    "game_clock": "00:51.00",
+    "caption": "D. Eubanks steals the ball from D. Ayton on a lost ball."
+  },
+  {
+    "event_id": 321,
+    "event_start_time": "23:49:06",
+    "event_end_time": "23:56:06",
+    "game_clock": "00:38.90",
+    "caption": "D. Eubanks misses a pullup two-pointer. L. Dončić grabs the defensive rebound after D. Eubanks' missed pullup two-pointer."
+  },
+  {
+    "event_id": 323,
+    "event_start_time": "23:59:12",
+    "event_end_time": "24:03:12",
+    "game_clock": "00:31.80",
+    "caption": "Z. LaVine commits a shooting personal foul."
+  },
+  {
+    "event_id": 327,
+    "event_start_time": "24:49:48",
+    "event_end_time": "24:54:48",
+    "game_clock": "00:29.20",
+    "caption": "D. Schröder grabs the defensive rebound."
+  },
+  {
+    "event_id": 328,
+    "event_start_time": "25:12:21",
+    "event_end_time": "25:19:21",
+    "game_clock": "00:06.60",
+    "caption": "K. Ellis misses a pullup three-pointer."
+  },
+  {
+    "event_id": 333,
+    "event_start_time": "25:43:54",
+    "event_end_time": "25:50:54",
+    "game_clock": "00:02.00",
+    "caption": "A. Reaves misses a step back three-pointer."
+  }
+]
