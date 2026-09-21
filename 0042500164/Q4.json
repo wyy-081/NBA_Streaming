@@ -1,0 +1,312 @@
+[
+  {
+    "caption": "J. Randle misses a fadeaway two-pointer. J. Murray grabs the defensive rebound after J. Randle's missed jump shot two-pointer.",
+    "start_time": 1.0,
+    "end_time": 8.0
+  },
+  {
+    "caption": "T. Hardaway Jr. misses a driving layup two-pointer. N. Reid grabs the defensive rebound after T. Hardaway Jr.'s missed driving layup two-pointer.",
+    "start_time": 13.0,
+    "end_time": 20.0
+  },
+  {
+    "caption": "N. Reid makes a running layup two-pointer. A. Dosunmu commits a personal foul.",
+    "start_time": 17.5,
+    "end_time": 47.0
+  },
+  {
+    "caption": "Jamal Murray commits a personal foul.",
+    "start_time": 103.0,
+    "end_time": 106.0
+  },
+  {
+    "caption": "N. Reid misses a step back three-pointer. B. Brown grabs the defensive rebound after N. Reid's missed jump shot three-pointer.",
+    "start_time": 128.0,
+    "end_time": 135.0
+  },
+  {
+    "caption": "T. Hardaway Jr. misses a jump shot three-pointer. J. Randle grabs the defensive rebound after T. Hardaway Jr.'s missed three-pointer.",
+    "start_time": 140.0,
+    "end_time": 147.0
+  },
+  {
+    "caption": "T. Hardaway Jr. commits a personal foul.",
+    "start_time": 157.0,
+    "end_time": 161.0
+  },
+  {
+    "caption": "Jamal Murray makes a floating jump shot two-pointer.",
+    "start_time": 211.5,
+    "end_time": 220.0
+  },
+  {
+    "caption": "A. Dosunmu's driving layup two-pointer is blocked by S. Jones. S. Jones blocks A. Dosunmu's layup two-pointer. N. Reid grabs the offensive rebound after A. Dosunmu's driving layup two-pointer is blocked.",
+    "start_time": 233.0,
+    "end_time": 238.0
+  },
+  {
+    "caption": "J. McDaniels makes a driving floating jump shot, assisted by N. Reid.",
+    "start_time": 238.5,
+    "end_time": 247.0
+  },
+  {
+    "caption": "A. Dosunmu makes a driving layup two-pointer, assisted by J. McDaniels.",
+    "start_time": 256.5,
+    "end_time": 265.0
+  },
+  {
+    "caption": "M. Conley steals the ball from J. Murray on a lost ball.",
+    "start_time": 258.0,
+    "end_time": 262.0
+  },
+  {
+    "caption": "Rudy Gobert blocks Jamal Murray's driving layup two-pointer. R. Gobert blocks J. Murray's driving layup two-pointer. R. Gobert grabs the defensive rebound after J. Murray's missed layup two-pointer.",
+    "start_time": 504.5,
+    "end_time": 509.5
+  },
+  {
+    "caption": "M. Conley misses a driving floating two-pointer.",
+    "start_time": 518.5,
+    "end_time": 525.5
+  },
+  {
+    "caption": "J. McDaniels misses a pullup two-pointer. R. Gobert grabs the offensive rebound after J. McDaniels' missed pullup two-pointer.",
+    "start_time": 549.0,
+    "end_time": 556.0
+  },
+  {
+    "caption": "M. Conley makes a jump shot three-pointer, assisted by R. Gobert.",
+    "start_time": 549.5,
+    "end_time": 558.0
+  },
+  {
+    "caption": "Nikola Jokić misses a driving layup two-pointer. Nikola Jokić grabs the offensive rebound after missing his driving layup two-pointer. Nikola Jokić's tip layup two-pointer is missed.",
+    "start_time": 574.0,
+    "end_time": 583.0
+  },
+  {
+    "caption": "R. Gobert grabs the defensive rebound.",
+    "start_time": 577.0,
+    "end_time": 583.0
+  },
+  {
+    "caption": "A. Dosunmu makes a pullup jump shot two-pointer. J. McDaniels commits a shooting personal foul.",
+    "start_time": 584.5,
+    "end_time": 607.0
+  },
+  {
+    "caption": "M. Conley misses a pullup three-pointer.",
+    "start_time": 664.5,
+    "end_time": 671.5
+  },
+  {
+    "caption": "N. Reid misses a driving floating two-pointer. R. Gobert grabs the offensive rebound after N. Reid's missed driving floating two-pointer. R. Gobert makes a putback layup two-pointer.",
+    "start_time": 706.0,
+    "end_time": 714.5
+  },
+  {
+    "caption": "Nikola Jokić misses a driving layup two-pointer. N. Reid grabs the defensive rebound after N. Jokić's missed driving layup two-pointer.",
+    "start_time": 956.0,
+    "end_time": 963.0
+  },
+  {
+    "caption": "Cameron Johnson steals the ball from Nicolas Reid on a bad pass.",
+    "start_time": 960.0,
+    "end_time": 964.0
+  },
+  {
+    "caption": "A. Dosunmu commits a personal foul.",
+    "start_time": 965.0,
+    "end_time": 969.0
+  },
+  {
+    "caption": "A. Dosunmu makes a driving floating jump shot two-pointer, assisted by M. Conley.",
+    "start_time": 1028.0,
+    "end_time": 1036.5
+  },
+  {
+    "caption": "M. Conley steals the ball from N. Jokić on a bad pass.",
+    "start_time": 1036.5,
+    "end_time": 1040.5
+  },
+  {
+    "caption": "R. Gobert's running layup two-pointer is blocked by N. Jokić. Nikola Jokic blocks Rudy Gobert's driving layup two-pointer.",
+    "start_time": 1037.5,
+    "end_time": 1042.5
+  },
+  {
+    "caption": "R. Gobert misses a jump shot three-pointer. J. McDaniels grabs the offensive rebound after R. Gobert's missed jump shot three-pointer.",
+    "start_time": 1057.5,
+    "end_time": 1064.5
+  },
+  {
+    "caption": "A. Dosunmu misses a driving floating two-pointer. Nikola Jokic grabs the defensive rebound after A. Dosunmu's missed driving floating two-pointer.",
+    "start_time": 1062.5,
+    "end_time": 1069.5
+  },
+  {
+    "caption": "N. Reid commits a personal foul.",
+    "start_time": 1076.5,
+    "end_time": 1080.5
+  },
+  {
+    "caption": "N. Reid misses a jump shot three-pointer. Nikola Jokic grabs the defensive rebound after N. Reid's missed jump shot three-pointer.",
+    "start_time": 1158.0,
+    "end_time": 1165.0
+  },
+  {
+    "caption": "Jamal Murray makes a pullup three-pointer.",
+    "start_time": 1170.5,
+    "end_time": 1179.0
+  },
+  {
+    "caption": "J. McDaniels misses a driving floating two-pointer. Christian Braun grabs the defensive rebound after J. McDaniels' missed driving floating two-pointer.",
+    "start_time": 1298.0,
+    "end_time": 1305.0
+  },
+  {
+    "caption": "T. Hardaway Jr. misses a jump shot three-pointer. T. Hardaway Jr. grabs the offensive rebound after missing his jump shot three-pointer.",
+    "start_time": 1318.0,
+    "end_time": 1325.0
+  },
+  {
+    "caption": "J. Murray misses a jump shot three-pointer.",
+    "start_time": 1323.0,
+    "end_time": 1330.0
+  },
+  {
+    "caption": "C. Johnson commits a personal foul.",
+    "start_time": 1328.0,
+    "end_time": 1331.0
+  },
+  {
+    "caption": "J. Randle misses a driving layup two-pointer. R. Gobert grabs the offensive rebound after J. Randle's missed driving layup two-pointer. R. Gobert's tip layup two-pointer is missed.",
+    "start_time": 1358.0,
+    "end_time": 1366.0
+  },
+  {
+    "caption": "Nikola Jokic grabs the defensive rebound.",
+    "start_time": 1360.0,
+    "end_time": 1366.0
+  },
+  {
+    "caption": "Nikola Jokic is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1367.0,
+    "end_time": 1370.0
+  },
+  {
+    "caption": "J. McDaniels is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1389.0,
+    "end_time": 1392.0
+  },
+  {
+    "caption": "Jamal Murray makes a driving layup two-pointer.",
+    "start_time": 1408.5,
+    "end_time": 1417.0
+  },
+  {
+    "caption": "J. McDaniels misses a driving hook two-pointer. Christian Braun grabs the defensive rebound after J. McDaniels' missed driving hook two-pointer.",
+    "start_time": 1430.0,
+    "end_time": 1437.0
+  },
+  {
+    "caption": "Nikola Jokić misses a turnaround two-pointer. J. McDaniels grabs the defensive rebound after N. Jokić's missed turnaround two-pointer.",
+    "start_time": 1453.0,
+    "end_time": 1460.0
+  },
+  {
+    "caption": "Christian Braun steals the ball from Jordan Randle on a lost ball.",
+    "start_time": 1474.0,
+    "end_time": 1478.0
+  },
+  {
+    "caption": "Cameron Johnson misses a running three-pointer. A. Dosunmu grabs the defensive rebound after Cameron Johnson's missed three-pointer.",
+    "start_time": 1477.0,
+    "end_time": 1484.0
+  },
+  {
+    "caption": "A. Dosunmu makes a driving layup two-pointer.",
+    "start_time": 1493.5,
+    "end_time": 1502.0
+  },
+  {
+    "caption": "J. McDaniels misses a pullup two-pointer. J. Randle grabs the offensive rebound after J. McDaniels' missed pullup two-pointer.",
+    "start_time": 1656.0,
+    "end_time": 1663.0
+  },
+  {
+    "caption": "J. Randle misses a turnaround two-pointer. Nikola Jokic grabs the defensive rebound after J. Randle's missed jump shot two-pointer.",
+    "start_time": 1665.0,
+    "end_time": 1672.0
+  },
+  {
+    "caption": "Christian Braun loses the ball out-of-bounds.",
+    "start_time": 1675.0,
+    "end_time": 1678.0
+  },
+  {
+    "caption": "A. Dosunmu makes a pullup three-pointer.",
+    "start_time": 1700.5,
+    "end_time": 1709.0
+  },
+  {
+    "caption": "J. McDaniels commits a personal foul.",
+    "start_time": 1721.0,
+    "end_time": 1724.0
+  },
+  {
+    "caption": "Nikola Jokic commits a take personal foul.",
+    "start_time": 1813.5,
+    "end_time": 1816.5
+  },
+  {
+    "caption": "B. Brown commits a personal foul.",
+    "start_time": 1851.5,
+    "end_time": 1854.5
+  },
+  {
+    "caption": "Nikola Jokić misses a jump shot three-pointer.",
+    "start_time": 1923.1,
+    "end_time": 1930.1
+  },
+  {
+    "caption": "Nikola Jokić misses a jump shot three-pointer. J. McDaniels grabs the defensive rebound after N. Jokić's missed three-pointer.",
+    "start_time": 1948.3,
+    "end_time": 1955.3
+  },
+  {
+    "caption": "Christian Braun commits a take personal foul.",
+    "start_time": 1960.8,
+    "end_time": 1963.8
+  },
+  {
+    "caption": "R. Gobert commits a personal foul.",
+    "start_time": 2024.3,
+    "end_time": 2027.3
+  },
+  {
+    "caption": "S. Jones commits a take personal foul.",
+    "start_time": 2202.6,
+    "end_time": 2205.6
+  },
+  {
+    "caption": "J. Murray misses a step back three-pointer. M. Conley grabs the defensive rebound after J. Murray's missed jump shot three-pointer.",
+    "start_time": 2256.7,
+    "end_time": 2263.7
+  },
+  {
+    "caption": "J. McDaniels makes a layup two-pointer, assisted by M. Conley.",
+    "start_time": 2262.5,
+    "end_time": 2271.0
+  },
+  {
+    "caption": "Nikola Jokić commits a technical foul.",
+    "start_time": 2268.7,
+    "end_time": 2271.7
+  },
+  {
+    "caption": "J. Randle commits a technical foul.",
+    "start_time": 2268.7,
+    "end_time": 2271.7
+  }
+]

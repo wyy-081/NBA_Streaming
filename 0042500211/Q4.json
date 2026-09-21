@@ -1,0 +1,297 @@
+[
+  {
+    "caption": "M. McBride misses a pullup three-pointer. A. Bona grabs the defensive rebound after M. McBride's missed jump shot three-pointer.",
+    "start_time": 31.5,
+    "end_time": 38.5
+  },
+  {
+    "caption": "A. Bona commits an offensive foul.",
+    "start_time": 42.0,
+    "end_time": 45.0
+  },
+  {
+    "caption": "M. McBride misses a jump shot three-pointer. A. Hukporti grabs the offensive rebound after M. McBride's missed three-pointer.",
+    "start_time": 67.0,
+    "end_time": 74.0
+  },
+  {
+    "caption": "L. Shamet misses a pullup two-pointer.",
+    "start_time": 83.0,
+    "end_time": 90.0
+  },
+  {
+    "caption": "T. Watford misses a driving layup two-pointer.",
+    "start_time": 123.0,
+    "end_time": 130.0
+  },
+  {
+    "caption": "A. Hukporti commits a personal foul.",
+    "start_time": 127.0,
+    "end_time": 130.0
+  },
+  {
+    "caption": "A. Bona commits an offensive foul.",
+    "start_time": 153.5,
+    "end_time": 156.5
+  },
+  {
+    "caption": "Jump ball between D. Terry and J. Clarkson, D. Barlow recovers the tip.",
+    "start_time": 235.0,
+    "end_time": 240.0
+  },
+  {
+    "caption": "D. Terry steals the ball from J. Clarkson on a lost ball.",
+    "start_time": 235.5,
+    "end_time": 239.5
+  },
+  {
+    "caption": "J. Clarkson steals the ball from T. Watford on a lost ball.",
+    "start_time": 242.5,
+    "end_time": 246.5
+  },
+  {
+    "caption": "J. Alvarado makes a running three-pointer, assisted by T. Kolek.",
+    "start_time": 244.0,
+    "end_time": 252.5
+  },
+  {
+    "caption": "D. Barlow makes a pullup two-pointer, assisted by Q. Grimes.",
+    "start_time": 263.0,
+    "end_time": 271.5
+  },
+  {
+    "caption": "J. Alvarado misses a pullup three-pointer. A. Hukporti grabs the offensive rebound after J. Alvarado's missed jump shot three-pointer.",
+    "start_time": 273.5,
+    "end_time": 280.5
+  },
+  {
+    "caption": "Q. Grimes steals the ball from A. Hukporti on a bad pass.",
+    "start_time": 279.5,
+    "end_time": 283.5
+  },
+  {
+    "caption": "D. Terry makes a running three-pointer, assisted by Q. Grimes.",
+    "start_time": 281.0,
+    "end_time": 289.5
+  },
+  {
+    "caption": "T. Kolek makes a jump shot three-pointer, assisted by L. Shamet.",
+    "start_time": 306.0,
+    "end_time": 314.5
+  },
+  {
+    "caption": "D. Terry misses a driving floating bank two-pointer. J. Walker grabs the offensive rebound after D. Terry's missed driving floating bank two-pointer.",
+    "start_time": 319.5,
+    "end_time": 326.5
+  },
+  {
+    "caption": "J. Walker misses a floating two-pointer.",
+    "start_time": 322.5,
+    "end_time": 329.5
+  },
+  {
+    "caption": "Jump ball between D. Terry and T. Kolek, D. Barlow recovers the tip.",
+    "start_time": 383.5,
+    "end_time": 388.5
+  },
+  {
+    "caption": "T. Watford misses a driving hook two-pointer. A. Hukporti grabs the defensive rebound after T. Watford's missed driving hook two-pointer.",
+    "start_time": 391.5,
+    "end_time": 398.5
+  },
+  {
+    "caption": "J. Walker commits a personal foul.",
+    "start_time": 402.5,
+    "end_time": 405.5
+  },
+  {
+    "caption": "J. Clarkson misses a jump shot three-pointer. D. Barlow grabs the defensive rebound after J. Clarkson's missed jump shot three-pointer.",
+    "start_time": 432.0,
+    "end_time": 439.0
+  },
+  {
+    "caption": "D. Terry misses a driving floating two-pointer. J. Clarkson grabs the defensive rebound after D. Terry's missed jump shot two-pointer.",
+    "start_time": 445.0,
+    "end_time": 452.0
+  },
+  {
+    "caption": "T. Watford steals the ball from J. Clarkson on a lost ball.",
+    "start_time": 453.0,
+    "end_time": 457.0
+  },
+  {
+    "caption": "J. Clarkson commits a personal foul.",
+    "start_time": 463.0,
+    "end_time": 467.0
+  },
+  {
+    "caption": "P. Dadiet misses a jump shot three-pointer. J. Walker grabs the defensive rebound after P. Dadiet's missed three-pointer.",
+    "start_time": 526.0,
+    "end_time": 533.0
+  },
+  {
+    "caption": "D. Barlow makes a driving layup two-pointer, assisted by D. Terry.",
+    "start_time": 539.5,
+    "end_time": 548.0
+  },
+  {
+    "caption": "P. Dadiet makes an alley-oop layup two-pointer, assisted by T. Kolek.",
+    "start_time": 551.5,
+    "end_time": 560.0
+  },
+  {
+    "caption": "J. Edwards is called for an out-of-bounds turnover.",
+    "start_time": 566.0,
+    "end_time": 569.0
+  },
+  {
+    "caption": "T. Kolek makes a driving finger roll layup two-pointer.",
+    "start_time": 797.0,
+    "end_time": 805.5
+  },
+  {
+    "caption": "P. Dadiet steals the ball from J. Edwards on a bad pass.",
+    "start_time": 819.5,
+    "end_time": 823.5
+  },
+  {
+    "caption": "M. Diawara misses a running three-pointer. D. Barlow grabs the defensive rebound after M. Diawara's missed running three-pointer.",
+    "start_time": 823.5,
+    "end_time": 830.5
+  },
+  {
+    "caption": "A. Hukporti commits a shooting personal foul.",
+    "start_time": 836.5,
+    "end_time": 840.5
+  },
+  {
+    "caption": "T. Kolek is called for a bad pass out-of-bounds turnover.",
+    "start_time": 893.5,
+    "end_time": 896.5
+  },
+  {
+    "caption": "J. Edwards misses a jump shot three-pointer. A. Hukporti grabs the defensive rebound after J. Edwards's missed jump shot three-pointer.",
+    "start_time": 916.0,
+    "end_time": 923.0
+  },
+  {
+    "caption": "T. Kolek makes a running pullup three-pointer, assisted by M. Diawara. A. Hukporti commits a shooting personal foul.",
+    "start_time": 922.5,
+    "end_time": 946.0
+  },
+  {
+    "caption": "T. Kolek misses a pullup two-pointer. A. Hukporti grabs the offensive rebound after T. Kolek's missed jump shot two-pointer.",
+    "start_time": 1002.0,
+    "end_time": 1009.0
+  },
+  {
+    "caption": "M. Diawara makes a jump shot three-pointer, assisted by P. Dadiet.",
+    "start_time": 1008.5,
+    "end_time": 1017.0
+  },
+  {
+    "caption": "T. Watford misses a jump shot three-pointer. M. Diawara grabs the defensive rebound after T. Watford's missed jump shot three-pointer.",
+    "start_time": 1036.0,
+    "end_time": 1043.0
+  },
+  {
+    "caption": "A. Hukporti makes a cutting layup two-pointer, assisted by T. Kolek. J. Edwards commits a personal foul.",
+    "start_time": 1042.5,
+    "end_time": 1051.0
+  },
+  {
+    "caption": "L. Shamet commits a personal foul.",
+    "start_time": 1101.0,
+    "end_time": 1105.0
+  },
+  {
+    "caption": "M. Diawara grabs the defensive rebound.",
+    "start_time": 1138.5,
+    "end_time": 1143.5
+  },
+  {
+    "caption": "T. Kolek misses a driving floating two-pointer.",
+    "start_time": 1149.5,
+    "end_time": 1156.5
+  },
+  {
+    "caption": "J. Walker's cutting layup two-pointer is blocked by A. Hukporti. A. Hukporti blocks J. Walker's layup two-pointer. J. Broome grabs the offensive rebound after J. Walker's missed layup two-pointer.",
+    "start_time": 1171.5,
+    "end_time": 1176.5
+  },
+  {
+    "caption": "M. Diawara commits a personal foul.",
+    "start_time": 1182.5,
+    "end_time": 1185.5
+  },
+  {
+    "caption": "A. Hukporti grabs the defensive rebound.",
+    "start_time": 1214.166667,
+    "end_time": 1219.166667
+  },
+  {
+    "caption": "J. Walker commits a personal foul.",
+    "start_time": 1241.5,
+    "end_time": 1244.5
+  },
+  {
+    "caption": "M. Diawara makes a driving finger roll two-pointer.",
+    "start_time": 1265.0,
+    "end_time": 1273.5
+  },
+  {
+    "caption": "L. Shamet commits a personal foul.",
+    "start_time": 1277.5,
+    "end_time": 1280.5
+  },
+  {
+    "caption": "P. Dadiet makes a floating jump shot two-pointer, assisted by L. Shamet.",
+    "start_time": 1349.5,
+    "end_time": 1358.0
+  },
+  {
+    "caption": "T. Watford makes a floating jump shot two-pointer.",
+    "start_time": 1360.5,
+    "end_time": 1369.0
+  },
+  {
+    "caption": "L. Shamet makes a jump shot three-pointer, assisted by T. Kolek.",
+    "start_time": 1370.5,
+    "end_time": 1379.0
+  },
+  {
+    "caption": "J. Edwards makes a jump shot three-pointer, assisted by T. Watford.",
+    "start_time": 1391.5,
+    "end_time": 1400.0
+  },
+  {
+    "caption": "L. Shamet steps out-of-bounds turnover.",
+    "start_time": 1418.0,
+    "end_time": 1421.0
+  },
+  {
+    "caption": "J. Broome misses a jump shot three-pointer. A. Hukporti grabs the defensive rebound after J. Broome's missed jump shot three-pointer.",
+    "start_time": 1654.0,
+    "end_time": 1661.0
+  },
+  {
+    "caption": "L. Shamet misses a jump shot three-pointer. T. Watford grabs the defensive rebound after L. Shamet's missed three-pointer.",
+    "start_time": 1664.5,
+    "end_time": 1671.5
+  },
+  {
+    "caption": "L. Shamet misses a step back three-pointer. P. Dadiet grabs the offensive rebound after L. Shamet's missed three-pointer.",
+    "start_time": 1727.85,
+    "end_time": 1734.85
+  },
+  {
+    "caption": "A. Hukporti makes a dunk two-pointer, assisted by P. Dadiet.",
+    "start_time": 1729.55,
+    "end_time": 1738.05
+  },
+  {
+    "caption": "L. Shamet steals the ball from T. Watford on a lost ball.",
+    "start_time": 1749.816667,
+    "end_time": 1753.816667
+  }
+]

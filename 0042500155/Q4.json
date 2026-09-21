@@ -1,0 +1,297 @@
+[
+  {
+    "caption": "S. Cissoko commits a personal foul.",
+    "start_time": 9.5,
+    "end_time": 12.5
+  },
+  {
+    "caption": "V. Krejčí commits a personal foul.",
+    "start_time": 44.5,
+    "end_time": 47.5
+  },
+  {
+    "caption": "V. Krejčí commits a personal foul.",
+    "start_time": 67.0,
+    "end_time": 70.0
+  },
+  {
+    "caption": "H. Barnes misses a jump shot three-pointer. D. Clingan grabs the defensive rebound after H. Barnes' missed three-pointer.",
+    "start_time": 85.5,
+    "end_time": 92.5
+  },
+  {
+    "caption": "S. Cissoko makes a running three-pointer, assisted by V. Krejčí.",
+    "start_time": 91.0,
+    "end_time": 99.5
+  },
+  {
+    "caption": "S. Cissoko steals the ball from D. Harper on a bad pass.",
+    "start_time": 109.5,
+    "end_time": 113.5
+  },
+  {
+    "caption": "M. Thybulle misses a jump shot three-pointer. V. Wembanyama grabs the defensive rebound after M. Thybulle's missed three-pointer.",
+    "start_time": 123.5,
+    "end_time": 130.5
+  },
+  {
+    "caption": "D. Fox makes a driving layup two-pointer.",
+    "start_time": 131.0,
+    "end_time": 139.5
+  },
+  {
+    "caption": "D. Clingan makes a jump shot three-pointer, assisted by D. Avdija.",
+    "start_time": 149.0,
+    "end_time": 157.5
+  },
+  {
+    "caption": "D. Harper makes a driving finger roll two-pointer, assisted by D. Fox. D. Fox commits a personal foul.",
+    "start_time": 172.0,
+    "end_time": 190.5
+  },
+  {
+    "caption": "D. Avdija commits a technical foul.",
+    "start_time": 186.5,
+    "end_time": 189.5
+  },
+  {
+    "caption": "D. Harper steals the ball from D. Avdija on a lost ball.",
+    "start_time": 325.0,
+    "end_time": 329.0
+  },
+  {
+    "caption": "J. Champagnie misses a jump shot three-pointer. J. Holiday grabs the defensive rebound after J. Champagnie's missed three-pointer.",
+    "start_time": 358.5,
+    "end_time": 365.5
+  },
+  {
+    "caption": "D. Clingan makes a jump shot three-pointer, assisted by V. Krejčí.",
+    "start_time": 368.0,
+    "end_time": 376.5
+  },
+  {
+    "caption": "D. Vassell misses a step back jump shot.",
+    "start_time": 609.5,
+    "end_time": 616.5
+  },
+  {
+    "caption": "T. Camara misses a jump shot three-pointer.",
+    "start_time": 633.5,
+    "end_time": 640.5
+  },
+  {
+    "caption": "S. Castle commits a personal foul.",
+    "start_time": 637.5,
+    "end_time": 640.5
+  },
+  {
+    "caption": "J. Holiday makes a pullup three-pointer.",
+    "start_time": 663.5,
+    "end_time": 672.0
+  },
+  {
+    "caption": "D. Fox misses a pullup bank two-pointer. T. Camara grabs the defensive rebound after D. Fox's missed pullup bank two-pointer.",
+    "start_time": 692.0,
+    "end_time": 699.0
+  },
+  {
+    "caption": "S. Cissoko makes a pullup three-pointer, assisted by D. Clingan.",
+    "start_time": 703.5,
+    "end_time": 712.0
+  },
+  {
+    "caption": "D. Vassell makes a pullup two-pointer, assisted by S. Castle.",
+    "start_time": 955.0,
+    "end_time": 963.5
+  },
+  {
+    "caption": "D. Clingan misses a jump shot three-pointer. S. Cissoko grabs the offensive rebound after D. Clingan's missed three-pointer. S. Cissoko misses a tip layup two-pointer.",
+    "start_time": 971.5,
+    "end_time": 979.5
+  },
+  {
+    "caption": "V. Wembanyama grabs the defensive rebound.",
+    "start_time": 973.5,
+    "end_time": 979.5
+  },
+  {
+    "caption": "V. Wembanyama makes a running dunk two-pointer, assisted by S. Castle.",
+    "start_time": 979.0,
+    "end_time": 987.5
+  },
+  {
+    "caption": "V. Krejčí misses a jump shot three-pointer. D. Vassell grabs the defensive rebound after V. Krejčí's missed jump shot three-pointer.",
+    "start_time": 994.5,
+    "end_time": 1001.5
+  },
+  {
+    "caption": "T. Camara is called for a kicked ball violation.",
+    "start_time": 1118.0,
+    "end_time": 1121.0
+  },
+  {
+    "caption": "S. Cissoko commits a personal foul.",
+    "start_time": 1156.5,
+    "end_time": 1160.5
+  },
+  {
+    "caption": "J. Holiday grabs the defensive rebound.",
+    "start_time": 1205.5,
+    "end_time": 1210.5
+  },
+  {
+    "caption": "V. Wembanyama commits a personal foul.",
+    "start_time": 1220.5,
+    "end_time": 1223.5
+  },
+  {
+    "caption": "S. Cissoko makes a driving dunk two-pointer, assisted by J. Holiday. V. Wembanyama commits a shooting personal foul.",
+    "start_time": 1239.5,
+    "end_time": 1248.0
+  },
+  {
+    "caption": "D. Fox makes a pullup two-pointer.",
+    "start_time": 1366.5,
+    "end_time": 1375.0
+  },
+  {
+    "caption": "J. Holiday makes a floating jump shot two-pointer, assisted by D. Avdija. D. Harper commits a personal foul.",
+    "start_time": 1378.5,
+    "end_time": 1387.0
+  },
+  {
+    "caption": "D. Fox makes a pullup three-pointer.",
+    "start_time": 1433.5,
+    "end_time": 1442.0
+  },
+  {
+    "caption": "D. Clingan misses a jump shot three-pointer. V. Wembanyama grabs the defensive rebound after D. Clingan's missed three-pointer.",
+    "start_time": 1449.0,
+    "end_time": 1456.0
+  },
+  {
+    "caption": "D. Fox makes a driving finger roll two-pointer, assisted by S. Castle.",
+    "start_time": 1464.0,
+    "end_time": 1472.5
+  },
+  {
+    "caption": "S. Castle commits a personal foul.",
+    "start_time": 1487.0,
+    "end_time": 1490.0
+  },
+  {
+    "caption": "S. Castle commits a technical foul.",
+    "start_time": 1487.0,
+    "end_time": 1490.0
+  },
+  {
+    "caption": "S. Castle commits a loose-ball personal foul.",
+    "start_time": 1487.0,
+    "end_time": 1490.0
+  },
+  {
+    "caption": "D. Fox makes a driving finger roll two-pointer.",
+    "start_time": 1659.0,
+    "end_time": 1667.5
+  },
+  {
+    "caption": "T. Camara misses a jump shot three-pointer.",
+    "start_time": 1672.5,
+    "end_time": 1679.5
+  },
+  {
+    "caption": "D. Fox misses a pullup three-pointer. V. Krejčí commits a shooting personal foul.",
+    "start_time": 1708.0,
+    "end_time": 1737.5
+  },
+  {
+    "caption": "D. Avdija's driving floating two-pointer is blocked by V. Wembanyama. V. Wembanyama blocks D. Avdija's jump shot two-pointer.",
+    "start_time": 1802.5,
+    "end_time": 1807.5
+  },
+  {
+    "caption": "J. Champagnie commits a shooting personal foul.",
+    "start_time": 1831.0,
+    "end_time": 1835.0
+  },
+  {
+    "caption": "D. Fox makes a driving layup two-pointer.",
+    "start_time": 1890.5,
+    "end_time": 1899.0
+  },
+  {
+    "caption": "D. Avdija is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1900.0,
+    "end_time": 1903.0
+  },
+  {
+    "caption": "V. Wembanyama misses a jump shot three-pointer.",
+    "start_time": 1927.0,
+    "end_time": 1934.0
+  },
+  {
+    "caption": "D. Avdija misses a jump shot three-pointer. V. Wembanyama grabs the defensive rebound after D. Avdija's missed jump shot three-pointer.",
+    "start_time": 1939.0,
+    "end_time": 1946.0
+  },
+  {
+    "caption": "D. Avdija commits a personal foul.",
+    "start_time": 1962.0,
+    "end_time": 1966.0
+  },
+  {
+    "caption": "T. Camara's driving layup two-pointer is blocked by V. Wembanyama. V. Wembanyama blocks T. Camara's driving layup two-pointer. T. Camara grabs the offensive rebound after missing his driving layup two-pointer.",
+    "start_time": 2020.0,
+    "end_time": 2025.0
+  },
+  {
+    "caption": "T. Camara is called for a bad pass out-of-bounds turnover.",
+    "start_time": 2025.0,
+    "end_time": 2028.0
+  },
+  {
+    "caption": "J. Grant commits a personal foul.",
+    "start_time": 2191.0,
+    "end_time": 2194.0
+  },
+  {
+    "caption": "V. Wembanyama commits a shooting personal foul.",
+    "start_time": 2245.5,
+    "end_time": 2249.5
+  },
+  {
+    "caption": "J. Champagnie makes a jump shot three-pointer, assisted by D. Vassell.",
+    "start_time": 2310.666667,
+    "end_time": 2319.166667
+  },
+  {
+    "caption": "D. Harper commits a personal foul.",
+    "start_time": 2321.5,
+    "end_time": 2324.5
+  },
+  {
+    "caption": "K. Murray commits a take personal foul.",
+    "start_time": 2393.0,
+    "end_time": 2396.0
+  },
+  {
+    "caption": "S. Cissoko grabs the defensive rebound.",
+    "start_time": 2433.5,
+    "end_time": 2438.5
+  },
+  {
+    "caption": "Yang misses a pullup three-pointer. L. Waters III grabs the defensive rebound after Yang's missed pullup three-pointer.",
+    "start_time": 2441.1,
+    "end_time": 2448.1
+  },
+  {
+    "caption": "L. Waters III misses a step back three-pointer. S. Cissoko grabs the defensive rebound after L. Waters III's missed jump shot three-pointer.",
+    "start_time": 2458.4,
+    "end_time": 2465.4
+  },
+  {
+    "caption": "Yang misses a jump shot three-pointer. B. Biyombo grabs the defensive rebound after Yang's missed three-pointer.",
+    "start_time": 2470.6,
+    "end_time": 2477.6
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "caption": "R. Sheppard misses a driving finger roll two-pointer. L. James grabs the defensive rebound after R. Sheppard's missed driving finger roll layup two-pointer.",
+    "start_time": 16.0,
+    "end_time": 23.0
+  },
+  {
+    "caption": "R. Hachimura makes a jump shot three-pointer, assisted by L. Kennard.",
+    "start_time": 20.5,
+    "end_time": 29.0
+  },
+  {
+    "caption": "R. Sheppard makes a jump shot two-pointer, assisted by J. Smith Jr.",
+    "start_time": 35.5,
+    "end_time": 44.0
+  },
+  {
+    "caption": "L. James makes a driving hook two-pointer.",
+    "start_time": 80.0,
+    "end_time": 88.5
+  },
+  {
+    "caption": "T. Eason misses a step back three-pointer. D. Ayton grabs the defensive rebound after T. Eason's missed jump shot three-pointer.",
+    "start_time": 97.5,
+    "end_time": 104.5
+  },
+  {
+    "caption": "L. Kennard misses a fadeaway two-pointer. J. Smith Jr. grabs the defensive rebound after L. Kennard's missed jump shot two-pointer.",
+    "start_time": 113.5,
+    "end_time": 120.5
+  },
+  {
+    "caption": "D. Finney-Smith misses a running three-pointer. D. Ayton grabs the defensive rebound after D. Finney-Smith's missed running three-pointer.",
+    "start_time": 119.5,
+    "end_time": 126.5
+  },
+  {
+    "caption": "R. Hachimura misses a jump shot three-pointer. M. Smart grabs the offensive rebound after R. Hachimura's missed jump shot three-pointer.",
+    "start_time": 137.5,
+    "end_time": 144.5
+  },
+  {
+    "caption": "L. James misses a turnaround hook two-pointer. T. Eason grabs the defensive rebound after L. James's missed hook two-pointer.",
+    "start_time": 166.0,
+    "end_time": 173.0
+  },
+  {
+    "caption": "L. Kennard is called for a kicked ball violation.",
+    "start_time": 180.0,
+    "end_time": 183.0
+  },
+  {
+    "caption": "J. Smith Jr. misses a jump shot three-pointer. M. Smart grabs the defensive rebound after J. Smith Jr.'s missed jump shot three-pointer.",
+    "start_time": 202.0,
+    "end_time": 209.0
+  },
+  {
+    "caption": "R. Hachimura misses a pullup two-pointer. LeBron James grabs the offensive rebound after R. Hachimura's missed pullup two-pointer. L. James misses a tip layup two-pointer.",
+    "start_time": 216.0,
+    "end_time": 224.0
+  },
+  {
+    "caption": "D. Ayton commits a personal foul.",
+    "start_time": 234.0,
+    "end_time": 237.0
+  },
+  {
+    "caption": "D. Ayton grabs the defensive rebound.",
+    "start_time": 258.5,
+    "end_time": 263.5
+  },
+  {
+    "caption": "R. Hachimura commits a personal foul.",
+    "start_time": 261.5,
+    "end_time": 265.5
+  },
+  {
+    "caption": "L. James misses a turnaround two-pointer. A. Thompson grabs the defensive rebound after L. James's missed turnaround two-pointer.",
+    "start_time": 348.0,
+    "end_time": 355.0
+  },
+  {
+    "caption": "R. Sheppard misses a jump shot three-pointer. D. Ayton grabs the defensive rebound after R. Sheppard's missed jump shot three-pointer.",
+    "start_time": 357.0,
+    "end_time": 364.0
+  },
+  {
+    "caption": "R. Sheppard commits a personal foul.",
+    "start_time": 368.0,
+    "end_time": 371.0
+  },
+  {
+    "caption": "M. Smart misses a driving finger roll two-pointer. J. Hayes grabs the offensive rebound after M. Smart's missed driving finger roll layup two-pointer.",
+    "start_time": 405.0,
+    "end_time": 412.0
+  },
+  {
+    "caption": "A. Thompson grabs the defensive rebound.",
+    "start_time": 406.0,
+    "end_time": 411.0
+  },
+  {
+    "caption": "A. Sengun commits a personal foul.",
+    "start_time": 409.0,
+    "end_time": 413.0
+  },
+  {
+    "caption": "A. Thompson is called for a bad pass out-of-bounds turnover.",
+    "start_time": 462.5,
+    "end_time": 465.5
+  },
+  {
+    "caption": "A. Sengun commits a personal foul.",
+    "start_time": 497.0,
+    "end_time": 500.0
+  },
+  {
+    "caption": "R. Hachimura makes a turnaround two-pointer.",
+    "start_time": 545.0,
+    "end_time": 553.5
+  },
+  {
+    "caption": "A. Sengun makes a tip dunk two-pointer.",
+    "start_time": 554.0,
+    "end_time": 562.5
+  },
+  {
+    "caption": "R. Sheppard misses a pullup three-pointer. A. Sengun grabs the offensive rebound after R. Sheppard's missed jump shot three-pointer.",
+    "start_time": 554.5,
+    "end_time": 561.5
+  },
+  {
+    "caption": "T. Eason makes a running dunk two-pointer.",
+    "start_time": 578.0,
+    "end_time": 586.5
+  },
+  {
+    "caption": "T. Eason steals the ball from L. James on a bad pass.",
+    "start_time": 579.0,
+    "end_time": 583.0
+  },
+  {
+    "caption": "L. James makes a driving finger roll two-pointer, assisted by L. Kennard.",
+    "start_time": 845.0,
+    "end_time": 853.5
+  },
+  {
+    "caption": "T. Eason misses a jump shot three-pointer.",
+    "start_time": 857.5,
+    "end_time": 864.5
+  },
+  {
+    "caption": "A. Thompson commits a personal foul.",
+    "start_time": 861.5,
+    "end_time": 864.5
+  },
+  {
+    "caption": "M. Smart makes a jump shot three-pointer, assisted by R. Hachimura.",
+    "start_time": 908.5,
+    "end_time": 917.0
+  },
+  {
+    "caption": "A. Sengun is called for an out-of-bounds turnover.",
+    "start_time": 937.0,
+    "end_time": 940.0
+  },
+  {
+    "caption": "J. Smith Jr. commits a personal foul.",
+    "start_time": 955.5,
+    "end_time": 958.5
+  },
+  {
+    "caption": "R. Sheppard makes a jump shot three-pointer, assisted by T. Eason.",
+    "start_time": 1023.5,
+    "end_time": 1032.0
+  },
+  {
+    "caption": "Mark Smart makes a jump shot three-pointer, assisted by LeBron James.",
+    "start_time": 1048.5,
+    "end_time": 1057.0
+  },
+  {
+    "caption": "A. Thompson makes a driving dunk two-pointer.",
+    "start_time": 1059.5,
+    "end_time": 1068.0
+  },
+  {
+    "caption": "R. Hachimura's pullup two-pointer is blocked by R. Sheppard. R. Sheppard blocks R. Hachimura's jump shot two-pointer. J. Smith Jr. grabs the defensive rebound after R. Hachimura's missed pullup two-pointer.",
+    "start_time": 1087.0,
+    "end_time": 1092.0
+  },
+  {
+    "caption": "J. Smith Jr. misses a running pullup three-pointer. L. James grabs the defensive rebound after J. Smith Jr.'s missed three-pointer.",
+    "start_time": 1091.0,
+    "end_time": 1098.0
+  },
+  {
+    "caption": "J. Hayes makes an alley-oop dunk two-pointer, assisted by L. James.",
+    "start_time": 1108.5,
+    "end_time": 1117.0
+  },
+  {
+    "caption": "R. Sheppard misses a jump shot three-pointer. L. James grabs the defensive rebound after R. Sheppard's missed three-pointer.",
+    "start_time": 1123.0,
+    "end_time": 1130.0
+  },
+  {
+    "caption": "J. Smith Jr. grabs the defensive rebound.",
+    "start_time": 1370.5,
+    "end_time": 1375.5
+  },
+  {
+    "caption": "T. Eason commits a personal foul.",
+    "start_time": 1373.5,
+    "end_time": 1377.5
+  },
+  {
+    "caption": "A. Thompson makes a driving reverse layup two-pointer.",
+    "start_time": 1416.0,
+    "end_time": 1424.5
+  },
+  {
+    "caption": "J. LaRavia's driving layup two-pointer is blocked by T. Eason. T. Eason blocks J. LaRavia's layup two-pointer. B. James grabs the offensive rebound after J. LaRavia's missed driving layup two-pointer.",
+    "start_time": 1430.5,
+    "end_time": 1435.5
+  },
+  {
+    "caption": "N. Smith Jr. misses a driving floating two-pointer. J. Smith Jr. grabs the defensive rebound after N. Smith Jr.'s missed driving floating two-pointer.",
+    "start_time": 1435.5,
+    "end_time": 1442.5
+  },
+  {
+    "caption": "B. James steals the ball from J. Smith Jr. on a bad pass.",
+    "start_time": 1439.5,
+    "end_time": 1443.5
+  },
+  {
+    "caption": "N. Smith Jr. makes a running pullup three-pointer, assisted by B. James.",
+    "start_time": 1441.0,
+    "end_time": 1449.5
+  },
+  {
+    "caption": "R. Sheppard misses a pullup two-pointer. D. Knecht grabs the defensive rebound after R. Sheppard's missed jump shot.",
+    "start_time": 1454.5,
+    "end_time": 1461.5
+  },
+  {
+    "caption": "A. Thiero makes a tip dunk two-pointer.",
+    "start_time": 1498.0,
+    "end_time": 1506.5
+  },
+  {
+    "caption": "B. James misses a pullup three-pointer. A. Thiero grabs the offensive rebound after B. James's missed pullup three-pointer.",
+    "start_time": 1499.5,
+    "end_time": 1506.5
+  },
+  {
+    "caption": "A. Thiero commits a personal foul.",
+    "start_time": 1514.5,
+    "end_time": 1517.5
+  },
+  {
+    "caption": "J. Okogie makes a jump shot three-pointer, assisted by A. Holiday.",
+    "start_time": 1533.0,
+    "end_time": 1541.5
+  },
+  {
+    "caption": "N. Smith Jr. misses a step back jump shot. J. Tate grabs the defensive rebound after N. Smith Jr.'s missed jump shot two-pointer.",
+    "start_time": 1563.5,
+    "end_time": 1570.5
+  },
+  {
+    "caption": "J. Tate makes a running layup two-pointer.",
+    "start_time": 1566.0,
+    "end_time": 1574.5
+  },
+  {
+    "caption": "J. LaRavia misses a driving reverse layup two-pointer. J. LaRavia grabs the offensive rebound after missing his driving reverse layup two-pointer. J. LaRavia misses a tip layup two-pointer.",
+    "start_time": 1579.0,
+    "end_time": 1588.0
+  },
+  {
+    "caption": "J. LaRavia grabs the offensive rebound.",
+    "start_time": 1582.0,
+    "end_time": 1588.0
+  },
+  {
+    "caption": "D. Knecht misses a jump shot three-pointer. J. Okogie grabs the defensive rebound after D. Knecht's missed jump shot three-pointer.",
+    "start_time": 1585.5,
+    "end_time": 1592.5
+  },
+  {
+    "caption": "A. Holiday makes a driving layup two-pointer.",
+    "start_time": 1613.4,
+    "end_time": 1621.9
+  },
+  {
+    "caption": "N. Smith Jr. misses a jump shot three-pointer. J. Tate grabs the defensive rebound after N. Smith Jr.'s missed three-pointer.",
+    "start_time": 1639.9,
+    "end_time": 1646.9
+  },
+  {
+    "caption": "J. Tate misses a running pullup three-pointer. C. Capela grabs the offensive rebound after J. Tate's missed running pullup three-pointer. C. Capela makes a putback layup two-pointer.",
+    "start_time": 1645.3,
+    "end_time": 1653.8
+  }
+]

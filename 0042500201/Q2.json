@@ -1,0 +1,277 @@
+[
+  {
+    "caption": "C. Cunningham misses a fadeaway two-pointer. E. Mobley grabs the defensive rebound after C. Cunningham's missed jump shot two-pointer.",
+    "start_time": 14.5,
+    "end_time": 21.5
+  },
+  {
+    "caption": "D. Mitchell makes a driving floating jump shot two-pointer.",
+    "start_time": 26.0,
+    "end_time": 34.5
+  },
+  {
+    "caption": "C. Cunningham misses a driving floating two-pointer.",
+    "start_time": 42.5,
+    "end_time": 49.5
+  },
+  {
+    "caption": "A. Thompson commits a personal foul.",
+    "start_time": 46.5,
+    "end_time": 49.5
+  },
+  {
+    "caption": "T. Bryant makes a floating jump shot two-pointer, assisted by D. Schröder.",
+    "start_time": 73.5,
+    "end_time": 82.0
+  },
+  {
+    "caption": "A. Thompson makes a driving reverse layup two-pointer.",
+    "start_time": 85.5,
+    "end_time": 94.0
+  },
+  {
+    "caption": "D. Schröder misses a driving layup two-pointer. J. Green grabs the defensive rebound after D. Schröder's missed driving layup two-pointer.",
+    "start_time": 102.0,
+    "end_time": 109.0
+  },
+  {
+    "caption": "J. Green misses a jump shot three-pointer. J. Tyson grabs the defensive rebound after J. Green's missed three-pointer.",
+    "start_time": 118.0,
+    "end_time": 125.0
+  },
+  {
+    "caption": "A. Thompson steals the ball from J. Tyson on a bad pass.",
+    "start_time": 122.0,
+    "end_time": 126.0
+  },
+  {
+    "caption": "T. Bryant steals the ball from A. Thompson on a bad pass.",
+    "start_time": 123.0,
+    "end_time": 127.0
+  },
+  {
+    "caption": "A. Thompson commits a personal foul.",
+    "start_time": 146.0,
+    "end_time": 149.0
+  },
+  {
+    "caption": "D. Mitchell makes a pullup three-pointer.",
+    "start_time": 184.0,
+    "end_time": 192.5
+  },
+  {
+    "caption": "I. Stewart makes a dunk two-pointer, assisted by A. Thompson.",
+    "start_time": 422.0,
+    "end_time": 430.5
+  },
+  {
+    "caption": "J. Harden is called for an out-of-bounds turnover.",
+    "start_time": 441.5,
+    "end_time": 444.5
+  },
+  {
+    "caption": "I. Stewart commits an offensive foul.",
+    "start_time": 458.0,
+    "end_time": 461.0
+  },
+  {
+    "caption": "T. Harris commits a personal foul.",
+    "start_time": 485.0,
+    "end_time": 489.0
+  },
+  {
+    "caption": "D. Robinson makes a jump shot three-pointer, assisted by D. Jenkins.",
+    "start_time": 766.0,
+    "end_time": 774.5
+  },
+  {
+    "caption": "M. Strus makes a jump shot three-pointer, assisted by J. Harden.",
+    "start_time": 783.0,
+    "end_time": 791.5
+  },
+  {
+    "caption": "T. Harris misses a turnaround two-pointer. I. Stewart grabs the offensive rebound after T. Harris's missed jump shot two-pointer.",
+    "start_time": 807.5,
+    "end_time": 814.5
+  },
+  {
+    "caption": "D. Robinson misses a pullup three-pointer. T. Harris grabs the offensive rebound after D. Robinson's missed pullup three-pointer.",
+    "start_time": 812.5,
+    "end_time": 819.5
+  },
+  {
+    "caption": "T. Harris misses a driving floating two-pointer. K. Ellis grabs the defensive rebound after T. Harris's missed driving floating two-pointer.",
+    "start_time": 822.5,
+    "end_time": 829.5
+  },
+  {
+    "caption": "D. Robinson commits a personal foul.",
+    "start_time": 834.5,
+    "end_time": 838.5
+  },
+  {
+    "caption": "D. Jenkins misses a step back three-pointer. J. Tyson grabs the defensive rebound after D. Jenkins's missed jump shot three-pointer.",
+    "start_time": 904.5,
+    "end_time": 911.5
+  },
+  {
+    "caption": "M. Strus misses a jump shot three-pointer. D. Jenkins grabs the defensive rebound after M. Strus's missed jump shot three-pointer.",
+    "start_time": 924.5,
+    "end_time": 931.5
+  },
+  {
+    "caption": "A. Thompson makes a driving layup two-pointer.",
+    "start_time": 936.0,
+    "end_time": 944.5
+  },
+  {
+    "caption": "T. Bryant misses a jump shot three-pointer. K. Ellis grabs the offensive rebound after T. Bryant's missed three-pointer.",
+    "start_time": 981.5,
+    "end_time": 988.5
+  },
+  {
+    "caption": "J. Harden misses a step back three-pointer.",
+    "start_time": 996.5,
+    "end_time": 1003.5
+  },
+  {
+    "caption": "T. Harris misses a jump shot three-pointer. J. Duren grabs the offensive rebound after T. Harris's missed three-pointer.",
+    "start_time": 1034.5,
+    "end_time": 1041.5
+  },
+  {
+    "caption": "T. Harris makes a jump shot three-pointer, assisted by C. Cunningham.",
+    "start_time": 1043.0,
+    "end_time": 1051.5
+  },
+  {
+    "caption": "J. Harden misses a pullup three-pointer. A. Thompson grabs the defensive rebound after J. Harden's missed jump shot three-pointer.",
+    "start_time": 1070.5,
+    "end_time": 1077.5
+  },
+  {
+    "caption": "T. Bryant commits a personal foul.",
+    "start_time": 1082.5,
+    "end_time": 1086.5
+  },
+  {
+    "caption": "A. Thompson makes a dunk two-pointer, assisted by D. Jenkins.",
+    "start_time": 1286.0,
+    "end_time": 1294.5
+  },
+  {
+    "caption": "J. Harden makes a jump shot three-pointer, assisted by M. Strus. M. Strus commits a personal foul.",
+    "start_time": 1300.0,
+    "end_time": 1325.5
+  },
+  {
+    "caption": "K. Ellis makes a jump shot three-pointer, assisted by D. Mitchell.",
+    "start_time": 1382.5,
+    "end_time": 1391.0
+  },
+  {
+    "caption": "K. Ellis steals the ball from J. Duren on a lost ball.",
+    "start_time": 1401.0,
+    "end_time": 1405.0
+  },
+  {
+    "caption": "K. Ellis's running layup two-pointer is blocked by A. Thompson. A. Thompson blocks K. Ellis's layup two-pointer. T. Harris grabs the defensive rebound after K. Ellis's running layup two-pointer is blocked.",
+    "start_time": 1404.0,
+    "end_time": 1409.0
+  },
+  {
+    "caption": "T. Harris misses a pullup two-pointer. J. Duren grabs the offensive rebound after T. Harris's missed pullup two-pointer. J. Duren's tip layup two-pointer is blocked by Draymond Green.",
+    "start_time": 1411.0,
+    "end_time": 1421.0
+  },
+  {
+    "caption": "E. Mobley grabs the defensive rebound.",
+    "start_time": 1415.0,
+    "end_time": 1421.0
+  },
+  {
+    "caption": "E. Mobley makes a jump shot three-pointer, assisted by J. Harden.",
+    "start_time": 1436.5,
+    "end_time": 1445.0
+  },
+  {
+    "caption": "D. Jenkins' driving layup two-pointer is blocked by J. Harden. J. Harden blocks D. Jenkins's layup two-pointer. J. Harden grabs the defensive rebound after D. Jenkins' missed driving layup two-pointer.",
+    "start_time": 1469.0,
+    "end_time": 1474.0
+  },
+  {
+    "caption": "C. Cunningham steals the ball from D. Mitchell on a bad pass.",
+    "start_time": 1479.0,
+    "end_time": 1483.0
+  },
+  {
+    "caption": "E. Mobley commits a personal foul.",
+    "start_time": 1484.0,
+    "end_time": 1488.0
+  },
+  {
+    "caption": "R. Holland II makes a running layup two-pointer, assisted by T. Harris. K. Ellis commits a personal foul.",
+    "start_time": 1555.5,
+    "end_time": 1564.0
+  },
+  {
+    "caption": "R. Holland II steals the ball from J. Harden on a bad pass.",
+    "start_time": 1557.0,
+    "end_time": 1561.0
+  },
+  {
+    "caption": "E. Mobley grabs the defensive rebound.",
+    "start_time": 1598.5,
+    "end_time": 1603.5
+  },
+  {
+    "caption": "E. Mobley misses a jump shot three-pointer. T. Harris grabs the defensive rebound after E. Mobley's missed jump shot three-pointer.",
+    "start_time": 1606.0,
+    "end_time": 1613.0
+  },
+  {
+    "caption": "D. Wade steals the ball from C. Cunningham on a lost ball.",
+    "start_time": 1619.0,
+    "end_time": 1623.0
+  },
+  {
+    "caption": "R. Holland II commits a personal foul.",
+    "start_time": 1633.0,
+    "end_time": 1637.0
+  },
+  {
+    "caption": "D. Mitchell steals the ball from C. Cunningham on a bad pass.",
+    "start_time": 1690.5,
+    "end_time": 1694.5
+  },
+  {
+    "caption": "J. Harden misses a running three-pointer. T. Harris grabs the defensive rebound after J. Harden's missed running three-pointer.",
+    "start_time": 1694.5,
+    "end_time": 1701.5
+  },
+  {
+    "caption": "K. Ellis steals the ball from C. Cunningham on a bad pass.",
+    "start_time": 1702.3,
+    "end_time": 1706.3
+  },
+  {
+    "caption": "D. Mitchell misses a jump shot three-pointer. T. Harris grabs the defensive rebound after D. Mitchell's missed three-pointer.",
+    "start_time": 1710.2,
+    "end_time": 1717.2
+  },
+  {
+    "caption": "D. Wade commits a personal foul.",
+    "start_time": 1729.7,
+    "end_time": 1733.7
+  },
+  {
+    "caption": "K. Ellis misses a pullup three-pointer. T. Harris grabs the defensive rebound after K. Ellis's missed jump shot three-pointer.",
+    "start_time": 1827.35,
+    "end_time": 1834.35
+  },
+  {
+    "caption": "T. Harris misses a running pullup three-pointer.",
+    "start_time": 1833.9,
+    "end_time": 1840.9
+  }
+]
