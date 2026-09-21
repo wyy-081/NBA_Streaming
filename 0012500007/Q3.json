@@ -1,0 +1,267 @@
+[
+  {
+    "caption": "I. Jones makes a reverse layup two-pointer, assisted by D. Eubanks.",
+    "start_time": 7.5,
+    "end_time": 16.0
+  },
+  {
+    "caption": "A. Reaves misses a jump shot three-pointer. N. Clifford grabs the defensive rebound after A. Reaves' missed three-pointer.",
+    "start_time": 25.0,
+    "end_time": 32.0
+  },
+  {
+    "caption": "D. Schröder misses a driving layup two-pointer. A. Reaves grabs the defensive rebound after D. Schröder's missed driving layup two-pointer.",
+    "start_time": 42.0,
+    "end_time": 49.0
+  },
+  {
+    "caption": "G. Vincent makes a running three-pointer, assisted by A. Reaves.",
+    "start_time": 48.5,
+    "end_time": 57.0
+  },
+  {
+    "caption": "Zach LaVine misses a pullup three-pointer. D. Ayton grabs the defensive rebound after Z. LaVine's missed pullup three-pointer.",
+    "start_time": 63.0,
+    "end_time": 70.0
+  },
+  {
+    "caption": "Luka Dončić misses a jump shot three-pointer. D. Eubanks grabs the defensive rebound after L. Dončić's missed three-pointer.",
+    "start_time": 84.0,
+    "end_time": 91.0
+  },
+  {
+    "caption": "N. Clifford loses the ball out-of-bounds on a lost ball turnover.",
+    "start_time": 92.0,
+    "end_time": 95.0
+  },
+  {
+    "caption": "D. Ayton makes a turnaround two-pointer, assisted by L. Dončić.",
+    "start_time": 104.0,
+    "end_time": 112.5
+  },
+  {
+    "caption": "D. Eubanks commits an offensive foul.",
+    "start_time": 131.5,
+    "end_time": 134.5
+  },
+  {
+    "caption": "R. Hachimura misses a pullup two-pointer. D. Ayton grabs the offensive rebound after R. Hachimura's missed pullup two-pointer.",
+    "start_time": 159.5,
+    "end_time": 166.5
+  },
+  {
+    "caption": "I. Jones commits a shooting personal foul.",
+    "start_time": 165.5,
+    "end_time": 169.5
+  },
+  {
+    "caption": "D. Cardwell grabs the defensive rebound.",
+    "start_time": 205.5,
+    "end_time": 210.5
+  },
+  {
+    "caption": "D. Schröder makes a pullup two-pointer.",
+    "start_time": 214.0,
+    "end_time": 222.5
+  },
+  {
+    "caption": "Luka Dončić misses a step back jump shot. D. Cardwell grabs the defensive rebound after L. Dončić's missed jump shot two-pointer.",
+    "start_time": 238.5,
+    "end_time": 245.5
+  },
+  {
+    "caption": "A. Reaves commits a personal foul.",
+    "start_time": 257.5,
+    "end_time": 260.5
+  },
+  {
+    "caption": "D. Schröder makes a step back jump shot two-pointer, assisted by Z. LaVine. N. Clifford commits a shooting personal foul.",
+    "start_time": 301.0,
+    "end_time": 322.5
+  },
+  {
+    "caption": "D. Schröder misses a driving floating two-pointer. D. Schröder commits a shooting personal foul.",
+    "start_time": 389.5,
+    "end_time": 405.5
+  },
+  {
+    "caption": "N. Clifford misses a jump shot three-pointer. A. Reaves grabs the defensive rebound after N. Clifford's missed three-pointer.",
+    "start_time": 452.0,
+    "end_time": 459.0
+  },
+  {
+    "caption": "Luka Dončić misses a driving floating two-pointer. N. Clifford grabs the defensive rebound after L. Dončić's missed driving floating two-pointer.",
+    "start_time": 465.0,
+    "end_time": 472.0
+  },
+  {
+    "caption": "D. Ayton commits a shooting personal foul.",
+    "start_time": 472.0,
+    "end_time": 476.0
+  },
+  {
+    "caption": "R. Hachimura makes a jump shot three-pointer, assisted by A. Reaves.",
+    "start_time": 532.5,
+    "end_time": 541.0
+  },
+  {
+    "caption": "Z. LaVine's driving reverse layup two-pointer is blocked by D. Ayton. D. Ayton blocks Z. LaVine's layup two-pointer. D. Ayton grabs the defensive rebound after Z. LaVine's missed driving reverse layup two-pointer.",
+    "start_time": 547.0,
+    "end_time": 552.0
+  },
+  {
+    "caption": "Luka Dončić makes a step back three-pointer.",
+    "start_time": 552.5,
+    "end_time": 561.0
+  },
+  {
+    "caption": "Z. LaVine makes a cutting layup two-pointer, assisted by N. Clifford.",
+    "start_time": 743.0,
+    "end_time": 751.5
+  },
+  {
+    "caption": "D. Ayton misses a driving floating two-pointer.",
+    "start_time": 757.5,
+    "end_time": 764.5
+  },
+  {
+    "caption": "D. Ayton commits a personal foul.",
+    "start_time": 761.5,
+    "end_time": 764.5
+  },
+  {
+    "caption": "D. Schröder makes a driving floating jump shot two-pointer, assisted by Z. LaVine.",
+    "start_time": 799.0,
+    "end_time": 807.5
+  },
+  {
+    "caption": "Z. LaVine commits a take personal foul.",
+    "start_time": 808.5,
+    "end_time": 811.5
+  },
+  {
+    "caption": "Luka Dončić misses a step back three-pointer. Z. LaVine grabs the defensive rebound after L. Dončić's missed jump shot three-pointer.",
+    "start_time": 871.0,
+    "end_time": 878.0
+  },
+  {
+    "caption": "N. Clifford makes a driving layup two-pointer, assisted by Z. LaVine.",
+    "start_time": 887.5,
+    "end_time": 896.0
+  },
+  {
+    "caption": "Mark Smart makes a jump shot three-pointer, assisted by Anthony Reaves.",
+    "start_time": 900.5,
+    "end_time": 909.0
+  },
+  {
+    "caption": "Marcus Smart steals the ball from Derrick Cardwell on a bad pass.",
+    "start_time": 925.0,
+    "end_time": 929.0
+  },
+  {
+    "caption": "D. Ayton makes a floating jump shot two-pointer, assisted by A. Reaves.",
+    "start_time": 932.5,
+    "end_time": 941.0
+  },
+  {
+    "caption": "D. Šarić makes a jump shot three-pointer, assisted by N. Clifford.",
+    "start_time": 956.5,
+    "end_time": 965.0
+  },
+  {
+    "caption": "A. Reaves misses a pullup two-pointer. D. Šarić grabs the defensive rebound after A. Reaves' missed pullup two-pointer.",
+    "start_time": 973.0,
+    "end_time": 980.0
+  },
+  {
+    "caption": "K. Ellis misses a pullup two-pointer. L. Dončić grabs the defensive rebound after K. Ellis's missed pullup two-pointer.",
+    "start_time": 983.0,
+    "end_time": 990.0
+  },
+  {
+    "caption": "M. Kleber commits an offensive foul.",
+    "start_time": 1032.5,
+    "end_time": 1035.5
+  },
+  {
+    "caption": "N. Clifford misses a turnaround two-pointer. J. Vanderbilt grabs the defensive rebound after N. Clifford's missed turnaround two-pointer.",
+    "start_time": 1053.5,
+    "end_time": 1060.5
+  },
+  {
+    "caption": "Michael Smart misses a step back three-pointer. N. Clifford grabs the defensive rebound after M. Smart's missed jump shot three-pointer.",
+    "start_time": 1071.5,
+    "end_time": 1078.5
+  },
+  {
+    "caption": "M. Kleber commits a shooting personal foul.",
+    "start_time": 1084.5,
+    "end_time": 1088.5
+  },
+  {
+    "caption": "Luka Dončić makes a pullup three-pointer.",
+    "start_time": 1144.0,
+    "end_time": 1152.5
+  },
+  {
+    "caption": "K. Ellis makes a pullup three-pointer. K. Ellis commits a shooting personal foul.",
+    "start_time": 1163.0,
+    "end_time": 1176.5
+  },
+  {
+    "caption": "M. Kleber commits a personal foul.",
+    "start_time": 1400.5,
+    "end_time": 1403.5
+  },
+  {
+    "caption": "J. Vanderbilt misses a jump shot three-pointer. D. Šarić grabs the defensive rebound after J. Vanderbilt's missed three-pointer.",
+    "start_time": 1471.0,
+    "end_time": 1478.0
+  },
+  {
+    "caption": "L. Dončić commits a personal foul.",
+    "start_time": 1476.0,
+    "end_time": 1479.0
+  },
+  {
+    "caption": "M. Smart makes a pullup two-pointer, assisted by J. LaRavia.",
+    "start_time": 1539.5,
+    "end_time": 1548.0
+  },
+  {
+    "caption": "M. Raynaud makes a floating jump shot two-pointer, assisted by D. Carter. J. LaRavia commits a shooting personal foul.",
+    "start_time": 1554.5,
+    "end_time": 1563.0
+  },
+  {
+    "caption": "A. Reaves misses a driving floating two-pointer. D. Šarić grabs the defensive rebound after A. Reaves' missed driving floating two-pointer.",
+    "start_time": 1601.0,
+    "end_time": 1608.0
+  },
+  {
+    "caption": "M. Raynaud commits an offensive foul.",
+    "start_time": 1610.0,
+    "end_time": 1613.0
+  },
+  {
+    "caption": "A. Reaves misses a pullup two-pointer. M. Kleber grabs the offensive rebound after A. Reaves' missed pullup two-pointer.",
+    "start_time": 1757.5,
+    "end_time": 1764.5
+  },
+  {
+    "caption": "M. Smart makes a driving finger roll layup two-pointer.",
+    "start_time": 1770.25,
+    "end_time": 1778.75
+  },
+  {
+    "caption": "Marcus Smart steals the ball from De'Anthony Carter on a bad pass.",
+    "start_time": 1794.7,
+    "end_time": 1798.7
+  },
+  {
+    "caption": "A. Reaves misses a jump shot three-pointer. D. Carter grabs the defensive rebound after A. Reaves' missed three-pointer.",
+    "start_time": 1820.85,
+    "end_time": 1827.85
+  }
+]

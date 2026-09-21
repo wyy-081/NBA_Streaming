@@ -1,0 +1,327 @@
+[
+  {
+    "caption": "Jump ball between A. Sarr and J. Duren, K. George recovers the tip.",
+    "start_time": 2.5,
+    "end_time": 7.5
+  },
+  {
+    "caption": "C. McCollum misses a driving floating two-pointer. A. Thompson grabs the defensive rebound after C. McCollum's missed driving floating two-pointer.",
+    "start_time": 10.5,
+    "end_time": 17.5
+  },
+  {
+    "caption": "C. Cunningham makes a driving layup two-pointer, assisted by A. Thompson.",
+    "start_time": 16.0,
+    "end_time": 24.5
+  },
+  {
+    "caption": "A. Sarr is called for a bad pass out-of-bounds turnover.",
+    "start_time": 37.5,
+    "end_time": 40.5
+  },
+  {
+    "caption": "A. Thompson misses a turnaround two-pointer. C. McCollum grabs the defensive rebound after A. Thompson's missed turnaround two-pointer.",
+    "start_time": 71.0,
+    "end_time": 78.0
+  },
+  {
+    "caption": "J. Duren steals the ball from A. Sarr on a lost ball.",
+    "start_time": 82.0,
+    "end_time": 86.0
+  },
+  {
+    "caption": "J. Duren makes a running dunk two-pointer.",
+    "start_time": 82.5,
+    "end_time": 91.0
+  },
+  {
+    "caption": "K. Middleton misses a pullup two-pointer. J. Duren grabs the defensive rebound after K. Middleton's missed pullup two-pointer.",
+    "start_time": 104.0,
+    "end_time": 111.0
+  },
+  {
+    "caption": "D. Robinson misses a running three-pointer. A. Sarr grabs the defensive rebound after D. Robinson's missed three-pointer.",
+    "start_time": 113.0,
+    "end_time": 120.0
+  },
+  {
+    "caption": "C. Cunningham commits a personal foul.",
+    "start_time": 125.0,
+    "end_time": 129.0
+  },
+  {
+    "caption": "J. Duren makes a alley-oop layup two-pointer, assisted by C. Cunningham.",
+    "start_time": 199.0,
+    "end_time": 207.5
+  },
+  {
+    "caption": "C. McCollum makes a cutting layup two-pointer, assisted by K. Middleton.",
+    "start_time": 209.0,
+    "end_time": 217.5
+  },
+  {
+    "caption": "C. Cunningham makes a jump shot three-pointer, assisted by T. Harris.",
+    "start_time": 235.0,
+    "end_time": 243.5
+  },
+  {
+    "caption": "K. George makes a driving layup two-pointer, assisted by A. Sarr.",
+    "start_time": 250.0,
+    "end_time": 258.5
+  },
+  {
+    "caption": "T. Harris makes a step back jump shot two-pointer, assisted by C. Cunningham.",
+    "start_time": 261.0,
+    "end_time": 269.5
+  },
+  {
+    "caption": "A. Sarr's cutting layup two-pointer is blocked by A. Thompson. A. Thompson blocks A. Sarr's layup two-pointer. A. Sarr grabs the offensive rebound after missing his layup two-pointer.",
+    "start_time": 272.5,
+    "end_time": 277.5
+  },
+  {
+    "caption": "J. Duren commits a personal foul.",
+    "start_time": 278.5,
+    "end_time": 282.5
+  },
+  {
+    "caption": "J. Duren makes a dunk two-pointer, assisted by C. Cunningham.",
+    "start_time": 330.0,
+    "end_time": 338.5
+  },
+  {
+    "caption": "J. Duren steals the ball from C. McCollum on a bad pass.",
+    "start_time": 343.5,
+    "end_time": 347.5
+  },
+  {
+    "caption": "A. Thompson makes a running reverse layup two-pointer, assisted by C. Cunningham.",
+    "start_time": 346.0,
+    "end_time": 354.5
+  },
+  {
+    "caption": "K. George makes a pullup two-pointer, assisted by A. Sarr.",
+    "start_time": 554.0,
+    "end_time": 562.5
+  },
+  {
+    "caption": "J. Duren's cutting dunk two-pointer is blocked by A. Sarr. A. Sarr blocks J. Duren's dunk two-pointer. K. Middleton grabs the defensive rebound after J. Duren's missed dunk.",
+    "start_time": 570.5,
+    "end_time": 575.5
+  },
+  {
+    "caption": "A. Sarr misses a jump shot two-pointer. I. Stewart grabs the defensive rebound after A. Sarr's missed jump shot two-pointer.",
+    "start_time": 597.5,
+    "end_time": 604.5
+  },
+  {
+    "caption": "A. Sarr commits a personal foul.",
+    "start_time": 607.5,
+    "end_time": 611.5
+  },
+  {
+    "caption": "C. McCollum misses a pullup two-pointer. I. Stewart grabs the defensive rebound after C. McCollum's missed pullup two-pointer.",
+    "start_time": 666.0,
+    "end_time": 673.0
+  },
+  {
+    "caption": "J. Duren makes a floating jump shot two-pointer, assisted by C. Cunningham.",
+    "start_time": 671.5,
+    "end_time": 680.0
+  },
+  {
+    "caption": "T. Johnson misses a jump shot three-pointer. J. Duren grabs the defensive rebound after T. Johnson's missed three-pointer.",
+    "start_time": 693.0,
+    "end_time": 700.0
+  },
+  {
+    "caption": "T. Johnson commits a personal foul.",
+    "start_time": 697.0,
+    "end_time": 700.0
+  },
+  {
+    "caption": "K. George commits a personal foul.",
+    "start_time": 729.0,
+    "end_time": 732.0
+  },
+  {
+    "caption": "T. Johnson steals the ball from C. LeVert on a bad pass.",
+    "start_time": 769.0,
+    "end_time": 773.0
+  },
+  {
+    "caption": "T. Johnson's running layup two-pointer is blocked by C. Cunningham. C. Cunningham blocks T. Johnson's layup two-pointer. C. Kispert grabs the offensive rebound after T. Johnson's missed running layup two-pointer.",
+    "start_time": 772.0,
+    "end_time": 777.0
+  },
+  {
+    "caption": "T. Johnson misses a jump shot three-pointer. C. Kispert grabs the offensive rebound after T. Johnson's missed three-pointer. C. Kispert's putback layup two-pointer is blocked by J. Duren.",
+    "start_time": 777.0,
+    "end_time": 786.0
+  },
+  {
+    "caption": "C. Kispert's putback layup two-pointer is blocked by J. Duren. J. Duren blocks C. Kispert's layup two-pointer.",
+    "start_time": 779.0,
+    "end_time": 784.0
+  },
+  {
+    "caption": "K. Middleton's jump shot two-pointer is blocked by I. Stewart. I. Stewart blocks K. Middleton's jump shot two-pointer. J. Duren grabs the defensive rebound after K. Middleton's jump shot two-pointer is blocked.",
+    "start_time": 802.5,
+    "end_time": 807.5
+  },
+  {
+    "caption": "C. Cunningham misses a turnaround two-pointer. K. Middleton grabs the defensive rebound after C. Cunningham's missed turnaround two-pointer.",
+    "start_time": 815.5,
+    "end_time": 822.5
+  },
+  {
+    "caption": "C. Cunningham is called for a kicked ball violation.",
+    "start_time": 837.0,
+    "end_time": 840.0
+  },
+  {
+    "caption": "A. Sarr's cutting layup two-pointer is blocked by C. LeVert. C. LeVert blocks A. Sarr's layup two-pointer. C. LeVert grabs the defensive rebound after A. Sarr's cutting layup two-pointer is blocked.",
+    "start_time": 848.0,
+    "end_time": 853.0
+  },
+  {
+    "caption": "I. Stewart makes a running dunk two-pointer, assisted by C. Cunningham.",
+    "start_time": 851.5,
+    "end_time": 860.0
+  },
+  {
+    "caption": "R. Holland II steals the ball from C. Kispert on a bad pass.",
+    "start_time": 1048.5,
+    "end_time": 1052.5
+  },
+  {
+    "caption": "C. Cunningham misses a pullup two-pointer. A. Sarr grabs the defensive rebound after C. Cunningham's missed pullup two-pointer.",
+    "start_time": 1065.5,
+    "end_time": 1072.5
+  },
+  {
+    "caption": "C. Kispert misses a driving floating two-pointer. T. Johnson grabs the offensive rebound after C. Kispert's missed driving floating two-pointer.",
+    "start_time": 1077.5,
+    "end_time": 1084.5
+  },
+  {
+    "caption": "K. Middleton misses a jump shot three-pointer.",
+    "start_time": 1081.5,
+    "end_time": 1088.5
+  },
+  {
+    "caption": "K. George misses a jump shot three-pointer. R. Holland II grabs the defensive rebound after K. George's missed three-pointer.",
+    "start_time": 1123.0,
+    "end_time": 1130.0
+  },
+  {
+    "caption": "I. Stewart misses a jump shot three-pointer. T. Johnson grabs the defensive rebound after I. Stewart's missed jump shot three-pointer.",
+    "start_time": 1130.0,
+    "end_time": 1137.0
+  },
+  {
+    "caption": "T. Johnson misses a driving floating two-pointer. T. Johnson grabs the offensive rebound after missing his jump shot two-pointer.",
+    "start_time": 1141.0,
+    "end_time": 1148.0
+  },
+  {
+    "caption": "A. Thompson steals the ball from T. Johnson on a bad pass.",
+    "start_time": 1143.0,
+    "end_time": 1147.0
+  },
+  {
+    "caption": "T. Harris misses a jump shot three-pointer. I. Stewart grabs the offensive rebound after T. Harris's missed jump shot three-pointer.",
+    "start_time": 1158.0,
+    "end_time": 1165.0
+  },
+  {
+    "caption": "I. Stewart's turnaround hook two-pointer is blocked by Draymond Green. T. Johnson grabs the defensive rebound after I. Stewart's missed turnaround hook two-pointer.",
+    "start_time": 1164.0,
+    "end_time": 1169.0
+  },
+  {
+    "caption": "A. Sarr blocks I. Stewart's turnaround hook two-pointer.",
+    "start_time": 1166.0,
+    "end_time": 1169.0
+  },
+  {
+    "caption": "K. Middleton misses a pullup two-pointer. C. LeVert grabs the defensive rebound after K. Middleton's missed pullup two-pointer.",
+    "start_time": 1172.0,
+    "end_time": 1179.0
+  },
+  {
+    "caption": "R. Holland II is called for a traveling violation.",
+    "start_time": 1184.5,
+    "end_time": 1187.5
+  },
+  {
+    "caption": "M. Bagley III misses a turnaround hook two-pointer. K. George grabs the offensive rebound after M. Bagley III's missed turnaround hook two-pointer. K. George makes a putback dunk two-pointer.",
+    "start_time": 1223.5,
+    "end_time": 1231.5
+  },
+  {
+    "caption": "J. Champagnie steals the ball from D. Jenkins on a bad pass.",
+    "start_time": 1325.5,
+    "end_time": 1329.5
+  },
+  {
+    "caption": "J. Champagnie makes a running layup two-pointer, assisted by M. Bagley III. A. Thompson commits a personal foul.",
+    "start_time": 1327.0,
+    "end_time": 1335.5
+  },
+  {
+    "caption": "D. Jenkins makes a step back jump shot two-pointer.",
+    "start_time": 1378.5,
+    "end_time": 1387.0
+  },
+  {
+    "caption": "T. Johnson makes a driving floating jump shot two-pointer, assisted by M. Bagley III.",
+    "start_time": 1403.5,
+    "end_time": 1412.0
+  },
+  {
+    "caption": "R. Holland II is called for a traveling violation.",
+    "start_time": 1426.5,
+    "end_time": 1429.5
+  },
+  {
+    "caption": "C. McCollum misses a driving floating two-pointer. M. Bagley III grabs the offensive rebound after C. McCollum's missed driving floating two-pointer. M. Bagley III misses a tip layup two-pointer.",
+    "start_time": 1460.0,
+    "end_time": 1469.0
+  },
+  {
+    "caption": "T. Harris grabs the defensive rebound.",
+    "start_time": 1463.0,
+    "end_time": 1469.0
+  },
+  {
+    "caption": "D. Jenkins makes a driving layup two-pointer, assisted by T. Harris.",
+    "start_time": 1474.5,
+    "end_time": 1483.0
+  },
+  {
+    "caption": "D. Jenkins steals the ball from C. Kispert on a bad pass.",
+    "start_time": 1487.25,
+    "end_time": 1491.25
+  },
+  {
+    "caption": "T. Harris makes a running layup two-pointer, assisted by D. Jenkins.",
+    "start_time": 1487.25,
+    "end_time": 1495.75
+  },
+  {
+    "caption": "M. Bagley III misses a floating two-pointer. A. Thompson grabs the defensive rebound after M. Bagley III's missed jump shot two-pointer.",
+    "start_time": 1514.25,
+    "end_time": 1521.25
+  },
+  {
+    "caption": "T. Harris misses a jump shot three-pointer. P. Reed grabs the offensive rebound after T. Harris's missed three-pointer.",
+    "start_time": 1554.35,
+    "end_time": 1561.35
+  },
+  {
+    "caption": "P. Reed makes a step back jump shot two-pointer.",
+    "start_time": 1556.65,
+    "end_time": 1565.15
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "caption": "D. Bane misses a jump shot three-pointer. J. Alvarado grabs the defensive rebound after D. Bane's missed jump shot three-pointer.",
+    "start_time": 8.0,
+    "end_time": 15.0
+  },
+  {
+    "caption": "J. Hawkins loses the ball out-of-bounds.",
+    "start_time": 31.0,
+    "end_time": 34.0
+  },
+  {
+    "caption": "W. Carter Jr. misses a jump shot two-pointer. F. Wagner grabs the offensive rebound after W. Carter Jr.'s missed jump shot two-pointer.",
+    "start_time": 46.0,
+    "end_time": 53.0
+  },
+  {
+    "caption": "T. Jones makes a driving floating two-pointer, assisted by F. Wagner.",
+    "start_time": 50.5,
+    "end_time": 59.0
+  },
+  {
+    "caption": "T. Jones steals the ball from B. McGowens on a bad pass.",
+    "start_time": 70.0,
+    "end_time": 74.0
+  },
+  {
+    "caption": "W. Carter Jr. makes a running layup two-pointer, assisted by T. Jones.",
+    "start_time": 71.5,
+    "end_time": 80.0
+  },
+  {
+    "caption": "J. Hawkins makes a pullup two-pointer, assisted by H. Dickinson.",
+    "start_time": 89.5,
+    "end_time": 98.0
+  },
+  {
+    "caption": "F. Wagner misses a jump shot three-pointer. J. Alvarado grabs the defensive rebound after F. Wagner's missed jump shot three-pointer.",
+    "start_time": 110.0,
+    "end_time": 117.0
+  },
+  {
+    "caption": "J. Alvarado misses a running pullup three-pointer. H. Dickinson grabs the offensive rebound after J. Alvarado's missed running pullup three-pointer. H. Dickinson makes a tip layup two-pointer.",
+    "start_time": 118.0,
+    "end_time": 129.0
+  },
+  {
+    "caption": "B. McGowens commits a personal foul.",
+    "start_time": 126.0,
+    "end_time": 129.0
+  },
+  {
+    "caption": "D. Bane makes a jump shot two-pointer. B. McGowens commits a shooting personal foul.",
+    "start_time": 153.0,
+    "end_time": 161.5
+  },
+  {
+    "caption": "J. Alvarado misses a driving floating two-pointer. P. Banchero grabs the defensive rebound after J. Alvarado's missed driving floating two-pointer.",
+    "start_time": 194.5,
+    "end_time": 201.5
+  },
+  {
+    "caption": "D. Bane misses a jump shot three-pointer. H. Dickinson grabs the defensive rebound after D. Bane's missed jump shot three-pointer.",
+    "start_time": 199.5,
+    "end_time": 206.5
+  },
+  {
+    "caption": "B. McGowens makes a driving layup two-pointer, assisted by H. Dickinson. H. Dickinson commits a personal foul.",
+    "start_time": 220.0,
+    "end_time": 238.5
+  },
+  {
+    "caption": "T. Jones commits a personal foul.",
+    "start_time": 306.5,
+    "end_time": 309.5
+  },
+  {
+    "caption": "H. Dickinson makes a cutting layup two-pointer, assisted by J. Hawkins.",
+    "start_time": 326.5,
+    "end_time": 335.0
+  },
+  {
+    "caption": "F. Wagner makes a jump shot three-pointer, assisted by D. Bane.",
+    "start_time": 340.0,
+    "end_time": 348.5
+  },
+  {
+    "caption": "J. Hawkins makes a pullup two-pointer, assisted by J. Alvarado.",
+    "start_time": 347.5,
+    "end_time": 356.0
+  },
+  {
+    "caption": "P. Banchero makes a driving reverse layup two-pointer.",
+    "start_time": 364.5,
+    "end_time": 373.0
+  },
+  {
+    "caption": "B. McGowens misses a fadeaway two-pointer. P. Banchero grabs the defensive rebound after B. McGowens' missed jump shot two-pointer.",
+    "start_time": 383.0,
+    "end_time": 390.0
+  },
+  {
+    "caption": "H. Dickinson steals the ball from P. Banchero on a bad pass.",
+    "start_time": 388.0,
+    "end_time": 392.0
+  },
+  {
+    "caption": "J. Alvarado's driving layup two-pointer is blocked by P. Banchero. P. Banchero blocks J. Alvarado's layup two-pointer. B. McGowens grabs the offensive rebound after J. Alvarado's missed driving layup two-pointer.",
+    "start_time": 389.0,
+    "end_time": 394.0
+  },
+  {
+    "caption": "J. Hawkins misses a jump shot three-pointer.",
+    "start_time": 395.0,
+    "end_time": 402.0
+  },
+  {
+    "caption": "J. Hawkins makes a step back jump shot two-pointer.",
+    "start_time": 608.5,
+    "end_time": 617.0
+  },
+  {
+    "caption": "T. da Silva makes a jump shot three-pointer, assisted by J. Richardson.",
+    "start_time": 625.5,
+    "end_time": 634.0
+  },
+  {
+    "caption": "J. Hawkins makes a pullup three-pointer.",
+    "start_time": 640.5,
+    "end_time": 649.0
+  },
+  {
+    "caption": "B. McGowens commits a personal foul.",
+    "start_time": 662.0,
+    "end_time": 665.0
+  },
+  {
+    "caption": "J. Richardson makes a jump shot three-pointer, assisted by A. Black.",
+    "start_time": 704.0,
+    "end_time": 712.5
+  },
+  {
+    "caption": "J. Hawkins misses a jump shot three-pointer. M. Peavy grabs the offensive rebound after J. Hawkins's missed jump shot three-pointer.",
+    "start_time": 718.5,
+    "end_time": 725.5
+  },
+  {
+    "caption": "J. Alvarado is called for an out-of-bounds turnover.",
+    "start_time": 728.5,
+    "end_time": 731.5
+  },
+  {
+    "caption": "J. Isaac makes a turnaround two-pointer, assisted by T. da Silva.",
+    "start_time": 754.5,
+    "end_time": 763.0
+  },
+  {
+    "caption": "M. Peavy misses a jump shot three-pointer. J. Howard grabs the defensive rebound after M. Peavy's missed jump shot three-pointer.",
+    "start_time": 769.0,
+    "end_time": 776.0
+  },
+  {
+    "caption": "J. Howard's driving layup two-pointer is blocked by C. Shumate. C. Shumate blocks J. Howard's layup two-pointer. T. da Silva grabs the offensive rebound after J. Howard's missed driving layup two-pointer.",
+    "start_time": 778.0,
+    "end_time": 783.0
+  },
+  {
+    "caption": "T. da Silva misses a layup two-pointer. J. Fears grabs the defensive rebound after T. da Silva's missed layup two-pointer.",
+    "start_time": 788.0,
+    "end_time": 795.0
+  },
+  {
+    "caption": "A. Black steals the ball from J. Fears on a lost ball.",
+    "start_time": 793.0,
+    "end_time": 797.0
+  },
+  {
+    "caption": "J. Isaac makes a dunk two-pointer, assisted by J. Richardson.",
+    "start_time": 794.5,
+    "end_time": 803.0
+  },
+  {
+    "caption": "J. Fears makes a driving finger roll two-pointer.",
+    "start_time": 820.5,
+    "end_time": 829.0
+  },
+  {
+    "caption": "T. Alexander commits a personal foul.",
+    "start_time": 839.0,
+    "end_time": 842.0
+  },
+  {
+    "caption": "O. Robinson commits a personal foul.",
+    "start_time": 914.5,
+    "end_time": 918.5
+  },
+  {
+    "caption": "O. Robinson makes an alley-oop dunk two-pointer, assisted by J. Richardson.",
+    "start_time": 986.5,
+    "end_time": 995.0
+  },
+  {
+    "caption": "A. Black commits a personal foul.",
+    "start_time": 1002.0,
+    "end_time": 1005.0
+  },
+  {
+    "caption": "H. Dickinson makes a floating jump shot two-pointer, assisted by J. Fears.",
+    "start_time": 1062.0,
+    "end_time": 1070.5
+  },
+  {
+    "caption": "O. Robinson makes a jump shot three-pointer, assisted by J. Richardson.",
+    "start_time": 1081.0,
+    "end_time": 1089.5
+  },
+  {
+    "caption": "T. da Silva commits a personal foul.",
+    "start_time": 1096.5,
+    "end_time": 1099.5
+  },
+  {
+    "caption": "H. Dickinson makes a cutting dunk two-pointer, assisted by J. Springer. H. Dickinson commits a personal foul.",
+    "start_time": 1123.5,
+    "end_time": 1148.0
+  },
+  {
+    "caption": "J. Fears makes a step back jump shot two-pointer.",
+    "start_time": 1357.0,
+    "end_time": 1365.5
+  },
+  {
+    "caption": "L. Quinones makes a jump shot three-pointer, assisted by J. Richardson.",
+    "start_time": 1372.0,
+    "end_time": 1380.5
+  },
+  {
+    "caption": "J. Fears makes a driving layup two-pointer.",
+    "start_time": 1382.0,
+    "end_time": 1390.5
+  },
+  {
+    "caption": "J. Richardson misses a jump shot three-pointer. O. Robinson grabs the offensive rebound after J. Richardson's missed three-pointer.",
+    "start_time": 1397.5,
+    "end_time": 1404.5
+  },
+  {
+    "caption": "L. Quinones makes a driving floating jump shot, assisted by O. Robinson. J. Cain commits a personal foul.",
+    "start_time": 1401.0,
+    "end_time": 1432.0
+  },
+  {
+    "caption": "J. Richardson is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1469.5,
+    "end_time": 1472.5
+  },
+  {
+    "caption": "J. Richardson commits a personal foul.",
+    "start_time": 1487.5,
+    "end_time": 1490.5
+  },
+  {
+    "caption": "O. Robinson makes a turnaround hook two-pointer.",
+    "start_time": 1538.5,
+    "end_time": 1547.0
+  },
+  {
+    "caption": "H. Dickinson misses a turnaround hook two-pointer. C. Shumate grabs the offensive rebound after H. Dickinson's missed turnaround hook two-pointer.",
+    "start_time": 1551.4,
+    "end_time": 1558.4
+  },
+  {
+    "caption": "C. Shumate makes a tip dunk two-pointer.",
+    "start_time": 1556.15,
+    "end_time": 1564.65
+  },
+  {
+    "caption": "L. Quinones loses the ball out-of-bounds.",
+    "start_time": 1563.2,
+    "end_time": 1566.2
+  },
+  {
+    "caption": "J. Fears' layup two-pointer is blocked by O. Robinson. O. Robinson blocks J. Fears's layup two-pointer. J. Fears grabs the offensive rebound after missing his layup two-pointer.",
+    "start_time": 1582.95,
+    "end_time": 1587.95
+  },
+  {
+    "caption": "C. Shumate makes a cutting layup two-pointer, assisted by J. Fears. C. Shumate commits a shooting personal foul.",
+    "start_time": 1588.1,
+    "end_time": 1607.7
+  },
+  {
+    "caption": "T. Alexander makes a running layup two-pointer, assisted by H. Dickinson.",
+    "start_time": 1638.45,
+    "end_time": 1646.95
+  },
+  {
+    "caption": "H. Dickinson grabs the defensive rebound.",
+    "start_time": 1639.0,
+    "end_time": 1644.0
+  }
+]

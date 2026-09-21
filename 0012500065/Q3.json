@@ -1,0 +1,337 @@
+[
+  {
+    "caption": "T. Mann commits a personal foul.",
+    "start_time": 5.0,
+    "end_time": 8.0
+  },
+  {
+    "caption": "B. Ingram misses a turnaround two-pointer. N. Claxton grabs the defensive rebound after B. Ingram's missed turnaround two-pointer.",
+    "start_time": 28.5,
+    "end_time": 35.5
+  },
+  {
+    "caption": "C. Thomas makes a pullup two-pointer, assisted by N. Claxton.",
+    "start_time": 41.0,
+    "end_time": 49.5
+  },
+  {
+    "caption": "J. Poeltl misses a cutting layup two-pointer. M. Porter Jr. grabs the defensive rebound after J. Poeltl's missed layup two-pointer.",
+    "start_time": 63.5,
+    "end_time": 70.5
+  },
+  {
+    "caption": "C. Thomas misses a driving layup two-pointer. I. Quickley grabs the defensive rebound after C. Thomas's missed driving layup two-pointer.",
+    "start_time": 74.5,
+    "end_time": 81.5
+  },
+  {
+    "caption": "J. Poeltl misses a cutting layup two-pointer. N. Claxton grabs the defensive rebound after J. Poeltl's missed layup two-pointer.",
+    "start_time": 87.5,
+    "end_time": 94.5
+  },
+  {
+    "caption": "N. Claxton's alley-oop layup two-pointer is blocked by Draymond Green. N. Claxton grabs the offensive rebound after missing his layup two-pointer. N. Claxton's putback layup two-pointer is blocked by B. Ingram.",
+    "start_time": 96.5,
+    "end_time": 107.5
+  },
+  {
+    "caption": "N. Claxton's putback layup two-pointer is blocked by B. Ingram. B. Ingram blocks N. Claxton's layup two-pointer. S. Barnes grabs the defensive rebound after N. Claxton's missed putback layup two-pointer.",
+    "start_time": 100.5,
+    "end_time": 105.5
+  },
+  {
+    "caption": "M. Porter Jr. commits a personal foul.",
+    "start_time": 106.5,
+    "end_time": 110.5
+  },
+  {
+    "caption": "E. Dëmin grabs the defensive rebound.",
+    "start_time": 155.0,
+    "end_time": 160.0
+  },
+  {
+    "caption": "N. Claxton is called for a traveling violation.",
+    "start_time": 173.5,
+    "end_time": 176.5
+  },
+  {
+    "caption": "S. Barnes commits an offensive foul.",
+    "start_time": 217.0,
+    "end_time": 220.0
+  },
+  {
+    "caption": "I. Quickley commits a personal foul.",
+    "start_time": 252.0,
+    "end_time": 255.0
+  },
+  {
+    "caption": "C. Thomas misses a step back three-pointer. N. Claxton grabs the offensive rebound after C. Thomas's missed jump shot three-pointer. N. Claxton makes a putback layup two-pointer.",
+    "start_time": 278.0,
+    "end_time": 285.0
+  },
+  {
+    "caption": "J. Poeltl commits a shooting personal foul.",
+    "start_time": 282.0,
+    "end_time": 285.0
+  },
+  {
+    "caption": "J. Poeltl makes a layup two-pointer, assisted by R. Barrett.",
+    "start_time": 318.0,
+    "end_time": 326.5
+  },
+  {
+    "caption": "N. Claxton makes a driving layup two-pointer.",
+    "start_time": 332.0,
+    "end_time": 340.5
+  },
+  {
+    "caption": "N. Claxton commits a personal foul.",
+    "start_time": 340.5,
+    "end_time": 343.5
+  },
+  {
+    "caption": "J. Poeltl commits a personal foul.",
+    "start_time": 340.5,
+    "end_time": 343.5
+  },
+  {
+    "caption": "S. Barnes makes a pullup two-pointer, assisted by I. Quickley.",
+    "start_time": 376.0,
+    "end_time": 384.5
+  },
+  {
+    "caption": "N. Claxton's driving layup two-pointer is blocked by J. Poeltl. J. Poeltl blocks N. Claxton's layup two-pointer. N. Claxton grabs the offensive rebound after missing his driving layup two-pointer.",
+    "start_time": 393.5,
+    "end_time": 398.5
+  },
+  {
+    "caption": "T. Mann misses a jump shot three-pointer. B. Ingram grabs the defensive rebound after T. Mann's missed three-pointer.",
+    "start_time": 397.5,
+    "end_time": 404.5
+  },
+  {
+    "caption": "J. Poeltl misses a turnaround two-pointer. B. Ingram grabs the offensive rebound after J. Poeltl's missed turnaround two-pointer. B. Ingram makes a putback dunk two-pointer.",
+    "start_time": 405.5,
+    "end_time": 420.5
+  },
+  {
+    "caption": "E. Dëmin is called for a palming violation.",
+    "start_time": 423.0,
+    "end_time": 426.0
+  },
+  {
+    "caption": "I. Quickley misses a jump shot two-pointer. M. Porter Jr. grabs the defensive rebound after I. Quickley's missed jump shot two-pointer.",
+    "start_time": 440.5,
+    "end_time": 447.5
+  },
+  {
+    "caption": "M. Porter Jr. misses a jump shot three-pointer.",
+    "start_time": 457.0,
+    "end_time": 464.0
+  },
+  {
+    "caption": "C. Thomas misses a pullup two-pointer. J. Poeltl grabs the defensive rebound after C. Thomas's missed pullup two-pointer.",
+    "start_time": 668.5,
+    "end_time": 675.5
+  },
+  {
+    "caption": "R. Barrett makes a running alley-oop dunk two-pointer, assisted by B. Ingram.",
+    "start_time": 677.0,
+    "end_time": 685.5
+  },
+  {
+    "caption": "M. Porter Jr. makes a jump shot three-pointer, assisted by C. Thomas.",
+    "start_time": 690.0,
+    "end_time": 698.5
+  },
+  {
+    "caption": "S. Barnes misses a jump shot three-pointer. N. Claxton grabs the defensive rebound after S. Barnes's missed jump shot three-pointer.",
+    "start_time": 713.5,
+    "end_time": 720.5
+  },
+  {
+    "caption": "C. Thomas misses a jump shot three-pointer. N. Claxton grabs the offensive rebound after C. Thomas's missed jump shot three-pointer.",
+    "start_time": 730.5,
+    "end_time": 737.5
+  },
+  {
+    "caption": "N. Claxton is called for a bad pass out-of-bounds turnover.",
+    "start_time": 735.5,
+    "end_time": 738.5
+  },
+  {
+    "caption": "I. Quickley misses a driving floating two-pointer. E. Dëmin grabs the defensive rebound after I. Quickley's missed driving floating two-pointer.",
+    "start_time": 747.0,
+    "end_time": 754.0
+  },
+  {
+    "caption": "E. Dëmin misses a driving layup two-pointer. J. Poeltl grabs the defensive rebound after E. Dëmin's missed driving layup two-pointer.",
+    "start_time": 754.0,
+    "end_time": 761.0
+  },
+  {
+    "caption": "M. Porter Jr. commits a personal foul.",
+    "start_time": 763.0,
+    "end_time": 767.0
+  },
+  {
+    "caption": "I. Quickley steals the ball from E. Dëmin on a bad pass.",
+    "start_time": 842.0,
+    "end_time": 846.0
+  },
+  {
+    "caption": "I. Quickley is called for a bad pass out-of-bounds turnover.",
+    "start_time": 846.0,
+    "end_time": 849.0
+  },
+  {
+    "caption": "Z. Williams makes a jump shot three-pointer, assisted by N. Clowney.",
+    "start_time": 868.0,
+    "end_time": 876.5
+  },
+  {
+    "caption": "I. Quickley misses a jump shot three-pointer. E. Dëmin grabs the defensive rebound after I. Quickley's missed three-pointer.",
+    "start_time": 890.0,
+    "end_time": 897.0
+  },
+  {
+    "caption": "B. Ingram commits a personal foul.",
+    "start_time": 900.0,
+    "end_time": 903.0
+  },
+  {
+    "caption": "E. Dëmin makes a jump shot three-pointer, assisted by N. Claxton.",
+    "start_time": 928.0,
+    "end_time": 936.5
+  },
+  {
+    "caption": "G. Dick misses a jump shot three-pointer. E. Dëmin grabs the defensive rebound after G. Dick's missed jump shot three-pointer.",
+    "start_time": 944.5,
+    "end_time": 951.5
+  },
+  {
+    "caption": "E. Dëmin misses a jump shot three-pointer. S. Mamukelashvili grabs the defensive rebound after E. Dëmin's missed jump shot three-pointer.",
+    "start_time": 965.5,
+    "end_time": 972.5
+  },
+  {
+    "caption": "I. Quickley makes a running layup two-pointer, assisted by S. Mamukelashvili.",
+    "start_time": 972.0,
+    "end_time": 980.5
+  },
+  {
+    "caption": "C. Thomas misses a driving layup two-pointer. G. Dick grabs the defensive rebound after C. Thomas's missed driving layup two-pointer.",
+    "start_time": 995.5,
+    "end_time": 1002.5
+  },
+  {
+    "caption": "O. Agbaji makes a cutting layup two-pointer, assisted by I. Quickley. G. Dick commits a personal foul.",
+    "start_time": 998.0,
+    "end_time": 1026.5
+  },
+  {
+    "caption": "G. Dick makes a floating jump shot two-pointer, assisted by O. Agbaji.",
+    "start_time": 1258.5,
+    "end_time": 1267.0
+  },
+  {
+    "caption": "B. Saraf is called for a traveling violation.",
+    "start_time": 1279.5,
+    "end_time": 1282.5
+  },
+  {
+    "caption": "S. Mamukelashvili misses a jump shot three-pointer.",
+    "start_time": 1298.0,
+    "end_time": 1305.0
+  },
+  {
+    "caption": "T. Martin commits a personal foul.",
+    "start_time": 1302.0,
+    "end_time": 1305.0
+  },
+  {
+    "caption": "G. Dick misses a pullup three-pointer. Z. Williams grabs the defensive rebound after G. Dick's missed jump shot three-pointer.",
+    "start_time": 1340.5,
+    "end_time": 1347.5
+  },
+  {
+    "caption": "J. Mogbo commits a personal foul.",
+    "start_time": 1353.5,
+    "end_time": 1356.5
+  },
+  {
+    "caption": "G. Dick makes a driving dunk two-pointer, assisted by S. Mamukelashvili.",
+    "start_time": 1416.0,
+    "end_time": 1424.5
+  },
+  {
+    "caption": "Z. Williams misses a turnaround two-pointer.",
+    "start_time": 1434.5,
+    "end_time": 1441.5
+  },
+  {
+    "caption": "S. Mamukelashvili commits a personal foul.",
+    "start_time": 1437.5,
+    "end_time": 1440.5
+  },
+  {
+    "caption": "S. Mamukelashvili is called for a traveling violation.",
+    "start_time": 1493.5,
+    "end_time": 1496.5
+  },
+  {
+    "caption": "B. Saraf misses a step back three-pointer. S. Barnes grabs the defensive rebound after B. Saraf's missed jump shot three-pointer.",
+    "start_time": 1518.0,
+    "end_time": 1525.0
+  },
+  {
+    "caption": "R. Barrett misses a running three-pointer. T. Martin grabs the defensive rebound after R. Barrett's missed running three-pointer.",
+    "start_time": 1528.0,
+    "end_time": 1535.0
+  },
+  {
+    "caption": "T. Martin misses a driving layup two-pointer.",
+    "start_time": 1539.0,
+    "end_time": 1546.0
+  },
+  {
+    "caption": "D. Sharpe commits a personal foul.",
+    "start_time": 1542.0,
+    "end_time": 1545.0
+  },
+  {
+    "caption": "Z. Williams makes a jump shot three-pointer, assisted by B. Saraf.",
+    "start_time": 1591.0,
+    "end_time": 1599.5
+  },
+  {
+    "caption": "S. Mamukelashvili makes a driving layup two-pointer, assisted by J. Shead.",
+    "start_time": 1602.0,
+    "end_time": 1610.5
+  },
+  {
+    "caption": "Z. Williams makes a jump shot three-pointer, assisted by D. Sharpe.",
+    "start_time": 1614.466667,
+    "end_time": 1622.966667
+  },
+  {
+    "caption": "S. Mamukelashvili makes a cutting dunk two-pointer, assisted by S. Barnes.",
+    "start_time": 1625.15,
+    "end_time": 1633.65
+  },
+  {
+    "caption": "T. Martin makes a step back three-pointer, assisted by B. Saraf.",
+    "start_time": 1644.4,
+    "end_time": 1652.9
+  },
+  {
+    "caption": "G. Dick misses a floating two-pointer. N. Clowney grabs the defensive rebound after G. Dick's missed floating two-pointer.",
+    "start_time": 1672.5,
+    "end_time": 1679.5
+  },
+  {
+    "caption": "B. Saraf misses a jump shot three-pointer.",
+    "start_time": 1682.4,
+    "end_time": 1689.4
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "caption": "Jump ball between Victor Wembanyama and Isaiah Jackson, DeMar DeRozan recovers the tip.",
+    "start_time": 4.0,
+    "end_time": 9.0
+  },
+  {
+    "caption": "D. Vassell misses a jump shot three-pointer. B. Mathurin grabs the defensive rebound after D. Vassell's missed three-pointer.",
+    "start_time": 23.0,
+    "end_time": 30.0
+  },
+  {
+    "caption": "S. Castle steals the ball from A. Nembhard on a bad pass.",
+    "start_time": 33.0,
+    "end_time": 37.0
+  },
+  {
+    "caption": "S. Castle makes a running alley-oop dunk two-pointer, assisted by D. Vassell.",
+    "start_time": 33.5,
+    "end_time": 42.0
+  },
+  {
+    "caption": "S. Castle commits a personal foul.",
+    "start_time": 53.0,
+    "end_time": 56.0
+  },
+  {
+    "caption": "I. Jackson's layup two-pointer is blocked by J. Champagnie. J. Champagnie blocks I. Jackson's layup two-pointer. I. Jackson grabs the offensive rebound after missing his layup two-pointer.",
+    "start_time": 77.5,
+    "end_time": 82.5
+  },
+  {
+    "caption": "I. Jackson's putback layup two-pointer is blocked by V. Wembanyama. V. Wembanyama blocks I. Jackson's layup two-pointer. J. Champagnie grabs the defensive rebound after I. Jackson's missed putback layup two-pointer.",
+    "start_time": 83.5,
+    "end_time": 88.5
+  },
+  {
+    "caption": "V. Wembanyama is called for a bad pass out-of-bounds turnover.",
+    "start_time": 93.5,
+    "end_time": 96.5
+  },
+  {
+    "caption": "A. Nembhard makes a jump shot two-pointer.",
+    "start_time": 102.5,
+    "end_time": 111.0
+  },
+  {
+    "caption": "I. Jackson steals the ball from V. Wembanyama on a lost ball.",
+    "start_time": 115.0,
+    "end_time": 119.0
+  },
+  {
+    "caption": "I. Jackson makes a driving dunk two-pointer. I. Jackson commits a personal foul.",
+    "start_time": 115.5,
+    "end_time": 138.0
+  },
+  {
+    "caption": "A. Nesmith makes a pullup two-pointer, assisted by P. Siakam.",
+    "start_time": 189.5,
+    "end_time": 198.0
+  },
+  {
+    "caption": "V. Wembanyama makes a layup two-pointer.",
+    "start_time": 214.5,
+    "end_time": 223.0
+  },
+  {
+    "caption": "I. Jackson makes a cutting dunk two-pointer, assisted by A. Nembhard.",
+    "start_time": 228.5,
+    "end_time": 237.0
+  },
+  {
+    "caption": "D. Vassell misses a jump shot three-pointer. I. Jackson grabs the defensive rebound after D. Vassell's missed three-pointer.",
+    "start_time": 245.0,
+    "end_time": 252.0
+  },
+  {
+    "caption": "A. Nembhard's pullup two-pointer is blocked by D. Vassell. D. Vassell blocks A. Nembhard's jump shot two-pointer. V. Wembanyama grabs the defensive rebound after A. Nembhard's missed pullup two-pointer.",
+    "start_time": 265.0,
+    "end_time": 270.0
+  },
+  {
+    "caption": "D. Vassell makes a driving finger roll two-pointer, assisted by H. Barnes.",
+    "start_time": 272.5,
+    "end_time": 281.0
+  },
+  {
+    "caption": "B. Mathurin's driving layup two-pointer is blocked by V. Wembanyama. V. Wembanyama blocks B. Mathurin's layup two-pointer. V. Wembanyama grabs the defensive rebound after B. Mathurin's missed driving layup two-pointer.",
+    "start_time": 287.0,
+    "end_time": 292.0
+  },
+  {
+    "caption": "J. Champagnie makes a running three-pointer, assisted by S. Castle.",
+    "start_time": 293.5,
+    "end_time": 302.0
+  },
+  {
+    "caption": "A. Nembhard misses a jump shot three-pointer. B. Mathurin grabs the offensive rebound after A. Nembhard's missed three-pointer.",
+    "start_time": 307.0,
+    "end_time": 314.0
+  },
+  {
+    "caption": "D. Vassell steals the ball from B. Mathurin on a lost ball.",
+    "start_time": 313.0,
+    "end_time": 317.0
+  },
+  {
+    "caption": "J. Champagnie makes a running three-pointer, assisted by S. Castle.",
+    "start_time": 313.5,
+    "end_time": 322.0
+  },
+  {
+    "caption": "D. Vassell commits a personal foul.",
+    "start_time": 523.0,
+    "end_time": 526.0
+  },
+  {
+    "caption": "A. Nembhard misses a jump shot two-pointer. D. Vassell grabs the defensive rebound after A. Nembhard's missed jump shot two-pointer.",
+    "start_time": 547.0,
+    "end_time": 554.0
+  },
+  {
+    "caption": "P. Siakam commits a personal foul.",
+    "start_time": 553.0,
+    "end_time": 556.0
+  },
+  {
+    "caption": "B. Mathurin makes a running layup two-pointer, assisted by A. Nesmith. V. Wembanyama commits a shooting personal foul.",
+    "start_time": 577.5,
+    "end_time": 586.0
+  },
+  {
+    "caption": "A. Nembhard steals the ball from V. Wembanyama on a bad pass.",
+    "start_time": 578.0,
+    "end_time": 582.0
+  },
+  {
+    "caption": "S. Castle makes a driving dunk two-pointer, assisted by D. Vassell.",
+    "start_time": 640.5,
+    "end_time": 649.0
+  },
+  {
+    "caption": "A. Nesmith makes a driving finger roll two-pointer, assisted by A. Nembhard.",
+    "start_time": 649.5,
+    "end_time": 658.0
+  },
+  {
+    "caption": "H. Barnes makes a driving layup two-pointer, assisted by S. Castle.",
+    "start_time": 663.5,
+    "end_time": 672.0
+  },
+  {
+    "caption": "J. Wiseman misses a jump shot two-pointer. H. Barnes grabs the defensive rebound after J. Wiseman's missed jump shot two-pointer.",
+    "start_time": 680.0,
+    "end_time": 687.0
+  },
+  {
+    "caption": "J. Champagnie makes a running three-pointer, assisted by S. Castle.",
+    "start_time": 683.5,
+    "end_time": 692.0
+  },
+  {
+    "caption": "A. Nembhard misses a floating two-pointer. A. Nembhard grabs the offensive rebound after missing his floating two-pointer.",
+    "start_time": 703.0,
+    "end_time": 710.0
+  },
+  {
+    "caption": "S. Castle steals the ball from A. Nembhard on a bad pass.",
+    "start_time": 711.0,
+    "end_time": 715.0
+  },
+  {
+    "caption": "L. Kornet makes a layup two-pointer, assisted by S. Castle.",
+    "start_time": 715.5,
+    "end_time": 724.0
+  },
+  {
+    "caption": "B. Mathurin makes a pullup two-pointer, assisted by A. Nembhard.",
+    "start_time": 917.5,
+    "end_time": 926.0
+  },
+  {
+    "caption": "K. Johnson makes a driving layup two-pointer, assisted by D. Vassell.",
+    "start_time": 935.5,
+    "end_time": 944.0
+  },
+  {
+    "caption": "A. Nembhard makes a jump shot three-pointer, assisted by B. Sheppard.",
+    "start_time": 952.5,
+    "end_time": 961.0
+  },
+  {
+    "caption": "D. Vassell makes a jump shot three-pointer, assisted by D. Harper.",
+    "start_time": 973.5,
+    "end_time": 982.0
+  },
+  {
+    "caption": "O. Toppin misses a jump shot two-pointer. L. Kornet grabs the defensive rebound after O. Toppin's missed jump shot two-pointer.",
+    "start_time": 985.0,
+    "end_time": 992.0
+  },
+  {
+    "caption": "K. Johnson misses a jump shot three-pointer. J. Wiseman grabs the defensive rebound after K. Johnson's missed three-pointer.",
+    "start_time": 992.0,
+    "end_time": 999.0
+  },
+  {
+    "caption": "B. Sheppard misses a jump shot three-pointer. D. Harper grabs the defensive rebound after B. Sheppard's missed three-pointer.",
+    "start_time": 1003.0,
+    "end_time": 1010.0
+  },
+  {
+    "caption": "D. Vassell makes a step back jump shot two-pointer, assisted by D. Harper.",
+    "start_time": 1013.5,
+    "end_time": 1022.0
+  },
+  {
+    "caption": "L. Kornet commits a personal foul.",
+    "start_time": 1033.0,
+    "end_time": 1036.0
+  },
+  {
+    "caption": "O. Toppin misses a jump shot three-pointer. C. Bryant grabs the defensive rebound after O. Toppin's missed three-pointer.",
+    "start_time": 1074.5,
+    "end_time": 1081.5
+  },
+  {
+    "caption": "D. Harper misses a driving finger roll two-pointer. L. Kornet grabs the offensive rebound after D. Harper's missed driving finger roll layup two-pointer. L. Kornet makes a putback layup two-pointer.",
+    "start_time": 1092.5,
+    "end_time": 1103.5
+  },
+  {
+    "caption": "J. Wiseman makes a layup two-pointer, assisted by O. Toppin.",
+    "start_time": 1105.0,
+    "end_time": 1113.5
+  },
+  {
+    "caption": "K. Johnson's layup two-pointer is blocked by B. Sheppard. B. Sheppard blocks K. Johnson's layup two-pointer.",
+    "start_time": 1120.5,
+    "end_time": 1125.5
+  },
+  {
+    "caption": "C. Bryant misses a jump shot three-pointer. V. Wembanyama grabs the offensive rebound after C. Bryant's missed jump shot three-pointer. V. Wembanyama makes a putback layup two-pointer.",
+    "start_time": 1147.0,
+    "end_time": 1158.0
+  },
+  {
+    "caption": "A. Nesmith makes a driving reverse layup two-pointer.",
+    "start_time": 1160.5,
+    "end_time": 1169.0
+  },
+  {
+    "caption": "D. Harper misses a turnaround two-pointer. L. Kornet grabs the offensive rebound after D. Harper's missed jump shot two-pointer. L. Kornet makes a tip layup two-pointer.",
+    "start_time": 1174.0,
+    "end_time": 1184.0
+  },
+  {
+    "caption": "B. Sheppard misses a jump shot three-pointer. V. Wembanyama grabs the defensive rebound after B. Sheppard's missed jump shot three-pointer.",
+    "start_time": 1198.0,
+    "end_time": 1205.0
+  },
+  {
+    "caption": "T. Peter makes a running dunk two-pointer.",
+    "start_time": 1201.5,
+    "end_time": 1210.0
+  },
+  {
+    "caption": "T. Peter steals the ball from V. Wembanyama on a bad pass.",
+    "start_time": 1203.0,
+    "end_time": 1207.0
+  },
+  {
+    "caption": "D. Harper is called for an out-of-bounds turnover.",
+    "start_time": 1317.5,
+    "end_time": 1320.5
+  },
+  {
+    "caption": "D. Harper commits a personal foul.",
+    "start_time": 1341.0,
+    "end_time": 1344.0
+  },
+  {
+    "caption": "D. Harper misses a jump shot three-pointer. C. Bryant grabs the offensive rebound after D. Harper's missed three-pointer.",
+    "start_time": 1405.0,
+    "end_time": 1412.0
+  },
+  {
+    "caption": "V. Wembanyama makes a jump shot three-pointer, assisted by C. Bryant.",
+    "start_time": 1409.5,
+    "end_time": 1418.0
+  },
+  {
+    "caption": "A. Nesmith commits an offensive foul.",
+    "start_time": 1424.15,
+    "end_time": 1427.15
+  },
+  {
+    "caption": "O. Toppin commits a personal foul.",
+    "start_time": 1452.15,
+    "end_time": 1455.15
+  },
+  {
+    "caption": "V. Wembanyama misses a floating two-pointer. T. Peter grabs the defensive rebound after V. Wembanyama's missed floating two-pointer.",
+    "start_time": 1484.05,
+    "end_time": 1491.05
+  },
+  {
+    "caption": "B. Sheppard makes a running reverse layup two-pointer.",
+    "start_time": 1485.65,
+    "end_time": 1494.15
+  },
+  {
+    "caption": "A. Nesmith steals the ball from L. Kornet on a bad pass.",
+    "start_time": 1511.95,
+    "end_time": 1515.95
+  },
+  {
+    "caption": "A. Nesmith misses a driving layup two-pointer.",
+    "start_time": 1516.15,
+    "end_time": 1523.15
+  }
+]

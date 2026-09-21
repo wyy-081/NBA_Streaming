@@ -1,0 +1,317 @@
+[
+  {
+    "caption": "J. Collins is called for a traveling violation.",
+    "start_time": 7.5,
+    "end_time": 10.5
+  },
+  {
+    "caption": "Stephen Curry misses a floating two-pointer. K. Sanders grabs the defensive rebound after S. Curry's missed floating two-pointer.",
+    "start_time": 38.5,
+    "end_time": 45.5
+  },
+  {
+    "caption": "B. Bogdanović makes a jump shot two-pointer, assisted by J. Collins.",
+    "start_time": 54.0,
+    "end_time": 62.5
+  },
+  {
+    "caption": "G. Payton II makes a reverse layup two-pointer, assisted by Stephen Curry.",
+    "start_time": 67.0,
+    "end_time": 75.5
+  },
+  {
+    "caption": "G. Payton II steals the ball from K. Sanders on a bad pass.",
+    "start_time": 90.5,
+    "end_time": 94.5
+  },
+  {
+    "caption": "Stephen Curry misses a jump shot three-pointer. Y. Niederhäuser grabs the defensive rebound after S. Curry's missed jump shot three-pointer.",
+    "start_time": 95.5,
+    "end_time": 102.5
+  },
+  {
+    "caption": "Y. Niederhäuser misses a jump shot three-pointer. Draymond Green grabs the defensive rebound after Y. Niederhäuser's missed jump shot three-pointer.",
+    "start_time": 105.5,
+    "end_time": 112.5
+  },
+  {
+    "caption": "B. Hield misses a jump shot three-pointer. J. Miller grabs the defensive rebound after B. Hield's missed jump shot three-pointer.",
+    "start_time": 117.5,
+    "end_time": 124.5
+  },
+  {
+    "caption": "B. Hield steals the ball from J. Miller on a bad pass.",
+    "start_time": 126.5,
+    "end_time": 130.5
+  },
+  {
+    "caption": "Draymond Green makes a running layup two-pointer, assisted by Al Horford.",
+    "start_time": 128.0,
+    "end_time": 136.5
+  },
+  {
+    "caption": "B. Beal is called for a bad pass out-of-bounds turnover.",
+    "start_time": 329.0,
+    "end_time": 332.0
+  },
+  {
+    "caption": "Al Horford misses a jump shot three-pointer. J. Miller grabs the defensive rebound after A. Horford's missed jump shot three-pointer.",
+    "start_time": 343.5,
+    "end_time": 350.5
+  },
+  {
+    "caption": "J. Collins misses a jump shot three-pointer.",
+    "start_time": 355.5,
+    "end_time": 362.5
+  },
+  {
+    "caption": "B. Bogdanović commits a personal foul.",
+    "start_time": 358.5,
+    "end_time": 361.5
+  },
+  {
+    "caption": "W. Richard misses a reverse layup two-pointer. I. Zubac grabs the defensive rebound after W. Richard's missed reverse layup two-pointer.",
+    "start_time": 389.0,
+    "end_time": 396.0
+  },
+  {
+    "caption": "B. Bogdanović misses a jump shot three-pointer.",
+    "start_time": 401.0,
+    "end_time": 408.0
+  },
+  {
+    "caption": "G. Payton II commits a personal foul.",
+    "start_time": 406.0,
+    "end_time": 409.0
+  },
+  {
+    "caption": "Draymond Green steals the ball from Bradley Beal on a bad pass.",
+    "start_time": 444.5,
+    "end_time": 448.5
+  },
+  {
+    "caption": "G. Payton II misses a jump shot three-pointer. I. Zubac grabs the defensive rebound after G. Payton II's missed three-pointer.",
+    "start_time": 452.5,
+    "end_time": 459.5
+  },
+  {
+    "caption": "J. Collins misses a driving layup two-pointer. G. Payton II grabs the defensive rebound after J. Collins' missed driving layup two-pointer.",
+    "start_time": 463.5,
+    "end_time": 470.5
+  },
+  {
+    "caption": "W. Richard misses a running three-pointer.",
+    "start_time": 469.5,
+    "end_time": 476.5
+  },
+  {
+    "caption": "I. Zubac commits a personal foul.",
+    "start_time": 472.5,
+    "end_time": 475.5
+  },
+  {
+    "caption": "W. Richard makes a cutting dunk two-pointer, assisted by Draymond Green.",
+    "start_time": 503.0,
+    "end_time": 511.5
+  },
+  {
+    "caption": "B. Beal makes a pullup two-pointer. Draymond Green commits a personal foul.",
+    "start_time": 518.0,
+    "end_time": 550.5
+  },
+  {
+    "caption": "Steph Curry's jump shot two-pointer is blocked by Bradley Beal. B. Beal blocks S. Curry's jump shot two-pointer. J. Miller grabs the defensive rebound after Stephen Curry's jump shot two-pointer is blocked.",
+    "start_time": 539.5,
+    "end_time": 544.5
+  },
+  {
+    "caption": "Al Horford misses a jump shot three-pointer. G. Payton II grabs the offensive rebound after Al Horford's missed three-pointer.",
+    "start_time": 811.0,
+    "end_time": 818.0
+  },
+  {
+    "caption": "W. Richard misses a jump shot three-pointer. B. Beal grabs the defensive rebound after W. Richard's missed three-pointer.",
+    "start_time": 818.0,
+    "end_time": 825.0
+  },
+  {
+    "caption": "Al Horford is called for a kicked ball violation.",
+    "start_time": 829.0,
+    "end_time": 832.0
+  },
+  {
+    "caption": "W. Richard steals the ball from I. Zubac on a lost ball.",
+    "start_time": 849.0,
+    "end_time": 853.0
+  },
+  {
+    "caption": "W. Richard misses a running layup two-pointer. K. Brown grabs the defensive rebound after W. Richard's missed running layup two-pointer.",
+    "start_time": 852.0,
+    "end_time": 859.0
+  },
+  {
+    "caption": "B. Beal misses a jump shot three-pointer. G. Payton II grabs the defensive rebound after B. Beal's missed jump shot three-pointer.",
+    "start_time": 872.0,
+    "end_time": 879.0
+  },
+  {
+    "caption": "J. Miller steals the ball from B. Podziemski on a lost ball.",
+    "start_time": 881.0,
+    "end_time": 885.0
+  },
+  {
+    "caption": "J. Miller misses a floating two-pointer. J. Miller grabs the offensive rebound after missing his floating two-pointer. J. Miller misses a putback layup two-pointer.",
+    "start_time": 888.0,
+    "end_time": 898.0
+  },
+  {
+    "caption": "K. Brown commits a personal foul.",
+    "start_time": 908.0,
+    "end_time": 911.0
+  },
+  {
+    "caption": "B. Podziemski misses a pullup two-pointer. P. Spencer grabs the offensive rebound after B. Podziemski's missed pullup two-pointer.",
+    "start_time": 942.0,
+    "end_time": 949.0
+  },
+  {
+    "caption": "G. Santos makes a jump shot three-pointer, assisted by B. Podziemski.",
+    "start_time": 945.5,
+    "end_time": 954.0
+  },
+  {
+    "caption": "B. Bogdanović makes a floating jump shot two-pointer.",
+    "start_time": 962.5,
+    "end_time": 971.0
+  },
+  {
+    "caption": "W. Richard misses a jump shot three-pointer. K. Brown grabs the defensive rebound after W. Richard's missed jump shot three-pointer.",
+    "start_time": 988.0,
+    "end_time": 995.0
+  },
+  {
+    "caption": "G. Santos commits a personal foul.",
+    "start_time": 1003.0,
+    "end_time": 1006.0
+  },
+  {
+    "caption": "I. Zubac steals the ball from P. Spencer on a bad pass.",
+    "start_time": 1046.5,
+    "end_time": 1050.5
+  },
+  {
+    "caption": "I. Zubac is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1051.0,
+    "end_time": 1054.0
+  },
+  {
+    "caption": "T. Jackson-Davis commits an offensive foul.",
+    "start_time": 1098.5,
+    "end_time": 1101.5
+  },
+  {
+    "caption": "K. Sanders misses a jump shot three-pointer. G. Santos grabs the defensive rebound after K. Sanders' missed jump shot three-pointer.",
+    "start_time": 1129.5,
+    "end_time": 1136.5
+  },
+  {
+    "caption": "Stephen Curry misses a jump shot three-pointer. K. Brown grabs the defensive rebound after S. Curry's missed jump shot three-pointer.",
+    "start_time": 1140.5,
+    "end_time": 1147.5
+  },
+  {
+    "caption": "K. Brown commits an offensive foul.",
+    "start_time": 1146.5,
+    "end_time": 1149.5
+  },
+  {
+    "caption": "B. Bogdanović is called for a kicked ball violation.",
+    "start_time": 1182.0,
+    "end_time": 1185.0
+  },
+  {
+    "caption": "T. Jackson-Davis makes a jump shot two-pointer, assisted by P. Spencer.",
+    "start_time": 1202.5,
+    "end_time": 1211.0
+  },
+  {
+    "caption": "B. Beal makes a layup two-pointer, assisted by I. Zubac.",
+    "start_time": 1218.5,
+    "end_time": 1227.0
+  },
+  {
+    "caption": "D. Green misses a jump shot three-pointer. I. Zubac grabs the defensive rebound after D. Green's missed jump shot three-pointer.",
+    "start_time": 1229.0,
+    "end_time": 1236.0
+  },
+  {
+    "caption": "P. Spencer steals the ball from I. Zubac on a bad pass.",
+    "start_time": 1238.0,
+    "end_time": 1242.0
+  },
+  {
+    "caption": "K. Brown commits a personal foul.",
+    "start_time": 1243.0,
+    "end_time": 1247.0
+  },
+  {
+    "caption": "K. Brown is called for a traveling violation.",
+    "start_time": 1315.0,
+    "end_time": 1318.0
+  },
+  {
+    "caption": "P. Spencer misses a floating two-pointer. K. Sanders grabs the defensive rebound after P. Spencer's missed floating two-pointer.",
+    "start_time": 1346.5,
+    "end_time": 1353.5
+  },
+  {
+    "caption": "K. Brown misses a jump shot two-pointer. P. Spencer grabs the defensive rebound after K. Brown's missed jump shot two-pointer.",
+    "start_time": 1492.5,
+    "end_time": 1499.5
+  },
+  {
+    "caption": "Stephen Curry misses a jump shot two-pointer. K. Brown grabs the defensive rebound after S. Curry's missed jump shot two-pointer.",
+    "start_time": 1502.5,
+    "end_time": 1509.5
+  },
+  {
+    "caption": "I. Zubac's layup two-pointer is blocked by S. Curry. Stephen Curry blocks Ivica Zubac's driving layup two-pointer. B. Podziemski grabs the defensive rebound after I. Zubac's missed layup two-pointer.",
+    "start_time": 1517.0,
+    "end_time": 1522.0
+  },
+  {
+    "caption": "Stephen Curry makes a running three-pointer, assisted by Patrick Spencer.",
+    "start_time": 1522.0,
+    "end_time": 1530.5
+  },
+  {
+    "caption": "J. Miller is called for a traveling violation.",
+    "start_time": 1539.0,
+    "end_time": 1542.0
+  },
+  {
+    "caption": "Stephen Curry makes a driving layup two-pointer.",
+    "start_time": 1554.0,
+    "end_time": 1562.5
+  },
+  {
+    "caption": "K. Sanders misses a step back three-pointer. P. Spencer grabs the defensive rebound after K. Sanders' missed jump shot three-pointer.",
+    "start_time": 1581.95,
+    "end_time": 1588.95
+  },
+  {
+    "caption": "B. Podziemski makes a driving layup two-pointer, assisted by P. Spencer.",
+    "start_time": 1587.45,
+    "end_time": 1595.95
+  },
+  {
+    "caption": "K. Brown makes a jump shot three-pointer, assisted by B. Bogdanović.",
+    "start_time": 1608.05,
+    "end_time": 1616.55
+  },
+  {
+    "caption": "Draymond Green makes a driving layup two-pointer.",
+    "start_time": 1625.15,
+    "end_time": 1633.65
+  }
+]

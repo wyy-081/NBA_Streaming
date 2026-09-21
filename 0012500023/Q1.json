@@ -1,0 +1,297 @@
+[
+  {
+    "caption": "D. Bane is called for a palming violation.",
+    "start_time": 24.0,
+    "end_time": 27.0
+  },
+  {
+    "caption": "J. Poole misses a jump shot three-pointer. P. Banchero grabs the defensive rebound after J. Poole's missed three-pointer.",
+    "start_time": 42.5,
+    "end_time": 49.5
+  },
+  {
+    "caption": "T. Murphy III commits a personal foul.",
+    "start_time": 52.5,
+    "end_time": 56.5
+  },
+  {
+    "caption": "H. Jones misses a jump shot two-pointer. T. Jones grabs the defensive rebound after H. Jones's missed jump shot two-pointer.",
+    "start_time": 106.0,
+    "end_time": 113.0
+  },
+  {
+    "caption": "P. Banchero misses a jump shot two-pointer. H. Jones grabs the defensive rebound after P. Banchero's missed jump shot two-pointer.",
+    "start_time": 119.0,
+    "end_time": 126.0
+  },
+  {
+    "caption": "D. Bane commits a personal foul.",
+    "start_time": 137.0,
+    "end_time": 140.0
+  },
+  {
+    "caption": "T. Murphy III makes a step back three-pointer, assisted by Z. Williamson.",
+    "start_time": 164.0,
+    "end_time": 172.5
+  },
+  {
+    "caption": "P. Banchero makes a jump shot three-pointer, assisted by F. Wagner.",
+    "start_time": 183.0,
+    "end_time": 191.5
+  },
+  {
+    "caption": "T. Murphy III misses a turnaround two-pointer. W. Carter Jr. grabs the defensive rebound after T. Murphy III's missed turnaround two-pointer.",
+    "start_time": 210.5,
+    "end_time": 217.5
+  },
+  {
+    "caption": "H. Jones steals the ball from P. Banchero on a bad pass.",
+    "start_time": 231.5,
+    "end_time": 235.5
+  },
+  {
+    "caption": "T. Murphy III makes a running layup two-pointer, assisted by Z. Williamson.",
+    "start_time": 232.0,
+    "end_time": 240.5
+  },
+  {
+    "caption": "W. Carter Jr. makes a jump shot two-pointer, assisted by F. Wagner.",
+    "start_time": 245.0,
+    "end_time": 253.5
+  },
+  {
+    "caption": "T. Murphy III misses a step back three-pointer. P. Banchero grabs the defensive rebound after T. Murphy III's missed jump shot three-pointer.",
+    "start_time": 258.5,
+    "end_time": 265.5
+  },
+  {
+    "caption": "P. Banchero makes a driving layup two-pointer.",
+    "start_time": 262.0,
+    "end_time": 270.5
+  },
+  {
+    "caption": "Y. Missi's driving floating two-pointer is blocked by P. Banchero. P. Banchero blocks Y. Missi's jump shot two-pointer. Y. Missi grabs the offensive rebound after missing his driving floating two-pointer.",
+    "start_time": 280.5,
+    "end_time": 285.5
+  },
+  {
+    "caption": "Y. Missi makes a turnaround hook two-pointer.",
+    "start_time": 284.0,
+    "end_time": 292.5
+  },
+  {
+    "caption": "Z. Williamson makes a jump shot two-pointer. H. Jones commits a personal foul.",
+    "start_time": 313.0,
+    "end_time": 326.5
+  },
+  {
+    "caption": "Z. Williamson commits an offensive foul.",
+    "start_time": 388.5,
+    "end_time": 391.5
+  },
+  {
+    "caption": "T. Jones misses a driving floating two-pointer. Y. Missi grabs the defensive rebound after T. Jones's missed driving floating two-pointer.",
+    "start_time": 425.5,
+    "end_time": 432.5
+  },
+  {
+    "caption": "F. Wagner makes a running layup two-pointer.",
+    "start_time": 447.0,
+    "end_time": 455.5
+  },
+  {
+    "caption": "F. Wagner steals the ball from T. Murphy III on a bad pass.",
+    "start_time": 447.5,
+    "end_time": 451.5
+  },
+  {
+    "caption": "Z. Williamson's alley-oop dunk two-pointer is blocked by Draymond Green. P. Banchero grabs the defensive rebound after Z. Williamson's missed dunk two-pointer.",
+    "start_time": 459.5,
+    "end_time": 466.5
+  },
+  {
+    "caption": "F. Wagner misses a jump shot three-pointer. Y. Missi grabs the defensive rebound after F. Wagner's missed jump shot three-pointer.",
+    "start_time": 476.5,
+    "end_time": 483.5
+  },
+  {
+    "caption": "J. Poole misses a pullup three-pointer. P. Banchero grabs the defensive rebound after J. Poole's missed jump shot three-pointer.",
+    "start_time": 481.5,
+    "end_time": 488.5
+  },
+  {
+    "caption": "F. Wagner makes a running layup two-pointer.",
+    "start_time": 485.0,
+    "end_time": 493.5
+  },
+  {
+    "caption": "M. Peavy misses a jump shot three-pointer. J. Isaac grabs the defensive rebound after M. Peavy's missed jump shot three-pointer.",
+    "start_time": 690.5,
+    "end_time": 697.5
+  },
+  {
+    "caption": "H. Jones steals the ball from P. Banchero on a lost ball.",
+    "start_time": 709.5,
+    "end_time": 713.5
+  },
+  {
+    "caption": "D. Bane commits a personal foul.",
+    "start_time": 715.5,
+    "end_time": 718.5
+  },
+  {
+    "caption": "M. Peavy commits a personal foul.",
+    "start_time": 775.5,
+    "end_time": 779.5
+  },
+  {
+    "caption": "T. Murphy III misses a jump shot three-pointer. M. Peavy grabs the offensive rebound after T. Murphy III's missed three-pointer.",
+    "start_time": 825.5,
+    "end_time": 832.5
+  },
+  {
+    "caption": "T. Murphy III misses a cutting layup two-pointer. J. Isaac grabs the defensive rebound after T. Murphy III's missed layup two-pointer.",
+    "start_time": 830.5,
+    "end_time": 837.5
+  },
+  {
+    "caption": "A. Black misses a jump shot three-pointer. T. Murphy III grabs the defensive rebound after A. Black's missed jump shot three-pointer.",
+    "start_time": 841.5,
+    "end_time": 848.5
+  },
+  {
+    "caption": "J. Fears makes a running three-pointer, assisted by M. Peavy.",
+    "start_time": 846.0,
+    "end_time": 854.5
+  },
+  {
+    "caption": "D. Bane misses a pullup three-pointer. W. Carter Jr. grabs the offensive rebound after D. Bane's missed pullup three-pointer.",
+    "start_time": 862.5,
+    "end_time": 869.5
+  },
+  {
+    "caption": "Y. Missi commits a shooting personal foul.",
+    "start_time": 874.5,
+    "end_time": 878.5
+  },
+  {
+    "caption": "H. Jones misses a pullup two-pointer. W. Carter Jr. grabs the defensive rebound after H. Jones's missed pullup two-pointer.",
+    "start_time": 948.5,
+    "end_time": 955.5
+  },
+  {
+    "caption": "P. Banchero makes a driving layup two-pointer.",
+    "start_time": 962.0,
+    "end_time": 970.5
+  },
+  {
+    "caption": "J. Fears misses a pullup two-pointer. P. Banchero grabs the defensive rebound after J. Fears' missed pullup two-pointer.",
+    "start_time": 972.5,
+    "end_time": 979.5
+  },
+  {
+    "caption": "J. Isaac makes an alley-oop dunk two-pointer, assisted by W. Carter Jr.",
+    "start_time": 985.0,
+    "end_time": 993.5
+  },
+  {
+    "caption": "A. Black commits a personal foul.",
+    "start_time": 1005.5,
+    "end_time": 1008.5
+  },
+  {
+    "caption": "J. Hawkins misses a jump shot three-pointer. T. da Silva grabs the defensive rebound after J. Hawkins' missed jump shot three-pointer.",
+    "start_time": 1044.5,
+    "end_time": 1051.5
+  },
+  {
+    "caption": "J. Howard makes a jump shot three-pointer, assisted by W. Carter Jr.",
+    "start_time": 1057.0,
+    "end_time": 1065.5
+  },
+  {
+    "caption": "J. Fears is called for a traveling violation.",
+    "start_time": 1071.0,
+    "end_time": 1074.0
+  },
+  {
+    "caption": "J. Isaac makes a turnaround two-pointer, assisted by W. Carter Jr.",
+    "start_time": 1092.5,
+    "end_time": 1101.0
+  },
+  {
+    "caption": "J. Fears misses a jump shot three-pointer. H. Dickinson grabs the offensive rebound after J. Fears's missed jump shot three-pointer. H. Dickinson's putback layup two-pointer is blocked by J. Isaac.",
+    "start_time": 1105.0,
+    "end_time": 1116.0
+  },
+  {
+    "caption": "H. Dickinson's putback layup two-pointer is blocked by J. Isaac. J. Isaac blocks H. Dickinson's layup two-pointer. J. Isaac grabs the defensive rebound after H. Dickinson's missed putback layup two-pointer.",
+    "start_time": 1109.0,
+    "end_time": 1114.0
+  },
+  {
+    "caption": "Z. Williamson steals the ball from J. Isaac on a bad pass.",
+    "start_time": 1113.0,
+    "end_time": 1117.0
+  },
+  {
+    "caption": "Z. Williamson commits an offensive charge foul.",
+    "start_time": 1115.0,
+    "end_time": 1118.0
+  },
+  {
+    "caption": "J. Isaac misses a jump shot three-pointer.",
+    "start_time": 1316.0,
+    "end_time": 1323.0
+  },
+  {
+    "caption": "J. Howard misses a driving layup two-pointer. Z. Williamson grabs the defensive rebound after J. Howard's missed driving layup two-pointer.",
+    "start_time": 1344.5,
+    "end_time": 1351.5
+  },
+  {
+    "caption": "M. Peavy is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1351.5,
+    "end_time": 1354.5
+  },
+  {
+    "caption": "F. Wagner makes a pullup three-pointer.",
+    "start_time": 1411.5,
+    "end_time": 1420.0
+  },
+  {
+    "caption": "M. Peavy makes a reverse layup two-pointer, assisted by Z. Williamson.",
+    "start_time": 1429.5,
+    "end_time": 1438.0
+  },
+  {
+    "caption": "F. Wagner makes a running layup two-pointer, assisted by T. da Silva.",
+    "start_time": 1435.5,
+    "end_time": 1444.0
+  },
+  {
+    "caption": "J. Fears makes a driving layup two-pointer, assisted by Z. Williamson.",
+    "start_time": 1456.95,
+    "end_time": 1465.45
+  },
+  {
+    "caption": "A. Black makes a jump shot three-pointer, assisted by J. Howard.",
+    "start_time": 1480.6,
+    "end_time": 1489.1
+  },
+  {
+    "caption": "Z. Williamson makes a driving layup two-pointer.",
+    "start_time": 1490.15,
+    "end_time": 1498.65
+  },
+  {
+    "caption": "T. da Silva misses a layup two-pointer. G. Bitadze grabs the offensive rebound after T. da Silva's missed layup two-pointer. G. Bitadze makes a putback layup two-pointer.",
+    "start_time": 1501.85,
+    "end_time": 1509.65
+  },
+  {
+    "caption": "Z. Williamson makes a pullup two-pointer.",
+    "start_time": 1524.4,
+    "end_time": 1532.9
+  }
+]
