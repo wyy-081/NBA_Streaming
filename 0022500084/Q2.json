@@ -1,0 +1,317 @@
+[
+  {
+    "caption": "A. Thompson makes a pullup two-pointer, assisted by R. Holland II.",
+    "start_time": 12.5,
+    "end_time": 21.0
+  },
+  {
+    "caption": "M. Buzelis makes a cutting dunk two-pointer, assisted by J. Smith.",
+    "start_time": 23.5,
+    "end_time": 32.0
+  },
+  {
+    "caption": "P. Williams steals the ball from R. Holland II on a lost ball.",
+    "start_time": 44.0,
+    "end_time": 48.0
+  },
+  {
+    "caption": "A. Dosunmu makes a jump shot three-pointer, assisted by T. Jones.",
+    "start_time": 46.5,
+    "end_time": 55.0
+  },
+  {
+    "caption": "D. Robinson misses a driving floating two-pointer. P. Williams grabs the defensive rebound after D. Robinson's missed driving floating two-pointer.",
+    "start_time": 67.0,
+    "end_time": 74.0
+  },
+  {
+    "caption": "M. Buzelis loses the ball out-of-bounds.",
+    "start_time": 72.0,
+    "end_time": 75.0
+  },
+  {
+    "caption": "J. Smith commits a personal foul.",
+    "start_time": 99.0,
+    "end_time": 102.0
+  },
+  {
+    "caption": "A. Thompson makes a cutting dunk two-pointer, assisted by C. Cunningham.",
+    "start_time": 125.5,
+    "end_time": 134.0
+  },
+  {
+    "caption": "A. Thompson commits a personal foul.",
+    "start_time": 141.0,
+    "end_time": 144.0
+  },
+  {
+    "caption": "J. Smith misses a jump shot three-pointer. R. Holland II grabs the defensive rebound after J. Smith's missed jump shot three-pointer.",
+    "start_time": 168.0,
+    "end_time": 175.0
+  },
+  {
+    "caption": "J. Duren misses a jump shot two-pointer. J. Smith grabs the defensive rebound after J. Duren's missed jump shot two-pointer.",
+    "start_time": 179.0,
+    "end_time": 186.0
+  },
+  {
+    "caption": "A. Thompson steals the ball from P. Williams on a lost ball.",
+    "start_time": 189.0,
+    "end_time": 193.0
+  },
+  {
+    "caption": "R. Holland II makes a running dunk two-pointer, assisted by C. Cunningham.",
+    "start_time": 190.5,
+    "end_time": 199.0
+  },
+  {
+    "caption": "R. Holland II commits a personal foul.",
+    "start_time": 388.0,
+    "end_time": 391.0
+  },
+  {
+    "caption": "J. Smith misses a jump shot three-pointer.",
+    "start_time": 418.0,
+    "end_time": 425.0
+  },
+  {
+    "caption": "I. Okoro commits a personal foul.",
+    "start_time": 421.0,
+    "end_time": 424.0
+  },
+  {
+    "caption": "R. Holland II misses a jump shot three-pointer. K. Huerter grabs the defensive rebound after R. Holland II's missed jump shot three-pointer.",
+    "start_time": 452.5,
+    "end_time": 459.5
+  },
+  {
+    "caption": "M. Buzelis makes a running jump shot two-pointer, assisted by J. Giddey.",
+    "start_time": 457.0,
+    "end_time": 465.5
+  },
+  {
+    "caption": "C. Cunningham commits an offensive charge foul.",
+    "start_time": 484.5,
+    "end_time": 487.5
+  },
+  {
+    "caption": "I. Okoro commits an offensive foul.",
+    "start_time": 533.0,
+    "end_time": 536.0
+  },
+  {
+    "caption": "C. Cunningham misses a driving floating two-pointer. I. Okoro grabs the defensive rebound after C. Cunningham's missed driving floating two-pointer.",
+    "start_time": 748.0,
+    "end_time": 755.0
+  },
+  {
+    "caption": "J. Giddey makes a jump shot two-pointer. M. Buzelis commits a shooting personal foul.",
+    "start_time": 753.5,
+    "end_time": 772.0
+  },
+  {
+    "caption": "K. Huerter grabs the defensive rebound.",
+    "start_time": 828.5,
+    "end_time": 833.5
+  },
+  {
+    "caption": "K. Huerter misses a jump shot three-pointer. A. Thompson grabs the defensive rebound after K. Huerter's missed three-pointer.",
+    "start_time": 852.5,
+    "end_time": 859.5
+  },
+  {
+    "caption": "C. Cunningham makes a driving layup two-pointer, assisted by A. Thompson.",
+    "start_time": 857.0,
+    "end_time": 865.5
+  },
+  {
+    "caption": "K. Huerter misses a driving layup two-pointer. N. Vučević grabs the offensive rebound after K. Huerter's missed driving layup two-pointer. N. Vučević's tip layup two-pointer is missed.",
+    "start_time": 876.5,
+    "end_time": 887.5
+  },
+  {
+    "caption": "A. Thompson grabs the defensive rebound.",
+    "start_time": 881.5,
+    "end_time": 887.5
+  },
+  {
+    "caption": "D. Robinson misses a jump shot three-pointer. K. Huerter grabs the defensive rebound after D. Robinson's missed jump shot three-pointer.",
+    "start_time": 888.5,
+    "end_time": 895.5
+  },
+  {
+    "caption": "K. Huerter makes a jump shot three-pointer, assisted by J. Giddey.",
+    "start_time": 891.0,
+    "end_time": 899.5
+  },
+  {
+    "caption": "C. Cunningham is called for a bad pass out-of-bounds turnover.",
+    "start_time": 895.5,
+    "end_time": 898.5
+  },
+  {
+    "caption": "J. Giddey makes a layup two-pointer.",
+    "start_time": 1058.5,
+    "end_time": 1067.0
+  },
+  {
+    "caption": "C. LeVert makes a jump shot three-pointer, assisted by C. Cunningham.",
+    "start_time": 1091.5,
+    "end_time": 1100.0
+  },
+  {
+    "caption": "A. Dosunmu makes a cutting layup two-pointer, assisted by N. Vučević.",
+    "start_time": 1105.5,
+    "end_time": 1114.0
+  },
+  {
+    "caption": "C. LeVert misses a jump shot three-pointer. A. Dosunmu grabs the defensive rebound after C. LeVert's missed three-pointer.",
+    "start_time": 1115.0,
+    "end_time": 1122.0
+  },
+  {
+    "caption": "N. Vučević makes a jump shot three-pointer, assisted by A. Dosunmu. I. Okoro commits a shooting personal foul.",
+    "start_time": 1149.5,
+    "end_time": 1168.0
+  },
+  {
+    "caption": "A. Dosunmu misses a driving dunk two-pointer. T. Harris grabs the defensive rebound after A. Dosunmu's missed driving dunk two-pointer.",
+    "start_time": 1226.5,
+    "end_time": 1233.5
+  },
+  {
+    "caption": "D. Robinson misses a jump shot three-pointer. N. Vučević grabs the defensive rebound after D. Robinson's missed three-pointer.",
+    "start_time": 1236.5,
+    "end_time": 1243.5
+  },
+  {
+    "caption": "N. Vučević misses a jump shot three-pointer. T. Harris grabs the defensive rebound after N. Vučević's missed jump shot three-pointer.",
+    "start_time": 1245.5,
+    "end_time": 1252.5
+  },
+  {
+    "caption": "I. Stewart makes a cutting dunk two-pointer, assisted by T. Harris.",
+    "start_time": 1257.333333,
+    "end_time": 1265.833333
+  },
+  {
+    "caption": "T. Jones makes a driving layup two-pointer.",
+    "start_time": 1275.0,
+    "end_time": 1283.5
+  },
+  {
+    "caption": "T. Harris makes a jump shot three-pointer, assisted by C. Cunningham.",
+    "start_time": 1287.0,
+    "end_time": 1295.5
+  },
+  {
+    "caption": "C. Cunningham commits a personal foul.",
+    "start_time": 1299.5,
+    "end_time": 1302.5
+  },
+  {
+    "caption": "R. Holland II commits a personal foul.",
+    "start_time": 1335.5,
+    "end_time": 1339.5
+  },
+  {
+    "caption": "R. Holland II makes a driving layup two-pointer.",
+    "start_time": 1409.0,
+    "end_time": 1417.5
+  },
+  {
+    "caption": "J. Giddey misses a driving floating two-pointer. I. Stewart grabs the defensive rebound after J. Giddey's missed driving floating two-pointer.",
+    "start_time": 1420.5,
+    "end_time": 1427.5
+  },
+  {
+    "caption": "A. Dosunmu is called for a kicked ball violation.",
+    "start_time": 1434.5,
+    "end_time": 1437.5
+  },
+  {
+    "caption": "A. Thompson makes a driving finger roll two-pointer. N. Vučević commits a shooting personal foul.",
+    "start_time": 1456.5,
+    "end_time": 1465.0
+  },
+  {
+    "caption": "N. Vučević grabs the defensive rebound.",
+    "start_time": 1491.0,
+    "end_time": 1496.0
+  },
+  {
+    "caption": "J. Giddey misses a pullup two-pointer. N. Vučević grabs the offensive rebound after J. Giddey's missed pullup two-pointer.",
+    "start_time": 1502.0,
+    "end_time": 1509.0
+  },
+  {
+    "caption": "A. Dosunmu makes a driving layup two-pointer, assisted by M. Buzelis.",
+    "start_time": 1505.5,
+    "end_time": 1514.0
+  },
+  {
+    "caption": "T. Harris makes a layup two-pointer, assisted by I. Stewart. J. Giddey commits a shooting personal foul.",
+    "start_time": 1519.5,
+    "end_time": 1528.0
+  },
+  {
+    "caption": "J. Giddey steps out-of-bounds.",
+    "start_time": 1567.5,
+    "end_time": 1570.5
+  },
+  {
+    "caption": "A. Thompson misses a driving floating two-pointer. A. Dosunmu grabs the defensive rebound after A. Thompson's missed driving floating two-pointer.",
+    "start_time": 1587.5,
+    "end_time": 1594.5
+  },
+  {
+    "caption": "D. Robinson commits a personal foul.",
+    "start_time": 1593.5,
+    "end_time": 1596.5
+  },
+  {
+    "caption": "T. Jones steals the ball from D. Robinson on a bad pass.",
+    "start_time": 1679.0,
+    "end_time": 1683.0
+  },
+  {
+    "caption": "A. Dosunmu misses a jump shot three-pointer.",
+    "start_time": 1682.0,
+    "end_time": 1689.0
+  },
+  {
+    "caption": "M. Buzelis commits a personal foul.",
+    "start_time": 1685.0,
+    "end_time": 1688.0
+  },
+  {
+    "caption": "T. Jones' driving layup two-pointer is blocked by R. Holland II. R. Holland II blocks T. Jones's layup two-pointer. R. Holland II grabs the defensive rebound after T. Jones' missed driving layup two-pointer.",
+    "start_time": 1745.0,
+    "end_time": 1750.0
+  },
+  {
+    "caption": "D. Robinson misses a running three-pointer. A. Thompson commits a personal foul.",
+    "start_time": 1748.0,
+    "end_time": 1792.8
+  },
+  {
+    "caption": "I. Stewart makes a cutting layup two-pointer, assisted by R. Holland II.",
+    "start_time": 1844.4,
+    "end_time": 1852.9
+  },
+  {
+    "caption": "T. Harris steals the ball from N. Vučević on a bad pass.",
+    "start_time": 1860.85,
+    "end_time": 1864.85
+  },
+  {
+    "caption": "A. Thompson misses a fadeaway two-pointer. N. Vučević grabs the defensive rebound after A. Thompson's missed jump shot two-pointer.",
+    "start_time": 1876.95,
+    "end_time": 1883.95
+  },
+  {
+    "caption": "A. Dosunmu misses a driving layup two-pointer. A. Thompson grabs the defensive rebound after A. Dosunmu's missed driving layup two-pointer.",
+    "start_time": 1890.65,
+    "end_time": 1897.65
+  }
+]

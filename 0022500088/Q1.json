@@ -1,0 +1,362 @@
+[
+  {
+    "caption": "Jump ball between O. Ighodaro and D. Eubanks, G. Allen recovers the tip.",
+    "start_time": 0.666667,
+    "end_time": 5.666667
+  },
+  {
+    "caption": "O. Ighodaro makes a cutting dunk two-pointer, assisted by G. Allen.",
+    "start_time": 10.0,
+    "end_time": 18.5
+  },
+  {
+    "caption": "Z. LaVine makes a cutting dunk two-pointer, assisted by D. DeRozan.",
+    "start_time": 29.0,
+    "end_time": 37.5
+  },
+  {
+    "caption": "D. Booker misses a pullup three-pointer. R. Dunn grabs the offensive rebound after D. Booker's missed jump shot three-pointer.",
+    "start_time": 44.5,
+    "end_time": 51.5
+  },
+  {
+    "caption": "R. Dunn misses a driving floating two-pointer. R. Dunn grabs the offensive rebound after missing his driving floating two-pointer.",
+    "start_time": 53.5,
+    "end_time": 60.5
+  },
+  {
+    "caption": "D. DeRozan commits a shooting personal foul.",
+    "start_time": 57.5,
+    "end_time": 61.5
+  },
+  {
+    "caption": "R. Dunn makes a tip layup two-pointer.",
+    "start_time": 95.5,
+    "end_time": 104.0
+  },
+  {
+    "caption": "R. Dunn grabs the offensive rebound.",
+    "start_time": 98.0,
+    "end_time": 103.0
+  },
+  {
+    "caption": "D. Brooks makes a running layup two-pointer.",
+    "start_time": 110.5,
+    "end_time": 119.0
+  },
+  {
+    "caption": "D. Brooks steals the ball from D. Schröder on a bad pass.",
+    "start_time": 111.0,
+    "end_time": 115.0
+  },
+  {
+    "caption": "D. Eubanks misses a layup two-pointer. O. Ighodaro grabs the defensive rebound after D. Eubanks' missed layup two-pointer.",
+    "start_time": 133.0,
+    "end_time": 140.0
+  },
+  {
+    "caption": "G. Allen misses a jump shot three-pointer. D. Eubanks grabs the defensive rebound after G. Allen's missed three-pointer.",
+    "start_time": 141.0,
+    "end_time": 148.0
+  },
+  {
+    "caption": "D. DeRozan makes a turnaround two-pointer. D. Booker commits a personal foul.",
+    "start_time": 149.5,
+    "end_time": 158.0
+  },
+  {
+    "caption": "R. Dunn grabs the defensive rebound.",
+    "start_time": 183.5,
+    "end_time": 188.5
+  },
+  {
+    "caption": "D. Brooks misses a driving layup two-pointer. N. Clifford grabs the defensive rebound after D. Brooks' missed driving layup two-pointer.",
+    "start_time": 190.5,
+    "end_time": 197.5
+  },
+  {
+    "caption": "D. Brooks steals the ball from N. Clifford on a bad pass.",
+    "start_time": 198.5,
+    "end_time": 202.5
+  },
+  {
+    "caption": "R. Dunn makes a running dunk two-pointer, assisted by D. Brooks.",
+    "start_time": 200.0,
+    "end_time": 208.5
+  },
+  {
+    "caption": "D. Schröder makes a pullup two-pointer.",
+    "start_time": 219.5,
+    "end_time": 228.0
+  },
+  {
+    "caption": "D. Booker is called for a traveling violation.",
+    "start_time": 242.5,
+    "end_time": 245.5
+  },
+  {
+    "caption": "G. Allen steals the ball from D. DeRozan on a bad pass.",
+    "start_time": 281.5,
+    "end_time": 285.5
+  },
+  {
+    "caption": "D. Schröder commits a personal foul.",
+    "start_time": 283.5,
+    "end_time": 286.5
+  },
+  {
+    "caption": "D. Booker makes a driving layup two-pointer.",
+    "start_time": 323.5,
+    "end_time": 332.0
+  },
+  {
+    "caption": "D. Eubanks is called for a bad pass out-of-bounds turnover.",
+    "start_time": 341.0,
+    "end_time": 344.0
+  },
+  {
+    "caption": "D. Brooks misses a pullup three-pointer. G. Allen grabs the offensive rebound after D. Brooks' missed jump shot three-pointer.",
+    "start_time": 366.5,
+    "end_time": 373.5
+  },
+  {
+    "caption": "D. Brooks misses a pullup two-pointer.",
+    "start_time": 379.5,
+    "end_time": 386.5
+  },
+  {
+    "caption": "D. Schröder's driving layup two-pointer is blocked by R. Dunn. R. Dunn blocks D. Schröder's driving layup two-pointer.",
+    "start_time": 414.5,
+    "end_time": 419.5
+  },
+  {
+    "caption": "Z. LaVine makes a floating jump shot two-pointer, assisted by D. Schröder.",
+    "start_time": 430.5,
+    "end_time": 439.0
+  },
+  {
+    "caption": "N. Clifford steals the ball from D. Brooks on a lost ball.",
+    "start_time": 442.0,
+    "end_time": 446.0
+  },
+  {
+    "caption": "O. Ighodaro commits a shooting personal foul.",
+    "start_time": 450.0,
+    "end_time": 454.0
+  },
+  {
+    "caption": "D. Booker's driving layup two-pointer is blocked by D. Eubanks. D. Eubanks blocks D. Booker's layup two-pointer. N. Clifford grabs the defensive rebound after D. Booker's missed driving layup two-pointer.",
+    "start_time": 512.0,
+    "end_time": 517.0
+  },
+  {
+    "caption": "R. Dunn steals the ball from D. Schröder on a lost ball.",
+    "start_time": 524.0,
+    "end_time": 528.0
+  },
+  {
+    "caption": "D. Booker misses a running layup two-pointer. D. DeRozan grabs the defensive rebound after D. Booker's missed running layup two-pointer.",
+    "start_time": 526.0,
+    "end_time": 533.0
+  },
+  {
+    "caption": "D. Eubanks makes a tip dunk two-pointer.",
+    "start_time": 531.5,
+    "end_time": 540.0
+  },
+  {
+    "caption": "Zach LaVine misses a running pullup two-pointer. D. Eubanks grabs the offensive rebound after Z. LaVine's missed running pullup two-pointer.",
+    "start_time": 533.0,
+    "end_time": 540.0
+  },
+  {
+    "caption": "O. Ighodaro misses a floating two-pointer. O. Ighodaro grabs the offensive rebound after missing his floating two-pointer. O. Ighodaro misses a tip layup two-pointer.",
+    "start_time": 556.0,
+    "end_time": 565.0
+  },
+  {
+    "caption": "N. Clifford grabs the defensive rebound.",
+    "start_time": 559.0,
+    "end_time": 565.0
+  },
+  {
+    "caption": "D. DeRozan makes a running layup two-pointer, assisted by D. Schröder. D. Booker commits a personal foul.",
+    "start_time": 562.5,
+    "end_time": 571.0
+  },
+  {
+    "caption": "D. Brooks' driving layup two-pointer is blocked by D. Eubanks. D. Eubanks blocks D. Brooks's layup two-pointer.",
+    "start_time": 782.0,
+    "end_time": 787.0
+  },
+  {
+    "caption": "D. Schröder steals the ball from D. Booker on a bad pass.",
+    "start_time": 827.5,
+    "end_time": 831.5
+  },
+  {
+    "caption": "D. Schröder makes a driving layup two-pointer.",
+    "start_time": 833.0,
+    "end_time": 841.5
+  },
+  {
+    "caption": "D. Brooks misses a jump shot three-pointer. C. Gillespie grabs the offensive rebound after D. Brooks' missed jump shot three-pointer.",
+    "start_time": 843.5,
+    "end_time": 850.5
+  },
+  {
+    "caption": "D. Brooks misses a jump shot two-pointer. D. Šarić grabs the defensive rebound after D. Brooks' missed jump shot two-pointer.",
+    "start_time": 849.5,
+    "end_time": 856.5
+  },
+  {
+    "caption": "Zach LaVine misses a step back three-pointer. D. Booker grabs the defensive rebound after Z. LaVine's missed jump shot three-pointer.",
+    "start_time": 868.5,
+    "end_time": 875.5
+  },
+  {
+    "caption": "D. Schröder commits a personal foul.",
+    "start_time": 877.5,
+    "end_time": 880.5
+  },
+  {
+    "caption": "D. Brooks misses a turnaround two-pointer. D. Šarić grabs the defensive rebound after D. Brooks' missed jump shot.",
+    "start_time": 918.0,
+    "end_time": 925.0
+  },
+  {
+    "caption": "R. Westbrook's driving layup two-pointer is blocked by C. Gillespie. C. Gillespie blocks R. Westbrook's driving layup two-pointer.",
+    "start_time": 928.0,
+    "end_time": 933.0
+  },
+  {
+    "caption": "D. Brooks makes a fadeaway jump shot two-pointer.",
+    "start_time": 956.0,
+    "end_time": 964.5
+  },
+  {
+    "caption": "C. Gillespie steals the ball from R. Westbrook on a bad pass.",
+    "start_time": 973.5,
+    "end_time": 977.5
+  },
+  {
+    "caption": "C. Gillespie's running layup two-pointer is blocked by R. Westbrook. R. Westbrook blocks C. Gillespie's layup two-pointer.",
+    "start_time": 975.5,
+    "end_time": 980.5
+  },
+  {
+    "caption": "D. Brooks makes a cutting dunk two-pointer, assisted by R. O'Neale.",
+    "start_time": 980.5,
+    "end_time": 989.0
+  },
+  {
+    "caption": "Z. LaVine makes a reverse layup two-pointer.",
+    "start_time": 1012.5,
+    "end_time": 1021.0
+  },
+  {
+    "caption": "D. Booker misses a pullup two-pointer. M. Raynaud grabs the defensive rebound after D. Booker's missed pullup two-pointer.",
+    "start_time": 1025.0,
+    "end_time": 1032.0
+  },
+  {
+    "caption": "D. Brooks commits a personal foul.",
+    "start_time": 1036.0,
+    "end_time": 1039.0
+  },
+  {
+    "caption": "Zach LaVine misses a step-back three-pointer.",
+    "start_time": 1064.5,
+    "end_time": 1071.5
+  },
+  {
+    "caption": "Michael Monk makes a jump shot three-pointer, assisted by Zach LaVine.",
+    "start_time": 1087.5,
+    "end_time": 1096.0
+  },
+  {
+    "caption": "D. Brooks misses a step back jump shot. R. Westbrook grabs the defensive rebound after D. Brooks' missed jump shot two-pointer.",
+    "start_time": 1109.0,
+    "end_time": 1116.0
+  },
+  {
+    "caption": "R. Westbrook is called for a traveling violation.",
+    "start_time": 1116.5,
+    "end_time": 1119.5
+  },
+  {
+    "caption": "C. Gillespie misses a jump shot three-pointer. M. Raynaud grabs the defensive rebound after C. Gillespie's missed three-pointer.",
+    "start_time": 1140.5,
+    "end_time": 1147.5
+  },
+  {
+    "caption": "D. Booker is called for a kicked ball violation.",
+    "start_time": 1154.0,
+    "end_time": 1157.0
+  },
+  {
+    "caption": "M. Monk makes a driving floating two-pointer, assisted by R. Westbrook.",
+    "start_time": 1335.0,
+    "end_time": 1343.5
+  },
+  {
+    "caption": "M. Williams misses a layup two-pointer. M. Raynaud grabs the defensive rebound after M. Williams' missed layup two-pointer.",
+    "start_time": 1353.5,
+    "end_time": 1360.5
+  },
+  {
+    "caption": "R. Westbrook misses a pullup two-pointer. N. Hayes-Davis grabs the defensive rebound after R. Westbrook's missed pullup two-pointer.",
+    "start_time": 1368.5,
+    "end_time": 1375.5
+  },
+  {
+    "caption": "D. Booker makes a driving layup two-pointer.",
+    "start_time": 1388.0,
+    "end_time": 1396.5
+  },
+  {
+    "caption": "K. Ellis makes a pullup two-pointer.",
+    "start_time": 1404.0,
+    "end_time": 1412.5
+  },
+  {
+    "caption": "M. Williams makes a dunk two-pointer, assisted by C. Gillespie.",
+    "start_time": 1421.0,
+    "end_time": 1429.5
+  },
+  {
+    "caption": "M. Raynaud misses a cutting layup two-pointer. D. Šarić grabs the offensive rebound after M. Raynaud's missed layup two-pointer. D. Šarić's tip layup two-pointer is missed.",
+    "start_time": 1437.5,
+    "end_time": 1446.5
+  },
+  {
+    "caption": "M. Monk makes a pullup two-pointer.",
+    "start_time": 1469.75,
+    "end_time": 1478.25
+  },
+  {
+    "caption": "G. Allen misses a jump shot three-pointer. R. Westbrook grabs the defensive rebound after G. Allen's missed jump shot three-pointer.",
+    "start_time": 1485.4,
+    "end_time": 1492.4
+  },
+  {
+    "caption": "K. Ellis misses a running three-pointer. M. Williams grabs the defensive rebound after K. Ellis's missed running three-pointer.",
+    "start_time": 1493.8,
+    "end_time": 1500.8
+  },
+  {
+    "caption": "K. Ellis commits a personal foul.",
+    "start_time": 1506.85,
+    "end_time": 1510.85
+  },
+  {
+    "caption": "D. DeRozan makes a turnaround two-pointer.",
+    "start_time": 1560.35,
+    "end_time": 1568.85
+  },
+  {
+    "caption": "N. Hayes-Davis misses a jump shot three-pointer.",
+    "start_time": 1575.6,
+    "end_time": 1582.6
+  }
+]

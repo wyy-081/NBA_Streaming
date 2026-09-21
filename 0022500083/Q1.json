@@ -1,0 +1,272 @@
+[
+  {
+    "caption": "N. Queta makes a cutting layup two-pointer, assisted by D. White.",
+    "start_time": 18.5,
+    "end_time": 27.0
+  },
+  {
+    "caption": "K. Oubre Jr. makes a jump shot three-pointer, assisted by V. Edgecombe. T. Maxey commits a personal foul.",
+    "start_time": 40.5,
+    "end_time": 118.0
+  },
+  {
+    "caption": "J. Embiid misses a jump shot two-pointer. P. Pritchard grabs the defensive rebound after J. Embiid's missed jump shot two-pointer.",
+    "start_time": 126.0,
+    "end_time": 133.0
+  },
+  {
+    "caption": "D. White makes a pullup two-pointer. N. Queta commits a personal foul.",
+    "start_time": 137.5,
+    "end_time": 159.0
+  },
+  {
+    "caption": "D. White misses a pullup three-pointer. J. Embiid grabs the defensive rebound after D. White's missed jump shot three-pointer.",
+    "start_time": 216.5,
+    "end_time": 223.5
+  },
+  {
+    "caption": "J. Embiid misses a jump shot three-pointer. D. Barlow grabs the offensive rebound after J. Embiid's missed jump shot three-pointer.",
+    "start_time": 227.5,
+    "end_time": 234.5
+  },
+  {
+    "caption": "T. Maxey makes a jump shot three-pointer, assisted by D. Barlow.",
+    "start_time": 230.0,
+    "end_time": 238.5
+  },
+  {
+    "caption": "N. Queta makes a floating jump shot two-pointer, assisted by P. Pritchard.",
+    "start_time": 249.0,
+    "end_time": 257.5
+  },
+  {
+    "caption": "D. Barlow misses a jump shot three-pointer. N. Queta grabs the defensive rebound after D. Barlow's missed jump shot three-pointer.",
+    "start_time": 265.5,
+    "end_time": 272.5
+  },
+  {
+    "caption": "D. White's running layup two-pointer is blocked by D. Barlow. D. Barlow blocks D. White's layup two-pointer.",
+    "start_time": 273.5,
+    "end_time": 278.5
+  },
+  {
+    "caption": "Jump ball between D. Barlow and S. Hauser, V. Edgecombe recovers the tip.",
+    "start_time": 319.5,
+    "end_time": 324.5
+  },
+  {
+    "caption": "D. Barlow makes a running layup two-pointer, assisted by V. Edgecombe. X. Tillman commits a personal foul.",
+    "start_time": 321.0,
+    "end_time": 329.5
+  },
+  {
+    "caption": "X. Tillman misses a jump shot three-pointer. K. Oubre Jr. grabs the defensive rebound after X. Tillman's missed three-pointer.",
+    "start_time": 368.5,
+    "end_time": 375.5
+  },
+  {
+    "caption": "J. Embiid misses a jump shot three-pointer. J. Brown grabs the defensive rebound after J. Embiid's missed jump shot three-pointer.",
+    "start_time": 384.5,
+    "end_time": 391.5
+  },
+  {
+    "caption": "J. Brown makes a step back jump shot two-pointer.",
+    "start_time": 392.0,
+    "end_time": 400.5
+  },
+  {
+    "caption": "V. Edgecombe misses a jump shot three-pointer. J. Brown grabs the defensive rebound after V. Edgecombe's missed jump shot three-pointer.",
+    "start_time": 410.5,
+    "end_time": 417.5
+  },
+  {
+    "caption": "J. Brown misses a turnaround two-pointer. D. Barlow grabs the defensive rebound after J. Brown's missed turnaround two-pointer.",
+    "start_time": 421.5,
+    "end_time": 428.5
+  },
+  {
+    "caption": "T. Maxey misses a fadeaway two-pointer. J. Brown grabs the defensive rebound after T. Maxey's missed jump shot two-pointer.",
+    "start_time": 432.5,
+    "end_time": 439.5
+  },
+  {
+    "caption": "D. White makes a driving layup two-pointer, assisted by J. Brown.",
+    "start_time": 440.0,
+    "end_time": 448.5
+  },
+  {
+    "caption": "J. Embiid's jump shot two-pointer is blocked by X. Tillman. X. Tillman blocks J. Embiid's jump shot two-pointer. X. Tillman grabs the defensive rebound after J. Embiid's missed jump shot.",
+    "start_time": 469.5,
+    "end_time": 474.5
+  },
+  {
+    "caption": "X. Tillman makes a running layup two-pointer, assisted by J. Brown.",
+    "start_time": 473.0,
+    "end_time": 481.5
+  },
+  {
+    "caption": "V. Edgecombe misses a jump shot three-pointer. D. Barlow grabs the offensive rebound after V. Edgecombe's missed jump shot three-pointer.",
+    "start_time": 674.5,
+    "end_time": 681.5
+  },
+  {
+    "caption": "V. Edgecombe makes a driving dunk two-pointer, assisted by Q. Grimes.",
+    "start_time": 682.0,
+    "end_time": 690.5
+  },
+  {
+    "caption": "J. Brown makes a jump shot three-pointer, assisted by J. Minott.",
+    "start_time": 700.0,
+    "end_time": 708.5
+  },
+  {
+    "caption": "V. Edgecombe makes a jump shot three-pointer, assisted by T. Maxey.",
+    "start_time": 727.0,
+    "end_time": 735.5
+  },
+  {
+    "caption": "A. Simons misses a jump shot three-pointer. A. Bona grabs the defensive rebound after A. Simons' missed jump shot three-pointer.",
+    "start_time": 746.5,
+    "end_time": 753.5
+  },
+  {
+    "caption": "T. Maxey misses a driving layup two-pointer. X. Tillman grabs the defensive rebound after T. Maxey's missed driving layup two-pointer.",
+    "start_time": 768.5,
+    "end_time": 775.5
+  },
+  {
+    "caption": "P. Pritchard misses a running pullup three-pointer. J. Minott grabs the offensive rebound after P. Pritchard's missed three-pointer.",
+    "start_time": 773.5,
+    "end_time": 780.5
+  },
+  {
+    "caption": "J. Minott makes a tip dunk two-pointer.",
+    "start_time": 776.0,
+    "end_time": 784.5
+  },
+  {
+    "caption": "V. Edgecombe makes a driving dunk two-pointer.",
+    "start_time": 787.0,
+    "end_time": 795.5
+  },
+  {
+    "caption": "X. Tillman makes a cutting layup two-pointer, assisted by J. Brown.",
+    "start_time": 812.5,
+    "end_time": 821.0
+  },
+  {
+    "caption": "V. Edgecombe makes a jump shot three-pointer, assisted by T. Maxey.",
+    "start_time": 824.5,
+    "end_time": 833.0
+  },
+  {
+    "caption": "P. Pritchard makes a pullup two-pointer.",
+    "start_time": 850.5,
+    "end_time": 859.0
+  },
+  {
+    "caption": "X. Tillman steals the ball from D. Barlow on a bad pass.",
+    "start_time": 874.0,
+    "end_time": 878.0
+  },
+  {
+    "caption": "P. Pritchard misses a jump shot three-pointer. X. Tillman grabs the offensive rebound after P. Pritchard's missed three-pointer.",
+    "start_time": 878.0,
+    "end_time": 885.0
+  },
+  {
+    "caption": "Jump ball between X. Tillman and A. Bona, D. White recovers the tip.",
+    "start_time": 952.5,
+    "end_time": 957.5
+  },
+  {
+    "caption": "D. White misses a jump shot three-pointer. K. Oubre Jr. grabs the defensive rebound after D. White's missed three-pointer.",
+    "start_time": 959.5,
+    "end_time": 966.5
+  },
+  {
+    "caption": "X. Tillman steals the ball from K. Oubre Jr. on a bad pass.",
+    "start_time": 966.5,
+    "end_time": 970.5
+  },
+  {
+    "caption": "X. Tillman misses a reverse layup two-pointer. Q. Grimes grabs the defensive rebound after X. Tillman's missed reverse layup two-pointer.",
+    "start_time": 969.5,
+    "end_time": 976.5
+  },
+  {
+    "caption": "Q. Grimes misses a jump shot three-pointer.",
+    "start_time": 983.5,
+    "end_time": 990.5
+  },
+  {
+    "caption": "J. Minott commits a personal foul.",
+    "start_time": 987.5,
+    "end_time": 990.5
+  },
+  {
+    "caption": "L. Garza commits a personal foul.",
+    "start_time": 1184.5,
+    "end_time": 1187.5
+  },
+  {
+    "caption": "V. Edgecombe misses a pullup two-pointer. L. Garza grabs the defensive rebound after V. Edgecombe's missed pullup two-pointer.",
+    "start_time": 1213.5,
+    "end_time": 1220.5
+  },
+  {
+    "caption": "L. Garza steps out-of-bounds turnover.",
+    "start_time": 1220.5,
+    "end_time": 1223.5
+  },
+  {
+    "caption": "Q. Grimes misses a layup two-pointer. J. Walker grabs the offensive rebound after Q. Grimes' missed layup two-pointer. J. Walker makes a putback layup two-pointer.",
+    "start_time": 1247.0,
+    "end_time": 1256.0
+  },
+  {
+    "caption": "D. White makes a pullup three-pointer.",
+    "start_time": 1263.5,
+    "end_time": 1272.0
+  },
+  {
+    "caption": "D. White misses a driving layup two-pointer. A. Bona grabs the defensive rebound after D. White's missed driving layup two-pointer.",
+    "start_time": 1307.0,
+    "end_time": 1314.0
+  },
+  {
+    "caption": "V. Edgecombe makes a jump shot three-pointer, assisted by Q. Grimes.",
+    "start_time": 1315.0,
+    "end_time": 1323.5
+  },
+  {
+    "caption": "A. Simons makes a jump shot three-pointer.",
+    "start_time": 1327.0,
+    "end_time": 1335.5
+  },
+  {
+    "caption": "V. Edgecombe misses a jump shot three-pointer. A. Bona grabs the offensive rebound after V. Edgecombe's missed jump shot three-pointer.",
+    "start_time": 1341.35,
+    "end_time": 1348.35
+  },
+  {
+    "caption": "A. Bona commits an offensive foul.",
+    "start_time": 1351.75,
+    "end_time": 1354.75
+  },
+  {
+    "caption": "J. Brown misses a step back jump shot. T. Maxey grabs the defensive rebound after J. Brown's missed jump shot two-pointer.",
+    "start_time": 1386.85,
+    "end_time": 1393.85
+  },
+  {
+    "caption": "A. Simons commits a personal foul.",
+    "start_time": 1414.3,
+    "end_time": 1418.3
+  },
+  {
+    "caption": "D. White misses a jump shot three-pointer.",
+    "start_time": 1473.15,
+    "end_time": 1479.666667
+  }
+]

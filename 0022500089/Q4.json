@@ -1,0 +1,277 @@
+[
+  {
+    "caption": "J. Clark makes a running layup two-pointer. J. Clark commits a personal foul.",
+    "start_time": 2.5,
+    "end_time": 35.0
+  },
+  {
+    "caption": "J. Clark steals the ball from J. Holiday on a lost ball.",
+    "start_time": 3.0,
+    "end_time": 7.0
+  },
+  {
+    "caption": "D. Avdija commits a personal foul.",
+    "start_time": 85.0,
+    "end_time": 89.0
+  },
+  {
+    "caption": "D. Avdija grabs the defensive rebound.",
+    "start_time": 121.5,
+    "end_time": 126.5
+  },
+  {
+    "caption": "J. Randle commits a personal foul.",
+    "start_time": 131.5,
+    "end_time": 134.5
+  },
+  {
+    "caption": "J. Clark steals the ball from J. Holiday on a bad pass.",
+    "start_time": 157.5,
+    "end_time": 161.5
+  },
+  {
+    "caption": "J. McDaniels misses a pullup two-pointer.",
+    "start_time": 175.5,
+    "end_time": 182.5
+  },
+  {
+    "caption": "J. Holiday commits a personal foul.",
+    "start_time": 178.5,
+    "end_time": 181.5
+  },
+  {
+    "caption": "J. McDaniels misses a turnaround two-pointer. D. Avdija grabs the defensive rebound after J. McDaniels' missed jump shot.",
+    "start_time": 214.5,
+    "end_time": 221.5
+  },
+  {
+    "caption": "D. Avdija misses a running three-pointer. T. Camara grabs the offensive rebound after D. Avdija's missed running three-pointer. T. Camara's putback layup two-pointer is blocked by J. McDaniels.",
+    "start_time": 223.5,
+    "end_time": 233.5
+  },
+  {
+    "caption": "T. Camara's putback layup two-pointer is blocked by J. McDaniels. J. McDaniels blocks T. Camara's layup two-pointer. J. Clark grabs the defensive rebound after T. Camara's missed layup two-pointer.",
+    "start_time": 226.5,
+    "end_time": 231.5
+  },
+  {
+    "caption": "B. Hyland makes a running layup two-pointer, assisted by J. Clark.",
+    "start_time": 228.0,
+    "end_time": 236.5
+  },
+  {
+    "caption": "D. Avdija makes a floating jump shot two-pointer, assisted by J. Holiday. B. Hyland commits a shooting personal foul.",
+    "start_time": 237.0,
+    "end_time": 245.5
+  },
+  {
+    "caption": "J. Holiday commits a shooting personal foul.",
+    "start_time": 297.5,
+    "end_time": 301.5
+  },
+  {
+    "caption": "J. Grant makes a jump shot three-pointer, assisted by T. Camara.",
+    "start_time": 362.5,
+    "end_time": 371.0
+  },
+  {
+    "caption": "J. Randle misses a pullup two-pointer. J. Grant commits a personal foul.",
+    "start_time": 408.0,
+    "end_time": 441.0
+  },
+  {
+    "caption": "D. Avdija grabs the defensive rebound.",
+    "start_time": 491.0,
+    "end_time": 496.0
+  },
+  {
+    "caption": "D. Avdija misses a jump shot three-pointer. J. Clark grabs the defensive rebound after D. Avdija's missed jump shot three-pointer.",
+    "start_time": 501.0,
+    "end_time": 508.0
+  },
+  {
+    "caption": "B. Hyland commits an offensive charging foul.",
+    "start_time": 511.0,
+    "end_time": 514.0
+  },
+  {
+    "caption": "J. Grant misses a jump shot three-pointer.",
+    "start_time": 727.5,
+    "end_time": 734.5
+  },
+  {
+    "caption": "S. Sharpe misses a jump shot three-pointer. J. Randle grabs the defensive rebound after S. Sharpe's missed jump shot three-pointer.",
+    "start_time": 745.0,
+    "end_time": 752.0
+  },
+  {
+    "caption": "J. McDaniels misses a driving floating two-pointer. D. Clingan grabs the defensive rebound after J. McDaniels' missed driving floating two-pointer.",
+    "start_time": 754.0,
+    "end_time": 761.0
+  },
+  {
+    "caption": "J. Grant is called for a bad pass out-of-bounds turnover.",
+    "start_time": 770.0,
+    "end_time": 773.0
+  },
+  {
+    "caption": "J. McDaniels makes a pullup two-pointer, assisted by J. Randle.",
+    "start_time": 807.0,
+    "end_time": 815.5
+  },
+  {
+    "caption": "S. Sharpe misses a step back jump shot. B. Hyland grabs the defensive rebound after S. Sharpe's missed jump shot two-pointer.",
+    "start_time": 828.5,
+    "end_time": 835.5
+  },
+  {
+    "caption": "D. Clingan commits a personal foul.",
+    "start_time": 839.5,
+    "end_time": 843.5
+  },
+  {
+    "caption": "D. Clingan misses a pullup three-pointer. B. Hyland grabs the defensive rebound after D. Clingan's missed jump shot three-pointer.",
+    "start_time": 936.5,
+    "end_time": 943.5
+  },
+  {
+    "caption": "D. Clingan steals the ball from J. McDaniels on a bad pass.",
+    "start_time": 942.5,
+    "end_time": 946.5
+  },
+  {
+    "caption": "R. Gobert commits a personal foul.",
+    "start_time": 946.5,
+    "end_time": 949.5
+  },
+  {
+    "caption": "J. Holiday makes a pullup two-pointer, assisted by S. Sharpe.",
+    "start_time": 977.0,
+    "end_time": 985.5
+  },
+  {
+    "caption": "J. Randle makes a jump shot three-pointer, assisted by B. Hyland.",
+    "start_time": 993.0,
+    "end_time": 1001.5
+  },
+  {
+    "caption": "S. Sharpe misses a driving floating two-pointer. J. McDaniels grabs the defensive rebound after S. Sharpe's missed driving floating two-pointer.",
+    "start_time": 1012.5,
+    "end_time": 1019.5
+  },
+  {
+    "caption": "B. Hyland misses a running three-pointer. T. Camara grabs the defensive rebound after B. Hyland's missed running three-pointer.",
+    "start_time": 1019.5,
+    "end_time": 1026.5
+  },
+  {
+    "caption": "D. Avdija makes a running dunk two-pointer, assisted by T. Camara.",
+    "start_time": 1023.0,
+    "end_time": 1031.5
+  },
+  {
+    "caption": "A. Edwards commits an offensive foul.",
+    "start_time": 1045.5,
+    "end_time": 1048.5
+  },
+  {
+    "caption": "J. Holiday misses a step back three-pointer. A. Edwards grabs the defensive rebound after J. Holiday's missed jump shot three-pointer.",
+    "start_time": 1087.0,
+    "end_time": 1094.0
+  },
+  {
+    "caption": "A. Edwards makes a step back jump shot two-pointer, assisted by J. Randle.",
+    "start_time": 1106.5,
+    "end_time": 1115.0
+  },
+  {
+    "caption": "J. Holiday misses a jump shot three-pointer. J. McDaniels grabs the defensive rebound after J. Holiday's missed jump shot three-pointer.",
+    "start_time": 1119.0,
+    "end_time": 1126.0
+  },
+  {
+    "caption": "J. McDaniels is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1123.0,
+    "end_time": 1126.0
+  },
+  {
+    "caption": "T. Camara's pullup two-pointer is blocked by J. Randle. J. Randle blocks T. Camara's jump shot two-pointer.",
+    "start_time": 1380.5,
+    "end_time": 1385.5
+  },
+  {
+    "caption": "A. Edwards makes a pullup three-pointer, assisted by J. McDaniels. T. Shannon Jr. commits a personal foul.",
+    "start_time": 1412.0,
+    "end_time": 1433.5
+  },
+  {
+    "caption": "A. Edwards is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1493.5,
+    "end_time": 1496.5
+  },
+  {
+    "caption": "J. Holiday misses a driving floating two-pointer. J. McDaniels grabs the defensive rebound after J. Holiday's missed driving floating two-pointer.",
+    "start_time": 1513.0,
+    "end_time": 1520.0
+  },
+  {
+    "caption": "T. Shannon Jr. misses a running layup two-pointer. T. Camara grabs the defensive rebound after T. Shannon Jr.'s missed running layup two-pointer.",
+    "start_time": 1518.0,
+    "end_time": 1525.0
+  },
+  {
+    "caption": "A. Edwards commits a personal foul.",
+    "start_time": 1529.0,
+    "end_time": 1533.0
+  },
+  {
+    "caption": "J. McDaniels makes a jump shot three-pointer, assisted by J. Randle. R. Gobert commits a shooting personal foul.",
+    "start_time": 1595.0,
+    "end_time": 1623.5
+  },
+  {
+    "caption": "J. Randle misses a jump shot three-pointer. J. Holiday grabs the defensive rebound after J. Randle's missed jump shot three-pointer.",
+    "start_time": 1687.5,
+    "end_time": 1694.5
+  },
+  {
+    "caption": "J. Holiday misses a running pullup three-pointer. J. McDaniels grabs the defensive rebound after J. Holiday's missed three-pointer.",
+    "start_time": 1692.5,
+    "end_time": 1699.5
+  },
+  {
+    "caption": "A. Edwards makes a step back three-pointer.",
+    "start_time": 1713.0,
+    "end_time": 1721.5
+  },
+  {
+    "caption": "J. McDaniels steals the ball from D. Avdija on a lost ball.",
+    "start_time": 1734.5,
+    "end_time": 1738.5
+  },
+  {
+    "caption": "J. Holiday steals the ball from T. Shannon Jr. on a lost ball.",
+    "start_time": 1739.85,
+    "end_time": 1743.85
+  },
+  {
+    "caption": "J. Grant misses a running three-pointer. T. Shannon Jr. grabs the defensive rebound after J. Grant's missed running three-pointer.",
+    "start_time": 1745.45,
+    "end_time": 1752.45
+  },
+  {
+    "caption": "R. Gobert makes a tip dunk two-pointer. R. Gobert commits a shooting personal foul.",
+    "start_time": 1759.55,
+    "end_time": 1889.75
+  },
+  {
+    "caption": "T. Shannon Jr. misses a driving reverse layup two-pointer. R. Gobert grabs the offensive rebound after T. Shannon Jr.'s missed driving reverse layup two-pointer.",
+    "start_time": 1762.05,
+    "end_time": 1769.05
+  },
+  {
+    "caption": "A. Edwards makes a step back jump shot two-pointer.",
+    "start_time": 1984.35,
+    "end_time": 1992.85
+  }
+]

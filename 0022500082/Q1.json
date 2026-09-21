@@ -1,0 +1,322 @@
+[
+  {
+    "caption": "Jump ball between Kristaps Porziņģis and Juancho Poeltl, Jonathan Johnson recovers the tip.",
+    "start_time": 0.5,
+    "end_time": 5.5
+  },
+  {
+    "caption": "K. Porziņģis misses a driving floating bank two-pointer. J. Poeltl grabs the defensive rebound after K. Porziņģis' missed driving floating bank two-pointer.",
+    "start_time": 11.5,
+    "end_time": 18.5
+  },
+  {
+    "caption": "R. Barrett is called for a bad pass out-of-bounds turnover.",
+    "start_time": 27.5,
+    "end_time": 30.5
+  },
+  {
+    "caption": "S. Barnes commits a personal foul.",
+    "start_time": 48.5,
+    "end_time": 52.5
+  },
+  {
+    "caption": "D. Daniels commits a personal foul.",
+    "start_time": 123.5,
+    "end_time": 126.5
+  },
+  {
+    "caption": "B. Ingram makes a driving finger roll two-pointer, assisted by S. Barnes.",
+    "start_time": 146.5,
+    "end_time": 155.0
+  },
+  {
+    "caption": "K. Porziņģis's turnaround two-pointer is blocked by J. Poeltl. J. Poeltl blocks K. Porziņģis's jump shot two-pointer.",
+    "start_time": 159.0,
+    "end_time": 164.0
+  },
+  {
+    "caption": "R. Barrett commits a personal foul.",
+    "start_time": 181.0,
+    "end_time": 185.0
+  },
+  {
+    "caption": "B. Ingram misses a driving layup two-pointer. R. Barrett grabs the offensive rebound after B. Ingram's missed driving layup two-pointer. R. Barrett makes a putback layup two-pointer.",
+    "start_time": 234.5,
+    "end_time": 243.5
+  },
+  {
+    "caption": "R. Barrett steals the ball from T. Young on a bad pass.",
+    "start_time": 259.5,
+    "end_time": 263.5
+  },
+  {
+    "caption": "R. Barrett makes a jump shot three-pointer, assisted by S. Barnes. J. Poeltl commits a shooting personal foul.",
+    "start_time": 263.0,
+    "end_time": 302.5
+  },
+  {
+    "caption": "S. Barnes misses a driving reverse layup two-pointer.",
+    "start_time": 360.0,
+    "end_time": 367.0
+  },
+  {
+    "caption": "T. Young misses a driving floating two-pointer. B. Ingram grabs the defensive rebound after T. Young's missed driving floating two-pointer.",
+    "start_time": 375.5,
+    "end_time": 382.5
+  },
+  {
+    "caption": "I. Quickley misses a running three-pointer. J. Johnson grabs the defensive rebound after I. Quickley's missed running three-pointer.",
+    "start_time": 382.5,
+    "end_time": 389.5
+  },
+  {
+    "caption": "I. Quickley steals the ball from D. Daniels on a lost ball.",
+    "start_time": 397.5,
+    "end_time": 401.5
+  },
+  {
+    "caption": "S. Barnes makes a running dunk two-pointer, assisted by I. Quickley.",
+    "start_time": 401.0,
+    "end_time": 409.5
+  },
+  {
+    "caption": "Z. Risacher makes a finger roll layup two-pointer, assisted by J. Johnson.",
+    "start_time": 406.0,
+    "end_time": 414.5
+  },
+  {
+    "caption": "S. Barnes' driving layup two-pointer is blocked by K. Porziņģis. K. Porziņģis blocks S. Barnes's layup two-pointer. J. Poeltl grabs the offensive rebound after S. Barnes' missed driving layup two-pointer.",
+    "start_time": 419.5,
+    "end_time": 424.5
+  },
+  {
+    "caption": "B. Ingram misses a pullup two-pointer. J. Poeltl grabs the offensive rebound after B. Ingram's missed pullup two-pointer.",
+    "start_time": 430.5,
+    "end_time": 437.5
+  },
+  {
+    "caption": "R. Barrett makes a jump shot three-pointer.",
+    "start_time": 433.0,
+    "end_time": 441.5
+  },
+  {
+    "caption": "S. Barnes blocks J. Johnson's running dunk two-pointer. S. Barnes blocks J. Johnson's dunk two-pointer.",
+    "start_time": 443.5,
+    "end_time": 448.5
+  },
+  {
+    "caption": "I. Quickley makes a driving floating jump shot two-pointer.",
+    "start_time": 460.0,
+    "end_time": 468.5
+  },
+  {
+    "caption": "S. Barnes steals the ball from T. Young on a bad pass.",
+    "start_time": 471.5,
+    "end_time": 475.5
+  },
+  {
+    "caption": "I. Quickley misses a running three-pointer. K. Porziņģis grabs the defensive rebound after I. Quickley's missed running three-pointer.",
+    "start_time": 476.5,
+    "end_time": 483.5
+  },
+  {
+    "caption": "J. Johnson makes a cutting layup two-pointer, assisted by D. Daniels.",
+    "start_time": 492.0,
+    "end_time": 500.5
+  },
+  {
+    "caption": "B. Ingram makes a pullup two-pointer, assisted by S. Barnes.",
+    "start_time": 508.0,
+    "end_time": 516.5
+  },
+  {
+    "caption": "D. Daniels commits an offensive foul.",
+    "start_time": 519.5,
+    "end_time": 522.5
+  },
+  {
+    "caption": "B. Ingram steps out-of-bounds turnover.",
+    "start_time": 563.5,
+    "end_time": 566.5
+  },
+  {
+    "caption": "J. Johnson makes a cutting dunk two-pointer, assisted by N. Alexander-Walker.",
+    "start_time": 577.0,
+    "end_time": 585.5
+  },
+  {
+    "caption": "B. Ingram misses a driving floating two-pointer. K. Porziņģis grabs the defensive rebound after B. Ingram's missed driving floating two-pointer.",
+    "start_time": 592.5,
+    "end_time": 599.5
+  },
+  {
+    "caption": "Z. Risacher misses a jump shot three-pointer. K. Porziņģis grabs the offensive rebound after Z. Risacher's missed three-pointer.",
+    "start_time": 602.5,
+    "end_time": 609.5
+  },
+  {
+    "caption": "J. Poeltl commits a personal foul.",
+    "start_time": 606.5,
+    "end_time": 610.5
+  },
+  {
+    "caption": "B. Ingram makes a step back jump shot two-pointer. B. Ingram commits a personal foul.",
+    "start_time": 864.0,
+    "end_time": 893.5
+  },
+  {
+    "caption": "O. Agbaji misses a jump shot three-pointer. O. Okongwu grabs the defensive rebound after O. Agbaji's missed three-pointer.",
+    "start_time": 961.0,
+    "end_time": 968.0
+  },
+  {
+    "caption": "O. Okongwu makes a dunk two-pointer, assisted by J. Johnson.",
+    "start_time": 974.5,
+    "end_time": 983.0
+  },
+  {
+    "caption": "S. Mamukelashvili commits an offensive foul.",
+    "start_time": 986.0,
+    "end_time": 989.0
+  },
+  {
+    "caption": "L. Kennard misses a step back three-pointer. G. Dick grabs the defensive rebound after L. Kennard's missed jump shot three-pointer.",
+    "start_time": 1007.5,
+    "end_time": 1014.5
+  },
+  {
+    "caption": "G. Dick misses a jump shot three-pointer. N. Alexander-Walker grabs the defensive rebound after G. Dick's missed three-pointer.",
+    "start_time": 1030.5,
+    "end_time": 1037.5
+  },
+  {
+    "caption": "J. Johnson misses a running pullup three-pointer. S. Mamukelashvili grabs the defensive rebound after J. Johnson's missed three-pointer.",
+    "start_time": 1037.5,
+    "end_time": 1044.5
+  },
+  {
+    "caption": "G. Dick makes a jump shot three-pointer, assisted by I. Quickley.",
+    "start_time": 1059.0,
+    "end_time": 1067.5
+  },
+  {
+    "caption": "B. Ingram steals the ball from L. Kennard on a lost ball.",
+    "start_time": 1073.5,
+    "end_time": 1077.5
+  },
+  {
+    "caption": "S. Mamukelashvili makes a running dunk two-pointer, assisted by I. Quickley.",
+    "start_time": 1078.0,
+    "end_time": 1086.5
+  },
+  {
+    "caption": "N. Alexander-Walker misses a jump shot three-pointer. B. Ingram grabs the defensive rebound after N. Alexander-Walker's missed three-pointer.",
+    "start_time": 1278.0,
+    "end_time": 1285.0
+  },
+  {
+    "caption": "S. Mamukelashvili makes a running three-pointer, assisted by B. Ingram.",
+    "start_time": 1282.5,
+    "end_time": 1291.0
+  },
+  {
+    "caption": "S. Mamukelashvili commits a personal foul.",
+    "start_time": 1299.0,
+    "end_time": 1302.0
+  },
+  {
+    "caption": "R. Barrett grabs the defensive rebound.",
+    "start_time": 1354.0,
+    "end_time": 1359.0
+  },
+  {
+    "caption": "J. Shead makes a driving finger roll two-pointer.",
+    "start_time": 1359.5,
+    "end_time": 1368.0
+  },
+  {
+    "caption": "J. Johnson makes a driving finger roll two-pointer.",
+    "start_time": 1369.5,
+    "end_time": 1378.0
+  },
+  {
+    "caption": "R. Barrett makes a floating jump shot two-pointer.",
+    "start_time": 1392.5,
+    "end_time": 1401.0
+  },
+  {
+    "caption": "J. Johnson makes a driving finger roll two-pointer, assisted by T. Young. S. Mamukelashvili commits a personal foul.",
+    "start_time": 1404.5,
+    "end_time": 1413.0
+  },
+  {
+    "caption": "G. Dick misses a step back three-pointer. L. Kennard grabs the defensive rebound after G. Dick's missed jump shot three-pointer.",
+    "start_time": 1462.0,
+    "end_time": 1469.0
+  },
+  {
+    "caption": "O. Okongwu misses a cutting layup two-pointer. G. Dick grabs the defensive rebound after O. Okongwu's missed layup two-pointer.",
+    "start_time": 1473.0,
+    "end_time": 1480.0
+  },
+  {
+    "caption": "S. Barnes makes a running layup two-pointer, assisted by R. Barrett.",
+    "start_time": 1476.5,
+    "end_time": 1485.0
+  },
+  {
+    "caption": "N. Alexander-Walker makes a jump shot three-pointer, assisted by L. Kennard.",
+    "start_time": 1488.5,
+    "end_time": 1497.0
+  },
+  {
+    "caption": "S. Mamukelashvili misses a floating two-pointer. T. Young grabs the defensive rebound after S. Mamukelashvili's missed floating two-pointer.",
+    "start_time": 1508.0,
+    "end_time": 1515.0
+  },
+  {
+    "caption": "J. Shead commits a personal foul.",
+    "start_time": 1511.0,
+    "end_time": 1514.0
+  },
+  {
+    "caption": "J. Mogbo misses a cutting layup two-pointer. J. Mogbo grabs the offensive rebound after missing his layup two-pointer. J. Mogbo makes a putback layup two-pointer.",
+    "start_time": 1597.0,
+    "end_time": 1608.05
+  },
+  {
+    "caption": "O. Okongwu makes a jump shot three-pointer, assisted by L. Kennard.",
+    "start_time": 1609.3,
+    "end_time": 1617.8
+  },
+  {
+    "caption": "K. Porziņģis blocks J. Mogbo's cutting dunk two-pointer. K. Porziņģis blocks J. Mogbo's dunk two-pointer. K. Porziņģis grabs the defensive rebound after J. Mogbo's missed dunk.",
+    "start_time": 1625.0,
+    "end_time": 1630.0
+  },
+  {
+    "caption": "T. Young misses a running pullup three-pointer. R. Barrett grabs the defensive rebound after T. Young's missed running pullup three-pointer.",
+    "start_time": 1630.55,
+    "end_time": 1637.55
+  },
+  {
+    "caption": "L. Kennard commits a shooting personal foul.",
+    "start_time": 1641.15,
+    "end_time": 1645.15
+  },
+  {
+    "caption": "T. Young makes a step back three-pointer.",
+    "start_time": 1708.5,
+    "end_time": 1717.0
+  },
+  {
+    "caption": "S. Barnes blocks Atlanta's heave.",
+    "start_time": 1712.75,
+    "end_time": 1717.0
+  },
+  {
+    "caption": "J. Shead is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1723.75,
+    "end_time": 1726.75
+  }
+]

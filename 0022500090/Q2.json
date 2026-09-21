@@ -1,0 +1,397 @@
+[
+  {
+    "caption": "J. Johnson is called for a traveling violation.",
+    "start_time": 6.0,
+    "end_time": 9.0
+  },
+  {
+    "caption": "F. Wagner makes a floating jump shot two-pointer, assisted by T. Jones.",
+    "start_time": 15.0,
+    "end_time": 23.5
+  },
+  {
+    "caption": "J. Johnson misses a turnaround two-pointer. J. Johnson grabs the offensive rebound after missing his turnaround two-pointer. J. Johnson puts back a layup two-pointer.",
+    "start_time": 39.5,
+    "end_time": 48.5
+  },
+  {
+    "caption": "A. Black makes a driving finger roll two-pointer, assisted by T. da Silva.",
+    "start_time": 57.0,
+    "end_time": 65.5
+  },
+  {
+    "caption": "O. Okongwu misses a jump shot three-pointer.",
+    "start_time": 69.5,
+    "end_time": 76.5
+  },
+  {
+    "caption": "T. da Silva makes a cutting layup two-pointer, assisted by F. Wagner.",
+    "start_time": 93.0,
+    "end_time": 101.5
+  },
+  {
+    "caption": "T. da Silva steals the ball from V. Krejčí on a bad pass.",
+    "start_time": 113.5,
+    "end_time": 117.5
+  },
+  {
+    "caption": "L. Kennard commits a personal foul.",
+    "start_time": 128.5,
+    "end_time": 131.5
+  },
+  {
+    "caption": "F. Wagner makes a floating jump shot two-pointer.",
+    "start_time": 197.0,
+    "end_time": 205.5
+  },
+  {
+    "caption": "J. Johnson makes a step back jump shot two-pointer.",
+    "start_time": 205.0,
+    "end_time": 213.5
+  },
+  {
+    "caption": "T. Jones makes a driving layup two-pointer, assisted by T. da Silva.",
+    "start_time": 221.0,
+    "end_time": 229.5
+  },
+  {
+    "caption": "K. Wallace misses a jump shot three-pointer.",
+    "start_time": 231.5,
+    "end_time": 238.5
+  },
+  {
+    "caption": "A. Black grabs the defensive rebound after K. Wallace's missed three-pointer.",
+    "start_time": 232.5,
+    "end_time": 238.5
+  },
+  {
+    "caption": "A. Black makes a driving layup two-pointer.",
+    "start_time": 237.0,
+    "end_time": 245.5
+  },
+  {
+    "caption": "G. Bitadze commits a personal foul.",
+    "start_time": 435.5,
+    "end_time": 439.5
+  },
+  {
+    "caption": "F. Wagner makes a jump shot three-pointer, assisted by D. Bane.",
+    "start_time": 490.5,
+    "end_time": 499.0
+  },
+  {
+    "caption": "F. Wagner commits a personal foul.",
+    "start_time": 508.0,
+    "end_time": 511.0
+  },
+  {
+    "caption": "O. Okongwu misses a floating jump shot.",
+    "start_time": 560.5,
+    "end_time": 567.5
+  },
+  {
+    "caption": "P. Banchero grabs the defensive rebound after O. Okongwu's missed floating two-pointer.",
+    "start_time": 561.5,
+    "end_time": 567.5
+  },
+  {
+    "caption": "A. Black misses a driving dunk two-pointer.",
+    "start_time": 574.5,
+    "end_time": 581.5
+  },
+  {
+    "caption": "G. Bitadze grabs the offensive rebound after A. Black's missed driving dunk two-pointer.",
+    "start_time": 575.5,
+    "end_time": 581.5
+  },
+  {
+    "caption": "D. Bane misses a jump shot three-pointer.",
+    "start_time": 578.5,
+    "end_time": 585.5
+  },
+  {
+    "caption": "O. Okongwu grabs the defensive rebound after D. Bane's missed three-pointer.",
+    "start_time": 579.5,
+    "end_time": 585.5
+  },
+  {
+    "caption": "T. Young misses a step back three-pointer.",
+    "start_time": 593.5,
+    "end_time": 600.5
+  },
+  {
+    "caption": "J. Howard makes a jump shot three-pointer, assisted by A. Black.",
+    "start_time": 639.5,
+    "end_time": 648.0
+  },
+  {
+    "caption": "D. Bane commits a defensive-3-second technical foul.",
+    "start_time": 660.0,
+    "end_time": 663.0
+  },
+  {
+    "caption": "A. Black commits a personal foul.",
+    "start_time": 708.0,
+    "end_time": 712.0
+  },
+  {
+    "caption": "J. Howard misses a jump shot three-pointer. W. Carter Jr. grabs the offensive rebound after J. Howard's missed jump shot three-pointer. W. Carter Jr. puts back a layup two-pointer.",
+    "start_time": 767.0,
+    "end_time": 776.0
+  },
+  {
+    "caption": "M. Gueye commits a shooting personal foul.",
+    "start_time": 773.0,
+    "end_time": 776.0
+  },
+  {
+    "caption": "M. Gueye commits a technical foul.",
+    "start_time": 804.0,
+    "end_time": 807.0
+  },
+  {
+    "caption": "N. Alexander-Walker steals the ball from Jamal Murray on a bad pass.",
+    "start_time": 1092.0,
+    "end_time": 1096.0
+  },
+  {
+    "caption": "M. Gueye makes a running dunk two-pointer, assisted by N. Alexander-Walker.",
+    "start_time": 1093.5,
+    "end_time": 1102.0
+  },
+  {
+    "caption": "A. Newell commits a personal foul.",
+    "start_time": 1143.0,
+    "end_time": 1147.0
+  },
+  {
+    "caption": "J. Johnson grabs the defensive rebound.",
+    "start_time": 1197.0,
+    "end_time": 1202.0
+  },
+  {
+    "caption": "A. Black commits a personal foul.",
+    "start_time": 1212.0,
+    "end_time": 1216.0
+  },
+  {
+    "caption": "F. Wagner commits an offensive foul.",
+    "start_time": 1275.5,
+    "end_time": 1278.5
+  },
+  {
+    "caption": "N. Alexander-Walker misses a jump shot three-pointer.",
+    "start_time": 1304.0,
+    "end_time": 1311.0
+  },
+  {
+    "caption": "P. Banchero grabs the defensive rebound after N. Alexander-Walker's missed three-pointer.",
+    "start_time": 1305.0,
+    "end_time": 1311.0
+  },
+  {
+    "caption": "T. da Silva misses a running three-pointer.",
+    "start_time": 1312.0,
+    "end_time": 1319.0
+  },
+  {
+    "caption": "J. Johnson grabs the defensive rebound after T. da Silva's missed running three-pointer.",
+    "start_time": 1313.0,
+    "end_time": 1319.0
+  },
+  {
+    "caption": "A. Newell misses a running layup two-pointer.",
+    "start_time": 1320.0,
+    "end_time": 1327.0
+  },
+  {
+    "caption": "F. Wagner grabs the defensive rebound after A. Newell's missed running layup two-pointer.",
+    "start_time": 1321.0,
+    "end_time": 1327.0
+  },
+  {
+    "caption": "D. Daniels commits a shooting personal foul.",
+    "start_time": 1329.0,
+    "end_time": 1333.0
+  },
+  {
+    "caption": "J. Johnson misses a pullup two-pointer.",
+    "start_time": 1411.0,
+    "end_time": 1418.0
+  },
+  {
+    "caption": "D. Bane grabs the defensive rebound after J. Johnson's missed pullup two-pointer.",
+    "start_time": 1412.0,
+    "end_time": 1418.0
+  },
+  {
+    "caption": "D. Bane makes a running pullup three-pointer.",
+    "start_time": 1414.5,
+    "end_time": 1423.0
+  },
+  {
+    "caption": "J. Johnson makes a jump shot two-pointer, assisted by T. Young.",
+    "start_time": 1431.5,
+    "end_time": 1440.0
+  },
+  {
+    "caption": "D. Daniels commits a personal foul.",
+    "start_time": 1445.0,
+    "end_time": 1449.0
+  },
+  {
+    "caption": "N. Alexander-Walker makes a jump shot three-pointer, assisted by T. Young.",
+    "start_time": 1504.0,
+    "end_time": 1512.5
+  },
+  {
+    "caption": "D. Bane misses a step back three-pointer.",
+    "start_time": 1517.5,
+    "end_time": 1524.5
+  },
+  {
+    "caption": "J. Johnson grabs the defensive rebound after D. Bane's missed jump shot three-pointer.",
+    "start_time": 1518.5,
+    "end_time": 1524.5
+  },
+  {
+    "caption": "T. da Silva steals the ball from D. Daniels on a bad pass.",
+    "start_time": 1529.5,
+    "end_time": 1533.5
+  },
+  {
+    "caption": "D. Bane is called for a traveling violation.",
+    "start_time": 1543.0,
+    "end_time": 1546.0
+  },
+  {
+    "caption": "N. Alexander-Walker misses a jump shot three-pointer.",
+    "start_time": 1558.0,
+    "end_time": 1565.0
+  },
+  {
+    "caption": "T. da Silva grabs the defensive rebound after N. Alexander-Walker's missed three-pointer.",
+    "start_time": 1559.0,
+    "end_time": 1565.0
+  },
+  {
+    "caption": "T. da Silva misses a driving floating two-pointer.",
+    "start_time": 1567.0,
+    "end_time": 1574.0
+  },
+  {
+    "caption": "P. Banchero commits a personal foul.",
+    "start_time": 1772.5,
+    "end_time": 1776.5
+  },
+  {
+    "caption": "J. Johnson commits a personal foul.",
+    "start_time": 1837.0,
+    "end_time": 1840.0
+  },
+  {
+    "caption": "D. Daniels misses a driving floating two-pointer.",
+    "start_time": 1908.0,
+    "end_time": 1915.0
+  },
+  {
+    "caption": "P. Banchero grabs the defensive rebound after D. Daniels' missed driving floating two-pointer.",
+    "start_time": 1909.0,
+    "end_time": 1915.0
+  },
+  {
+    "caption": "W. Carter Jr. misses a jump shot three-pointer.",
+    "start_time": 1915.0,
+    "end_time": 1922.0
+  },
+  {
+    "caption": "D. Bane grabs the offensive rebound after W. Carter Jr.'s missed three-pointer.",
+    "start_time": 1916.0,
+    "end_time": 1922.0
+  },
+  {
+    "caption": "J. Suggs makes a jump shot three-pointer, assisted by F. Wagner.",
+    "start_time": 1918.5,
+    "end_time": 1927.0
+  },
+  {
+    "caption": "N. Alexander-Walker misses a turnaround two-pointer.",
+    "start_time": 1942.0,
+    "end_time": 1949.0
+  },
+  {
+    "caption": "J. Suggs grabs the defensive rebound after N. Alexander-Walker's missed turnaround two-pointer.",
+    "start_time": 1943.0,
+    "end_time": 1949.0
+  },
+  {
+    "caption": "D. Daniels steals the ball from F. Wagner on a lost-ball turnover.",
+    "start_time": 1952.0,
+    "end_time": 1956.0
+  },
+  {
+    "caption": "J. Suggs commits a personal foul.",
+    "start_time": 1956.0,
+    "end_time": 1960.0
+  },
+  {
+    "caption": "P. Banchero misses a jump shot three-pointer.",
+    "start_time": 2010.5,
+    "end_time": 2017.5
+  },
+  {
+    "caption": "D. Daniels grabs the defensive rebound after P. Banchero's missed three-pointer.",
+    "start_time": 2011.5,
+    "end_time": 2017.5
+  },
+  {
+    "caption": "M. Gueye makes a running layup two-pointer, assisted by D. Daniels. J. Suggs commits a shooting personal foul.",
+    "start_time": 2013.0,
+    "end_time": 2021.5
+  },
+  {
+    "caption": "D. Bane makes a driving layup two-pointer, assisted by J. Suggs.",
+    "start_time": 2055.0,
+    "end_time": 2063.5
+  },
+  {
+    "caption": "T. Young makes a driving reverse layup two-pointer, assisted by N. Alexander-Walker.",
+    "start_time": 2070.0,
+    "end_time": 2078.5
+  },
+  {
+    "caption": "F. Wagner misses a pullup two-pointer.",
+    "start_time": 2088.3,
+    "end_time": 2095.3
+  },
+  {
+    "caption": "D. Daniels grabs the defensive rebound after F. Wagner's missed pullup two-pointer.",
+    "start_time": 2089.3,
+    "end_time": 2095.3
+  },
+  {
+    "caption": "F. Wagner commits a shooting personal foul.",
+    "start_time": 2096.05,
+    "end_time": 2100.05
+  },
+  {
+    "caption": "F. Wagner grabs the defensive rebound.",
+    "start_time": 2148.8,
+    "end_time": 2153.8
+  },
+  {
+    "caption": "P. Banchero misses a jump shot three-pointer. F. Wagner grabs the offensive rebound after P. Banchero's missed three-pointer. F. Wagner puts back a layup two-pointer.",
+    "start_time": 2162.45,
+    "end_time": 2172.45
+  },
+  {
+    "caption": "T. Young misses a driving floating two-pointer.",
+    "start_time": 2184.25,
+    "end_time": 2191.25
+  },
+  {
+    "caption": "F. Wagner grabs the defensive rebound after T. Young's missed driving floating two-pointer.",
+    "start_time": 2185.25,
+    "end_time": 2191.25
+  }
+]
