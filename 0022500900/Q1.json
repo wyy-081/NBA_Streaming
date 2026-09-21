@@ -1,0 +1,272 @@
+[
+  {
+    "caption": "T. Young makes a driving finger roll two-pointer.",
+    "start_time": 75.0,
+    "end_time": 83.5
+  },
+  {
+    "caption": "A. Bailey makes a pullup two-pointer, assisted by I. Collier.",
+    "start_time": 89.0,
+    "end_time": 97.5
+  },
+  {
+    "caption": "A. Bailey steals the ball from J. Reese on a lost ball.",
+    "start_time": 113.5,
+    "end_time": 117.5
+  },
+  {
+    "caption": "B. Coulibaly steals the ball from I. Collier on a bad pass.",
+    "start_time": 119.5,
+    "end_time": 123.5
+  },
+  {
+    "caption": "T. Johnson makes a running three-pointer, assisted by B. Coulibaly. L. Black commits a personal foul.",
+    "start_time": 122.0,
+    "end_time": 155.0
+  },
+  {
+    "caption": "J. Reese grabs the defensive rebound.",
+    "start_time": 198.0,
+    "end_time": 203.0
+  },
+  {
+    "caption": "L. Black makes a step back three-pointer, assisted by T. Young.",
+    "start_time": 203.5,
+    "end_time": 212.0
+  },
+  {
+    "caption": "K. Filipowski makes a jump shot three-pointer, assisted by I. Collier.",
+    "start_time": 220.5,
+    "end_time": 229.0
+  },
+  {
+    "caption": "L. Black misses a jump shot three-pointer.",
+    "start_time": 238.0,
+    "end_time": 245.0
+  },
+  {
+    "caption": "J. Konchar commits a personal foul.",
+    "start_time": 242.0,
+    "end_time": 245.0
+  },
+  {
+    "caption": "T. Young misses a pullup three-pointer. K. Filipowski grabs the defensive rebound after T. Young's missed pullup three-pointer.",
+    "start_time": 269.5,
+    "end_time": 276.5
+  },
+  {
+    "caption": "K. Filipowski makes a layup two-pointer, assisted by I. Collier.",
+    "start_time": 283.0,
+    "end_time": 291.5
+  },
+  {
+    "caption": "T. Young misses a pullup three-pointer. L. Black grabs the offensive rebound after T. Young's missed pullup three-pointer.",
+    "start_time": 293.5,
+    "end_time": 300.5
+  },
+  {
+    "caption": "L. Black's tip dunk two-pointer is missed. J. Reese grabs the offensive rebound after L. Black's missed tip dunk two-pointer.",
+    "start_time": 297.5,
+    "end_time": 304.5
+  },
+  {
+    "caption": "L. Black makes a jump shot three-pointer, assisted by J. Reese.",
+    "start_time": 298.0,
+    "end_time": 306.5
+  },
+  {
+    "caption": "J. Konchar misses a pullup three-pointer. C. Williams grabs the offensive rebound after J. Konchar's missed jump shot three-pointer.",
+    "start_time": 318.5,
+    "end_time": 325.5
+  },
+  {
+    "caption": "A. Bailey makes a jump shot three-pointer, assisted by I. Collier.",
+    "start_time": 328.0,
+    "end_time": 336.5
+  },
+  {
+    "caption": "B. Coulibaly makes a jump shot three-pointer, assisted by T. Young.",
+    "start_time": 340.0,
+    "end_time": 348.5
+  },
+  {
+    "caption": "A. Bailey makes a jump shot three-pointer, assisted by J. Konchar.",
+    "start_time": 539.0,
+    "end_time": 547.5
+  },
+  {
+    "caption": "T. Johnson misses a driving floating two-pointer. A. Bailey grabs the defensive rebound after T. Johnson's missed driving floating two-pointer.",
+    "start_time": 557.5,
+    "end_time": 564.5
+  },
+  {
+    "caption": "K. Filipowski makes a cutting dunk two-pointer, assisted by I. Collier.",
+    "start_time": 565.0,
+    "end_time": 573.5
+  },
+  {
+    "caption": "T. Young is called for a bad pass out-of-bounds turnover.",
+    "start_time": 584.5,
+    "end_time": 587.5
+  },
+  {
+    "caption": "K. Filipowski misses a pullup jump shot two-pointer. J. Reese grabs the defensive rebound after K. Filipowski's missed pullup two-pointer.",
+    "start_time": 620.0,
+    "end_time": 627.0
+  },
+  {
+    "caption": "L. Black misses a jump shot three-pointer. I. Collier grabs the defensive rebound after L. Black's missed three-pointer.",
+    "start_time": 639.0,
+    "end_time": 646.0
+  },
+  {
+    "caption": "I. Collier misses a driving bank hook two-pointer.",
+    "start_time": 657.0,
+    "end_time": 664.0
+  },
+  {
+    "caption": "J. Reese commits a personal foul.",
+    "start_time": 660.0,
+    "end_time": 663.0
+  },
+  {
+    "caption": "I. Collier misses a driving layup two-pointer. J. Konchar grabs the offensive rebound after I. Collier's missed driving layup two-pointer.",
+    "start_time": 698.0,
+    "end_time": 705.0
+  },
+  {
+    "caption": "I. Collier misses a jump shot three-pointer. T. Johnson grabs the defensive rebound after I. Collier's missed three-pointer.",
+    "start_time": 705.0,
+    "end_time": 712.0
+  },
+  {
+    "caption": "T. Young misses a jump shot three-pointer. K. Filipowski grabs the defensive rebound after T. Young's missed three-pointer.",
+    "start_time": 724.0,
+    "end_time": 731.0
+  },
+  {
+    "caption": "A. Bailey misses a jump shot three-pointer. T. Young grabs the defensive rebound after A. Bailey's missed jump shot three-pointer.",
+    "start_time": 733.0,
+    "end_time": 740.0
+  },
+  {
+    "caption": "L. Black makes a pullup two-pointer, assisted by B. Coulibaly.",
+    "start_time": 931.5,
+    "end_time": 940.0
+  },
+  {
+    "caption": "A. Bailey makes a driving layup two-pointer, assisted by I. Collier.",
+    "start_time": 945.5,
+    "end_time": 954.0
+  },
+  {
+    "caption": "L. Black misses a jump shot three-pointer. B. Hinson grabs the defensive rebound after L. Black's missed jump shot three-pointer.",
+    "start_time": 960.0,
+    "end_time": 967.0
+  },
+  {
+    "caption": "B. Coulibaly commits a personal foul.",
+    "start_time": 971.0,
+    "end_time": 974.0
+  },
+  {
+    "caption": "B. Hinson makes a jump shot three-pointer, assisted by C. Williams.",
+    "start_time": 1004.5,
+    "end_time": 1013.0
+  },
+  {
+    "caption": "A. Bailey steals the ball from L. Black on a bad pass.",
+    "start_time": 1031.0,
+    "end_time": 1035.0
+  },
+  {
+    "caption": "B. Hinson misses a jump shot three-pointer. M. Bamba grabs the offensive rebound after B. Hinson's missed three-pointer.",
+    "start_time": 1040.0,
+    "end_time": 1047.0
+  },
+  {
+    "caption": "M. Bamba misses a hook two-pointer. L. Black grabs the defensive rebound after M. Bamba's missed hook two-pointer.",
+    "start_time": 1046.0,
+    "end_time": 1053.0
+  },
+  {
+    "caption": "C. Williams steals the ball from W. Riley on a bad pass.",
+    "start_time": 1051.0,
+    "end_time": 1055.0
+  },
+  {
+    "caption": "L. Black is called for a kicked ball violation.",
+    "start_time": 1052.0,
+    "end_time": 1055.0
+  },
+  {
+    "caption": "B. Hinson makes a driving layup two-pointer, assisted by C. Williams.",
+    "start_time": 1102.0,
+    "end_time": 1110.5
+  },
+  {
+    "caption": "M. Bamba commits a defensive-3-second technical foul.",
+    "start_time": 1125.5,
+    "end_time": 1128.5
+  },
+  {
+    "caption": "W. Riley makes a jump shot three-pointer, assisted by S. Cooper.",
+    "start_time": 1164.0,
+    "end_time": 1172.5
+  },
+  {
+    "caption": "B. Sensabaugh makes a pullup three-pointer.",
+    "start_time": 1185.0,
+    "end_time": 1193.5
+  },
+  {
+    "caption": "W. Riley makes a jump shot three-pointer, assisted by S. Cooper.",
+    "start_time": 1203.0,
+    "end_time": 1211.5
+  },
+  {
+    "caption": "M. Bamba makes a cutting layup two-pointer, assisted by B. Sensabaugh.",
+    "start_time": 1219.0,
+    "end_time": 1227.5
+  },
+  {
+    "caption": "W. Riley commits an offensive foul.",
+    "start_time": 1241.5,
+    "end_time": 1244.5
+  },
+  {
+    "caption": "B. Sensabaugh misses a pullup two-pointer. W. Riley grabs the defensive rebound after B. Sensabaugh's missed pullup two-pointer.",
+    "start_time": 1290.0,
+    "end_time": 1297.0
+  },
+  {
+    "caption": "W. Riley misses a turnaround two-pointer. M. Bamba grabs the defensive rebound after W. Riley's missed turnaround two-pointer.",
+    "start_time": 1307.0,
+    "end_time": 1314.0
+  },
+  {
+    "caption": "C. Williams makes a cutting dunk two-pointer, assisted by B. Sensabaugh.",
+    "start_time": 1318.3,
+    "end_time": 1326.8
+  },
+  {
+    "caption": "S. Cooper misses a jump shot three-pointer. B. Hinson grabs the defensive rebound after S. Cooper's missed three-pointer.",
+    "start_time": 1338.0,
+    "end_time": 1345.0
+  },
+  {
+    "caption": "B. Carrington commits a personal foul.",
+    "start_time": 1352.4,
+    "end_time": 1356.4
+  },
+  {
+    "caption": "B. Sensabaugh steals the ball from W. Riley on a bad pass.",
+    "start_time": 1417.4,
+    "end_time": 1421.4
+  },
+  {
+    "caption": "B. Hinson makes a jump shot three-pointer, assisted by B. Sensabaugh.",
+    "start_time": 1429.5,
+    "end_time": 1438.0
+  }
+]

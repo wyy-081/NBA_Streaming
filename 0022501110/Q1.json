@@ -1,0 +1,327 @@
+[
+  {
+    "caption": "J. Sims commits a personal foul.",
+    "start_time": 65.0,
+    "end_time": 69.0
+  },
+  {
+    "caption": "Jump ball between A. Thompson and G. Trent Jr., A. Thompson recovers the tip.",
+    "start_time": 109.0,
+    "end_time": 114.0
+  },
+  {
+    "caption": "A. Green misses a pullup two-pointer. J. Smith Jr. grabs the defensive rebound after A. Green's missed pullup two-pointer.",
+    "start_time": 124.0,
+    "end_time": 131.0
+  },
+  {
+    "caption": "K. Durant is called for a bad pass out-of-bounds turnover.",
+    "start_time": 132.0,
+    "end_time": 135.0
+  },
+  {
+    "caption": "J. Sims commits an offensive foul.",
+    "start_time": 150.5,
+    "end_time": 153.5
+  },
+  {
+    "caption": "Kevin Durant makes a pullup two-pointer, assisted by Jalen Smith Jr.",
+    "start_time": 165.5,
+    "end_time": 174.0
+  },
+  {
+    "caption": "O. Dieng misses a driving floating jump shot. A. Thompson grabs the defensive rebound after O. Dieng's missed driving floating bank two-pointer.",
+    "start_time": 184.0,
+    "end_time": 191.0
+  },
+  {
+    "caption": "G. Trent Jr. is called for a kicked ball violation.",
+    "start_time": 192.0,
+    "end_time": 195.0
+  },
+  {
+    "caption": "A. Thompson misses a floating two-pointer. O. Dieng grabs the defensive rebound after A. Thompson's missed floating two-pointer.",
+    "start_time": 210.5,
+    "end_time": 217.5
+  },
+  {
+    "caption": "A. Green makes a pullup three-pointer, assisted by O. Dieng.",
+    "start_time": 228.0,
+    "end_time": 236.5
+  },
+  {
+    "caption": "K. Durant misses a jump shot three-pointer. P. Nance grabs the defensive rebound after K. Durant's missed jump shot three-pointer.",
+    "start_time": 248.5,
+    "end_time": 255.5
+  },
+  {
+    "caption": "G. Trent Jr. misses a fadeaway two-pointer. A. Thompson grabs the defensive rebound after G. Trent Jr.'s missed jump shot two-pointer.",
+    "start_time": 259.5,
+    "end_time": 266.5
+  },
+  {
+    "caption": "G. Trent Jr. commits a personal foul.",
+    "start_time": 264.5,
+    "end_time": 267.5
+  },
+  {
+    "caption": "J. Smith Jr. makes a cutting dunk two-pointer, assisted by R. Sheppard.",
+    "start_time": 288.5,
+    "end_time": 297.0
+  },
+  {
+    "caption": "J. Sims' alley-oop dunk two-pointer is blocked by Draymond Green. A. Sengun grabs the defensive rebound after J. Sims' missed dunk two-pointer.",
+    "start_time": 300.0,
+    "end_time": 307.0
+  },
+  {
+    "caption": "A. Sengun misses a turnaround two-pointer. P. Nance grabs the defensive rebound after A. Sengun's missed turnaround hook two-pointer.",
+    "start_time": 309.0,
+    "end_time": 316.0
+  },
+  {
+    "caption": "P. Nance misses a jump shot three-pointer. J. Sims grabs the offensive rebound after P. Nance's missed jump shot three-pointer.",
+    "start_time": 319.0,
+    "end_time": 326.0
+  },
+  {
+    "caption": "O. Dieng misses a step back three-pointer.",
+    "start_time": 331.0,
+    "end_time": 338.0
+  },
+  {
+    "caption": "A. Sengun commits a personal foul.",
+    "start_time": 335.0,
+    "end_time": 338.0
+  },
+  {
+    "caption": "P. Nance makes a turnaround hook two-pointer, assisted by O. Dieng.",
+    "start_time": 354.0,
+    "end_time": 362.5
+  },
+  {
+    "caption": "K. Durant makes a turnaround jump shot two-pointer, assisted by J. Smith Jr.",
+    "start_time": 364.0,
+    "end_time": 372.5
+  },
+  {
+    "caption": "A. Thompson steals the ball from G. Trent Jr. on a lost ball.",
+    "start_time": 380.5,
+    "end_time": 384.5
+  },
+  {
+    "caption": "Kevin Durant makes a running finger roll two-pointer, assisted by Anthony Thompson.",
+    "start_time": 381.0,
+    "end_time": 389.5
+  },
+  {
+    "caption": "P. Nance makes a jump shot three-pointer, assisted by A. Green.",
+    "start_time": 576.0,
+    "end_time": 584.5
+  },
+  {
+    "caption": "R. Sheppard makes a jump shot three-pointer, assisted by K. Durant.",
+    "start_time": 596.0,
+    "end_time": 604.5
+  },
+  {
+    "caption": "O. Dieng makes a driving layup two-pointer.",
+    "start_time": 604.0,
+    "end_time": 612.5
+  },
+  {
+    "caption": "R. Sheppard makes a jump shot three-pointer, assisted by A. Sengun.",
+    "start_time": 620.0,
+    "end_time": 628.5
+  },
+  {
+    "caption": "A. Sengun steals the ball from O. Dieng on a bad pass.",
+    "start_time": 636.5,
+    "end_time": 640.5
+  },
+  {
+    "caption": "K. Durant misses a cutting layup two-pointer. J. Sims grabs the defensive rebound after K. Durant's missed layup two-pointer.",
+    "start_time": 658.5,
+    "end_time": 665.5
+  },
+  {
+    "caption": "J. Sims' driving floating two-pointer is blocked by A. Sengun. R. Sheppard grabs the defensive rebound after J. Sims' missed driving floating two-pointer.",
+    "start_time": 667.5,
+    "end_time": 672.5
+  },
+  {
+    "caption": "A. Sengun blocks J. Sims's driving floating shot two-pointer.",
+    "start_time": 669.5,
+    "end_time": 672.5
+  },
+  {
+    "caption": "A. Sengun makes a turnaround two-pointer.",
+    "start_time": 676.0,
+    "end_time": 684.5
+  },
+  {
+    "caption": "C. Capela commits a personal foul.",
+    "start_time": 726.5,
+    "end_time": 729.5
+  },
+  {
+    "caption": "G. Trent Jr. misses a driving floating two-pointer. J. Sims grabs the offensive rebound after G. Trent Jr.'s missed driving floating two-pointer.",
+    "start_time": 746.0,
+    "end_time": 753.0
+  },
+  {
+    "caption": "G. Trent Jr. misses a jump shot three-pointer. K. Durant grabs the defensive rebound after G. Trent Jr.'s missed three-pointer.",
+    "start_time": 751.0,
+    "end_time": 758.0
+  },
+  {
+    "caption": "K. Durant misses a pullup three-pointer. J. Sims grabs the defensive rebound after K. Durant's missed jump shot three-pointer.",
+    "start_time": 764.0,
+    "end_time": 771.0
+  },
+  {
+    "caption": "O. Dieng makes a step back jump shot two-pointer, assisted by J. Sims.",
+    "start_time": 775.5,
+    "end_time": 784.0
+  },
+  {
+    "caption": "R. Sheppard misses a jump shot three-pointer. A. Jackson Jr. grabs the defensive rebound after R. Sheppard's missed three-pointer.",
+    "start_time": 796.0,
+    "end_time": 803.0
+  },
+  {
+    "caption": "A. Jackson Jr. is called for a bad pass out-of-bounds turnover.",
+    "start_time": 802.0,
+    "end_time": 805.0
+  },
+  {
+    "caption": "G. Trent Jr. steals the ball from C. Capela on a lost ball.",
+    "start_time": 830.0,
+    "end_time": 834.0
+  },
+  {
+    "caption": "C. Ryan misses a running three-pointer. K. Durant grabs the defensive rebound after C. Ryan's missed running three-pointer.",
+    "start_time": 835.0,
+    "end_time": 842.0
+  },
+  {
+    "caption": "T. Eason makes a jump shot three-pointer, assisted by K. Durant.",
+    "start_time": 840.5,
+    "end_time": 849.0
+  },
+  {
+    "caption": "O. Dieng is called for a palming violation.",
+    "start_time": 1048.0,
+    "end_time": 1051.0
+  },
+  {
+    "caption": "J. Smith Jr. misses a step back three-pointer. C. Capela grabs the offensive rebound after J. Smith Jr.'s missed jump shot three-pointer.",
+    "start_time": 1082.0,
+    "end_time": 1089.0
+  },
+  {
+    "caption": "T. Eason misses a jump shot three-pointer. O. Dieng grabs the defensive rebound after T. Eason's missed three-pointer.",
+    "start_time": 1093.0,
+    "end_time": 1100.0
+  },
+  {
+    "caption": "O. Dieng misses a driving finger roll two-pointer. J. Smith Jr. grabs the defensive rebound after O. Dieng's missed driving finger roll layup two-pointer.",
+    "start_time": 1100.0,
+    "end_time": 1107.0
+  },
+  {
+    "caption": "J. Smith Jr.'s driving layup two-pointer is blocked by P. Nance. P. Nance blocks J. Smith Jr.'s layup two-pointer.",
+    "start_time": 1109.0,
+    "end_time": 1114.0
+  },
+  {
+    "caption": "A. Jackson Jr. commits a personal foul.",
+    "start_time": 1135.5,
+    "end_time": 1139.5
+  },
+  {
+    "caption": "P. Nance misses a jump shot three-pointer. A. Green grabs the offensive rebound after P. Nance's missed jump shot three-pointer.",
+    "start_time": 1198.0,
+    "end_time": 1205.0
+  },
+  {
+    "caption": "T. Eason commits a personal foul.",
+    "start_time": 1205.0,
+    "end_time": 1208.0
+  },
+  {
+    "caption": "O. Dieng misses a fadeaway two-pointer. T. Eason grabs the defensive rebound after O. Dieng's missed jump shot two-pointer.",
+    "start_time": 1229.0,
+    "end_time": 1236.0
+  },
+  {
+    "caption": "K. Durant misses a driving floating two-pointer. C. Capela grabs the offensive rebound after K. Durant's missed driving floating two-pointer. C. Capela makes a tip layup two-pointer.",
+    "start_time": 1237.5,
+    "end_time": 1246.0
+  },
+  {
+    "caption": "A. Jackson Jr. misses a driving floating two-pointer. C. Capela grabs the defensive rebound after A. Jackson Jr.'s missed driving floating two-pointer.",
+    "start_time": 1254.0,
+    "end_time": 1261.0
+  },
+  {
+    "caption": "A. Holiday makes a jump shot three-pointer, assisted by K. Durant.",
+    "start_time": 1265.5,
+    "end_time": 1274.0
+  },
+  {
+    "caption": "O. Dieng makes a driving layup two-pointer.",
+    "start_time": 1279.5,
+    "end_time": 1288.0
+  },
+  {
+    "caption": "A. Thompson misses a driving finger roll two-pointer. C. Capela grabs the offensive rebound after A. Thompson's missed driving finger roll layup two-pointer.",
+    "start_time": 1302.0,
+    "end_time": 1309.0
+  },
+  {
+    "caption": "A. Holiday misses a pullup three-pointer.",
+    "start_time": 1308.0,
+    "end_time": 1315.0
+  },
+  {
+    "caption": "A. Holiday misses a jump shot three-pointer. T. Eason grabs the offensive rebound after A. Holiday's missed jump shot three-pointer. T. Eason misses a tip layup two-pointer.",
+    "start_time": 1359.0,
+    "end_time": 1369.0
+  },
+  {
+    "caption": "A. Green grabs the defensive rebound.",
+    "start_time": 1363.0,
+    "end_time": 1369.0
+  },
+  {
+    "caption": "C. Ryan misses a running pullup three-pointer. J. Sims grabs the offensive rebound after C. Ryan's missed running pullup three-pointer. J. Sims makes a putback dunk two-pointer.",
+    "start_time": 1367.5,
+    "end_time": 1376.0
+  },
+  {
+    "caption": "K. Durant misses a driving floating two-pointer. J. Sims grabs the defensive rebound after K. Durant's missed driving floating two-pointer.",
+    "start_time": 1394.0,
+    "end_time": 1401.0
+  },
+  {
+    "caption": "C. Ryan makes a driving layup two-pointer.",
+    "start_time": 1410.1,
+    "end_time": 1418.6
+  },
+  {
+    "caption": "T. Eason misses a pullup three-pointer. J. Sims grabs the defensive rebound after T. Eason's missed jump shot three-pointer.",
+    "start_time": 1421.0,
+    "end_time": 1428.0
+  },
+  {
+    "caption": "P. Nance makes a finger roll layup two-pointer, assisted by C. Ryan.",
+    "start_time": 1429.9,
+    "end_time": 1438.4
+  },
+  {
+    "caption": "T. Eason misses a jump shot three-pointer.",
+    "start_time": 1459.9,
+    "end_time": 1466.9
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "caption": "O. Tshiebwe commits a technical foul.",
+    "start_time": 6.5,
+    "end_time": 9.5
+  },
+  {
+    "caption": "A. Garcia commits a personal foul.",
+    "start_time": 54.5,
+    "end_time": 58.5
+  },
+  {
+    "caption": "I. Collier misses a driving floating two-pointer. D. McDermott grabs the defensive rebound after I. Collier's missed driving floating two-pointer.",
+    "start_time": 110.0,
+    "end_time": 117.0
+  },
+  {
+    "caption": "P. Achiuwa makes a reverse layup two-pointer.",
+    "start_time": 121.5,
+    "end_time": 130.0
+  },
+  {
+    "caption": "C. Williams makes a pullup two-pointer, assisted by I. Collier.",
+    "start_time": 137.5,
+    "end_time": 146.0
+  },
+  {
+    "caption": "D. DeRozan makes a turnaround two-pointer, assisted by D. McDermott.",
+    "start_time": 151.5,
+    "end_time": 160.0
+  },
+  {
+    "caption": "I. Collier's driving layup two-pointer is blocked by K. Hayes. D. DeRozan grabs the defensive rebound after I. Collier's missed driving layup two-pointer.",
+    "start_time": 165.0,
+    "end_time": 170.0
+  },
+  {
+    "caption": "K. Hayes blocks I. Collier's driving layup two-pointer.",
+    "start_time": 167.0,
+    "end_time": 170.0
+  },
+  {
+    "caption": "D. McDermott makes a jump shot three-pointer, assisted by D. DeRozan.",
+    "start_time": 173.5,
+    "end_time": 182.0
+  },
+  {
+    "caption": "C. Williams is called for a bad pass out-of-bounds turnover.",
+    "start_time": 194.0,
+    "end_time": 197.0
+  },
+  {
+    "caption": "D. DeRozan's pullup two-pointer is blocked by I. Collier. I. Collier blocks D. DeRozan's jump shot two-pointer. I. Collier grabs the defensive rebound after D. DeRozan's missed pullup two-pointer.",
+    "start_time": 218.5,
+    "end_time": 223.5
+  },
+  {
+    "caption": "D. Cardwell steals the ball from I. Collier on a lost ball.",
+    "start_time": 221.5,
+    "end_time": 225.5
+  },
+  {
+    "caption": "I. Collier commits a shooting personal foul.",
+    "start_time": 223.5,
+    "end_time": 227.5
+  },
+  {
+    "caption": "A. Garcia grabs the defensive rebound.",
+    "start_time": 281.5,
+    "end_time": 286.5
+  },
+  {
+    "caption": "C. Williams misses a jump shot three-pointer. B. Mbeng grabs the offensive rebound after C. Williams' missed jump shot three-pointer.",
+    "start_time": 287.5,
+    "end_time": 294.5
+  },
+  {
+    "caption": "D. Cardwell commits a personal foul.",
+    "start_time": 296.5,
+    "end_time": 300.5
+  },
+  {
+    "caption": "K. Hayes is called for a bad pass out-of-bounds turnover.",
+    "start_time": 350.5,
+    "end_time": 353.5
+  },
+  {
+    "caption": "I. Collier misses a pullup two-pointer. O. Tshiebwe grabs the offensive rebound after I. Collier's missed pullup two-pointer.",
+    "start_time": 373.5,
+    "end_time": 380.5
+  },
+  {
+    "caption": "D. McDermott commits a personal foul.",
+    "start_time": 378.5,
+    "end_time": 382.5
+  },
+  {
+    "caption": "D. DeRozan makes a step back jump shot two-pointer.",
+    "start_time": 450.5,
+    "end_time": 459.0
+  },
+  {
+    "caption": "I. Collier misses a pullup three-pointer. K. Hayes grabs the defensive rebound after I. Collier's missed jump shot three-pointer.",
+    "start_time": 475.0,
+    "end_time": 482.0
+  },
+  {
+    "caption": "D. DeRozan makes a step back jump shot two-pointer.",
+    "start_time": 493.5,
+    "end_time": 502.0
+  },
+  {
+    "caption": "C. Williams misses a pullup three-pointer. K. Hayes grabs the defensive rebound after C. Williams' missed jump shot three-pointer.",
+    "start_time": 516.0,
+    "end_time": 523.0
+  },
+  {
+    "caption": "C. Williams commits a personal foul.",
+    "start_time": 524.0,
+    "end_time": 527.0
+  },
+  {
+    "caption": "D. McDermott misses a jump shot three-pointer. C. Williams grabs the defensive rebound after D. McDermott's missed jump shot three-pointer.",
+    "start_time": 560.0,
+    "end_time": 567.0
+  },
+  {
+    "caption": "D. DeRozan steals the ball from C. Williams on a lost ball.",
+    "start_time": 569.0,
+    "end_time": 573.0
+  },
+  {
+    "caption": "D. DeRozan misses a turnaround two-pointer. D. DeRozan grabs the offensive rebound after missing his turnaround two-pointer.",
+    "start_time": 585.0,
+    "end_time": 592.0
+  },
+  {
+    "caption": "D. Plowden misses a jump shot three-pointer. D. McDermott grabs the offensive rebound after D. Plowden's missed three-pointer.",
+    "start_time": 591.0,
+    "end_time": 598.0
+  },
+  {
+    "caption": "D. DeRozan misses a pullup two-pointer. C. Williams grabs the defensive rebound after D. DeRozan's missed pullup two-pointer.",
+    "start_time": 607.0,
+    "end_time": 614.0
+  },
+  {
+    "caption": "D. Plowden commits a personal foul.",
+    "start_time": 616.0,
+    "end_time": 619.0
+  },
+  {
+    "caption": "D. Plowden steals the ball from B. Sensabaugh on a bad pass.",
+    "start_time": 827.0,
+    "end_time": 831.0
+  },
+  {
+    "caption": "C. Williams commits a personal foul.",
+    "start_time": 843.0,
+    "end_time": 847.0
+  },
+  {
+    "caption": "B. Sensabaugh makes a driving floating bank two-pointer.",
+    "start_time": 898.0,
+    "end_time": 906.5
+  },
+  {
+    "caption": "B. Sensabaugh steals the ball from D. DeRozan on a bad pass.",
+    "start_time": 916.5,
+    "end_time": 920.5
+  },
+  {
+    "caption": "N. Clifford commits a personal foul.",
+    "start_time": 921.5,
+    "end_time": 925.5
+  },
+  {
+    "caption": "D. DeRozan makes a driving finger roll two-pointer.",
+    "start_time": 983.0,
+    "end_time": 991.5
+  },
+  {
+    "caption": "B. Sensabaugh makes a pullup two-pointer.",
+    "start_time": 1001.0,
+    "end_time": 1009.5
+  },
+  {
+    "caption": "D. DeRozan misses a turnaround two-pointer. M. Raynaud grabs the offensive rebound after D. DeRozan's missed jump shot two-pointer.",
+    "start_time": 1020.5,
+    "end_time": 1027.5
+  },
+  {
+    "caption": "B. Mbeng steals the ball from M. Raynaud on a lost ball.",
+    "start_time": 1027.5,
+    "end_time": 1031.5
+  },
+  {
+    "caption": "D. Plowden steals the ball from A. Garcia on a bad pass.",
+    "start_time": 1030.5,
+    "end_time": 1034.5
+  },
+  {
+    "caption": "D. Plowden makes a running three-pointer, assisted by K. Hayes.",
+    "start_time": 1031.0,
+    "end_time": 1039.5
+  },
+  {
+    "caption": "B. Mbeng makes a driving layup two-pointer, assisted by C. Williams.",
+    "start_time": 1234.5,
+    "end_time": 1243.0
+  },
+  {
+    "caption": "K. Hayes misses a jump shot three-pointer. D. Plowden grabs the offensive rebound after K. Hayes's missed three-pointer.",
+    "start_time": 1253.0,
+    "end_time": 1260.0
+  },
+  {
+    "caption": "D. McDermott misses a jump shot three-pointer. A. Garcia grabs the defensive rebound after D. McDermott's missed three-pointer.",
+    "start_time": 1258.0,
+    "end_time": 1265.0
+  },
+  {
+    "caption": "B. Mbeng misses a jump shot three-pointer. M. Raynaud grabs the defensive rebound after B. Mbeng's missed jump shot three-pointer.",
+    "start_time": 1267.0,
+    "end_time": 1274.0
+  },
+  {
+    "caption": "A. Garcia steals the ball from K. Hayes on a bad pass.",
+    "start_time": 1276.0,
+    "end_time": 1280.0
+  },
+  {
+    "caption": "C. Williams makes a running three-pointer, assisted by E. Harkless.",
+    "start_time": 1281.5,
+    "end_time": 1290.0
+  },
+  {
+    "caption": "D. DeRozan misses a pullup two-pointer. A. Garcia grabs the defensive rebound after D. DeRozan's missed pullup two-pointer.",
+    "start_time": 1298.0,
+    "end_time": 1305.0
+  },
+  {
+    "caption": "E. Harkless makes a pullup three-pointer, assisted by C. Williams. B. Mbeng commits a personal foul.",
+    "start_time": 1306.5,
+    "end_time": 1431.0
+  },
+  {
+    "caption": "D. Plowden commits a personal foul.",
+    "start_time": 1484.5,
+    "end_time": 1488.5
+  },
+  {
+    "caption": "D. DeRozan misses a fadeaway two-pointer. B. Mbeng grabs the defensive rebound after D. DeRozan's missed jump shot two-pointer.",
+    "start_time": 1543.5,
+    "end_time": 1550.5
+  },
+  {
+    "caption": "P. Achiuwa steals the ball from E. Harkless on a bad pass.",
+    "start_time": 1552.5,
+    "end_time": 1556.5
+  },
+  {
+    "caption": "B. Mbeng commits a personal foul.",
+    "start_time": 1562.5,
+    "end_time": 1565.5
+  },
+  {
+    "caption": "O. Tshiebwe grabs the defensive rebound.",
+    "start_time": 1609.0,
+    "end_time": 1614.0
+  },
+  {
+    "caption": "C. Williams makes a driving layup two-pointer.",
+    "start_time": 1623.5,
+    "end_time": 1632.0
+  },
+  {
+    "caption": "P. Achiuwa is called for a defensive goaltending violation.",
+    "start_time": 1629.0,
+    "end_time": 1632.0
+  },
+  {
+    "caption": "B. Mbeng steals the ball from D. DeRozan on a lost ball.",
+    "start_time": 1654.5,
+    "end_time": 1658.5
+  },
+  {
+    "caption": "C. Williams misses a jump shot three-pointer. P. Achiuwa grabs the defensive rebound after C. Williams' missed three-pointer.",
+    "start_time": 1661.25,
+    "end_time": 1668.25
+  },
+  {
+    "caption": "P. Achiuwa makes a driving floating jump shot two-pointer, assisted by D. DeRozan.",
+    "start_time": 1682.0,
+    "end_time": 1690.5
+  },
+  {
+    "caption": "E. Harkless misses a pullup three-pointer. D. DeRozan grabs the defensive rebound after E. Harkless's missed jump shot three-pointer.",
+    "start_time": 1707.35,
+    "end_time": 1714.35
+  },
+  {
+    "caption": "D. DeRozan misses a pullup three-pointer. D. Plowden grabs the offensive rebound after D. DeRozan's missed pullup three-pointer.",
+    "start_time": 1730.8,
+    "end_time": 1737.8
+  },
+  {
+    "caption": "M. Raynaud misses a jump shot three-pointer.",
+    "start_time": 1744.333333,
+    "end_time": 1751.333333
+  },
+  {
+    "caption": "B. Mbeng commits a take personal foul.",
+    "start_time": 1772.7,
+    "end_time": 1775.7
+  },
+  {
+    "caption": "A. Garcia grabs the defensive rebound.",
+    "start_time": 1821.9,
+    "end_time": 1826.9
+  },
+  {
+    "caption": "C. Williams misses a pullup three-pointer. K. Hayes grabs the defensive rebound after C. Williams' missed jump shot three-pointer.",
+    "start_time": 1827.4,
+    "end_time": 1834.4
+  }
+]

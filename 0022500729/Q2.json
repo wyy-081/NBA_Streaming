@@ -1,0 +1,247 @@
+[
+  {
+    "caption": "A. Jackson Jr. commits a personal foul.",
+    "start_time": 7.5,
+    "end_time": 11.5
+  },
+  {
+    "caption": "A. Jackson Jr. misses a floating jump shot. A. Jackson Jr. grabs the offensive rebound after missing his floating two-pointer.",
+    "start_time": 67.0,
+    "end_time": 74.0
+  },
+  {
+    "caption": "G. Trent Jr. makes a pullup three-pointer.",
+    "start_time": 79.5,
+    "end_time": 88.0
+  },
+  {
+    "caption": "K. Porter Jr. steals the ball from J. Fears on a bad pass.",
+    "start_time": 97.0,
+    "end_time": 101.0
+  },
+  {
+    "caption": "P. Nance makes a running alley-oop dunk two-pointer, assisted by K. Porter Jr.",
+    "start_time": 97.5,
+    "end_time": 106.0
+  },
+  {
+    "caption": "J. Alvarado makes a jump shot three-pointer, assisted by Z. Williamson.",
+    "start_time": 110.5,
+    "end_time": 119.0
+  },
+  {
+    "caption": "K. Porter Jr. misses a pullup three-pointer. Z. Williamson grabs the defensive rebound after K. Porter Jr.'s missed pullup three-pointer.",
+    "start_time": 139.0,
+    "end_time": 146.0
+  },
+  {
+    "caption": "J. Fears misses a running two-pointer. K. Porter Jr. grabs the defensive rebound after J. Fears' missed jump shot two-pointer.",
+    "start_time": 149.0,
+    "end_time": 156.0
+  },
+  {
+    "caption": "P. Nance makes a jump shot three-pointer, assisted by G. Trent Jr.",
+    "start_time": 155.5,
+    "end_time": 164.0
+  },
+  {
+    "caption": "Z. Williamson makes a driving finger roll two-pointer.",
+    "start_time": 166.5,
+    "end_time": 175.0
+  },
+  {
+    "caption": "P. Nance misses a jump shot three-pointer. Y. Missi grabs the defensive rebound after P. Nance's missed three-pointer.",
+    "start_time": 192.0,
+    "end_time": 199.0
+  },
+  {
+    "caption": "J. Alvarado makes a jump shot three-pointer, assisted by J. Fears.",
+    "start_time": 209.5,
+    "end_time": 218.0
+  },
+  {
+    "caption": "J. Sims makes a alley-oop layup two-pointer, assisted by A. Jackson Jr.",
+    "start_time": 224.5,
+    "end_time": 233.0
+  },
+  {
+    "caption": "M. Peavy misses a jump shot three-pointer. Y. Missi grabs the offensive rebound after M. Peavy's missed three-pointer. Y. Missi misses a tip layup two-pointer.",
+    "start_time": 240.5,
+    "end_time": 250.5
+  },
+  {
+    "caption": "Y. Missi makes a hook two-pointer. A. Jackson Jr. commits a personal foul.",
+    "start_time": 243.0,
+    "end_time": 251.5
+  },
+  {
+    "caption": "Y. Missi grabs the offensive rebound.",
+    "start_time": 244.5,
+    "end_time": 250.5
+  },
+  {
+    "caption": "G. Trent Jr. makes a jump shot three-pointer, assisted by P. Nance.",
+    "start_time": 298.5,
+    "end_time": 307.0
+  },
+  {
+    "caption": "K. Matković misses a driving hook two-pointer. J. Sims grabs the defensive rebound after K. Matković's missed driving hook two-pointer.",
+    "start_time": 342.5,
+    "end_time": 349.5
+  },
+  {
+    "caption": "A. Jackson Jr.'s cutting dunk two-pointer is blocked by Y. Missi. Y. Missi blocks A. Jackson Jr.'s dunk two-pointer. J. Alvarado grabs the defensive rebound after A. Jackson Jr.'s missed dunk two-pointer.",
+    "start_time": 354.5,
+    "end_time": 359.5
+  },
+  {
+    "caption": "S. Bey misses a running three-pointer. Y. Missi grabs the offensive rebound after S. Bey's missed running three-pointer. Y. Missi's tip layup two-pointer is missed.",
+    "start_time": 362.5,
+    "end_time": 371.5
+  },
+  {
+    "caption": "R. Rollins misses a jump shot three-pointer. Y. Missi grabs the defensive rebound after R. Rollins' missed jump shot three-pointer.",
+    "start_time": 387.5,
+    "end_time": 394.5
+  },
+  {
+    "caption": "J. Sims commits a personal foul.",
+    "start_time": 402.5,
+    "end_time": 406.5
+  },
+  {
+    "caption": "R. Rollins misses a step back jump shot.",
+    "start_time": 638.0,
+    "end_time": 645.0
+  },
+  {
+    "caption": "Y. Missi commits a personal foul.",
+    "start_time": 641.0,
+    "end_time": 644.0
+  },
+  {
+    "caption": "A. Green misses a pullup three-pointer. K. Matković grabs the defensive rebound after A. Green's missed jump shot three-pointer.",
+    "start_time": 679.5,
+    "end_time": 686.5
+  },
+  {
+    "caption": "Y. Missi misses a hook two-pointer. K. Matković grabs the offensive rebound after Y. Missi's missed hook two-pointer. K. Matković misses a tip layup two-pointer.",
+    "start_time": 690.5,
+    "end_time": 698.5
+  },
+  {
+    "caption": "A. Green grabs the defensive rebound.",
+    "start_time": 692.5,
+    "end_time": 698.5
+  },
+  {
+    "caption": "G. Trent Jr. makes a turnaround jump shot two-pointer.",
+    "start_time": 706.0,
+    "end_time": 714.5
+  },
+  {
+    "caption": "J. Alvarado makes a jump shot three-pointer, assisted by S. Bey.",
+    "start_time": 721.0,
+    "end_time": 729.5
+  },
+  {
+    "caption": "M. Turner misses a jump shot two-pointer. S. Bey grabs the defensive rebound after M. Turner's missed jump shot two-pointer.",
+    "start_time": 739.5,
+    "end_time": 746.5
+  },
+  {
+    "caption": "J. Alvarado misses a pullup three-pointer. K. Kuzma grabs the defensive rebound after J. Alvarado's missed pullup three-pointer.",
+    "start_time": 748.5,
+    "end_time": 755.5
+  },
+  {
+    "caption": "R. Rollins makes a running pullup two-pointer, assisted by K. Kuzma. A. Green commits a personal foul.",
+    "start_time": 752.0,
+    "end_time": 780.5
+  },
+  {
+    "caption": "A. Green makes a driving finger roll two-pointer, assisted by K. Kuzma.",
+    "start_time": 852.5,
+    "end_time": 861.0
+  },
+  {
+    "caption": "Z. Williamson misses a turnaround hook two-pointer. M. Turner grabs the defensive rebound after Z. Williamson's missed hook two-pointer.",
+    "start_time": 866.0,
+    "end_time": 873.0
+  },
+  {
+    "caption": "H. Jones steals the ball from K. Kuzma on a bad pass.",
+    "start_time": 875.0,
+    "end_time": 879.0
+  },
+  {
+    "caption": "S. Bey makes a running three-pointer, assisted by D. Queen.",
+    "start_time": 879.5,
+    "end_time": 888.0
+  },
+  {
+    "caption": "A. Green misses a jump shot three-pointer. J. Alvarado grabs the defensive rebound after A. Green's missed jump shot three-pointer.",
+    "start_time": 905.0,
+    "end_time": 912.0
+  },
+  {
+    "caption": "S. Bey makes a cutting layup two-pointer, assisted by D. Queen.",
+    "start_time": 913.5,
+    "end_time": 922.0
+  },
+  {
+    "caption": "K. Porter Jr. makes a driving layup two-pointer, assisted by J. Sims.",
+    "start_time": 1124.0,
+    "end_time": 1132.5
+  },
+  {
+    "caption": "S. Bey misses a jump shot three-pointer.",
+    "start_time": 1141.5,
+    "end_time": 1148.5
+  },
+  {
+    "caption": "J. Sims makes an alley-oop dunk two-pointer, assisted by K. Porter Jr. M. Turner commits a personal foul.",
+    "start_time": 1163.0,
+    "end_time": 1293.0
+  },
+  {
+    "caption": "K. Porter Jr. makes a driving layup two-pointer.",
+    "start_time": 1346.0,
+    "end_time": 1354.5
+  },
+  {
+    "caption": "T. Murphy III misses a step back jump shot. M. Turner grabs the defensive rebound after T. Murphy III's missed jump shot two-pointer.",
+    "start_time": 1368.5,
+    "end_time": 1375.5
+  },
+  {
+    "caption": "A. Green misses a jump shot three-pointer. T. Murphy III grabs the defensive rebound after A. Green's missed three-pointer.",
+    "start_time": 1379.5,
+    "end_time": 1386.5
+  },
+  {
+    "caption": "T. Murphy III makes a running pullup three-pointer. T. Murphy III commits a personal foul.",
+    "start_time": 1386.0,
+    "end_time": 1402.5
+  },
+  {
+    "caption": "D. Queen makes a cutting layup two-pointer, assisted by T. Murphy III.",
+    "start_time": 1452.5,
+    "end_time": 1461.0
+  },
+  {
+    "caption": "A. Green makes a jump shot three-pointer, assisted by K. Porter Jr.",
+    "start_time": 1466.1,
+    "end_time": 1474.6
+  },
+  {
+    "caption": "T. Murphy III makes a jump shot three-pointer, assisted by H. Jones.",
+    "start_time": 1484.5,
+    "end_time": 1493.0
+  },
+  {
+    "caption": "M. Turner makes a jump shot three-pointer, assisted by K. Porter Jr.",
+    "start_time": 1502.85,
+    "end_time": 1511.35
+  }
+]

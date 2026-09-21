@@ -1,0 +1,297 @@
+[
+  {
+    "caption": "K. Hayes commits a personal foul.",
+    "start_time": 6.5,
+    "end_time": 10.5
+  },
+  {
+    "caption": "P. Achiuwa grabs the defensive rebound.",
+    "start_time": 53.0,
+    "end_time": 58.0
+  },
+  {
+    "caption": "E. Harkless steals the ball from D. Plowden on a bad pass.",
+    "start_time": 65.0,
+    "end_time": 69.0
+  },
+  {
+    "caption": "E. Harkless makes a driving layup two-pointer. K. Hayes commits a personal foul.",
+    "start_time": 69.5,
+    "end_time": 78.0
+  },
+  {
+    "caption": "D. McDermott misses a jump shot three-pointer. B. Mbeng grabs the defensive rebound after D. McDermott's missed three-pointer.",
+    "start_time": 114.0,
+    "end_time": 121.0
+  },
+  {
+    "caption": "I. Collier's driving layup two-pointer is blocked by P. Achiuwa. P. Achiuwa blocks I. Collier's layup two-pointer. N. Clifford grabs the defensive rebound after I. Collier's missed driving layup two-pointer.",
+    "start_time": 125.0,
+    "end_time": 130.0
+  },
+  {
+    "caption": "N. Clifford's running layup two-pointer is blocked by B. Mbeng. B. Mbeng blocks N. Clifford's layup two-pointer. N. Clifford grabs the offensive rebound after missing his running layup two-pointer.",
+    "start_time": 131.0,
+    "end_time": 136.0
+  },
+  {
+    "caption": "N. Clifford makes a turnaround jump shot two-pointer.",
+    "start_time": 133.5,
+    "end_time": 142.0
+  },
+  {
+    "caption": "E. Harkless misses a jump shot three-pointer.",
+    "start_time": 163.0,
+    "end_time": 170.0
+  },
+  {
+    "caption": "P. Achiuwa misses a turnaround hook two-pointer. O. Tshiebwe grabs the defensive rebound after P. Achiuwa's missed turnaround hook two-pointer.",
+    "start_time": 188.0,
+    "end_time": 195.0
+  },
+  {
+    "caption": "B. Mbeng is called for an out-of-bounds turnover.",
+    "start_time": 204.0,
+    "end_time": 207.0
+  },
+  {
+    "caption": "D. McDermott misses a jump shot three-pointer. O. Tshiebwe grabs the defensive rebound after D. McDermott's missed three-pointer.",
+    "start_time": 221.5,
+    "end_time": 228.5
+  },
+  {
+    "caption": "I. Collier makes a pullup two-pointer.",
+    "start_time": 230.0,
+    "end_time": 238.5
+  },
+  {
+    "caption": "P. Achiuwa makes a cutting layup two-pointer, assisted by K. Hayes.",
+    "start_time": 244.0,
+    "end_time": 252.5
+  },
+  {
+    "caption": "I. Collier makes a step back jump shot two-pointer.",
+    "start_time": 269.0,
+    "end_time": 277.5
+  },
+  {
+    "caption": "P. Achiuwa misses a jump shot three-pointer.",
+    "start_time": 288.5,
+    "end_time": 295.5
+  },
+  {
+    "caption": "I. Collier misses a turnaround hook two-pointer. D. DeRozan grabs the defensive rebound after I. Collier's missed turnaround hook two-pointer.",
+    "start_time": 324.5,
+    "end_time": 331.5
+  },
+  {
+    "caption": "K. Hayes makes a jump shot three-pointer, assisted by D. DeRozan.",
+    "start_time": 333.0,
+    "end_time": 341.5
+  },
+  {
+    "caption": "B. Hinson misses a jump shot three-pointer. M. Raynaud grabs the defensive rebound after B. Hinson's missed three-pointer.",
+    "start_time": 356.5,
+    "end_time": 363.5
+  },
+  {
+    "caption": "M. Raynaud makes a floating jump shot two-pointer, assisted by D. DeRozan.",
+    "start_time": 369.0,
+    "end_time": 377.5
+  },
+  {
+    "caption": "O. Tshiebwe makes a layup two-pointer. B. Mbeng commits a personal foul.",
+    "start_time": 383.0,
+    "end_time": 404.5
+  },
+  {
+    "caption": "O. Tshiebwe's cutting dunk two-pointer is missed. M. Raynaud grabs the defensive rebound after O. Tshiebwe's missed dunk two-pointer.",
+    "start_time": 460.0,
+    "end_time": 467.0
+  },
+  {
+    "caption": "N. Clifford misses a jump shot three-pointer. O. Tshiebwe grabs the defensive rebound after N. Clifford's missed three-pointer.",
+    "start_time": 471.0,
+    "end_time": 478.0
+  },
+  {
+    "caption": "N. Clifford steals the ball from B. Sensabaugh on a lost ball.",
+    "start_time": 486.0,
+    "end_time": 490.0
+  },
+  {
+    "caption": "N. Clifford commits an offensive charging foul.",
+    "start_time": 492.0,
+    "end_time": 495.0
+  },
+  {
+    "caption": "A. Garcia misses a jump shot three-pointer. O. Tshiebwe grabs the offensive rebound after A. Garcia's missed three-pointer.",
+    "start_time": 707.0,
+    "end_time": 714.0
+  },
+  {
+    "caption": "E. Harkless misses a pullup two-pointer. M. Raynaud grabs the defensive rebound after E. Harkless's missed pullup two-pointer.",
+    "start_time": 715.0,
+    "end_time": 722.0
+  },
+  {
+    "caption": "D. DeRozan makes a turnaround two-pointer.",
+    "start_time": 724.5,
+    "end_time": 733.0
+  },
+  {
+    "caption": "O. Tshiebwe makes a layup two-pointer, assisted by B. Mbeng.",
+    "start_time": 735.5,
+    "end_time": 744.0
+  },
+  {
+    "caption": "O. Tshiebwe steals the ball from D. DeRozan on a bad pass.",
+    "start_time": 760.0,
+    "end_time": 764.0
+  },
+  {
+    "caption": "A. Garcia's running dunk two-pointer is missed. B. Sensabaugh grabs the offensive rebound after A. Garcia's missed running dunk two-pointer.",
+    "start_time": 765.0,
+    "end_time": 772.0
+  },
+  {
+    "caption": "B. Sensabaugh misses a pullup three-pointer. B. Sensabaugh grabs the offensive rebound after missing his pullup three-pointer.",
+    "start_time": 769.0,
+    "end_time": 776.0
+  },
+  {
+    "caption": "D. McDermott commits a shooting personal foul.",
+    "start_time": 776.0,
+    "end_time": 780.0
+  },
+  {
+    "caption": "O. Tshiebwe steals the ball from D. DeRozan on a lost ball.",
+    "start_time": 847.5,
+    "end_time": 851.5
+  },
+  {
+    "caption": "Jump ball between O. Tshiebwe and D. DeRozan, A. Garcia recovers the tip.",
+    "start_time": 888.0,
+    "end_time": 893.0
+  },
+  {
+    "caption": "E. Harkless is called for a bad pass out-of-bounds turnover.",
+    "start_time": 892.0,
+    "end_time": 895.0
+  },
+  {
+    "caption": "M. Raynaud commits a personal foul.",
+    "start_time": 915.0,
+    "end_time": 918.0
+  },
+  {
+    "caption": "B. Sensabaugh makes a pullup two-pointer, assisted by E. Harkless.",
+    "start_time": 946.0,
+    "end_time": 954.5
+  },
+  {
+    "caption": "B. Mbeng commits a personal foul.",
+    "start_time": 964.5,
+    "end_time": 967.5
+  },
+  {
+    "caption": "D. Plowden misses a jump shot three-pointer.",
+    "start_time": 988.5,
+    "end_time": 995.5
+  },
+  {
+    "caption": "B. Sensabaugh misses a step back three-pointer. D. Plowden grabs the defensive rebound after B. Sensabaugh's missed three-pointer.",
+    "start_time": 1021.5,
+    "end_time": 1028.5
+  },
+  {
+    "caption": "D. Plowden misses a driving layup two-pointer. P. Achiuwa grabs the offensive rebound after D. Plowden's missed driving layup two-pointer. P. Achiuwa misses a tip layup two-pointer.",
+    "start_time": 1057.0,
+    "end_time": 1066.0
+  },
+  {
+    "caption": "D. Cardwell grabs the offensive rebound.",
+    "start_time": 1060.0,
+    "end_time": 1066.0
+  },
+  {
+    "caption": "D. Plowden makes a jump shot three-pointer, assisted by D. DeRozan.",
+    "start_time": 1061.5,
+    "end_time": 1070.0
+  },
+  {
+    "caption": "B. Sensabaugh makes a driving finger roll two-pointer.",
+    "start_time": 1074.5,
+    "end_time": 1083.0
+  },
+  {
+    "caption": "N. Clifford makes a driving layup two-pointer, assisted by D. Plowden. A. Garcia commits a shooting personal foul.",
+    "start_time": 1087.5,
+    "end_time": 1096.0
+  },
+  {
+    "caption": "D. DeRozan steals the ball from A. Garcia on a bad pass.",
+    "start_time": 1306.0,
+    "end_time": 1310.0
+  },
+  {
+    "caption": "D. DeRozan misses a turnaround two-pointer. A. Garcia grabs the defensive rebound after D. DeRozan's missed jump shot two-pointer.",
+    "start_time": 1316.0,
+    "end_time": 1323.0
+  },
+  {
+    "caption": "A. Garcia misses a jump shot three-pointer. D. Cardwell grabs the defensive rebound after A. Garcia's missed jump shot three-pointer.",
+    "start_time": 1324.0,
+    "end_time": 1331.0
+  },
+  {
+    "caption": "N. Clifford misses a jump shot three-pointer. N. Clifford grabs the offensive rebound after missing his jump shot three-pointer.",
+    "start_time": 1346.0,
+    "end_time": 1353.0
+  },
+  {
+    "caption": "N. Clifford makes a jump shot three-pointer, assisted by D. DeRozan.",
+    "start_time": 1354.5,
+    "end_time": 1363.0
+  },
+  {
+    "caption": "P. Achiuwa steals the ball from B. Mbeng on a lost ball.",
+    "start_time": 1375.0,
+    "end_time": 1379.0
+  },
+  {
+    "caption": "P. Achiuwa makes a running layup two-pointer. D. Plowden commits a personal foul.",
+    "start_time": 1378.5,
+    "end_time": 1395.0
+  },
+  {
+    "caption": "D. Plowden's running dunk two-pointer is missed. P. Achiuwa grabs the offensive rebound after D. Plowden's missed running dunk two-pointer.",
+    "start_time": 1379.133333,
+    "end_time": 1386.133333
+  },
+  {
+    "caption": "D. DeRozan makes a fadeaway jump shot two-pointer, assisted by K. Hayes.",
+    "start_time": 1465.0,
+    "end_time": 1473.5
+  },
+  {
+    "caption": "C. Williams misses a pullup two-pointer. D. Cardwell grabs the defensive rebound after C. Williams' missed pullup two-pointer.",
+    "start_time": 1478.9,
+    "end_time": 1485.9
+  },
+  {
+    "caption": "D. DeRozan makes a pullup two-pointer.",
+    "start_time": 1498.6,
+    "end_time": 1507.1
+  },
+  {
+    "caption": "C. Williams makes a fadeaway jump shot two-pointer.",
+    "start_time": 1519.7,
+    "end_time": 1528.2
+  },
+  {
+    "caption": "D. DeRozan is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1545.1,
+    "end_time": 1548.1
+  }
+]

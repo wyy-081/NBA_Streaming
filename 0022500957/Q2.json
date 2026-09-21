@@ -1,0 +1,267 @@
+[
+  {
+    "caption": "B. Portis makes a pullup two-pointer, assisted by R. Rollins.",
+    "start_time": 29.5,
+    "end_time": 38.0
+  },
+  {
+    "caption": "S. Fontecchio makes a jump shot three-pointer, assisted by D. Smith.",
+    "start_time": 46.5,
+    "end_time": 55.0
+  },
+  {
+    "caption": "B. Portis misses a driving finger roll two-pointer. S. Fontecchio grabs the defensive rebound after B. Portis' missed driving finger roll layup two-pointer.",
+    "start_time": 65.0,
+    "end_time": 72.0
+  },
+  {
+    "caption": "S. Fontecchio misses a running three-pointer. R. Rollins grabs the defensive rebound after S. Fontecchio's missed three-pointer.",
+    "start_time": 71.0,
+    "end_time": 78.0
+  },
+  {
+    "caption": "T. Prince makes a jump shot three-pointer, assisted by B. Portis.",
+    "start_time": 83.5,
+    "end_time": 92.0
+  },
+  {
+    "caption": "T. Prince commits a personal foul.",
+    "start_time": 100.0,
+    "end_time": 103.0
+  },
+  {
+    "caption": "T. Prince commits a personal foul.",
+    "start_time": 128.0,
+    "end_time": 131.0
+  },
+  {
+    "caption": "B. Adebayo misses a jump shot three-pointer. J. Jaquez Jr. grabs the offensive rebound after B. Adebayo's missed three-pointer.",
+    "start_time": 157.5,
+    "end_time": 164.5
+  },
+  {
+    "caption": "S. Fontecchio makes a jump shot three-pointer, assisted by J. Jaquez Jr.",
+    "start_time": 160.0,
+    "end_time": 168.5
+  },
+  {
+    "caption": "R. Rollins makes a step back three-pointer.",
+    "start_time": 175.0,
+    "end_time": 183.5
+  },
+  {
+    "caption": "D. Smith makes a driving floating bank two-pointer, assisted by J. Jaquez Jr.",
+    "start_time": 184.0,
+    "end_time": 192.5
+  },
+  {
+    "caption": "J. Sims makes a driving layup two-pointer, assisted by R. Rollins.",
+    "start_time": 200.0,
+    "end_time": 208.5
+  },
+  {
+    "caption": "B. Portis steals the ball from S. Fontecchio on a bad pass.",
+    "start_time": 222.0,
+    "end_time": 226.0
+  },
+  {
+    "caption": "S. Fontecchio commits a take personal foul.",
+    "start_time": 224.0,
+    "end_time": 227.0
+  },
+  {
+    "caption": "G. Antetokounmpo misses a turnaround two-pointer. B. Adebayo grabs the defensive rebound after G. Antetokounmpo's missed turnaround two-pointer.",
+    "start_time": 292.0,
+    "end_time": 299.0
+  },
+  {
+    "caption": "A. Green commits a personal foul.",
+    "start_time": 309.0,
+    "end_time": 313.0
+  },
+  {
+    "caption": "B. Portis misses a turnaround two-pointer. D. Smith grabs the defensive rebound after B. Portis's missed jump shot two-pointer.",
+    "start_time": 411.0,
+    "end_time": 418.0
+  },
+  {
+    "caption": "J. Jaquez Jr. misses a jump shot three-pointer. M. Gardner grabs the offensive rebound after J. Jaquez Jr.'s missed three-pointer.",
+    "start_time": 430.0,
+    "end_time": 437.0
+  },
+  {
+    "caption": "C. Thomas commits a personal foul.",
+    "start_time": 438.0,
+    "end_time": 442.0
+  },
+  {
+    "caption": "K. Porter Jr. misses a step back jump shot. M. Gardner grabs the defensive rebound after K. Porter Jr.'s missed jump shot two-pointer.",
+    "start_time": 506.5,
+    "end_time": 513.5
+  },
+  {
+    "caption": "K. Porter Jr. steals the ball from B. Adebayo on a lost ball.",
+    "start_time": 518.5,
+    "end_time": 522.5
+  },
+  {
+    "caption": "G. Antetokounmpo commits an offensive foul.",
+    "start_time": 527.5,
+    "end_time": 530.5
+  },
+  {
+    "caption": "S. Fontecchio misses a jump shot three-pointer. B. Portis grabs the defensive rebound after S. Fontecchio's missed three-pointer.",
+    "start_time": 557.0,
+    "end_time": 564.0
+  },
+  {
+    "caption": "K. Porter Jr. makes a driving layup two-pointer.",
+    "start_time": 571.5,
+    "end_time": 580.0
+  },
+  {
+    "caption": "D. Smith is called for a traveling violation.",
+    "start_time": 592.5,
+    "end_time": 595.5
+  },
+  {
+    "caption": "J. Jaquez Jr. commits a personal foul.",
+    "start_time": 797.5,
+    "end_time": 801.5
+  },
+  {
+    "caption": "K. Ware grabs the defensive rebound.",
+    "start_time": 858.0,
+    "end_time": 863.0
+  },
+  {
+    "caption": "J. Jaquez Jr. misses a jump shot three-pointer. M. Turner grabs the defensive rebound after J. Jaquez Jr.'s missed three-pointer.",
+    "start_time": 870.0,
+    "end_time": 877.0
+  },
+  {
+    "caption": "K. Kuzma misses a running three-pointer.",
+    "start_time": 879.0,
+    "end_time": 886.0
+  },
+  {
+    "caption": "Giannis Antetokounmpo makes a cutting dunk two-pointer, assisted by Kyle Kuzma.",
+    "start_time": 902.0,
+    "end_time": 910.5
+  },
+  {
+    "caption": "D. Mitchell makes a jump shot three-pointer, assisted by J. Jaquez Jr.",
+    "start_time": 922.0,
+    "end_time": 930.5
+  },
+  {
+    "caption": "G. Antetokounmpo makes a driving dunk two-pointer, assisted by K. Porter Jr.",
+    "start_time": 944.0,
+    "end_time": 952.5
+  },
+  {
+    "caption": "J. Jaquez Jr. misses a turnaround jump shot. G. Antetokounmpo grabs the defensive rebound after J. Jaquez Jr.'s missed jump shot.",
+    "start_time": 966.5,
+    "end_time": 973.5
+  },
+  {
+    "caption": "J. Jaquez Jr. commits a personal foul.",
+    "start_time": 975.5,
+    "end_time": 979.5
+  },
+  {
+    "caption": "D. Mitchell misses a driving floating two-pointer. K. Kuzma grabs the defensive rebound after D. Mitchell's missed driving floating two-pointer.",
+    "start_time": 1058.0,
+    "end_time": 1065.0
+  },
+  {
+    "caption": "G. Antetokounmpo's running finger roll two-pointer is missed. K. Ware grabs the defensive rebound after G. Antetokounmpo's missed running finger roll layup two-pointer.",
+    "start_time": 1066.0,
+    "end_time": 1073.0
+  },
+  {
+    "caption": "G. Antetokounmpo makes a running alley-oop dunk two-pointer, assisted by K. Porter Jr. M. Turner commits a personal foul.",
+    "start_time": 1074.5,
+    "end_time": 1286.0
+  },
+  {
+    "caption": "C. Thomas steals the ball from K. Jakučionis on a bad pass.",
+    "start_time": 1075.0,
+    "end_time": 1079.0
+  },
+  {
+    "caption": "R. Rollins makes a jump shot three-pointer, assisted by M. Turner. K. Kuzma commits a shooting personal foul.",
+    "start_time": 1329.5,
+    "end_time": 1357.0
+  },
+  {
+    "caption": "M. Turner makes a fadeaway jump shot two-pointer, assisted by G. Antetokounmpo.",
+    "start_time": 1427.0,
+    "end_time": 1435.5
+  },
+  {
+    "caption": "B. Adebayo makes a step back jump shot two-pointer, assisted by D. Mitchell.",
+    "start_time": 1447.0,
+    "end_time": 1455.5
+  },
+  {
+    "caption": "G. Antetokounmpo misses a driving finger roll two-pointer. K. Ware grabs the defensive rebound after G. Antetokounmpo's missed driving finger roll layup two-pointer.",
+    "start_time": 1464.5,
+    "end_time": 1471.5
+  },
+  {
+    "caption": "K. Jakučionis misses a running three-pointer. B. Adebayo grabs the offensive rebound after K. Jakučionis's missed running three-pointer. B. Adebayo misses a tip layup two-pointer.",
+    "start_time": 1469.5,
+    "end_time": 1481.5
+  },
+  {
+    "caption": "K. Ware misses a turnaround hook two-pointer. M. Turner grabs the defensive rebound after K. Ware's missed turnaround hook two-pointer.",
+    "start_time": 1508.5,
+    "end_time": 1515.5
+  },
+  {
+    "caption": "M. Turner makes a jump shot three-pointer, assisted by R. Rollins.",
+    "start_time": 1515.0,
+    "end_time": 1523.5
+  },
+  {
+    "caption": "K. Jakučionis makes a floating jump shot two-pointer, assisted by P. Larsson. O. Dieng commits a personal foul.",
+    "start_time": 1529.0,
+    "end_time": 1537.5
+  },
+  {
+    "caption": "G. Antetokounmpo is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1580.5,
+    "end_time": 1583.5
+  },
+  {
+    "caption": "B. Adebayo misses a turnaround two-pointer.",
+    "start_time": 1614.0,
+    "end_time": 1621.0
+  },
+  {
+    "caption": "R. Rollins misses a step back three-pointer. K. Jakučionis grabs the defensive rebound after R. Rollins' missed jump shot three-pointer.",
+    "start_time": 1637.5,
+    "end_time": 1644.5
+  },
+  {
+    "caption": "D. Mitchell makes a running pullup three-pointer, assisted by K. Jakučionis.",
+    "start_time": 1642.0,
+    "end_time": 1650.5
+  },
+  {
+    "caption": "C. Thomas misses a driving floating two-pointer. P. Larsson grabs the defensive rebound after C. Thomas's missed driving floating two-pointer.",
+    "start_time": 1668.7,
+    "end_time": 1675.7
+  },
+  {
+    "caption": "P. Larsson makes a cutting layup two-pointer, assisted by K. Ware.",
+    "start_time": 1684.9,
+    "end_time": 1693.4
+  },
+  {
+    "caption": "M. Turner misses a pullup three-pointer. K. Ware grabs the defensive rebound after M. Turner's missed jump shot three-pointer.",
+    "start_time": 1710.8,
+    "end_time": 1717.8
+  }
+]

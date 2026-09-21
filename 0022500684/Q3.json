@@ -1,0 +1,257 @@
+[
+  {
+    "caption": "T. Mann makes a jump shot three-pointer, assisted by D. Wolf.",
+    "start_time": 6.0,
+    "end_time": 14.5
+  },
+  {
+    "caption": "P. Watson makes a fadeaway jump shot two-pointer, assisted by J. Valančiūnas.",
+    "start_time": 36.0,
+    "end_time": 44.5
+  },
+  {
+    "caption": "M. Porter Jr. makes a jump shot three-pointer, assisted by N. Traore.",
+    "start_time": 52.0,
+    "end_time": 60.5
+  },
+  {
+    "caption": "P. Watson misses a pullup two-pointer. M. Porter Jr. grabs the defensive rebound after P. Watson's missed pullup two-pointer.",
+    "start_time": 72.5,
+    "end_time": 79.5
+  },
+  {
+    "caption": "M. Porter Jr. makes a running layup two-pointer.",
+    "start_time": 78.0,
+    "end_time": 86.5
+  },
+  {
+    "caption": "T. Mann commits a personal foul.",
+    "start_time": 94.5,
+    "end_time": 97.5
+  },
+  {
+    "caption": "Jamal Murray makes a step back jump shot two-pointer.",
+    "start_time": 118.5,
+    "end_time": 127.0
+  },
+  {
+    "caption": "T. Mann makes a jump shot three-pointer, assisted by N. Claxton.",
+    "start_time": 137.5,
+    "end_time": 146.0
+  },
+  {
+    "caption": "J. Pickett misses a jump shot three-pointer. M. Porter Jr. grabs the defensive rebound after J. Pickett's missed jump shot three-pointer.",
+    "start_time": 165.0,
+    "end_time": 172.0
+  },
+  {
+    "caption": "J. Valančiūnas commits a shooting personal foul.",
+    "start_time": 189.0,
+    "end_time": 193.0
+  },
+  {
+    "caption": "T. Mann commits a personal foul.",
+    "start_time": 244.0,
+    "end_time": 247.0
+  },
+  {
+    "caption": "P. Watson's pullup two-pointer is blocked by M. Porter Jr.",
+    "start_time": 275.0,
+    "end_time": 280.0
+  },
+  {
+    "caption": "M. Porter Jr. blocks P. Watson's jump shot two-pointer.",
+    "start_time": 277.0,
+    "end_time": 280.0
+  },
+  {
+    "caption": "M. Porter Jr. makes a jump shot three-pointer, assisted by N. Claxton.",
+    "start_time": 301.5,
+    "end_time": 310.0
+  },
+  {
+    "caption": "P. Watson misses a fadeaway two-pointer. D. Wolf grabs the defensive rebound after P. Watson's missed jump shot two-pointer.",
+    "start_time": 494.0,
+    "end_time": 501.0
+  },
+  {
+    "caption": "J. Valančiūnas steals the ball from T. Mann on a bad pass.",
+    "start_time": 510.5,
+    "end_time": 514.5
+  },
+  {
+    "caption": "Jamal Murray misses a driving floating two-pointer. N. Claxton grabs the defensive rebound after J. Murray's missed driving floating two-pointer.",
+    "start_time": 535.5,
+    "end_time": 542.5
+  },
+  {
+    "caption": "T. Mann misses a jump shot three-pointer. S. Jones grabs the defensive rebound after T. Mann's missed three-pointer.",
+    "start_time": 542.5,
+    "end_time": 549.5
+  },
+  {
+    "caption": "J. Valančiūnas misses a jump shot two-pointer. M. Porter Jr. grabs the defensive rebound after J. Valančiūnas's missed jump shot.",
+    "start_time": 558.0,
+    "end_time": 565.0
+  },
+  {
+    "caption": "M. Porter Jr. misses a step back jump shot. J. Pickett grabs the defensive rebound after M. Porter Jr.'s missed jump shot two-pointer.",
+    "start_time": 576.5,
+    "end_time": 583.5
+  },
+  {
+    "caption": "S. Jones misses a driving floating two-pointer. T. Mann grabs the defensive rebound after S. Jones' missed driving floating two-pointer.",
+    "start_time": 593.5,
+    "end_time": 600.5
+  },
+  {
+    "caption": "D. Wolf misses a jump shot three-pointer. N. Claxton grabs the offensive rebound after D. Wolf's missed jump shot three-pointer.",
+    "start_time": 603.5,
+    "end_time": 610.5
+  },
+  {
+    "caption": "N. Traore misses a jump shot three-pointer. J. Valančiūnas grabs the defensive rebound after N. Traore's missed jump shot three-pointer.",
+    "start_time": 614.5,
+    "end_time": 621.5
+  },
+  {
+    "caption": "Jamal Murray misses a driving layup two-pointer. N. Claxton grabs the defensive rebound after J. Murray's missed driving layup two-pointer.",
+    "start_time": 636.5,
+    "end_time": 643.5
+  },
+  {
+    "caption": "J. Valančiūnas commits a personal foul.",
+    "start_time": 641.5,
+    "end_time": 644.5
+  },
+  {
+    "caption": "N. Claxton misses a turnaround hook two-pointer. T. Hardaway Jr. grabs the defensive rebound after N. Claxton's missed turnaround hook two-pointer.",
+    "start_time": 685.5,
+    "end_time": 692.5
+  },
+  {
+    "caption": "J. Pickett misses a jump shot three-pointer. T. Martin grabs the defensive rebound after J. Pickett's missed jump shot three-pointer.",
+    "start_time": 694.5,
+    "end_time": 701.5
+  },
+  {
+    "caption": "M. Porter Jr. misses a jump shot three-pointer. T. Hardaway Jr. grabs the defensive rebound after M. Porter Jr.'s missed three-pointer.",
+    "start_time": 709.5,
+    "end_time": 716.5
+  },
+  {
+    "caption": "Jamal Murray makes a driving dunk two-pointer, assisted by J. Pickett.",
+    "start_time": 721.0,
+    "end_time": 729.5
+  },
+  {
+    "caption": "M. Porter Jr.'s driving floating two-pointer is blocked by Z. Nnaji. Z. Nnaji blocks M. Porter Jr.'s jump shot two-pointer. D. Sharpe grabs the offensive rebound after M. Porter Jr.'s missed driving floating two-pointer.",
+    "start_time": 912.0,
+    "end_time": 917.0
+  },
+  {
+    "caption": "T. Martin makes a jump shot three-pointer, assisted by D. Sharpe.",
+    "start_time": 912.5,
+    "end_time": 921.0
+  },
+  {
+    "caption": "M. Porter Jr. commits a personal foul.",
+    "start_time": 939.0,
+    "end_time": 942.0
+  },
+  {
+    "caption": "T. Martin makes a running dunk two-pointer, assisted by M. Porter Jr.",
+    "start_time": 959.5,
+    "end_time": 968.0
+  },
+  {
+    "caption": "M. Porter Jr. steals the ball from Z. Nnaji on a bad pass.",
+    "start_time": 960.0,
+    "end_time": 964.0
+  },
+  {
+    "caption": "T. Hardaway Jr. makes a jump shot three-pointer, assisted by Jamal Murray.",
+    "start_time": 982.5,
+    "end_time": 991.0
+  },
+  {
+    "caption": "M. Porter Jr. makes a jump shot three-pointer, assisted by B. Saraf.",
+    "start_time": 996.5,
+    "end_time": 1005.0
+  },
+  {
+    "caption": "P. Watson makes a cutting layup two-pointer, assisted by J. Murray.",
+    "start_time": 1225.0,
+    "end_time": 1233.5
+  },
+  {
+    "caption": "T. Hardaway Jr. steals the ball from D. Sharpe on a bad pass.",
+    "start_time": 1256.5,
+    "end_time": 1260.5
+  },
+  {
+    "caption": "P. Watson misses a running layup two-pointer. J. Murray grabs the offensive rebound after P. Watson's missed running layup two-pointer.",
+    "start_time": 1260.5,
+    "end_time": 1267.5
+  },
+  {
+    "caption": "J. Murray misses a pullup three-pointer. T. Martin grabs the defensive rebound after J. Murray's missed jump shot three-pointer.",
+    "start_time": 1268.5,
+    "end_time": 1275.5
+  },
+  {
+    "caption": "M. Porter Jr. misses a jump shot three-pointer. T. Hardaway Jr. grabs the defensive rebound after M. Porter Jr.'s missed three-pointer.",
+    "start_time": 1280.5,
+    "end_time": 1287.5
+  },
+  {
+    "caption": "P. Watson makes a floating jump shot two-pointer, assisted by B. Brown.",
+    "start_time": 1340.5,
+    "end_time": 1349.0
+  },
+  {
+    "caption": "J. Wilson misses a driving floating bank two-pointer. D. Sharpe grabs the offensive rebound after J. Wilson's missed driving floating bank two-pointer. D. Sharpe's tip layup two-pointer is missed.",
+    "start_time": 1362.0,
+    "end_time": 1369.0
+  },
+  {
+    "caption": "B. Brown grabs the defensive rebound.",
+    "start_time": 1363.0,
+    "end_time": 1369.0
+  },
+  {
+    "caption": "T. Hardaway Jr. misses a running three-pointer. D. Sharpe grabs the defensive rebound after T. Hardaway Jr.'s missed running three-pointer.",
+    "start_time": 1367.0,
+    "end_time": 1374.0
+  },
+  {
+    "caption": "T. Martin's turnaround two-pointer is blocked by Z. Nnaji. Z. Nnaji blocks T. Martin's jump shot two-pointer. J. Strawther grabs the defensive rebound after T. Martin's missed turnaround two-pointer.",
+    "start_time": 1379.0,
+    "end_time": 1384.0
+  },
+  {
+    "caption": "P. Watson misses a jump shot two-pointer. D. Sharpe grabs the defensive rebound after P. Watson's missed jump shot two-pointer.",
+    "start_time": 1401.6,
+    "end_time": 1408.6
+  },
+  {
+    "caption": "J. Wilson makes a jump shot three-pointer, assisted by B. Saraf.",
+    "start_time": 1423.5,
+    "end_time": 1432.0
+  },
+  {
+    "caption": "T. Hardaway Jr. misses a pullup two-pointer. B. Saraf grabs the defensive rebound after T. Hardaway Jr.'s missed pullup two-pointer.",
+    "start_time": 1453.0,
+    "end_time": 1460.0
+  },
+  {
+    "caption": "J. Strawther makes a driving layup two-pointer.",
+    "start_time": 1458.0,
+    "end_time": 1466.5
+  },
+  {
+    "caption": "J. Strawther steals the ball from B. Saraf on a lost ball.",
+    "start_time": 1460.4,
+    "end_time": 1464.4
+  }
+]

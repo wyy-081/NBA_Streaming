@@ -1,0 +1,277 @@
+[
+  {
+    "caption": "J. Walter misses a jump shot three-pointer. M. McClung grabs the defensive rebound after J. Walter's missed three-pointer.",
+    "start_time": 16.0,
+    "end_time": 23.0
+  },
+  {
+    "caption": "M. McClung makes a driving layup two-pointer.",
+    "start_time": 28.5,
+    "end_time": 37.0
+  },
+  {
+    "caption": "J. Ivey steals the ball from S. Barnes on a lost ball.",
+    "start_time": 42.5,
+    "end_time": 46.5
+  },
+  {
+    "caption": "M. McClung misses a running finger roll two-pointer. J. Shead grabs the defensive rebound after M. McClung's missed running finger roll layup two-pointer.",
+    "start_time": 46.0,
+    "end_time": 53.0
+  },
+  {
+    "caption": "S. Barnes makes a driving layup two-pointer.",
+    "start_time": 56.5,
+    "end_time": 65.0
+  },
+  {
+    "caption": "J. Ivey misses a step back three-pointer. C. Murray-Boyles grabs the defensive rebound after J. Ivey's missed jump shot three-pointer.",
+    "start_time": 71.666667,
+    "end_time": 78.666667
+  },
+  {
+    "caption": "J. Walter misses a cutting layup two-pointer. J. Walter grabs the offensive rebound after missing his layup two-pointer.",
+    "start_time": 84.0,
+    "end_time": 91.0
+  },
+  {
+    "caption": "J. Walter makes a driving reverse layup two-pointer.",
+    "start_time": 86.5,
+    "end_time": 95.0
+  },
+  {
+    "caption": "J. Ivey makes a jump shot three-pointer, assisted by G. Yabusele. J. Ivey commits a personal foul.",
+    "start_time": 108.5,
+    "end_time": 127.5
+  },
+  {
+    "caption": "M. Buzelis grabs the defensive rebound.",
+    "start_time": 174.0,
+    "end_time": 179.0
+  },
+  {
+    "caption": "M. McClung misses a jump shot three-pointer.",
+    "start_time": 186.0,
+    "end_time": 193.0
+  },
+  {
+    "caption": "J. Shead misses a driving floating two-pointer.",
+    "start_time": 204.5,
+    "end_time": 211.5
+  },
+  {
+    "caption": "M. Buzelis makes a driving layup two-pointer.",
+    "start_time": 224.0,
+    "end_time": 232.5
+  },
+  {
+    "caption": "S. Mamukelashvili makes a step back three-pointer, assisted by J. Shead.",
+    "start_time": 250.0,
+    "end_time": 258.5
+  },
+  {
+    "caption": "M. Buzelis loses the ball out-of-bounds.",
+    "start_time": 261.5,
+    "end_time": 264.5
+  },
+  {
+    "caption": "J. Shead misses a jump shot three-pointer. J. Ivey grabs the defensive rebound after J. Shead's missed jump shot three-pointer.",
+    "start_time": 294.5,
+    "end_time": 301.5
+  },
+  {
+    "caption": "M. McClung misses a driving floating two-pointer. J. Ivey grabs the offensive rebound after M. McClung's missed driving floating two-pointer. J. Ivey misses a tip layup two-pointer.",
+    "start_time": 311.5,
+    "end_time": 319.5
+  },
+  {
+    "caption": "J. Ivey grabs the offensive rebound.",
+    "start_time": 313.5,
+    "end_time": 319.5
+  },
+  {
+    "caption": "J. Ivey misses a reverse layup two-pointer. S. Mamukelashvili grabs the defensive rebound after J. Ivey's missed reverse layup two-pointer.",
+    "start_time": 320.5,
+    "end_time": 327.5
+  },
+  {
+    "caption": "I. Quickley misses a running three-pointer. I. Quickley grabs the offensive rebound after missing his running three-pointer.",
+    "start_time": 325.5,
+    "end_time": 332.5
+  },
+  {
+    "caption": "S. Mamukelashvili makes a hook two-pointer, assisted by I. Quickley.",
+    "start_time": 329.0,
+    "end_time": 337.5
+  },
+  {
+    "caption": "G. Yabusele misses a jump shot three-pointer. S. Mamukelashvili grabs the defensive rebound after G. Yabusele's missed three-pointer.",
+    "start_time": 558.5,
+    "end_time": 565.5
+  },
+  {
+    "caption": "C. Murray-Boyles is called for a bad pass out-of-bounds turnover.",
+    "start_time": 580.5,
+    "end_time": 583.5
+  },
+  {
+    "caption": "J. Smith makes a cutting dunk two-pointer, assisted by P. Williams.",
+    "start_time": 598.5,
+    "end_time": 607.0
+  },
+  {
+    "caption": "C. Murray-Boyles makes a finger roll layup two-pointer, assisted by B. Ingram.",
+    "start_time": 620.5,
+    "end_time": 629.0
+  },
+  {
+    "caption": "J. Smith makes a driving layup two-pointer, assisted by P. Williams.",
+    "start_time": 641.5,
+    "end_time": 650.0
+  },
+  {
+    "caption": "B. Ingram's driving layup two-pointer is blocked by P. Williams. P. Williams blocks B. Ingram's layup two-pointer.",
+    "start_time": 655.0,
+    "end_time": 660.0
+  },
+  {
+    "caption": "J. Ivey commits a personal foul.",
+    "start_time": 692.5,
+    "end_time": 696.5
+  },
+  {
+    "caption": "J. Walter steals the ball from P. Williams on a lost ball.",
+    "start_time": 759.0,
+    "end_time": 763.0
+  },
+  {
+    "caption": "I. Quickley misses a running pullup two-pointer. S. Barnes grabs the offensive rebound after I. Quickley's missed running pullup two-pointer. S. Barnes misses a tip layup two-pointer.",
+    "start_time": 765.0,
+    "end_time": 776.0
+  },
+  {
+    "caption": "G. Yabusele grabs the defensive rebound.",
+    "start_time": 770.0,
+    "end_time": 776.0
+  },
+  {
+    "caption": "J. Smith misses a pullup three-pointer. G. Yabusele grabs the offensive rebound after J. Smith's missed pullup three-pointer.",
+    "start_time": 778.0,
+    "end_time": 785.0
+  },
+  {
+    "caption": "A. Simons misses a jump shot three-pointer. J. Smith grabs the offensive rebound after A. Simons' missed jump shot three-pointer. J. Smith makes a putback layup two-pointer.",
+    "start_time": 784.0,
+    "end_time": 795.0
+  },
+  {
+    "caption": "S. Mamukelashvili misses a driving floating bank two-pointer. A. Simons grabs the defensive rebound after S. Mamukelashvili's missed driving floating bank two-pointer.",
+    "start_time": 806.0,
+    "end_time": 813.0
+  },
+  {
+    "caption": "S. Barnes commits a personal foul.",
+    "start_time": 819.0,
+    "end_time": 822.0
+  },
+  {
+    "caption": "A. Simons makes a step back three-pointer.",
+    "start_time": 1084.5,
+    "end_time": 1093.0
+  },
+  {
+    "caption": "B. Ingram makes a turnaround jump shot two-pointer.",
+    "start_time": 1109.5,
+    "end_time": 1118.0
+  },
+  {
+    "caption": "A. Simons misses a pullup three-pointer. G. Yabusele grabs the offensive rebound after A. Simons' missed pullup three-pointer.",
+    "start_time": 1121.0,
+    "end_time": 1128.0
+  },
+  {
+    "caption": "M. Buzelis misses a jump shot three-pointer. S. Mamukelashvili grabs the defensive rebound after M. Buzelis's missed three-pointer.",
+    "start_time": 1125.0,
+    "end_time": 1132.0
+  },
+  {
+    "caption": "B. Ingram misses a pullup three-pointer. A. Simons grabs the defensive rebound after B. Ingram's missed jump shot three-pointer.",
+    "start_time": 1150.0,
+    "end_time": 1157.0
+  },
+  {
+    "caption": "P. Williams' driving layup two-pointer is blocked by B. Ingram. B. Ingram blocks P. Williams' driving layup two-pointer. S. Barnes grabs the defensive rebound after P. Williams' driving layup two-pointer is blocked.",
+    "start_time": 1160.0,
+    "end_time": 1165.0
+  },
+  {
+    "caption": "G. Yabusele misses a jump shot three-pointer. S. Barnes grabs the defensive rebound after G. Yabusele's missed jump shot three-pointer.",
+    "start_time": 1285.5,
+    "end_time": 1292.5
+  },
+  {
+    "caption": "S. Barnes misses a driving floating two-pointer. J. Ivey grabs the defensive rebound after S. Barnes' missed driving floating two-pointer.",
+    "start_time": 1298.5,
+    "end_time": 1305.5
+  },
+  {
+    "caption": "J. Ivey's running pullup two-pointer is blocked by C. Murray-Boyles. C. Murray-Boyles blocks J. Ivey's jump shot two-pointer. B. Ingram grabs the defensive rebound after J. Ivey's missed running pullup two-pointer.",
+    "start_time": 1308.5,
+    "end_time": 1313.5
+  },
+  {
+    "caption": "I. Quickley misses a jump shot three-pointer. C. Murray-Boyles grabs the offensive rebound after I. Quickley's missed three-pointer.",
+    "start_time": 1326.5,
+    "end_time": 1333.5
+  },
+  {
+    "caption": "Immanuel Quickley makes a jump shot three-pointer, assisted by Brandon Ingram.",
+    "start_time": 1336.0,
+    "end_time": 1344.5
+  },
+  {
+    "caption": "A. Simons is called for an out-of-bounds turnover.",
+    "start_time": 1356.5,
+    "end_time": 1359.5
+  },
+  {
+    "caption": "B. Ingram misses a jump shot three-pointer. G. Yabusele grabs the defensive rebound after B. Ingram's missed jump shot three-pointer.",
+    "start_time": 1380.5,
+    "end_time": 1387.5
+  },
+  {
+    "caption": "M. Buzelis misses a running pullup three-pointer. M. Buzelis grabs the offensive rebound after missing his running pullup three-pointer.",
+    "start_time": 1391.5,
+    "end_time": 1398.5
+  },
+  {
+    "caption": "Y. Kawamura misses a pullup three-pointer.",
+    "start_time": 1505.5,
+    "end_time": 1512.5
+  },
+  {
+    "caption": "I. Quickley makes a turnaround jump shot two-pointer.",
+    "start_time": 1574.0,
+    "end_time": 1582.5
+  },
+  {
+    "caption": "P. Williams makes a jump shot three-pointer, assisted by L. Olbrich.",
+    "start_time": 1598.0,
+    "end_time": 1606.5
+  },
+  {
+    "caption": "C. Murray-Boyles makes a cutting layup two-pointer, assisted by J. Battle.",
+    "start_time": 1623.7,
+    "end_time": 1632.2
+  },
+  {
+    "caption": "J. Walter commits a take personal foul.",
+    "start_time": 1632.7,
+    "end_time": 1635.7
+  },
+  {
+    "caption": "J. Mogbo steals the ball from Y. Kawamura on a bad pass.",
+    "start_time": 1676.1,
+    "end_time": 1680.1
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "caption": "A. Thompson commits an offensive foul.",
+    "start_time": 32.0,
+    "end_time": 35.0
+  },
+  {
+    "caption": "J. Huff's reverse dunk two-pointer is blocked by J. Smith Jr. J. Smith Jr. blocks J. Huff's dunk two-pointer. T. Eason grabs the defensive rebound after J. Huff's missed reverse dunk two-pointer.",
+    "start_time": 65.0,
+    "end_time": 70.0
+  },
+  {
+    "caption": "A. Thompson misses a running reverse layup two-pointer. J. Furphy grabs the defensive rebound after A. Thompson's missed running reverse layup two-pointer.",
+    "start_time": 71.0,
+    "end_time": 78.0
+  },
+  {
+    "caption": "J. Huff makes a jump shot three-pointer, assisted by P. Siakam.",
+    "start_time": 80.5,
+    "end_time": 89.0
+  },
+  {
+    "caption": "J. Smith Jr. makes a fadeaway jump shot two-pointer, assisted by R. Sheppard.",
+    "start_time": 99.5,
+    "end_time": 108.0
+  },
+  {
+    "caption": "J. Huff misses a jump shot three-pointer. T. Eason grabs the defensive rebound after J. Huff's missed three-pointer.",
+    "start_time": 115.0,
+    "end_time": 122.0
+  },
+  {
+    "caption": "A. Sengun makes a driving dunk two-pointer.",
+    "start_time": 129.5,
+    "end_time": 138.0
+  },
+  {
+    "caption": "A. Nesmith misses a jump shot three-pointer. P. Siakam grabs the offensive rebound after A. Nesmith's missed three-pointer. P. Siakam makes a putback layup two-pointer.",
+    "start_time": 148.0,
+    "end_time": 158.0
+  },
+  {
+    "caption": "A. Sengun is called for a defensive goaltending violation.",
+    "start_time": 155.0,
+    "end_time": 158.0
+  },
+  {
+    "caption": "J. Furphy commits a personal foul.",
+    "start_time": 184.5,
+    "end_time": 187.5
+  },
+  {
+    "caption": "R. Sheppard's driving finger roll two-pointer is blocked by J. Huff. J. Huff blocks R. Sheppard's driving layup two-pointer. A. Sengun grabs the offensive rebound after R. Sheppard's missed driving finger roll layup two-pointer.",
+    "start_time": 215.5,
+    "end_time": 220.5
+  },
+  {
+    "caption": "P. Siakam misses a jump shot three-pointer. A. Nesmith grabs the offensive rebound after P. Siakam's missed jump shot three-pointer.",
+    "start_time": 228.5,
+    "end_time": 235.5
+  },
+  {
+    "caption": "J. Huff misses a jump shot three-pointer.",
+    "start_time": 231.5,
+    "end_time": 238.5
+  },
+  {
+    "caption": "P. Siakam commits a personal foul.",
+    "start_time": 236.5,
+    "end_time": 239.5
+  },
+  {
+    "caption": "A. Sengun makes a driving layup two-pointer.",
+    "start_time": 283.0,
+    "end_time": 291.5
+  },
+  {
+    "caption": "J. Smith Jr. steals the ball from P. Siakam on a lost ball.",
+    "start_time": 300.5,
+    "end_time": 304.5
+  },
+  {
+    "caption": "A. Thompson's running dunk two-pointer is missed. J. Huff grabs the defensive rebound after A. Thompson's missed running dunk two-pointer.",
+    "start_time": 304.5,
+    "end_time": 311.5
+  },
+  {
+    "caption": "A. Sengun commits a personal foul.",
+    "start_time": 315.5,
+    "end_time": 318.5
+  },
+  {
+    "caption": "A. Nesmith misses a driving floating two-pointer. A. Nesmith grabs the offensive rebound after missing his driving floating two-pointer. A. Nesmith misses a tip layup two-pointer.",
+    "start_time": 352.5,
+    "end_time": 362.5
+  },
+  {
+    "caption": "J. Smith Jr. grabs the defensive rebound.",
+    "start_time": 358.5,
+    "end_time": 364.5
+  },
+  {
+    "caption": "A. Sengun misses a running three-pointer. J. Smith Jr. grabs the offensive rebound after A. Sengun's missed running three-pointer.",
+    "start_time": 364.5,
+    "end_time": 371.5
+  },
+  {
+    "caption": "P. Siakam commits a shooting personal foul.",
+    "start_time": 371.5,
+    "end_time": 375.5
+  },
+  {
+    "caption": "J. Furphy makes a cutting layup two-pointer, assisted by I. Jackson.",
+    "start_time": 635.5,
+    "end_time": 644.0
+  },
+  {
+    "caption": "A. Sengun is called for a defensive goaltending violation.",
+    "start_time": 641.0,
+    "end_time": 644.0
+  },
+  {
+    "caption": "R. Sheppard commits a personal foul.",
+    "start_time": 641.0,
+    "end_time": 645.0
+  },
+  {
+    "caption": "A. Sengun grabs the defensive rebound.",
+    "start_time": 678.0,
+    "end_time": 683.0
+  },
+  {
+    "caption": "A. Sengun makes a cutting dunk two-pointer, assisted by A. Thompson.",
+    "start_time": 682.5,
+    "end_time": 691.0
+  },
+  {
+    "caption": "A. Thompson steals the ball from P. Siakam on a bad pass.",
+    "start_time": 699.0,
+    "end_time": 703.0
+  },
+  {
+    "caption": "R. Sheppard misses a jump shot three-pointer.",
+    "start_time": 719.0,
+    "end_time": 726.0
+  },
+  {
+    "caption": "I. Jackson makes a layup two-pointer, assisted by A. Nembhard. J. Smith Jr. commits a personal foul.",
+    "start_time": 747.5,
+    "end_time": 756.0
+  },
+  {
+    "caption": "A. Sengun misses a turnaround two-pointer. J. Furphy grabs the defensive rebound after A. Sengun's missed jump shot two-pointer.",
+    "start_time": 806.5,
+    "end_time": 813.5
+  },
+  {
+    "caption": "P. Siakam makes a floating jump shot two-pointer, assisted by A. Nesmith.",
+    "start_time": 821.0,
+    "end_time": 829.5
+  },
+  {
+    "caption": "J. Smith Jr. is called for a traveling violation.",
+    "start_time": 847.0,
+    "end_time": 850.0
+  },
+  {
+    "caption": "A. Nesmith makes a jump shot three-pointer, assisted by I. Jackson.",
+    "start_time": 878.0,
+    "end_time": 886.5
+  },
+  {
+    "caption": "J. Smith Jr. misses a pullup two-pointer. A. Sengun grabs the offensive rebound after J. Smith Jr.'s missed pullup two-pointer.",
+    "start_time": 1087.0,
+    "end_time": 1094.0
+  },
+  {
+    "caption": "Jump ball between A. Sengun and B. Mathurin, J. Smith Jr. recovers the tip.",
+    "start_time": 1155.5,
+    "end_time": 1160.5
+  },
+  {
+    "caption": "A. Nembhard steals the ball from A. Sengun on a bad pass.",
+    "start_time": 1165.5,
+    "end_time": 1169.5
+  },
+  {
+    "caption": "D. Finney-Smith commits a personal foul.",
+    "start_time": 1169.5,
+    "end_time": 1173.5
+  },
+  {
+    "caption": "I. Jackson commits a personal foul.",
+    "start_time": 1261.0,
+    "end_time": 1265.0
+  },
+  {
+    "caption": "J. Walker makes a jump shot three-pointer, assisted by B. Mathurin.",
+    "start_time": 1318.0,
+    "end_time": 1326.5
+  },
+  {
+    "caption": "A. Sengun misses a pullup two-pointer. B. Mathurin grabs the defensive rebound after A. Sengun's missed pullup two-pointer.",
+    "start_time": 1347.5,
+    "end_time": 1354.5
+  },
+  {
+    "caption": "J. Walker misses a turnaround two-pointer. A. Sengun grabs the defensive rebound after J. Walker's missed turnaround two-pointer.",
+    "start_time": 1361.5,
+    "end_time": 1368.5
+  },
+  {
+    "caption": "I. Jackson commits a personal foul.",
+    "start_time": 1380.5,
+    "end_time": 1384.5
+  },
+  {
+    "caption": "A. Nesmith makes a step back jump shot two-pointer, assisted by A. Nembhard.",
+    "start_time": 1442.0,
+    "end_time": 1450.5
+  },
+  {
+    "caption": "I. Jackson steals the ball from A. Thompson on a lost ball.",
+    "start_time": 1457.5,
+    "end_time": 1461.5
+  },
+  {
+    "caption": "D. Finney-Smith steals the ball from I. Jackson on a bad pass.",
+    "start_time": 1460.5,
+    "end_time": 1464.5
+  },
+  {
+    "caption": "J. Smith Jr. misses a pullup two-pointer.",
+    "start_time": 1473.5,
+    "end_time": 1480.5
+  },
+  {
+    "caption": "R. Sheppard misses a pullup three-pointer.",
+    "start_time": 1507.0,
+    "end_time": 1514.0
+  },
+  {
+    "caption": "P. Siakam makes a floating jump shot two-pointer.",
+    "start_time": 1540.5,
+    "end_time": 1549.0
+  },
+  {
+    "caption": "M. Potter steals the ball from J. Smith Jr. on a lost ball.",
+    "start_time": 1563.0,
+    "end_time": 1567.0
+  },
+  {
+    "caption": "P. Siakam makes a running dunk two-pointer, assisted by J. Walker.",
+    "start_time": 1565.5,
+    "end_time": 1574.0
+  },
+  {
+    "caption": "R. Sheppard misses a driving layup two-pointer. C. Capela grabs the offensive rebound after R. Sheppard's missed driving layup two-pointer. C. Capela's tip layup two-pointer is missed.",
+    "start_time": 1686.0,
+    "end_time": 1696.0
+  },
+  {
+    "caption": "P. Siakam misses a driving reverse layup two-pointer. C. Capela grabs the defensive rebound after P. Siakam's missed driving reverse layup two-pointer.",
+    "start_time": 1705.0,
+    "end_time": 1712.0
+  },
+  {
+    "caption": "J. Walker commits a personal foul.",
+    "start_time": 1720.0,
+    "end_time": 1724.0
+  },
+  {
+    "caption": "T. McConnell's driving layup two-pointer is blocked by R. Sheppard. R. Sheppard blocks T. McConnell's layup two-pointer. D. Finney-Smith grabs the defensive rebound after T. McConnell's missed driving layup two-pointer.",
+    "start_time": 1774.5,
+    "end_time": 1779.5
+  },
+  {
+    "caption": "J. Smith Jr. makes a 14-foot pullup two-pointer, assisted by R. Sheppard.",
+    "start_time": 1791.0,
+    "end_time": 1799.5
+  },
+  {
+    "caption": "P. Siakam makes a turnaround jump shot two-pointer.",
+    "start_time": 1804.0,
+    "end_time": 1812.5
+  },
+  {
+    "caption": "M. Potter steals the ball from R. Sheppard on a bad pass.",
+    "start_time": 1829.3,
+    "end_time": 1833.3
+  },
+  {
+    "caption": "J. Walker makes a running finger roll two-pointer, assisted by T. McConnell.",
+    "start_time": 1830.4,
+    "end_time": 1838.9
+  },
+  {
+    "caption": "C. Capela misses a cutting layup two-pointer. M. Potter grabs the defensive rebound after C. Capela's missed layup two-pointer.",
+    "start_time": 1852.3,
+    "end_time": 1859.3
+  }
+]
