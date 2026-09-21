@@ -1,0 +1,312 @@
+[
+  {
+    "caption": "J. McCain misses a pullup three-pointer. J. McCain grabs the offensive rebound after missing his pullup three-pointer.",
+    "start_time": 9.0,
+    "end_time": 16.0
+  },
+  {
+    "caption": "A. Mitchell makes a jump shot three-pointer, assisted by C. Wallace.",
+    "start_time": 13.5,
+    "end_time": 22.0
+  },
+  {
+    "caption": "J. Green misses a pullup three-pointer. J. McCain grabs the defensive rebound after J. Green's missed jump shot three-pointer.",
+    "start_time": 31.0,
+    "end_time": 38.0
+  },
+  {
+    "caption": "A. Mitchell misses a step back three-pointer. C. Gillespie grabs the defensive rebound after A. Mitchell's missed jump shot three-pointer.",
+    "start_time": 45.0,
+    "end_time": 52.0
+  },
+  {
+    "caption": "R. O'Neale makes a jump shot three-pointer, assisted by C. Gillespie.",
+    "start_time": 61.5,
+    "end_time": 70.0
+  },
+  {
+    "caption": "C. Holmgren makes a turnaround two-pointer, assisted by C. Wallace.",
+    "start_time": 80.5,
+    "end_time": 89.0
+  },
+  {
+    "caption": "G. Allen misses a jump shot three-pointer. C. Holmgren grabs the defensive rebound after G. Allen's missed three-pointer.",
+    "start_time": 98.0,
+    "end_time": 105.0
+  },
+  {
+    "caption": "G. Allen commits a personal foul.",
+    "start_time": 117.0,
+    "end_time": 120.0
+  },
+  {
+    "caption": "R. O'Neale commits a personal foul.",
+    "start_time": 147.0,
+    "end_time": 150.0
+  },
+  {
+    "caption": "C. Wallace misses a jump shot three-pointer. C. Gillespie grabs the defensive rebound after C. Wallace's missed jump shot three-pointer.",
+    "start_time": 177.5,
+    "end_time": 184.5
+  },
+  {
+    "caption": "I. Hartenstein commits a personal foul.",
+    "start_time": 190.5,
+    "end_time": 194.5
+  },
+  {
+    "caption": "C. Gillespie commits a personal foul.",
+    "start_time": 266.0,
+    "end_time": 269.0
+  },
+  {
+    "caption": "C. Holmgren makes a driving layup two-pointer.",
+    "start_time": 292.0,
+    "end_time": 300.5
+  },
+  {
+    "caption": "D. Brooks makes a step back jump shot two-pointer, assisted by D. Booker.",
+    "start_time": 307.0,
+    "end_time": 315.5
+  },
+  {
+    "caption": "O. Ighodaro commits a personal foul.",
+    "start_time": 324.5,
+    "end_time": 327.5
+  },
+  {
+    "caption": "A. Mitchell misses a fadeaway two-pointer.",
+    "start_time": 357.5,
+    "end_time": 364.5
+  },
+  {
+    "caption": "D. Booker's pullup two-pointer is blocked by C. Wallace. C. Wallace blocks D. Booker's jump shot two-pointer. C. Holmgren grabs the defensive rebound after D. Booker's missed pullup two-pointer.",
+    "start_time": 371.5,
+    "end_time": 376.5
+  },
+  {
+    "caption": "I. Hartenstein's driving reverse layup two-pointer is blocked by O. Ighodaro. O. Ighodaro blocks I. Hartenstein's layup two-pointer. C. Gillespie grabs the defensive rebound after I. Hartenstein's driving reverse layup two-pointer is blocked.",
+    "start_time": 391.5,
+    "end_time": 396.5
+  },
+  {
+    "caption": "D. Booker's running layup two-pointer is blocked by C. Holmgren. C. Holmgren blocks D. Booker's layup two-pointer. J. McCain grabs the defensive rebound after D. Booker's running layup two-pointer is blocked.",
+    "start_time": 396.5,
+    "end_time": 401.5
+  },
+  {
+    "caption": "A. Mitchell misses a pullup two-pointer.",
+    "start_time": 436.5,
+    "end_time": 443.5
+  },
+  {
+    "caption": "R. O'Neale commits a personal foul.",
+    "start_time": 439.5,
+    "end_time": 442.5
+  },
+  {
+    "caption": "I. Hartenstein commits a personal foul.",
+    "start_time": 503.0,
+    "end_time": 506.0
+  },
+  {
+    "caption": "C. Wallace steals the ball from D. Booker on a bad pass.",
+    "start_time": 542.0,
+    "end_time": 546.0
+  },
+  {
+    "caption": "S. Gilgeous-Alexander makes a running layup two-pointer.",
+    "start_time": 543.5,
+    "end_time": 552.0
+  },
+  {
+    "caption": "D. Brooks misses a fadeaway three-pointer. J. Williams grabs the defensive rebound after D. Brooks' missed jump shot three-pointer.",
+    "start_time": 789.0,
+    "end_time": 796.0
+  },
+  {
+    "caption": "C. Wallace misses a driving floating bank two-pointer. J. Green grabs the defensive rebound after C. Wallace's missed driving floating bank two-pointer.",
+    "start_time": 802.0,
+    "end_time": 809.0
+  },
+  {
+    "caption": "D. Brooks misses a driving layup two-pointer. D. Brooks grabs the offensive rebound after missing his driving layup two-pointer. D. Brooks misses a tip layup two-pointer.",
+    "start_time": 811.0,
+    "end_time": 823.0
+  },
+  {
+    "caption": "A. Mitchell grabs the defensive rebound.",
+    "start_time": 817.0,
+    "end_time": 823.0
+  },
+  {
+    "caption": "J. Williams misses a driving floating two-pointer. H. Highsmith grabs the defensive rebound after J. Williams' missed driving floating two-pointer.",
+    "start_time": 826.0,
+    "end_time": 833.0
+  },
+  {
+    "caption": "H. Highsmith steps out-of-bounds turnover.",
+    "start_time": 828.0,
+    "end_time": 831.0
+  },
+  {
+    "caption": "C. Wallace misses a jump shot three-pointer. R. O'Neale grabs the defensive rebound after C. Wallace's missed three-pointer.",
+    "start_time": 865.5,
+    "end_time": 872.5
+  },
+  {
+    "caption": "S. Gilgeous-Alexander makes a driving dunk two-pointer.",
+    "start_time": 871.0,
+    "end_time": 879.5
+  },
+  {
+    "caption": "S. Gilgeous-Alexander steals the ball from D. Booker on a lost ball.",
+    "start_time": 871.5,
+    "end_time": 875.5
+  },
+  {
+    "caption": "D. Booker misses a pullup three-pointer. D. Brooks grabs the offensive rebound after D. Booker's missed pullup three-pointer.",
+    "start_time": 883.5,
+    "end_time": 890.5
+  },
+  {
+    "caption": "J. Green misses a jump shot three-pointer. D. Brooks grabs the offensive rebound after J. Green's missed jump shot three-pointer.",
+    "start_time": 892.5,
+    "end_time": 899.5
+  },
+  {
+    "caption": "D. Brooks makes a turnaround jump shot two-pointer.",
+    "start_time": 893.0,
+    "end_time": 901.5
+  },
+  {
+    "caption": "S. Gilgeous-Alexander makes a turnaround two-pointer.",
+    "start_time": 921.0,
+    "end_time": 929.5
+  },
+  {
+    "caption": "J. Green's driving layup two-pointer is blocked by A. Caruso. A. Caruso blocks J. Green's layup two-pointer. A. Caruso grabs the defensive rebound after J. Green's missed driving layup two-pointer.",
+    "start_time": 935.5,
+    "end_time": 940.5
+  },
+  {
+    "caption": "A. Mitchell misses a running three-pointer. R. O'Neale grabs the defensive rebound after A. Mitchell's missed three-pointer.",
+    "start_time": 940.5,
+    "end_time": 947.5
+  },
+  {
+    "caption": "S. Gilgeous-Alexander commits a personal foul.",
+    "start_time": 954.5,
+    "end_time": 958.5
+  },
+  {
+    "caption": "J. Williams misses a jump shot three-pointer. L. Dort grabs the offensive rebound after J. Williams' missed jump shot three-pointer.",
+    "start_time": 1034.0,
+    "end_time": 1041.0
+  },
+  {
+    "caption": "L. Dort makes a jump shot three-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 1277.0,
+    "end_time": 1285.5
+  },
+  {
+    "caption": "D. Brooks makes a pullup three-pointer.",
+    "start_time": 1287.0,
+    "end_time": 1295.5
+  },
+  {
+    "caption": "A. Caruso makes a jump shot three-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 1329.5,
+    "end_time": 1338.0
+  },
+  {
+    "caption": "D. Brooks makes a pullup two-pointer.",
+    "start_time": 1342.5,
+    "end_time": 1351.0
+  },
+  {
+    "caption": "L. Dort misses a jump shot three-pointer. D. Booker grabs the defensive rebound after L. Dort's missed three-pointer.",
+    "start_time": 1366.0,
+    "end_time": 1373.0
+  },
+  {
+    "caption": "D. Brooks makes a jump shot three-pointer, assisted by C. Gillespie. S. Gilgeous-Alexander commits a personal foul.",
+    "start_time": 1373.5,
+    "end_time": 1382.0
+  },
+  {
+    "caption": "J. Green misses a jump shot three-pointer. C. Holmgren grabs the defensive rebound after J. Green's missed jump shot three-pointer.",
+    "start_time": 1475.5,
+    "end_time": 1482.5
+  },
+  {
+    "caption": "C. Gillespie commits a personal foul.",
+    "start_time": 1487.5,
+    "end_time": 1490.5
+  },
+  {
+    "caption": "C. Holmgren commits a personal foul.",
+    "start_time": 1555.5,
+    "end_time": 1559.5
+  },
+  {
+    "caption": "J. Green commits a personal foul.",
+    "start_time": 1612.0,
+    "end_time": 1615.0
+  },
+  {
+    "caption": "C. Holmgren commits a personal foul.",
+    "start_time": 1658.5,
+    "end_time": 1661.5
+  },
+  {
+    "caption": "L. Dort makes a jump shot three-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 1718.0,
+    "end_time": 1726.5
+  },
+  {
+    "caption": "C. Gillespie misses a pullup two-pointer. L. Dort grabs the defensive rebound after C. Gillespie's missed jump shot.",
+    "start_time": 1730.0,
+    "end_time": 1737.0
+  },
+  {
+    "caption": "C. Holmgren makes a cutting dunk two-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 1736.5,
+    "end_time": 1745.0
+  },
+  {
+    "caption": "J. Green makes a cutting layup two-pointer, assisted by O. Ighodaro.",
+    "start_time": 1748.5,
+    "end_time": 1757.0
+  },
+  {
+    "caption": "D. Brooks commits a personal foul.",
+    "start_time": 1763.5,
+    "end_time": 1766.5
+  },
+  {
+    "caption": "D. Brooks makes a step back three-pointer.",
+    "start_time": 1814.0,
+    "end_time": 1822.5
+  },
+  {
+    "caption": "C. Gillespie commits a personal foul.",
+    "start_time": 1835.7,
+    "end_time": 1838.7
+  },
+  {
+    "caption": "K. Maluach makes a cutting dunk two-pointer, assisted by R. Dunn.",
+    "start_time": 1902.5,
+    "end_time": 1911.0
+  },
+  {
+    "caption": "K. Williams misses a jump shot three-pointer. K. Maluach grabs the defensive rebound after K. Williams' missed jump shot three-pointer.",
+    "start_time": 1928.7,
+    "end_time": 1935.7
+  },
+  {
+    "caption": "A. Coffey is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1946.6,
+    "end_time": 1949.6
+  }
+]

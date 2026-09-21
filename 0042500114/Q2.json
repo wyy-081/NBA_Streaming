@@ -1,0 +1,297 @@
+[
+  {
+    "caption": "B. Scheierman commits a technical foul.",
+    "start_time": 17.5,
+    "end_time": 20.5
+  },
+  {
+    "caption": "J. Embiid misses a jump shot three-pointer. J. Brown grabs the defensive rebound after J. Embiid's missed jump shot three-pointer.",
+    "start_time": 58.0,
+    "end_time": 65.0
+  },
+  {
+    "caption": "P. Pritchard's step back jump shot two-pointer is blocked by D. Barlow. D. Barlow blocks P. Pritchard's jump shot two-pointer. J. Embiid grabs the defensive rebound after P. Pritchard's missed jump shot.",
+    "start_time": 69.0,
+    "end_time": 74.0
+  },
+  {
+    "caption": "J. Embiid misses a jump shot two-pointer. J. Brown grabs the defensive rebound after J. Embiid's missed jump shot two-pointer.",
+    "start_time": 78.0,
+    "end_time": 85.0
+  },
+  {
+    "caption": "J. Brown misses a driving layup two-pointer. P. George grabs the defensive rebound after J. Brown's missed driving layup two-pointer.",
+    "start_time": 91.0,
+    "end_time": 98.0
+  },
+  {
+    "caption": "V. Edgecombe misses a jump shot three-pointer. B. Scheierman grabs the defensive rebound after V. Edgecombe's missed three-pointer.",
+    "start_time": 98.0,
+    "end_time": 105.0
+  },
+  {
+    "caption": "B. Scheierman misses a step back three-pointer. J. Embiid grabs the defensive rebound after B. Scheierman's missed jump shot three-pointer.",
+    "start_time": 122.0,
+    "end_time": 129.0
+  },
+  {
+    "caption": "J. Embiid misses a pullup two-pointer. P. Pritchard grabs the defensive rebound after J. Embiid's missed pullup two-pointer.",
+    "start_time": 133.0,
+    "end_time": 140.0
+  },
+  {
+    "caption": "J. Embiid commits a personal foul.",
+    "start_time": 146.0,
+    "end_time": 150.0
+  },
+  {
+    "caption": "J. Embiid grabs the defensive rebound.",
+    "start_time": 199.0,
+    "end_time": 204.0
+  },
+  {
+    "caption": "P. George misses a driving floating two-pointer. N. Vučević grabs the defensive rebound after P. George's missed driving floating two-pointer.",
+    "start_time": 213.0,
+    "end_time": 220.0
+  },
+  {
+    "caption": "B. Scheierman misses a jump shot three-pointer. S. Hauser grabs the offensive rebound after B. Scheierman's missed three-pointer.",
+    "start_time": 223.0,
+    "end_time": 230.0
+  },
+  {
+    "caption": "J. Brown makes a jump shot three-pointer, assisted by S. Hauser.",
+    "start_time": 228.5,
+    "end_time": 237.0
+  },
+  {
+    "caption": "V. Edgecombe misses a driving floating two-pointer. N. Vučević grabs the defensive rebound after V. Edgecombe's missed driving floating two-pointer.",
+    "start_time": 254.0,
+    "end_time": 261.0
+  },
+  {
+    "caption": "P. Pritchard makes a step back three-pointer.",
+    "start_time": 273.5,
+    "end_time": 282.0
+  },
+  {
+    "caption": "Q. Grimes makes a jump shot three-pointer, assisted by A. Drummond.",
+    "start_time": 510.5,
+    "end_time": 519.0
+  },
+  {
+    "caption": "T. Maxey commits a take personal foul.",
+    "start_time": 522.0,
+    "end_time": 525.0
+  },
+  {
+    "caption": "P. Pritchard makes a driving finger roll two-pointer, assisted by N. Queta.",
+    "start_time": 577.5,
+    "end_time": 586.0
+  },
+  {
+    "caption": "A. Bona is called for an out-of-bounds turnover.",
+    "start_time": 608.0,
+    "end_time": 611.0
+  },
+  {
+    "caption": "Q. Grimes makes a running dunk two-pointer.",
+    "start_time": 631.5,
+    "end_time": 640.0
+  },
+  {
+    "caption": "Q. Grimes steals the ball from D. White on a lost ball.",
+    "start_time": 632.0,
+    "end_time": 636.0
+  },
+  {
+    "caption": "P. Pritchard misses a pullup three-pointer.",
+    "start_time": 649.0,
+    "end_time": 656.0
+  },
+  {
+    "caption": "Q. Grimes misses a pullup three-pointer. D. White grabs the defensive rebound after Q. Grimes's missed jump shot three-pointer.",
+    "start_time": 676.0,
+    "end_time": 683.0
+  },
+  {
+    "caption": "J. Brown misses a jump shot three-pointer. Q. Grimes grabs the defensive rebound after J. Brown's missed jump shot three-pointer.",
+    "start_time": 695.0,
+    "end_time": 702.0
+  },
+  {
+    "caption": "P. George misses a step back jump shot. N. Queta grabs the defensive rebound after P. George's missed jump shot two-pointer.",
+    "start_time": 712.0,
+    "end_time": 719.0
+  },
+  {
+    "caption": "S. Hauser misses a jump shot three-pointer. D. White grabs the offensive rebound after S. Hauser's missed jump shot three-pointer.",
+    "start_time": 727.0,
+    "end_time": 734.0
+  },
+  {
+    "caption": "S. Hauser makes a jump shot three-pointer, assisted by D. White.",
+    "start_time": 730.5,
+    "end_time": 739.0
+  },
+  {
+    "caption": "A. Bona makes a dunk two-pointer, assisted by Q. Grimes.",
+    "start_time": 746.5,
+    "end_time": 755.0
+  },
+  {
+    "caption": "S. Hauser misses a pullup two-pointer. P. George grabs the defensive rebound after S. Hauser's missed pullup two-pointer.",
+    "start_time": 776.0,
+    "end_time": 783.0
+  },
+  {
+    "caption": "A. Bona makes a driving layup two-pointer, assisted by Q. Grimes.",
+    "start_time": 783.5,
+    "end_time": 792.0
+  },
+  {
+    "caption": "N. Vučević commits an offensive foul.",
+    "start_time": 1027.5,
+    "end_time": 1030.5
+  },
+  {
+    "caption": "J. Tatum commits a personal foul.",
+    "start_time": 1052.5,
+    "end_time": 1056.5
+  },
+  {
+    "caption": "N. Vučević's floating two-pointer is blocked by J. Embiid. N. Vučević grabs the offensive rebound after missing his floating two-pointer.",
+    "start_time": 1109.0,
+    "end_time": 1114.0
+  },
+  {
+    "caption": "Joel Embiid blocks Nikola Vucevic's jump shot two-pointer.",
+    "start_time": 1111.0,
+    "end_time": 1114.0
+  },
+  {
+    "caption": "D. White makes a pullup three-pointer, assisted by N. Vučević.",
+    "start_time": 1112.5,
+    "end_time": 1121.0
+  },
+  {
+    "caption": "K. Oubre Jr. misses a driving layup two-pointer. P. Pritchard grabs the defensive rebound after K. Oubre Jr.'s missed driving layup two-pointer.",
+    "start_time": 1129.0,
+    "end_time": 1136.0
+  },
+  {
+    "caption": "J. Tatum's running layup two-pointer is blocked by Q. Grimes. Q. Grimes blocks J. Tatum's layup two-pointer.",
+    "start_time": 1137.0,
+    "end_time": 1142.0
+  },
+  {
+    "caption": "J. Brown misses a fadeaway two-pointer. Q. Grimes grabs the defensive rebound after J. Brown's missed jump shot two-pointer.",
+    "start_time": 1166.5,
+    "end_time": 1173.5
+  },
+  {
+    "caption": "N. Vučević commits a shooting personal foul.",
+    "start_time": 1178.5,
+    "end_time": 1182.5
+  },
+  {
+    "caption": "J. Tatum misses a pullup three-pointer. J. Embiid grabs the defensive rebound after J. Tatum's missed pullup three-pointer.",
+    "start_time": 1233.0,
+    "end_time": 1240.0
+  },
+  {
+    "caption": "D. White steals the ball from V. Edgecombe on a bad pass.",
+    "start_time": 1247.0,
+    "end_time": 1251.0
+  },
+  {
+    "caption": "J. Brown misses a running layup two-pointer. V. Edgecombe grabs the defensive rebound after J. Brown's missed running layup two-pointer.",
+    "start_time": 1251.0,
+    "end_time": 1258.0
+  },
+  {
+    "caption": "J. Embiid's running layup two-pointer is blocked by D. White. D. White blocks J. Embiid's layup two-pointer.",
+    "start_time": 1256.0,
+    "end_time": 1261.0
+  },
+  {
+    "caption": "L. Garza makes a jump shot three-pointer, assisted by P. Pritchard.",
+    "start_time": 1417.0,
+    "end_time": 1425.5
+  },
+  {
+    "caption": "L. Garza commits a personal foul.",
+    "start_time": 1441.5,
+    "end_time": 1444.5
+  },
+  {
+    "caption": "T. Maxey makes a cutting layup two-pointer, assisted by J. Embiid.",
+    "start_time": 1480.0,
+    "end_time": 1488.5
+  },
+  {
+    "caption": "J. Tatum misses a jump shot three-pointer.",
+    "start_time": 1522.0,
+    "end_time": 1529.0
+  },
+  {
+    "caption": "L. Garza commits a personal foul.",
+    "start_time": 1526.0,
+    "end_time": 1529.0
+  },
+  {
+    "caption": "P. George makes a driving finger roll two-pointer, assisted by J. Embiid.",
+    "start_time": 1554.0,
+    "end_time": 1562.5
+  },
+  {
+    "caption": "P. Pritchard misses a jump shot three-pointer. T. Maxey grabs the defensive rebound after P. Pritchard's missed three-pointer.",
+    "start_time": 1600.5,
+    "end_time": 1607.5
+  },
+  {
+    "caption": "L. Garza commits a shooting personal foul.",
+    "start_time": 1611.5,
+    "end_time": 1615.5
+  },
+  {
+    "caption": "J. Brown grabs the defensive rebound.",
+    "start_time": 1680.5,
+    "end_time": 1685.5
+  },
+  {
+    "caption": "J. Brown makes a step back three-pointer.",
+    "start_time": 1696.6,
+    "end_time": 1705.1
+  },
+  {
+    "caption": "J. Brown commits a personal foul.",
+    "start_time": 1715.4,
+    "end_time": 1718.4
+  },
+  {
+    "caption": "J. Tatum grabs the defensive rebound.",
+    "start_time": 1834.5,
+    "end_time": 1839.5
+  },
+  {
+    "caption": "J. Brown misses a jump shot three-pointer. K. Oubre Jr. grabs the defensive rebound after J. Brown's missed three-pointer.",
+    "start_time": 1844.2,
+    "end_time": 1851.2
+  },
+  {
+    "caption": "J. Embiid misses a jump shot two-pointer. J. Brown grabs the defensive rebound after J. Embiid's missed jump shot two-pointer.",
+    "start_time": 1861.3,
+    "end_time": 1868.3
+  },
+  {
+    "caption": "J. Brown makes a turnaround jump shot two-pointer.",
+    "start_time": 1870.1,
+    "end_time": 1878.6
+  },
+  {
+    "caption": "V. Edgecombe misses a pullup three-pointer.",
+    "start_time": 1883.5,
+    "end_time": 1890.5
+  }
+]

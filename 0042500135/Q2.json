@@ -1,0 +1,267 @@
+[
+  {
+    "caption": "S. Barnes makes a pullup two-pointer.",
+    "start_time": 13.0,
+    "end_time": 21.5
+  },
+  {
+    "caption": "D. Schröder makes a jump shot three-pointer, assisted by J. Tyson.",
+    "start_time": 36.0,
+    "end_time": 44.5
+  },
+  {
+    "caption": "J. Poeltl makes a reverse layup two-pointer, assisted by S. Barnes.",
+    "start_time": 49.0,
+    "end_time": 57.5
+  },
+  {
+    "caption": "D. Mitchell makes a pullup three-pointer.",
+    "start_time": 57.0,
+    "end_time": 65.5
+  },
+  {
+    "caption": "S. Barnes makes a pullup two-pointer.",
+    "start_time": 91.0,
+    "end_time": 99.5
+  },
+  {
+    "caption": "J. Tyson misses a jump shot three-pointer. J. Battle grabs the defensive rebound after J. Tyson's missed jump shot three-pointer.",
+    "start_time": 114.5,
+    "end_time": 121.5
+  },
+  {
+    "caption": "R. Barrett makes a driving finger roll two-pointer.",
+    "start_time": 122.0,
+    "end_time": 130.5
+  },
+  {
+    "caption": "T. Bryant commits an offensive foul.",
+    "start_time": 134.5,
+    "end_time": 137.5
+  },
+  {
+    "caption": "J. Poeltl makes a floating jump shot two-pointer, assisted by S. Barnes.",
+    "start_time": 167.5,
+    "end_time": 176.0
+  },
+  {
+    "caption": "D. Mitchell misses a step back three-pointer. J. Poeltl grabs the defensive rebound after D. Mitchell's missed jump shot three-pointer.",
+    "start_time": 179.0,
+    "end_time": 186.0
+  },
+  {
+    "caption": "J. Poeltl makes a running reverse layup two-pointer, assisted by S. Barnes.",
+    "start_time": 183.5,
+    "end_time": 192.0
+  },
+  {
+    "caption": "J. Tyson makes a jump shot three-pointer, assisted by T. Bryant.",
+    "start_time": 427.5,
+    "end_time": 436.0
+  },
+  {
+    "caption": "R. Barrett is called for a traveling violation.",
+    "start_time": 457.5,
+    "end_time": 460.5
+  },
+  {
+    "caption": "D. Schröder misses a jump shot three-pointer. J. Poeltl grabs the defensive rebound after D. Schröder's missed three-pointer.",
+    "start_time": 491.5,
+    "end_time": 498.5
+  },
+  {
+    "caption": "J. Shead makes a jump shot three-pointer, assisted by B. Ingram.",
+    "start_time": 500.0,
+    "end_time": 508.5
+  },
+  {
+    "caption": "D. Schröder makes a jump shot three-pointer, assisted by E. Mobley.",
+    "start_time": 518.0,
+    "end_time": 526.5
+  },
+  {
+    "caption": "B. Ingram's pullup two-pointer is blocked by E. Mobley. E. Mobley blocks B. Ingram's jump shot two-pointer. E. Mobley grabs the defensive rebound after B. Ingram's missed pullup two-pointer.",
+    "start_time": 545.5,
+    "end_time": 550.5
+  },
+  {
+    "caption": "J. Battle commits a personal foul.",
+    "start_time": 551.5,
+    "end_time": 555.5
+  },
+  {
+    "caption": "R. Barrett misses a jump shot three-pointer. S. Barnes grabs the offensive rebound after R. Barrett's missed three-pointer.",
+    "start_time": 634.0,
+    "end_time": 641.0
+  },
+  {
+    "caption": "T. Bryant steals the ball from S. Barnes on a bad pass.",
+    "start_time": 639.0,
+    "end_time": 643.0
+  },
+  {
+    "caption": "S. Merrill misses a pullup two-pointer. R. Barrett grabs the defensive rebound after S. Merrill's missed pullup two-pointer.",
+    "start_time": 929.0,
+    "end_time": 936.0
+  },
+  {
+    "caption": "S. Barnes makes a pullup two-pointer, assisted by R. Barrett.",
+    "start_time": 936.5,
+    "end_time": 945.0
+  },
+  {
+    "caption": "J. Tyson makes a jump shot two-pointer, assisted by S. Merrill. J. Tyson commits a personal foul.",
+    "start_time": 959.5,
+    "end_time": 985.0
+  },
+  {
+    "caption": "J. Harden commits an offensive foul.",
+    "start_time": 1036.5,
+    "end_time": 1039.5
+  },
+  {
+    "caption": "D. Wade commits a personal foul.",
+    "start_time": 1072.5,
+    "end_time": 1076.5
+  },
+  {
+    "caption": "J. Walter commits a personal foul.",
+    "start_time": 1139.0,
+    "end_time": 1142.0
+  },
+  {
+    "caption": "D. Wade makes a cutting dunk two-pointer, assisted by J. Tyson.",
+    "start_time": 1177.5,
+    "end_time": 1186.0
+  },
+  {
+    "caption": "J. Walter misses a jump shot three-pointer. C. Murray-Boyles grabs the offensive rebound after J. Walter's missed jump shot three-pointer.",
+    "start_time": 1196.0,
+    "end_time": 1203.0
+  },
+  {
+    "caption": "R. Barrett makes a step back three-pointer, assisted by C. Murray-Boyles.",
+    "start_time": 1199.5,
+    "end_time": 1208.0
+  },
+  {
+    "caption": "R. Barrett commits a personal foul.",
+    "start_time": 1215.0,
+    "end_time": 1218.0
+  },
+  {
+    "caption": "C. Murray-Boyles steals the ball from J. Allen on a lost ball.",
+    "start_time": 1261.0,
+    "end_time": 1265.0
+  },
+  {
+    "caption": "J. Walter makes a running three-pointer, assisted by J. Shead.",
+    "start_time": 1262.5,
+    "end_time": 1271.0
+  },
+  {
+    "caption": "J. Walter steals the ball from J. Harden on a bad pass.",
+    "start_time": 1280.0,
+    "end_time": 1284.0
+  },
+  {
+    "caption": "J. Walter makes a running dunk two-pointer.",
+    "start_time": 1280.5,
+    "end_time": 1289.0
+  },
+  {
+    "caption": "D. Wade makes a dunk two-pointer, assisted by J. Harden.",
+    "start_time": 1411.5,
+    "end_time": 1420.0
+  },
+  {
+    "caption": "S. Merrill steals the ball from C. Murray-Boyles on a lost ball.",
+    "start_time": 1436.0,
+    "end_time": 1440.0
+  },
+  {
+    "caption": "J. Harden makes a step back three-pointer, assisted by M. Strus.",
+    "start_time": 1444.5,
+    "end_time": 1453.0
+  },
+  {
+    "caption": "S. Barnes misses a fadeaway two-pointer. J. Harden grabs the defensive rebound after S. Barnes' missed jump shot two-pointer.",
+    "start_time": 1467.0,
+    "end_time": 1474.0
+  },
+  {
+    "caption": "J. Harden is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1478.0,
+    "end_time": 1481.0
+  },
+  {
+    "caption": "J. Walter makes a jump shot three-pointer, assisted by J. Shead.",
+    "start_time": 1520.0,
+    "end_time": 1528.5
+  },
+  {
+    "caption": "J. Harden makes a floating jump shot two-pointer.",
+    "start_time": 1534.0,
+    "end_time": 1542.5
+  },
+  {
+    "caption": "S. Mamukelashvili makes a driving layup two-pointer.",
+    "start_time": 1551.0,
+    "end_time": 1559.5
+  },
+  {
+    "caption": "J. Shead steals the ball from J. Harden on a lost ball.",
+    "start_time": 1565.5,
+    "end_time": 1569.5
+  },
+  {
+    "caption": "R. Barrett makes a running layup two-pointer, assisted by J. Shead.",
+    "start_time": 1566.0,
+    "end_time": 1574.5
+  },
+  {
+    "caption": "D. Mitchell misses a step back jump shot. S. Mamukelashvili grabs the defensive rebound after D. Mitchell's missed jump shot two-pointer.",
+    "start_time": 1587.5,
+    "end_time": 1594.5
+  },
+  {
+    "caption": "J. Walter makes a jump shot three-pointer, assisted by J. Shead. C. Murray-Boyles commits a shooting personal foul.",
+    "start_time": 1595.5,
+    "end_time": 1627.5
+  },
+  {
+    "caption": "J. Shead makes a driving layup two-pointer.",
+    "start_time": 1688.2,
+    "end_time": 1696.7
+  },
+  {
+    "caption": "D. Wade misses a jump shot three-pointer. R. Barrett grabs the defensive rebound after D. Wade's missed jump shot three-pointer.",
+    "start_time": 1707.1,
+    "end_time": 1714.1
+  },
+  {
+    "caption": "R. Barrett misses a driving bank hook two-pointer. S. Mamukelashvili grabs the offensive rebound after R. Barrett's missed hook two-pointer. S. Mamukelashvili misses a tip layup two-pointer.",
+    "start_time": 1718.3,
+    "end_time": 1728.0
+  },
+  {
+    "caption": "D. Mitchell grabs the defensive rebound.",
+    "start_time": 1722.0,
+    "end_time": 1728.0
+  },
+  {
+    "caption": "J. Walter commits a personal foul.",
+    "start_time": 1732.8,
+    "end_time": 1735.8
+  },
+  {
+    "caption": "S. Mamukelashvili's cutting layup two-pointer is blocked by E. Mobley. E. Mobley blocks S. Mamukelashvili's layup two-pointer. D. Mitchell grabs the defensive rebound after S. Mamukelashvili's cutting layup two-pointer is blocked.",
+    "start_time": 1831.6,
+    "end_time": 1836.6
+  },
+  {
+    "caption": "D. Wade misses a jump shot three-pointer.",
+    "start_time": 1836.0,
+    "end_time": 1843.0
+  }
+]

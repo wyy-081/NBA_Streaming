@@ -1,0 +1,282 @@
+[
+  {
+    "caption": "Jump ball between Karl-Anthony Towns and Obi Okongwu, J. Hart recovers the tip.",
+    "start_time": 32.5,
+    "end_time": 37.5
+  },
+  {
+    "caption": "C. McCollum steals the ball from J. Hart on a lost ball.",
+    "start_time": 75.0,
+    "end_time": 79.0
+  },
+  {
+    "caption": "D. Daniels misses a driving floating two-pointer. J. Hart grabs the defensive rebound after D. Daniels' missed driving floating two-pointer.",
+    "start_time": 85.0,
+    "end_time": 92.0
+  },
+  {
+    "caption": "K. Towns misses a running three-pointer. O. Okongwu grabs the defensive rebound after K. Towns' missed running three-pointer.",
+    "start_time": 92.0,
+    "end_time": 99.0
+  },
+  {
+    "caption": "J. Johnson misses a driving floating two-pointer. J. Hart grabs the defensive rebound after J. Johnson's missed driving floating two-pointer.",
+    "start_time": 107.0,
+    "end_time": 114.0
+  },
+  {
+    "caption": "J. Brunson makes a driving layup two-pointer.",
+    "start_time": 112.5,
+    "end_time": 121.0
+  },
+  {
+    "caption": "C. McCollum makes a step back three-pointer.",
+    "start_time": 140.5,
+    "end_time": 149.0
+  },
+  {
+    "caption": "O. Anunoby makes a step back three-pointer, assisted by J. Brunson.",
+    "start_time": 158.5,
+    "end_time": 167.0
+  },
+  {
+    "caption": "N. Alexander-Walker misses a driving floating two-pointer. K. Towns grabs the defensive rebound after N. Alexander-Walker's missed driving floating two-pointer.",
+    "start_time": 191.0,
+    "end_time": 198.0
+  },
+  {
+    "caption": "O. Anunoby misses a running three-pointer. J. Johnson grabs the defensive rebound after O. Anunoby's missed running three-pointer.",
+    "start_time": 204.0,
+    "end_time": 211.0
+  },
+  {
+    "caption": "K. Towns commits a personal foul.",
+    "start_time": 214.0,
+    "end_time": 218.0
+  },
+  {
+    "caption": "J. Johnson steals the ball from M. Bridges on a bad pass.",
+    "start_time": 281.0,
+    "end_time": 285.0
+  },
+  {
+    "caption": "J. Hart steals the ball from O. Okongwu on a bad pass.",
+    "start_time": 283.0,
+    "end_time": 287.0
+  },
+  {
+    "caption": "M. Bridges misses a running three-pointer. J. Johnson grabs the defensive rebound after M. Bridges' missed running three-pointer.",
+    "start_time": 288.0,
+    "end_time": 295.0
+  },
+  {
+    "caption": "N. Alexander-Walker misses a pullup three-pointer. J. Brunson grabs the defensive rebound after N. Alexander-Walker's missed pullup three-pointer.",
+    "start_time": 301.0,
+    "end_time": 308.0
+  },
+  {
+    "caption": "O. Anunoby misses a step back jump shot.",
+    "start_time": 323.0,
+    "end_time": 330.0
+  },
+  {
+    "caption": "J. Johnson commits a personal foul.",
+    "start_time": 327.0,
+    "end_time": 330.0
+  },
+  {
+    "caption": "D. Daniels steals the ball from J. Brunson on a bad pass.",
+    "start_time": 398.5,
+    "end_time": 402.5
+  },
+  {
+    "caption": "J. Brunson steals the ball from D. Daniels on a lost ball.",
+    "start_time": 402.5,
+    "end_time": 406.5
+  },
+  {
+    "caption": "O. Anunoby makes a running finger roll two-pointer, assisted by J. Hart. J. Hart commits a personal foul.",
+    "start_time": 405.0,
+    "end_time": 678.5
+  },
+  {
+    "caption": "O. Anunoby misses a jump shot three-pointer. J. Johnson grabs the defensive rebound after O. Anunoby's missed jump shot three-pointer.",
+    "start_time": 742.0,
+    "end_time": 749.0
+  },
+  {
+    "caption": "J. Johnson's driving layup two-pointer is blocked by O. Anunoby. O. Anunoby blocks J. Johnson's layup two-pointer.",
+    "start_time": 749.0,
+    "end_time": 754.0
+  },
+  {
+    "caption": "O. Anunoby makes a running dunk two-pointer.",
+    "start_time": 780.5,
+    "end_time": 789.0
+  },
+  {
+    "caption": "O. Anunoby steals the ball from N. Alexander-Walker on a lost ball.",
+    "start_time": 781.0,
+    "end_time": 785.0
+  },
+  {
+    "caption": "C. McCollum misses a driving floating bank two-pointer. M. Bridges grabs the defensive rebound after C. McCollum's missed driving floating bank two-pointer.",
+    "start_time": 796.0,
+    "end_time": 803.0
+  },
+  {
+    "caption": "J. Brunson misses a jump shot three-pointer. J. Johnson grabs the defensive rebound after J. Brunson's missed jump shot three-pointer.",
+    "start_time": 809.0,
+    "end_time": 816.0
+  },
+  {
+    "caption": "J. Johnson makes a jump shot three-pointer, assisted by D. Daniels.",
+    "start_time": 815.5,
+    "end_time": 824.0
+  },
+  {
+    "caption": "O. Anunoby's driving dunk two-pointer is blocked by O. Okongwu. C. McCollum grabs the defensive rebound after O. Anunoby's driving dunk two-pointer is blocked.",
+    "start_time": 839.0,
+    "end_time": 844.0
+  },
+  {
+    "caption": "O. Okongwu blocks O. Anunoby's dunk two-pointer.",
+    "start_time": 841.0,
+    "end_time": 844.0
+  },
+  {
+    "caption": "D. Daniels makes a running layup two-pointer, assisted by J. Johnson.",
+    "start_time": 841.5,
+    "end_time": 850.0
+  },
+  {
+    "caption": "O. Anunoby misses a jump shot three-pointer. D. Daniels grabs the defensive rebound after O. Anunoby's missed three-pointer.",
+    "start_time": 859.0,
+    "end_time": 866.0
+  },
+  {
+    "caption": "C. McCollum makes a running pullup two-pointer.",
+    "start_time": 864.5,
+    "end_time": 873.0
+  },
+  {
+    "caption": "J. Brunson misses a step back three-pointer. D. Daniels grabs the defensive rebound after J. Brunson's missed jump shot three-pointer.",
+    "start_time": 1120.0,
+    "end_time": 1127.0
+  },
+  {
+    "caption": "J. Johnson misses a pullup two-pointer. M. Robinson grabs the defensive rebound after J. Johnson's missed pullup two-pointer.",
+    "start_time": 1144.0,
+    "end_time": 1151.0
+  },
+  {
+    "caption": "M. McBride misses a pullup two-pointer. M. Robinson grabs the offensive rebound after M. McBride's missed pullup two-pointer. M. Robinson misses a tip layup two-pointer.",
+    "start_time": 1165.0,
+    "end_time": 1173.0
+  },
+  {
+    "caption": "J. Johnson misses a pullup three-pointer. Jonathan Kuminga grabs the offensive rebound after Cameron Johnson's missed three-pointer.",
+    "start_time": 1198.0,
+    "end_time": 1205.0
+  },
+  {
+    "caption": "M. Bridges commits a personal foul.",
+    "start_time": 1207.0,
+    "end_time": 1210.0
+  },
+  {
+    "caption": "J. Johnson makes a driving layup two-pointer, assisted by G. Vincent.",
+    "start_time": 1226.5,
+    "end_time": 1235.0
+  },
+  {
+    "caption": "J. Hart is called for an out-of-bounds turnover.",
+    "start_time": 1237.0,
+    "end_time": 1240.0
+  },
+  {
+    "caption": "J. Kuminga makes a floating jump shot two-pointer, assisted by D. Daniels.",
+    "start_time": 1245.0,
+    "end_time": 1253.5
+  },
+  {
+    "caption": "J. Brunson makes a driving reverse layup two-pointer, assisted by J. Hart.",
+    "start_time": 1288.0,
+    "end_time": 1296.5
+  },
+  {
+    "caption": "G. Vincent makes a jump shot three-pointer, assisted by J. Johnson.",
+    "start_time": 1299.0,
+    "end_time": 1307.5
+  },
+  {
+    "caption": "M. Bridges steps out-of-bounds turnover.",
+    "start_time": 1321.5,
+    "end_time": 1324.5
+  },
+  {
+    "caption": "J. Kuminga makes a fadeaway jump shot two-pointer.",
+    "start_time": 1361.5,
+    "end_time": 1370.0
+  },
+  {
+    "caption": "M. McBride misses a jump shot three-pointer. Jonathan Kuminga grabs the defensive rebound after M. McBride's missed three-pointer.",
+    "start_time": 1381.0,
+    "end_time": 1388.0
+  },
+  {
+    "caption": "G. Vincent commits an offensive foul.",
+    "start_time": 1389.0,
+    "end_time": 1392.0
+  },
+  {
+    "caption": "J. Brunson misses a jump shot three-pointer. M. Robinson grabs the offensive rebound after J. Brunson's missed three-pointer.",
+    "start_time": 1429.0,
+    "end_time": 1436.0
+  },
+  {
+    "caption": "J. Brunson makes a floating jump shot two-pointer.",
+    "start_time": 1438.5,
+    "end_time": 1447.0
+  },
+  {
+    "caption": "M. McBride commits a personal foul.",
+    "start_time": 1455.0,
+    "end_time": 1458.0
+  },
+  {
+    "caption": "C. McCollum makes a turnaround two-pointer. J. Kuminga commits a personal foul.",
+    "start_time": 1495.5,
+    "end_time": 1522.0
+  },
+  {
+    "caption": "M. Gueye makes a jump shot three-pointer, assisted by C. McCollum.",
+    "start_time": 1607.5,
+    "end_time": 1616.0
+  },
+  {
+    "caption": "J. Brunson makes a pullup two-pointer. C. McCollum commits a shooting personal foul.",
+    "start_time": 1621.1,
+    "end_time": 1629.6
+  },
+  {
+    "caption": "J. Kuminga makes a pullup three-pointer, assisted by D. Daniels.",
+    "start_time": 1674.6,
+    "end_time": 1683.1
+  },
+  {
+    "caption": "J. Brunson misses a step back three-pointer. J. Clarkson grabs the offensive rebound after J. Brunson's missed jump shot three-pointer.",
+    "start_time": 1696.5,
+    "end_time": 1703.5
+  },
+  {
+    "caption": "O. Anunoby makes a jump shot three-pointer, assisted by J. Clarkson.",
+    "start_time": 1700.6,
+    "end_time": 1709.1
+  },
+  {
+    "caption": "J. Kuminga makes a jump shot three-pointer, assisted by M. Gueye.",
+    "start_time": 1726.2,
+    "end_time": 1734.7
+  }
+]

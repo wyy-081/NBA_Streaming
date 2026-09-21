@@ -1,0 +1,292 @@
+[
+  {
+    "caption": "J. Duren misses a driving layup two-pointer. K. Huerter commits a personal foul.",
+    "start_time": 60.5,
+    "end_time": 107.5
+  },
+  {
+    "caption": "D. Jenkins makes a driving layup two-pointer, assisted by K. Huerter.",
+    "start_time": 161.0,
+    "end_time": 169.5
+  },
+  {
+    "caption": "D. Bane misses a pullup two-pointer.",
+    "start_time": 182.5,
+    "end_time": 189.5
+  },
+  {
+    "caption": "F. Wagner makes a driving layup two-pointer.",
+    "start_time": 207.5,
+    "end_time": 216.0
+  },
+  {
+    "caption": "K. Huerter misses a pullup jump shot two-pointer. D. Bane grabs the defensive rebound after K. Huerter's missed pullup jump shot.",
+    "start_time": 224.0,
+    "end_time": 231.0
+  },
+  {
+    "caption": "D. Bane's driving layup two-pointer is blocked by J. Duren. J. Duren blocks D. Bane's layup two-pointer. D. Jenkins grabs the defensive rebound after D. Bane's driving layup two-pointer is blocked.",
+    "start_time": 236.0,
+    "end_time": 241.0
+  },
+  {
+    "caption": "J. Green misses a running three-pointer.",
+    "start_time": 242.0,
+    "end_time": 249.0
+  },
+  {
+    "caption": "J. Cain commits a personal foul.",
+    "start_time": 245.0,
+    "end_time": 248.0
+  },
+  {
+    "caption": "D. Jenkins makes a jump shot three-pointer, assisted by K. Huerter.",
+    "start_time": 272.0,
+    "end_time": 280.5
+  },
+  {
+    "caption": "W. Carter Jr. misses a jump shot three-pointer. T. Harris grabs the defensive rebound after W. Carter Jr.'s missed three-pointer.",
+    "start_time": 293.5,
+    "end_time": 300.5
+  },
+  {
+    "caption": "T. Harris makes a cutting layup two-pointer, assisted by K. Huerter. F. Wagner commits a shooting personal foul.",
+    "start_time": 303.0,
+    "end_time": 311.5
+  },
+  {
+    "caption": "D. Bane makes a jump shot three-pointer, assisted by F. Wagner.",
+    "start_time": 354.0,
+    "end_time": 362.5
+  },
+  {
+    "caption": "J. Duren misses a turnaround two-pointer. D. Bane grabs the defensive rebound after J. Duren's missed turnaround two-pointer.",
+    "start_time": 384.5,
+    "end_time": 391.5
+  },
+  {
+    "caption": "J. Green steals the ball from D. Bane on a lost ball.",
+    "start_time": 392.5,
+    "end_time": 396.5
+  },
+  {
+    "caption": "T. Harris makes a running dunk two-pointer, assisted by K. Huerter.",
+    "start_time": 396.0,
+    "end_time": 404.5
+  },
+  {
+    "caption": "J. Cain misses a jump shot three-pointer.",
+    "start_time": 418.5,
+    "end_time": 425.5
+  },
+  {
+    "caption": "D. Jenkins commits a personal foul.",
+    "start_time": 421.5,
+    "end_time": 424.5
+  },
+  {
+    "caption": "D. Bane makes a jump shot three-pointer, assisted by W. Carter Jr.",
+    "start_time": 455.5,
+    "end_time": 464.0
+  },
+  {
+    "caption": "K. Huerter misses a jump shot three-pointer. P. Banchero grabs the defensive rebound after K. Huerter's missed three-pointer.",
+    "start_time": 471.0,
+    "end_time": 478.0
+  },
+  {
+    "caption": "P. Banchero's driving layup two-pointer is blocked by J. Duren. J. Duren blocks P. Banchero's layup two-pointer.",
+    "start_time": 482.0,
+    "end_time": 487.0
+  },
+  {
+    "caption": "T. Harris steals the ball from J. Suggs on a bad pass.",
+    "start_time": 524.5,
+    "end_time": 528.5
+  },
+  {
+    "caption": "T. Harris misses a running layup two-pointer. W. Carter Jr. grabs the defensive rebound after T. Harris's missed running layup two-pointer.",
+    "start_time": 529.5,
+    "end_time": 536.5
+  },
+  {
+    "caption": "W. Carter Jr. makes a cutting layup two-pointer, assisted by J. Suggs. J. Duren commits a personal foul.",
+    "start_time": 534.0,
+    "end_time": 542.5
+  },
+  {
+    "caption": "A. Thompson misses a driving layup two-pointer. P. Banchero grabs the defensive rebound after A. Thompson's missed driving layup two-pointer.",
+    "start_time": 620.5,
+    "end_time": 627.5
+  },
+  {
+    "caption": "J. Suggs makes a jump shot three-pointer, assisted by P. Banchero.",
+    "start_time": 625.0,
+    "end_time": 633.5
+  },
+  {
+    "caption": "D. Robinson makes a pullup three-pointer, assisted by C. Cunningham.",
+    "start_time": 876.0,
+    "end_time": 884.5
+  },
+  {
+    "caption": "J. Suggs makes a driving floating jump shot two-pointer, assisted by P. Banchero.",
+    "start_time": 896.0,
+    "end_time": 904.5
+  },
+  {
+    "caption": "W. Carter Jr. commits a personal foul.",
+    "start_time": 910.5,
+    "end_time": 913.5
+  },
+  {
+    "caption": "C. Cunningham misses a turnaround two-pointer. P. Banchero grabs the defensive rebound after C. Cunningham's missed turnaround two-pointer.",
+    "start_time": 946.0,
+    "end_time": 953.0
+  },
+  {
+    "caption": "J. Cain makes a jump shot two-pointer, assisted by P. Banchero. P. Banchero commits a shooting personal foul.",
+    "start_time": 955.5,
+    "end_time": 982.0
+  },
+  {
+    "caption": "P. Banchero makes a driving layup two-pointer.",
+    "start_time": 1046.5,
+    "end_time": 1055.0
+  },
+  {
+    "caption": "A. Thompson makes a tip dunk two-pointer.",
+    "start_time": 1058.5,
+    "end_time": 1067.0
+  },
+  {
+    "caption": "I. Stewart misses a driving layup two-pointer. A. Thompson grabs the offensive rebound after I. Stewart's missed driving layup two-pointer.",
+    "start_time": 1060.0,
+    "end_time": 1067.0
+  },
+  {
+    "caption": "I. Stewart commits a personal foul.",
+    "start_time": 1076.0,
+    "end_time": 1079.0
+  },
+  {
+    "caption": "P. Banchero misses a jump shot two-pointer. A. Thompson grabs the defensive rebound after P. Banchero's missed jump shot two-pointer.",
+    "start_time": 1311.0,
+    "end_time": 1318.0
+  },
+  {
+    "caption": "C. Cunningham is called for an out-of-bounds turnover.",
+    "start_time": 1322.0,
+    "end_time": 1325.0
+  },
+  {
+    "caption": "F. Wagner misses a driving floating two-pointer. C. Cunningham grabs the defensive rebound after F. Wagner's missed jump shot two-pointer.",
+    "start_time": 1584.0,
+    "end_time": 1591.0
+  },
+  {
+    "caption": "D. Robinson misses a running three-pointer. F. Wagner grabs the defensive rebound after D. Robinson's missed running three-pointer.",
+    "start_time": 1589.0,
+    "end_time": 1596.0
+  },
+  {
+    "caption": "J. Suggs misses a jump shot three-pointer.",
+    "start_time": 1608.0,
+    "end_time": 1615.0
+  },
+  {
+    "caption": "C. Cunningham misses a turnaround two-pointer.",
+    "start_time": 1632.0,
+    "end_time": 1639.0
+  },
+  {
+    "caption": "F. Wagner commits a personal foul.",
+    "start_time": 1637.0,
+    "end_time": 1640.0
+  },
+  {
+    "caption": "J. Suggs makes a driving floating two-pointer. J. Suggs commits a shooting personal foul.",
+    "start_time": 1701.0,
+    "end_time": 1720.0
+  },
+  {
+    "caption": "F. Wagner grabs the defensive rebound.",
+    "start_time": 1759.5,
+    "end_time": 1764.5
+  },
+  {
+    "caption": "F. Wagner makes a driving floating jump shot two-pointer, assisted by P. Banchero.",
+    "start_time": 1780.0,
+    "end_time": 1788.5
+  },
+  {
+    "caption": "D. Bane steals the ball from T. Harris on a bad pass.",
+    "start_time": 1802.5,
+    "end_time": 1806.5
+  },
+  {
+    "caption": "J. Suggs is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1809.5,
+    "end_time": 1812.5
+  },
+  {
+    "caption": "A. Thompson makes a turnaround two-pointer, assisted by C. Cunningham.",
+    "start_time": 1829.5,
+    "end_time": 1838.0
+  },
+  {
+    "caption": "F. Wagner makes a driving finger roll two-pointer, assisted by J. Suggs.",
+    "start_time": 1848.0,
+    "end_time": 1856.5
+  },
+  {
+    "caption": "J. Duren commits an offensive foul.",
+    "start_time": 1864.5,
+    "end_time": 1867.5
+  },
+  {
+    "caption": "J. Suggs makes a pullup three-pointer, assisted by P. Banchero. J. Suggs commits a shooting personal foul.",
+    "start_time": 1911.0,
+    "end_time": 1946.3
+  },
+  {
+    "caption": "W. Carter Jr.'s dunk two-pointer is blocked by A. Thompson. A. Thompson blocks W. Carter Jr.'s dunk two-pointer. W. Carter Jr. grabs the offensive rebound after missing his dunk two-pointer.",
+    "start_time": 2003.95,
+    "end_time": 2008.95
+  },
+  {
+    "caption": "C. Cunningham misses a driving layup two-pointer. A. Thompson grabs the offensive rebound after C. Cunningham's missed driving layup two-pointer. A. Thompson makes a tip layup two-pointer.",
+    "start_time": 2106.4,
+    "end_time": 2115.9
+  },
+  {
+    "caption": "J. Suggs commits a shooting personal foul.",
+    "start_time": 2111.9,
+    "end_time": 2114.9
+  },
+  {
+    "caption": "P. Banchero grabs the defensive rebound.",
+    "start_time": 2147.1,
+    "end_time": 2152.1
+  },
+  {
+    "caption": "J. Suggs misses a jump shot three-pointer.",
+    "start_time": 2163.3,
+    "end_time": 2170.3
+  },
+  {
+    "caption": "W. Carter Jr. commits a personal foul.",
+    "start_time": 2168.8,
+    "end_time": 2171.8
+  },
+  {
+    "caption": "P. Banchero misses a pullup three-pointer.",
+    "start_time": 2234.2,
+    "end_time": 2241.2
+  },
+  {
+    "caption": "I. Stewart commits a personal foul.",
+    "start_time": 2238.1,
+    "end_time": 2241.1
+  }
+]

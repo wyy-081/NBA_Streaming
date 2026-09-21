@@ -1,0 +1,312 @@
+[
+  {
+    "caption": "L. Garza misses a jump shot three-pointer. V. Edgecombe grabs the defensive rebound after L. Garza's missed three-pointer.",
+    "start_time": 20.0,
+    "end_time": 27.0
+  },
+  {
+    "caption": "P. George makes a pullup three-pointer.",
+    "start_time": 35.5,
+    "end_time": 44.0
+  },
+  {
+    "caption": "P. Pritchard misses a step back jump shot. L. Garza grabs the offensive rebound after P. Pritchard's missed jump shot two-pointer.",
+    "start_time": 58.0,
+    "end_time": 65.0
+  },
+  {
+    "caption": "B. Scheierman makes a jump shot three-pointer, assisted by P. Pritchard.",
+    "start_time": 85.0,
+    "end_time": 93.5
+  },
+  {
+    "caption": "J. Tatum is called for a kicked ball violation.",
+    "start_time": 105.5,
+    "end_time": 108.5
+  },
+  {
+    "caption": "D. White steals the ball from J. Edwards on a bad pass.",
+    "start_time": 132.0,
+    "end_time": 136.0
+  },
+  {
+    "caption": "D. White misses a running pullup three-pointer. Q. Grimes grabs the defensive rebound after D. White's missed running pullup three-pointer.",
+    "start_time": 137.0,
+    "end_time": 144.0
+  },
+  {
+    "caption": "V. Edgecombe misses a running three-pointer. L. Garza grabs the defensive rebound after V. Edgecombe's missed three-pointer.",
+    "start_time": 148.0,
+    "end_time": 155.0
+  },
+  {
+    "caption": "J. Edwards commits a personal foul.",
+    "start_time": 165.0,
+    "end_time": 168.0
+  },
+  {
+    "caption": "J. Tatum misses a turnaround two-pointer. B. Scheierman grabs the offensive rebound after J. Tatum's missed jump shot two-pointer.",
+    "start_time": 194.0,
+    "end_time": 201.0
+  },
+  {
+    "caption": "D. White makes a jump shot three-pointer, assisted by B. Scheierman.",
+    "start_time": 196.5,
+    "end_time": 205.0
+  },
+  {
+    "caption": "B. Scheierman commits a personal foul.",
+    "start_time": 214.0,
+    "end_time": 217.0
+  },
+  {
+    "caption": "V. Edgecombe makes a driving floating two-pointer.",
+    "start_time": 235.0,
+    "end_time": 243.5
+  },
+  {
+    "caption": "L. Garza makes a jump shot three-pointer, assisted by J. Tatum. L. Garza commits a shooting personal foul.",
+    "start_time": 256.0,
+    "end_time": 283.5
+  },
+  {
+    "caption": "B. Scheierman makes a pullup three-pointer, assisted by L. Garza.",
+    "start_time": 346.0,
+    "end_time": 354.5
+  },
+  {
+    "caption": "P. George makes a fadeaway jump shot two-pointer, assisted by V. Edgecombe.",
+    "start_time": 366.0,
+    "end_time": 374.5
+  },
+  {
+    "caption": "J. Edwards commits a personal foul.",
+    "start_time": 377.5,
+    "end_time": 380.5
+  },
+  {
+    "caption": "L. Garza's cutting layup two-pointer is blocked by A. Bona. A. Bona blocks L. Garza's layup two-pointer. Q. Grimes grabs the defensive rebound after L. Garza's cutting layup two-pointer is blocked.",
+    "start_time": 402.0,
+    "end_time": 407.0
+  },
+  {
+    "caption": "V. Edgecombe makes a running dunk two-pointer, assisted by Q. Grimes.",
+    "start_time": 403.5,
+    "end_time": 412.0
+  },
+  {
+    "caption": "J. Brown makes a pullup two-pointer.",
+    "start_time": 649.0,
+    "end_time": 657.5
+  },
+  {
+    "caption": "V. Edgecombe misses a driving floating bank two-pointer. V. Edgecombe grabs the offensive rebound after missing his jump shot two-pointer. V. Edgecombe's tip layup two-pointer is missed.",
+    "start_time": 664.5,
+    "end_time": 674.5
+  },
+  {
+    "caption": "N. Queta grabs the defensive rebound.",
+    "start_time": 668.5,
+    "end_time": 674.5
+  },
+  {
+    "caption": "V. Edgecombe commits a personal foul.",
+    "start_time": 686.5,
+    "end_time": 689.5
+  },
+  {
+    "caption": "P. George steals the ball from J. Brown on a lost ball.",
+    "start_time": 717.5,
+    "end_time": 721.5
+  },
+  {
+    "caption": "P. George's running layup two-pointer is blocked by J. Brown. J. Brown blocks P. George's layup two-pointer. J. Edwards grabs the offensive rebound after P. George's running layup two-pointer is blocked.",
+    "start_time": 720.5,
+    "end_time": 725.5
+  },
+  {
+    "caption": "B. Scheierman steals the ball from J. Edwards on a bad pass.",
+    "start_time": 725.5,
+    "end_time": 729.5
+  },
+  {
+    "caption": "D. White misses a jump shot three-pointer. B. Scheierman grabs the offensive rebound after D. White's missed jump shot three-pointer.",
+    "start_time": 731.5,
+    "end_time": 738.5
+  },
+  {
+    "caption": "P. Pritchard is called for an out-of-bounds turnover.",
+    "start_time": 775.5,
+    "end_time": 778.5
+  },
+  {
+    "caption": "P. George makes a pullup three-pointer.",
+    "start_time": 791.5,
+    "end_time": 800.0
+  },
+  {
+    "caption": "J. Brown commits an offensive foul.",
+    "start_time": 814.5,
+    "end_time": 817.5
+  },
+  {
+    "caption": "T. Maxey misses a driving floating two-pointer. N. Queta grabs the defensive rebound after T. Maxey's missed driving floating two-pointer.",
+    "start_time": 1038.0,
+    "end_time": 1045.0
+  },
+  {
+    "caption": "P. Pritchard misses a running pullup three-pointer.",
+    "start_time": 1045.0,
+    "end_time": 1052.0
+  },
+  {
+    "caption": "A. Bona commits a personal foul.",
+    "start_time": 1050.0,
+    "end_time": 1053.0
+  },
+  {
+    "caption": "B. Scheierman misses a jump shot three-pointer. A. Bona grabs the defensive rebound after B. Scheierman's missed three-pointer.",
+    "start_time": 1084.5,
+    "end_time": 1091.5
+  },
+  {
+    "caption": "Jump ball between Nikola Jokic and Aaron Gordon, Jonathan Tatum recovers the tip.",
+    "start_time": 1127.0,
+    "end_time": 1132.0
+  },
+  {
+    "caption": "N. Queta steals the ball from A. Bona on a lost ball.",
+    "start_time": 1130.0,
+    "end_time": 1134.0
+  },
+  {
+    "caption": "J. Tatum misses a driving layup two-pointer. N. Queta grabs the offensive rebound after J. Tatum's missed driving layup two-pointer.",
+    "start_time": 1132.0,
+    "end_time": 1139.0
+  },
+  {
+    "caption": "J. Brown misses a turnaround two-pointer. V. Edgecombe grabs the defensive rebound after J. Brown's missed jump shot.",
+    "start_time": 1145.0,
+    "end_time": 1152.0
+  },
+  {
+    "caption": "N. Queta commits a personal foul.",
+    "start_time": 1150.0,
+    "end_time": 1153.0
+  },
+  {
+    "caption": "V. Edgecombe misses a jump shot three-pointer. P. Pritchard grabs the defensive rebound after V. Edgecombe's missed jump shot three-pointer.",
+    "start_time": 1187.5,
+    "end_time": 1194.5
+  },
+  {
+    "caption": "J. Brown makes a driving finger roll two-pointer.",
+    "start_time": 1202.0,
+    "end_time": 1210.5
+  },
+  {
+    "caption": "P. George misses a step back jump shot. V. Edgecombe grabs the offensive rebound after P. George's missed jump shot two-pointer.",
+    "start_time": 1224.5,
+    "end_time": 1231.5
+  },
+  {
+    "caption": "V. Edgecombe makes a driving layup two-pointer.",
+    "start_time": 1227.0,
+    "end_time": 1235.5
+  },
+  {
+    "caption": "N. Vučević is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1236.5,
+    "end_time": 1239.5
+  },
+  {
+    "caption": "N. Vučević commits a shooting personal foul.",
+    "start_time": 1274.5,
+    "end_time": 1278.5
+  },
+  {
+    "caption": "J. Brown grabs the defensive rebound.",
+    "start_time": 1573.5,
+    "end_time": 1578.5
+  },
+  {
+    "caption": "J. Tatum makes a step back jump shot two-pointer.",
+    "start_time": 1586.0,
+    "end_time": 1594.5
+  },
+  {
+    "caption": "A. Bona commits an offensive foul.",
+    "start_time": 1611.5,
+    "end_time": 1614.5
+  },
+  {
+    "caption": "N. Vučević commits an offensive foul.",
+    "start_time": 1647.5,
+    "end_time": 1650.5
+  },
+  {
+    "caption": "T. Maxey's driving layup two-pointer is blocked by D. White. D. White blocks T. Maxey's driving layup two-pointer.",
+    "start_time": 1672.5,
+    "end_time": 1677.5
+  },
+  {
+    "caption": "T. Maxey's driving layup two-pointer is blocked by D. White. D. White blocks T. Maxey's driving layup two-pointer. A. Drummond grabs the offensive rebound after T. Maxey's missed driving layup two-pointer.",
+    "start_time": 1698.5,
+    "end_time": 1703.5
+  },
+  {
+    "caption": "N. Vučević misses a jump shot three-pointer. T. Maxey grabs the defensive rebound after N. Vučević's missed three-pointer.",
+    "start_time": 1720.5,
+    "end_time": 1727.5
+  },
+  {
+    "caption": "K. Oubre Jr. makes a cutting dunk two-pointer, assisted by Tyrese Maxey.",
+    "start_time": 1746.0,
+    "end_time": 1754.5
+  },
+  {
+    "caption": "A. Drummond is called for a kicked ball violation.",
+    "start_time": 1774.5,
+    "end_time": 1777.5
+  },
+  {
+    "caption": "D. White misses a jump shot three-pointer. N. Vučević grabs the offensive rebound after D. White's missed three-pointer.",
+    "start_time": 1800.5,
+    "end_time": 1807.5
+  },
+  {
+    "caption": "N. Vučević makes a floating jump shot two-pointer.",
+    "start_time": 1803.0,
+    "end_time": 1811.5
+  },
+  {
+    "caption": "J. Tatum steals the ball from A. Drummond on a bad pass.",
+    "start_time": 1831.1,
+    "end_time": 1835.1
+  },
+  {
+    "caption": "S. Hauser makes a running three-pointer, assisted by J. Tatum.",
+    "start_time": 1831.4,
+    "end_time": 1839.9
+  },
+  {
+    "caption": "K. Oubre Jr. makes a jump shot two-pointer.",
+    "start_time": 1859.3,
+    "end_time": 1867.8
+  },
+  {
+    "caption": "T. Maxey's driving finger roll two-pointer is blocked by N. Vučević. N. Vučević blocks T. Maxey's layup two-pointer. K. Oubre Jr. grabs the offensive rebound after T. Maxey's missed driving finger roll layup two-pointer.",
+    "start_time": 1860.6,
+    "end_time": 1865.6
+  },
+  {
+    "caption": "D. White makes a turnaround jump shot two-pointer.",
+    "start_time": 1886.4,
+    "end_time": 1894.9
+  },
+  {
+    "caption": "V. Edgecombe misses a pullup three-pointer.",
+    "start_time": 1896.5,
+    "end_time": 1903.5
+  }
+]
