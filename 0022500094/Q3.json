@@ -1,0 +1,322 @@
+[
+  {
+    "caption": "D. Mitchell commits a personal foul.",
+    "start_time": 1.5,
+    "end_time": 4.5
+  },
+  {
+    "caption": "J. Morant is called for a bad pass out-of-bounds turnover.",
+    "start_time": 27.5,
+    "end_time": 30.5
+  },
+  {
+    "caption": "J. Jackson Jr. steals the ball from N. Powell on a bad pass.",
+    "start_time": 41.5,
+    "end_time": 45.5
+  },
+  {
+    "caption": "J. Jackson Jr. makes a running three-pointer, assisted by K. Caldwell-Pope.",
+    "start_time": 45.0,
+    "end_time": 53.5
+  },
+  {
+    "caption": "A. Wiggins commits an offensive foul.",
+    "start_time": 70.5,
+    "end_time": 73.5
+  },
+  {
+    "caption": "J. Jackson Jr. misses a jump shot three-pointer. A. Wiggins grabs the defensive rebound after J. Jackson Jr.'s missed jump shot three-pointer.",
+    "start_time": 98.5,
+    "end_time": 105.5
+  },
+  {
+    "caption": "K. Ware makes a jump shot three-pointer, assisted by B. Adebayo.",
+    "start_time": 106.5,
+    "end_time": 115.0
+  },
+  {
+    "caption": "A. Wiggins commits a personal foul.",
+    "start_time": 120.0,
+    "end_time": 123.0
+  },
+  {
+    "caption": "J. Wells misses a driving floating bank two-pointer.",
+    "start_time": 150.5,
+    "end_time": 157.5
+  },
+  {
+    "caption": "N. Powell commits a personal foul.",
+    "start_time": 154.5,
+    "end_time": 157.5
+  },
+  {
+    "caption": "B. Adebayo commits a personal foul.",
+    "start_time": 154.5,
+    "end_time": 157.5
+  },
+  {
+    "caption": "J. Jackson Jr. misses a driving hook two-pointer. K. Ware grabs the defensive rebound after J. Jackson Jr.'s missed driving hook two-pointer.",
+    "start_time": 269.5,
+    "end_time": 276.5
+  },
+  {
+    "caption": "A. Wiggins misses a driving floating two-pointer. J. Landale grabs the defensive rebound after A. Wiggins' missed driving floating two-pointer.",
+    "start_time": 327.0,
+    "end_time": 334.0
+  },
+  {
+    "caption": "K. Caldwell-Pope makes a jump shot three-pointer, assisted by J. Jackson Jr.",
+    "start_time": 335.5,
+    "end_time": 344.0
+  },
+  {
+    "caption": "K. Ware makes a dunk two-pointer, assisted by D. Mitchell.",
+    "start_time": 379.0,
+    "end_time": 387.5
+  },
+  {
+    "caption": "J. Morant misses a jump shot three-pointer. S. Aldama grabs the offensive rebound after J. Morant's missed jump shot three-pointer.",
+    "start_time": 393.5,
+    "end_time": 400.5
+  },
+  {
+    "caption": "J. Morant's reverse layup two-pointer is blocked by K. Ware. K. Ware blocks J. Morant's layup two-pointer. N. Powell grabs the defensive rebound after J. Morant's missed reverse layup two-pointer.",
+    "start_time": 396.5,
+    "end_time": 401.5
+  },
+  {
+    "caption": "D. Mitchell is called for a bad pass out-of-bounds turnover.",
+    "start_time": 404.5,
+    "end_time": 407.5
+  },
+  {
+    "caption": "N. Powell steals the ball from J. Landale on a bad pass.",
+    "start_time": 422.0,
+    "end_time": 426.0
+  },
+  {
+    "caption": "A. Wiggins misses a driving floating two-pointer. J. Wells grabs the defensive rebound after A. Wiggins's missed driving floating two-pointer.",
+    "start_time": 427.0,
+    "end_time": 434.0
+  },
+  {
+    "caption": "J. Morant misses a jump shot three-pointer. J. Landale grabs the offensive rebound after J. Morant's missed three-pointer.",
+    "start_time": 443.0,
+    "end_time": 450.0
+  },
+  {
+    "caption": "S. Aldama misses a step back three-pointer. J. Landale grabs the offensive rebound after S. Aldama's missed jump shot three-pointer.",
+    "start_time": 449.0,
+    "end_time": 456.0
+  },
+  {
+    "caption": "S. Aldama makes a jump shot two-pointer, assisted by J. Morant.",
+    "start_time": 455.5,
+    "end_time": 464.0
+  },
+  {
+    "caption": "K. Ware commits an offensive charge foul.",
+    "start_time": 484.0,
+    "end_time": 487.0
+  },
+  {
+    "caption": "J. Morant misses a driving floating two-pointer. N. Powell grabs the defensive rebound after J. Morant's missed driving floating two-pointer.",
+    "start_time": 513.0,
+    "end_time": 520.0
+  },
+  {
+    "caption": "N. Powell misses a step back three-pointer.",
+    "start_time": 538.0,
+    "end_time": 545.0
+  },
+  {
+    "caption": "J. Jackson Jr. makes a finger roll layup two-pointer, assisted by K. Caldwell-Pope.",
+    "start_time": 572.0,
+    "end_time": 580.5
+  },
+  {
+    "caption": "N. Powell is called for a bad pass out-of-bounds turnover.",
+    "start_time": 578.5,
+    "end_time": 581.5
+  },
+  {
+    "caption": "N. Powell commits a personal foul.",
+    "start_time": 615.5,
+    "end_time": 618.5
+  },
+  {
+    "caption": "D. Smith makes a driving layup two-pointer.",
+    "start_time": 863.0,
+    "end_time": 871.5
+  },
+  {
+    "caption": "J. Jackson Jr. makes a layup two-pointer, assisted by K. Caldwell-Pope.",
+    "start_time": 877.0,
+    "end_time": 885.5
+  },
+  {
+    "caption": "B. Adebayo misses a jump shot three-pointer. C. Coward grabs the defensive rebound after B. Adebayo's missed jump shot three-pointer.",
+    "start_time": 890.5,
+    "end_time": 897.5
+  },
+  {
+    "caption": "C. Coward makes a running reverse layup two-pointer.",
+    "start_time": 897.0,
+    "end_time": 905.5
+  },
+  {
+    "caption": "C. Coward commits a personal foul.",
+    "start_time": 914.5,
+    "end_time": 917.5
+  },
+  {
+    "caption": "S. Aldama steals the ball from B. Adebayo on a bad pass.",
+    "start_time": 956.0,
+    "end_time": 960.0
+  },
+  {
+    "caption": "J. Jaquez Jr. steals the ball from O. Prosper on a lost ball.",
+    "start_time": 962.0,
+    "end_time": 966.0
+  },
+  {
+    "caption": "B. Adebayo makes a running alley-oop layup two-pointer, assisted by A. Wiggins.",
+    "start_time": 962.5,
+    "end_time": 971.0
+  },
+  {
+    "caption": "S. Aldama makes a floating jump shot two-pointer, assisted by K. Caldwell-Pope.",
+    "start_time": 983.5,
+    "end_time": 992.0
+  },
+  {
+    "caption": "B. Adebayo misses a step back jump shot. S. Aldama grabs the defensive rebound after B. Adebayo's missed jump shot two-pointer.",
+    "start_time": 1001.0,
+    "end_time": 1008.0
+  },
+  {
+    "caption": "J. Jackson Jr. makes a turnaround two-pointer.",
+    "start_time": 1011.5,
+    "end_time": 1020.0
+  },
+  {
+    "caption": "J. Jaquez Jr.'s turnaround hook two-pointer is blocked by J. Jackson Jr. J. Jackson Jr. blocks J. Jaquez Jr.'s hook two-pointer. D. Smith grabs the offensive rebound after J. Jaquez Jr.'s missed turnaround hook two-pointer.",
+    "start_time": 1037.0,
+    "end_time": 1042.0
+  },
+  {
+    "caption": "J. Jackson Jr. grabs the defensive rebound after J. Jaquez Jr.'s missed turnaround hook two-pointer.",
+    "start_time": 1043.0,
+    "end_time": 1049.0
+  },
+  {
+    "caption": "B. Adebayo steals the ball from J. Jackson Jr. on a bad pass.",
+    "start_time": 1047.0,
+    "end_time": 1051.0
+  },
+  {
+    "caption": "J. Jaquez Jr. makes a layup two-pointer, assisted by Bam Adebayo.",
+    "start_time": 1049.5,
+    "end_time": 1058.0
+  },
+  {
+    "caption": "B. Adebayo commits a personal foul.",
+    "start_time": 1060.0,
+    "end_time": 1063.0
+  },
+  {
+    "caption": "K. Caldwell-Pope steals the ball from J. Jaquez Jr. on a bad pass.",
+    "start_time": 1124.0,
+    "end_time": 1128.0
+  },
+  {
+    "caption": "S. Fontecchio steals the ball from K. Caldwell-Pope on a lost ball.",
+    "start_time": 1127.0,
+    "end_time": 1131.0
+  },
+  {
+    "caption": "D. Smith misses a jump shot three-pointer. N. Jović grabs the offensive rebound after D. Smith's missed jump shot three-pointer.",
+    "start_time": 1136.0,
+    "end_time": 1143.0
+  },
+  {
+    "caption": "J. Small commits a personal foul.",
+    "start_time": 1140.0,
+    "end_time": 1143.0
+  },
+  {
+    "caption": "N. Jović makes a jump shot three-pointer, assisted by D. Smith.",
+    "start_time": 1169.5,
+    "end_time": 1178.0
+  },
+  {
+    "caption": "K. Caldwell-Pope makes a pullup three-pointer, assisted by J. Small.",
+    "start_time": 1184.5,
+    "end_time": 1193.0
+  },
+  {
+    "caption": "J. Jaquez Jr. makes a driving finger roll two-pointer.",
+    "start_time": 1196.5,
+    "end_time": 1205.0
+  },
+  {
+    "caption": "J. Small is called for an out-of-bounds turnover.",
+    "start_time": 1214.0,
+    "end_time": 1217.0
+  },
+  {
+    "caption": "B. Adebayo makes a hook two-pointer.",
+    "start_time": 1237.5,
+    "end_time": 1246.0
+  },
+  {
+    "caption": "C. Spencer misses a driving floating two-pointer. S. Fontecchio grabs the defensive rebound after C. Spencer's missed driving floating two-pointer.",
+    "start_time": 1288.0,
+    "end_time": 1295.0
+  },
+  {
+    "caption": "B. Adebayo misses a running three-pointer. G. Jackson grabs the defensive rebound after B. Adebayo's missed running three-pointer.",
+    "start_time": 1294.0,
+    "end_time": 1301.0
+  },
+  {
+    "caption": "G. Jackson's running finger roll two-pointer is missed. S. Fontecchio grabs the defensive rebound after G. Jackson's missed running finger roll layup two-pointer.",
+    "start_time": 1301.0,
+    "end_time": 1308.0
+  },
+  {
+    "caption": "N. Jović misses a running three-pointer. J. Jaquez Jr. grabs the offensive rebound after N. Jović's missed running three-pointer.",
+    "start_time": 1309.0,
+    "end_time": 1316.0
+  },
+  {
+    "caption": "S. Fontecchio misses a jump shot three-pointer. B. Adebayo grabs the offensive rebound after S. Fontecchio's missed three-pointer.",
+    "start_time": 1314.0,
+    "end_time": 1321.0
+  },
+  {
+    "caption": "J. Jaquez Jr. makes a cutting layup two-pointer, assisted by D. Smith.",
+    "start_time": 1319.5,
+    "end_time": 1328.0
+  },
+  {
+    "caption": "J. Morant misses a step back three-pointer. J. Jaquez Jr. grabs the defensive rebound after J. Morant's missed jump shot three-pointer.",
+    "start_time": 1333.3,
+    "end_time": 1340.3
+  },
+  {
+    "caption": "N. Jović makes a jump shot three-pointer, assisted by S. Fontecchio.",
+    "start_time": 1342.7,
+    "end_time": 1351.2
+  },
+  {
+    "caption": "D. Smith steals the ball from C. Spencer on a bad pass.",
+    "start_time": 1356.5,
+    "end_time": 1360.5
+  },
+  {
+    "caption": "S. Fontecchio misses a running three-pointer. J. Jaquez Jr. grabs the offensive rebound after S. Fontecchio's missed running three-pointer. J. Jaquez Jr. makes a putback layup two-pointer.",
+    "start_time": 1360.3,
+    "end_time": 1368.8
+  }
+]

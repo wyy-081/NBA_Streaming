@@ -1,0 +1,297 @@
+[
+  {
+    "caption": "L. Markkanen commits a personal foul.",
+    "start_time": 13.5,
+    "end_time": 16.5
+  },
+  {
+    "caption": "R. Westbrook misses a jump shot three-pointer. J. Nurkić grabs the defensive rebound after R. Westbrook's missed jump shot three-pointer.",
+    "start_time": 40.0,
+    "end_time": 47.0
+  },
+  {
+    "caption": "W. Clayton Jr. misses a floating two-pointer. D. Sabonis grabs the defensive rebound after W. Clayton Jr.'s missed floating two-pointer.",
+    "start_time": 52.0,
+    "end_time": 59.0
+  },
+  {
+    "caption": "D. DeRozan misses a fadeaway two-pointer. W. Clayton Jr. grabs the defensive rebound after D. DeRozan's missed jump shot two-pointer.",
+    "start_time": 61.5,
+    "end_time": 68.5
+  },
+  {
+    "caption": "J. Nurkić makes a cutting layup two-pointer, assisted by K. Filipowski.",
+    "start_time": 72.5,
+    "end_time": 81.0
+  },
+  {
+    "caption": "R. Westbrook is called for a bad pass out-of-bounds turnover.",
+    "start_time": 87.0,
+    "end_time": 90.0
+  },
+  {
+    "caption": "L. Markkanen makes a jump shot three-pointer, assisted by K. Filipowski.",
+    "start_time": 108.0,
+    "end_time": 116.5
+  },
+  {
+    "caption": "D. Sabonis misses a hook two-pointer. L. Markkanen grabs the defensive rebound after D. Sabonis's missed hook two-pointer.",
+    "start_time": 123.5,
+    "end_time": 130.5
+  },
+  {
+    "caption": "R. Westbrook commits a personal foul.",
+    "start_time": 138.5,
+    "end_time": 141.5
+  },
+  {
+    "caption": "L. Markkanen misses a jump shot three-pointer. D. DeRozan grabs the defensive rebound after L. Markkanen's missed jump shot three-pointer.",
+    "start_time": 164.5,
+    "end_time": 171.5
+  },
+  {
+    "caption": "D. Sabonis misses a jump shot three-pointer. S. Mykhailiuk grabs the defensive rebound after D. Sabonis's missed three-pointer.",
+    "start_time": 173.5,
+    "end_time": 180.5
+  },
+  {
+    "caption": "W. Clayton Jr. makes a driving layup two-pointer.",
+    "start_time": 183.0,
+    "end_time": 191.5
+  },
+  {
+    "caption": "D. DeRozan misses a pullup two-pointer. K. Filipowski grabs the defensive rebound after D. DeRozan's missed pullup two-pointer.",
+    "start_time": 390.0,
+    "end_time": 397.0
+  },
+  {
+    "caption": "K. Filipowski commits an offensive foul.",
+    "start_time": 405.0,
+    "end_time": 408.0
+  },
+  {
+    "caption": "D. Sabonis makes a layup two-pointer, assisted by D. DeRozan.",
+    "start_time": 436.5,
+    "end_time": 445.0
+  },
+  {
+    "caption": "K. Ellis steals the ball from B. Sensabaugh on a bad pass.",
+    "start_time": 447.0,
+    "end_time": 451.0
+  },
+  {
+    "caption": "R. Westbrook misses a pullup two-pointer. W. Clayton Jr. grabs the defensive rebound after R. Westbrook's missed pullup two-pointer.",
+    "start_time": 457.0,
+    "end_time": 464.0
+  },
+  {
+    "caption": "W. Clayton Jr. makes a running layup two-pointer.",
+    "start_time": 461.5,
+    "end_time": 470.0
+  },
+  {
+    "caption": "M. Monk misses a driving floating bank two-pointer. J. Nurkić grabs the defensive rebound after M. Monk's missed driving floating bank two-pointer.",
+    "start_time": 472.0,
+    "end_time": 479.0
+  },
+  {
+    "caption": "L. Markkanen's running alley-oop layup two-pointer is missed. K. Ellis grabs the defensive rebound after L. Markkanen's missed running alley-oop layup two-pointer.",
+    "start_time": 478.0,
+    "end_time": 485.0
+  },
+  {
+    "caption": "B. Sensabaugh steals the ball from K. Ellis on a lost ball.",
+    "start_time": 486.0,
+    "end_time": 490.0
+  },
+  {
+    "caption": "L. Markkanen misses a running three-pointer. D. Sabonis grabs the defensive rebound after L. Markkanen's missed running three-pointer.",
+    "start_time": 491.0,
+    "end_time": 498.0
+  },
+  {
+    "caption": "M. Monk makes a pullup three-pointer.",
+    "start_time": 498.5,
+    "end_time": 507.0
+  },
+  {
+    "caption": "K. Ellis steals the ball from W. Kessler on a bad pass.",
+    "start_time": 703.5,
+    "end_time": 707.5
+  },
+  {
+    "caption": "I. Jones misses a jump shot three-pointer. B. Sensabaugh grabs the defensive rebound after I. Jones's missed jump shot three-pointer.",
+    "start_time": 708.5,
+    "end_time": 715.5
+  },
+  {
+    "caption": "A. Bailey misses a turnaround two-pointer. D. Eubanks grabs the defensive rebound after A. Bailey's missed turnaround two-pointer.",
+    "start_time": 732.5,
+    "end_time": 739.5
+  },
+  {
+    "caption": "D. Schröder makes a pullup three-pointer.",
+    "start_time": 742.0,
+    "end_time": 750.5
+  },
+  {
+    "caption": "B. Sensabaugh is called for a traveling violation.",
+    "start_time": 761.0,
+    "end_time": 764.0
+  },
+  {
+    "caption": "D. Schröder misses a turnaround two-pointer. B. Sensabaugh grabs the defensive rebound after D. Schröder's missed jump shot.",
+    "start_time": 810.0,
+    "end_time": 817.0
+  },
+  {
+    "caption": "A. Bailey misses a driving layup two-pointer. K. Ellis grabs the defensive rebound after A. Bailey's missed driving layup two-pointer.",
+    "start_time": 826.0,
+    "end_time": 833.0
+  },
+  {
+    "caption": "D. Eubanks misses a running layup two-pointer. I. Jones grabs the offensive rebound after D. Eubanks' missed running layup two-pointer. I. Jones makes a putback layup two-pointer.",
+    "start_time": 832.5,
+    "end_time": 841.0
+  },
+  {
+    "caption": "B. Sensabaugh makes a floating jump shot two-pointer, assisted by W. Kessler.",
+    "start_time": 850.0,
+    "end_time": 858.5
+  },
+  {
+    "caption": "K. Ellis is called for a palming violation.",
+    "start_time": 861.5,
+    "end_time": 864.5
+  },
+  {
+    "caption": "K. George makes a floating jump shot two-pointer.",
+    "start_time": 920.0,
+    "end_time": 928.5
+  },
+  {
+    "caption": "D. Schröder misses a pullup three-pointer. K. George grabs the defensive rebound after D. Schröder's missed jump shot three-pointer.",
+    "start_time": 932.5,
+    "end_time": 939.5
+  },
+  {
+    "caption": "L. Markkanen misses a jump shot three-pointer.",
+    "start_time": 945.5,
+    "end_time": 952.5
+  },
+  {
+    "caption": "D. Schröder makes a driving layup two-pointer.",
+    "start_time": 969.5,
+    "end_time": 978.0
+  },
+  {
+    "caption": "K. George's driving layup two-pointer is blocked by D. Eubanks. D. Eubanks blocks K. George's layup two-pointer.",
+    "start_time": 987.0,
+    "end_time": 992.0
+  },
+  {
+    "caption": "B. Sensabaugh misses a pullup three-pointer. D. Sabonis grabs the defensive rebound after B. Sensabaugh's missed jump shot three-pointer.",
+    "start_time": 1023.0,
+    "end_time": 1030.0
+  },
+  {
+    "caption": "D. Schröder misses a jump shot three-pointer. D. Sabonis grabs the offensive rebound after D. Schröder's missed three-pointer.",
+    "start_time": 1035.0,
+    "end_time": 1042.0
+  },
+  {
+    "caption": "D. DeRozan misses a turnaround two-pointer. W. Kessler grabs the defensive rebound after D. DeRozan's missed jump shot two-pointer.",
+    "start_time": 1047.0,
+    "end_time": 1054.0
+  },
+  {
+    "caption": "K. George makes a step back three-pointer.",
+    "start_time": 1064.5,
+    "end_time": 1073.0
+  },
+  {
+    "caption": "Domantas Sabonis makes a cutting dunk two-pointer, assisted by Zach LaVine.",
+    "start_time": 1089.5,
+    "end_time": 1098.0
+  },
+  {
+    "caption": "I. Jones commits a personal foul.",
+    "start_time": 1105.0,
+    "end_time": 1108.0
+  },
+  {
+    "caption": "D. DeRozan steals the ball from K. George on a bad pass.",
+    "start_time": 1138.0,
+    "end_time": 1142.0
+  },
+  {
+    "caption": "D. DeRozan misses a turnaround two-pointer.",
+    "start_time": 1146.5,
+    "end_time": 1153.5
+  },
+  {
+    "caption": "K. George commits an offensive foul.",
+    "start_time": 1170.0,
+    "end_time": 1173.0
+  },
+  {
+    "caption": "D. DeRozan makes a driving layup two-pointer.",
+    "start_time": 1209.5,
+    "end_time": 1218.0
+  },
+  {
+    "caption": "S. Mykhailiuk makes a jump shot three-pointer, assisted by W. Kessler. D. DeRozan commits a shooting personal foul.",
+    "start_time": 1219.5,
+    "end_time": 1228.0
+  },
+  {
+    "caption": "D. Schröder makes a pullup two-pointer.",
+    "start_time": 1299.0,
+    "end_time": 1307.5
+  },
+  {
+    "caption": "K. George misses a driving layup two-pointer. J. Nurkić grabs the offensive rebound after K. George's missed driving layup two-pointer. J. Nurkić misses a putback layup two-pointer.",
+    "start_time": 1322.5,
+    "end_time": 1334.5
+  },
+  {
+    "caption": "D. Sabonis grabs the defensive rebound.",
+    "start_time": 1328.5,
+    "end_time": 1334.5
+  },
+  {
+    "caption": "D. Schröder misses a driving layup two-pointer. J. Nurkić grabs the defensive rebound after D. Schröder's missed driving layup two-pointer.",
+    "start_time": 1336.5,
+    "end_time": 1343.5
+  },
+  {
+    "caption": "L. Markkanen makes a running dunk two-pointer, assisted by K. George.",
+    "start_time": 1340.0,
+    "end_time": 1348.5
+  },
+  {
+    "caption": "Zach LaVine misses a pullup three-pointer. J. Nurkić grabs the defensive rebound after Z. LaVine's missed pullup three-pointer.",
+    "start_time": 1357.2,
+    "end_time": 1364.2
+  },
+  {
+    "caption": "K. George misses a pullup three-pointer. S. Mykhailiuk grabs the offensive rebound after K. George's missed pullup three-pointer.",
+    "start_time": 1370.0,
+    "end_time": 1377.0
+  },
+  {
+    "caption": "T. Hendricks misses a jump shot three-pointer.",
+    "start_time": 1376.9,
+    "end_time": 1383.9
+  },
+  {
+    "caption": "L. Markkanen misses a jump shot three-pointer. D. Sabonis grabs the defensive rebound after L. Markkanen's missed jump shot three-pointer.",
+    "start_time": 1411.5,
+    "end_time": 1418.5
+  },
+  {
+    "caption": "D. Schröder misses a jump shot three-pointer. T. Hendricks grabs the defensive rebound after D. Schröder's missed three-pointer.",
+    "start_time": 1429.8,
+    "end_time": 1436.8
+  }
+]

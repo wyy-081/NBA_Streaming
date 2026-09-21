@@ -1,0 +1,297 @@
+[
+  {
+    "caption": "J. Smith misses a turnaround hook two-pointer. G. Bitadze grabs the defensive rebound after J. Smith's missed turnaround hook two-pointer.",
+    "start_time": 13.0,
+    "end_time": 20.0
+  },
+  {
+    "caption": "D. Bane makes a cutting layup two-pointer, assisted by G. Bitadze.",
+    "start_time": 22.5,
+    "end_time": 31.0
+  },
+  {
+    "caption": "J. Phillips makes a cutting dunk two-pointer, assisted by T. Jones.",
+    "start_time": 33.5,
+    "end_time": 42.0
+  },
+  {
+    "caption": "T. da Silva misses a jump shot three-pointer. G. Bitadze grabs the offensive rebound after T. da Silva's missed three-pointer. G. Bitadze makes a putback layup two-pointer.",
+    "start_time": 49.0,
+    "end_time": 60.0
+  },
+  {
+    "caption": "J. Smith makes a jump shot three-pointer, assisted by T. Jones.",
+    "start_time": 61.5,
+    "end_time": 70.0
+  },
+  {
+    "caption": "T. Jones misses a jump shot three-pointer. J. Smith grabs the defensive rebound after T. Jones's missed three-pointer.",
+    "start_time": 85.0,
+    "end_time": 92.0
+  },
+  {
+    "caption": "J. Smith makes a running layup two-pointer, assisted by A. Dosunmu. T. Jones commits a personal foul.",
+    "start_time": 86.5,
+    "end_time": 95.0
+  },
+  {
+    "caption": "G. Bitadze grabs the defensive rebound.",
+    "start_time": 135.0,
+    "end_time": 140.0
+  },
+  {
+    "caption": "F. Wagner misses a jump shot three-pointer. I. Okoro grabs the defensive rebound after F. Wagner's missed jump shot three-pointer.",
+    "start_time": 143.0,
+    "end_time": 150.0
+  },
+  {
+    "caption": "J. Giddey misses a pullup two-pointer. I. Okoro grabs the offensive rebound after J. Giddey's missed pullup two-pointer.",
+    "start_time": 157.0,
+    "end_time": 164.0
+  },
+  {
+    "caption": "D. Bane steals the ball from I. Okoro on a lost ball.",
+    "start_time": 163.0,
+    "end_time": 167.0
+  },
+  {
+    "caption": "T. da Silva misses a running three-pointer. J. Smith grabs the defensive rebound after T. da Silva's missed running three-pointer.",
+    "start_time": 165.0,
+    "end_time": 172.0
+  },
+  {
+    "caption": "T. Jones steals the ball from P. Williams on a bad pass.",
+    "start_time": 174.0,
+    "end_time": 178.0
+  },
+  {
+    "caption": "J. Phillips steals the ball from T. Jones on a bad pass.",
+    "start_time": 180.0,
+    "end_time": 184.0
+  },
+  {
+    "caption": "D. Bane commits a personal foul.",
+    "start_time": 195.0,
+    "end_time": 198.0
+  },
+  {
+    "caption": "J. Smith makes a driving finger roll two-pointer, assisted by K. Huerter.",
+    "start_time": 229.5,
+    "end_time": 238.0
+  },
+  {
+    "caption": "F. Wagner misses a driving floating bank two-pointer. J. Isaac grabs the offensive rebound after F. Wagner's missed driving floating bank two-pointer.",
+    "start_time": 244.0,
+    "end_time": 251.0
+  },
+  {
+    "caption": "J. Isaac makes a tip dunk two-pointer.",
+    "start_time": 246.5,
+    "end_time": 255.0
+  },
+  {
+    "caption": "T. Jones commits a personal foul.",
+    "start_time": 259.0,
+    "end_time": 262.0
+  },
+  {
+    "caption": "N. Vučević commits an offensive foul.",
+    "start_time": 292.5,
+    "end_time": 295.5
+  },
+  {
+    "caption": "T. Jones misses a driving floating bank two-pointer. P. Williams grabs the defensive rebound after T. Jones's missed driving floating bank two-pointer.",
+    "start_time": 326.5,
+    "end_time": 333.5
+  },
+  {
+    "caption": "K. Huerter misses a running three-pointer. D. Bane grabs the defensive rebound after K. Huerter's missed running three-pointer.",
+    "start_time": 333.5,
+    "end_time": 340.5
+  },
+  {
+    "caption": "J. Giddey steals the ball from G. Bitadze on a lost ball.",
+    "start_time": 344.5,
+    "end_time": 348.5
+  },
+  {
+    "caption": "J. Giddey makes a running finger roll layup two-pointer, assisted by P. Williams.",
+    "start_time": 346.0,
+    "end_time": 354.5
+  },
+  {
+    "caption": "D. Bane is called for a bad pass out-of-bounds turnover.",
+    "start_time": 365.5,
+    "end_time": 368.5
+  },
+  {
+    "caption": "J. Giddey misses a driving floating bank two-pointer. G. Bitadze grabs the defensive rebound after J. Giddey's missed jump shot two-pointer.",
+    "start_time": 395.5,
+    "end_time": 402.5
+  },
+  {
+    "caption": "D. Bane misses a pullup three-pointer. P. Williams grabs the defensive rebound after D. Bane's missed jump shot three-pointer.",
+    "start_time": 404.5,
+    "end_time": 411.5
+  },
+  {
+    "caption": "D. Bane commits a personal foul.",
+    "start_time": 420.5,
+    "end_time": 423.5
+  },
+  {
+    "caption": "D. Terry misses a jump shot three-pointer. W. Carter Jr. grabs the defensive rebound after D. Terry's missed three-pointer.",
+    "start_time": 466.5,
+    "end_time": 473.5
+  },
+  {
+    "caption": "K. Huerter commits a personal foul.",
+    "start_time": 479.5,
+    "end_time": 482.5
+  },
+  {
+    "caption": "J. Isaac misses a jump shot three-pointer. K. Huerter grabs the defensive rebound after J. Isaac's missed three-pointer.",
+    "start_time": 676.0,
+    "end_time": 683.0
+  },
+  {
+    "caption": "K. Huerter makes a floating jump shot two-pointer, assisted by J. Giddey. M. Buzelis commits a shooting personal foul.",
+    "start_time": 689.5,
+    "end_time": 708.0
+  },
+  {
+    "caption": "J. Isaac steals the ball from M. Buzelis on a lost ball.",
+    "start_time": 774.5,
+    "end_time": 778.5
+  },
+  {
+    "caption": "N. Vučević is called for a kicked ball violation.",
+    "start_time": 784.5,
+    "end_time": 787.5
+  },
+  {
+    "caption": "J. Howard misses a jump shot three-pointer. I. Okoro grabs the defensive rebound after J. Howard's missed jump shot three-pointer.",
+    "start_time": 819.0,
+    "end_time": 826.0
+  },
+  {
+    "caption": "N. Vučević misses a driving floating two-pointer. W. Carter Jr. grabs the defensive rebound after N. Vučević's missed driving floating two-pointer.",
+    "start_time": 832.0,
+    "end_time": 839.0
+  },
+  {
+    "caption": "P. Banchero makes a turnaround jump shot two-pointer.",
+    "start_time": 839.5,
+    "end_time": 848.0
+  },
+  {
+    "caption": "P. Williams makes a pullup two-pointer.",
+    "start_time": 853.5,
+    "end_time": 862.0
+  },
+  {
+    "caption": "P. Banchero misses a step back three-pointer. K. Huerter grabs the defensive rebound after P. Banchero's missed jump shot three-pointer.",
+    "start_time": 866.0,
+    "end_time": 873.0
+  },
+  {
+    "caption": "A. Dosunmu loses the ball out-of-bounds.",
+    "start_time": 875.0,
+    "end_time": 878.0
+  },
+  {
+    "caption": "K. Huerter steals the ball from A. Black on a bad pass.",
+    "start_time": 911.5,
+    "end_time": 915.5
+  },
+  {
+    "caption": "P. Williams makes a cutting dunk two-pointer, assisted by K. Huerter.",
+    "start_time": 919.0,
+    "end_time": 927.5
+  },
+  {
+    "caption": "P. Banchero misses a turnaround two-pointer. N. Vučević grabs the defensive rebound after P. Banchero's missed turnaround jump shot.",
+    "start_time": 943.5,
+    "end_time": 950.5
+  },
+  {
+    "caption": "A. Dosunmu makes a driving layup two-pointer.",
+    "start_time": 949.0,
+    "end_time": 957.5
+  },
+  {
+    "caption": "F. Wagner makes a driving layup two-pointer.",
+    "start_time": 1149.5,
+    "end_time": 1158.0
+  },
+  {
+    "caption": "N. Vučević makes a fadeaway jump shot two-pointer, assisted by T. Jones.",
+    "start_time": 1172.5,
+    "end_time": 1181.0
+  },
+  {
+    "caption": "T. da Silva misses a jump shot three-pointer. T. Jones grabs the defensive rebound after T. da Silva's missed jump shot three-pointer.",
+    "start_time": 1193.0,
+    "end_time": 1200.0
+  },
+  {
+    "caption": "P. Williams misses a jump shot three-pointer. F. Wagner grabs the defensive rebound after P. Williams' missed three-pointer.",
+    "start_time": 1218.0,
+    "end_time": 1225.0
+  },
+  {
+    "caption": "A. Black makes a driving floating two-pointer.",
+    "start_time": 1235.5,
+    "end_time": 1244.0
+  },
+  {
+    "caption": "N. Vučević is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1248.0,
+    "end_time": 1251.0
+  },
+  {
+    "caption": "A. Black makes a pullup three-pointer.",
+    "start_time": 1255.0,
+    "end_time": 1263.5
+  },
+  {
+    "caption": "I. Okoro's driving layup two-pointer is blocked by T. da Silva. T. da Silva blocks I. Okoro's layup two-pointer. W. Carter Jr. grabs the defensive rebound after I. Okoro's driving layup two-pointer is blocked.",
+    "start_time": 1279.5,
+    "end_time": 1284.5
+  },
+  {
+    "caption": "P. Williams steals the ball from W. Carter Jr. on a bad pass.",
+    "start_time": 1289.5,
+    "end_time": 1293.5
+  },
+  {
+    "caption": "T. Jones's driving layup two-pointer is blocked by A. Black. A. Black blocks T. Jones's layup two-pointer. T. Jones grabs the offensive rebound after missing his driving layup two-pointer.",
+    "start_time": 1289.5,
+    "end_time": 1294.5
+  },
+  {
+    "caption": "T. Jones misses a floating two-pointer. P. Banchero grabs the defensive rebound after T. Jones' missed floating two-pointer.",
+    "start_time": 1292.666667,
+    "end_time": 1299.666667
+  },
+  {
+    "caption": "J. Giddey commits a shooting personal foul.",
+    "start_time": 1304.65,
+    "end_time": 1308.65
+  },
+  {
+    "caption": "J. Giddey misses a driving finger roll two-pointer. N. Vučević grabs the offensive rebound after J. Giddey's missed driving finger roll layup two-pointer. N. Vučević makes a tip layup two-pointer.",
+    "start_time": 1371.8,
+    "end_time": 1382.65
+  },
+  {
+    "caption": "T. da Silva misses a turnaround two-pointer. J. Giddey grabs the defensive rebound after T. da Silva's missed jump shot.",
+    "start_time": 1397.95,
+    "end_time": 1404.95
+  },
+  {
+    "caption": "J. Giddey is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1407.25,
+    "end_time": 1410.25
+  }
+]

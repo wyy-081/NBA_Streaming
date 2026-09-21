@@ -1,0 +1,312 @@
+[
+  {
+    "caption": "G. Allen makes a turnaround jump shot two-pointer, assisted by C. Gillespie.",
+    "start_time": 11.5,
+    "end_time": 20.0
+  },
+  {
+    "caption": "K. Leonard misses a pullup two-pointer. C. Gillespie grabs the defensive rebound after K. Leonard's missed jump shot two-pointer.",
+    "start_time": 42.0,
+    "end_time": 49.0
+  },
+  {
+    "caption": "C. Gillespie misses a driving finger roll two-pointer. B. Lopez grabs the defensive rebound after C. Gillespie's missed driving finger roll layup two-pointer.",
+    "start_time": 57.0,
+    "end_time": 64.0
+  },
+  {
+    "caption": "N. Hayes-Davis steals the ball from J. Collins on a lost ball.",
+    "start_time": 75.0,
+    "end_time": 79.0
+  },
+  {
+    "caption": "J. Collins commits a take personal foul.",
+    "start_time": 77.0,
+    "end_time": 80.0
+  },
+  {
+    "caption": "O. Ighodaro misses an alley-oop layup two-pointer. O. Ighodaro grabs the offensive rebound after missing his layup two-pointer. O. Ighodaro's putback layup two-pointer is blocked by B. Lopez.",
+    "start_time": 127.0,
+    "end_time": 136.0
+  },
+  {
+    "caption": "O. Ighodaro's putback layup two-pointer is blocked by B. Lopez. B. Lopez blocks O. Ighodaro's layup two-pointer. C. Paul grabs the defensive rebound after O. Ighodaro's missed layup two-pointer.",
+    "start_time": 129.0,
+    "end_time": 134.0
+  },
+  {
+    "caption": "J. Collins makes a running dunk two-pointer, assisted by C. Paul. R. O'Neale commits a shooting personal foul.",
+    "start_time": 130.5,
+    "end_time": 139.0
+  },
+  {
+    "caption": "C. Gillespie misses a step back three-pointer. K. Dunn grabs the defensive rebound after C. Gillespie's missed three-pointer.",
+    "start_time": 183.5,
+    "end_time": 190.5
+  },
+  {
+    "caption": "K. Leonard misses a jump shot two-pointer. C. Gillespie grabs the defensive rebound after K. Leonard's missed jump shot two-pointer.",
+    "start_time": 198.5,
+    "end_time": 205.5
+  },
+  {
+    "caption": "N. Hayes-Davis misses a jump shot three-pointer.",
+    "start_time": 228.0,
+    "end_time": 235.0
+  },
+  {
+    "caption": "C. Paul commits a personal foul.",
+    "start_time": 231.0,
+    "end_time": 234.0
+  },
+  {
+    "caption": "C. Gillespie makes a pullup three-pointer, assisted by R. O'Neale.",
+    "start_time": 253.5,
+    "end_time": 262.0
+  },
+  {
+    "caption": "K. Dunn misses a jump shot three-pointer. C. Paul grabs the offensive rebound after K. Dunn's missed three-pointer.",
+    "start_time": 280.0,
+    "end_time": 287.0
+  },
+  {
+    "caption": "B. Lopez makes a jump shot three-pointer, assisted by C. Paul.",
+    "start_time": 282.5,
+    "end_time": 291.0
+  },
+  {
+    "caption": "O. Ighodaro makes a floating jump shot two-pointer, assisted by C. Gillespie.",
+    "start_time": 294.5,
+    "end_time": 303.0
+  },
+  {
+    "caption": "K. Leonard misses a turnaround two-pointer. N. Hayes-Davis grabs the defensive rebound after K. Leonard's missed turnaround fadeaway two-pointer.",
+    "start_time": 317.0,
+    "end_time": 324.0
+  },
+  {
+    "caption": "K. Dunn steals the ball from C. Gillespie on a lost ball.",
+    "start_time": 326.0,
+    "end_time": 330.0
+  },
+  {
+    "caption": "K. Dunn's running layup two-pointer is blocked by C. Gillespie. C. Gillespie blocks K. Dunn's layup two-pointer.",
+    "start_time": 327.0,
+    "end_time": 332.0
+  },
+  {
+    "caption": "R. Fleming misses a turnaround two-pointer. N. Hayes-Davis grabs the offensive rebound after R. Fleming's missed turnaround two-pointer.",
+    "start_time": 570.0,
+    "end_time": 577.0
+  },
+  {
+    "caption": "N. Richards misses a layup two-pointer. B. Lopez grabs the defensive rebound after N. Richards' missed layup two-pointer.",
+    "start_time": 575.0,
+    "end_time": 582.0
+  },
+  {
+    "caption": "R. Fleming commits a personal foul.",
+    "start_time": 580.0,
+    "end_time": 583.0
+  },
+  {
+    "caption": "C. Gillespie steals the ball from K. Leonard on a lost ball.",
+    "start_time": 609.5,
+    "end_time": 613.5
+  },
+  {
+    "caption": "C. Gillespie makes a running three-pointer, assisted by R. Fleming.",
+    "start_time": 611.0,
+    "end_time": 619.5
+  },
+  {
+    "caption": "K. Dunn makes a jump shot three-pointer, assisted by J. Collins.",
+    "start_time": 635.0,
+    "end_time": 643.5
+  },
+  {
+    "caption": "C. Paul steals the ball from R. O'Neale on a bad pass.",
+    "start_time": 653.5,
+    "end_time": 657.5
+  },
+  {
+    "caption": "K. Leonard makes a running dunk two-pointer, assisted by C. Paul.",
+    "start_time": 654.0,
+    "end_time": 662.5
+  },
+  {
+    "caption": "N. Hayes-Davis makes a jump shot three-pointer, assisted by R. Fleming.",
+    "start_time": 679.0,
+    "end_time": 687.5
+  },
+  {
+    "caption": "J. Collins makes a cutting dunk two-pointer, assisted by C. Paul.",
+    "start_time": 698.0,
+    "end_time": 706.5
+  },
+  {
+    "caption": "N. Hayes-Davis makes a driving floating jump shot, assisted by C. Gillespie.",
+    "start_time": 714.0,
+    "end_time": 722.5
+  },
+  {
+    "caption": "N. Richards steals the ball from J. Collins on a lost ball.",
+    "start_time": 920.5,
+    "end_time": 924.5
+  },
+  {
+    "caption": "K. Leonard makes a running layup two-pointer, assisted by D. Jones Jr.",
+    "start_time": 926.0,
+    "end_time": 934.5
+  },
+  {
+    "caption": "D. Jones Jr. steals the ball from J. Goodwin on a bad pass.",
+    "start_time": 927.5,
+    "end_time": 931.5
+  },
+  {
+    "caption": "N. Richards makes a hook two-pointer, assisted by C. Gillespie.",
+    "start_time": 951.5,
+    "end_time": 960.0
+  },
+  {
+    "caption": "K. Leonard misses a pullup two-pointer. B. Lopez grabs the offensive rebound after K. Leonard's missed pullup two-pointer.",
+    "start_time": 971.0,
+    "end_time": 978.0
+  },
+  {
+    "caption": "K. Leonard misses a jump shot three-pointer. D. Jones Jr. grabs the offensive rebound after K. Leonard's missed jump shot three-pointer.",
+    "start_time": 984.0,
+    "end_time": 991.0
+  },
+  {
+    "caption": "R. Fleming commits a personal foul.",
+    "start_time": 995.0,
+    "end_time": 998.0
+  },
+  {
+    "caption": "J. Goodwin steals the ball from C. Paul on a bad pass.",
+    "start_time": 1046.0,
+    "end_time": 1050.0
+  },
+  {
+    "caption": "C. Gillespie makes a running reverse layup two-pointer.",
+    "start_time": 1048.5,
+    "end_time": 1057.0
+  },
+  {
+    "caption": "K. Sanders makes a pullup two-pointer.",
+    "start_time": 1071.5,
+    "end_time": 1080.0
+  },
+  {
+    "caption": "C. Paul commits a personal foul.",
+    "start_time": 1089.0,
+    "end_time": 1092.0
+  },
+  {
+    "caption": "J. Goodwin misses a jump shot three-pointer. C. Christie grabs the defensive rebound after J. Goodwin's missed jump shot three-pointer.",
+    "start_time": 1116.0,
+    "end_time": 1123.0
+  },
+  {
+    "caption": "K. Sanders misses a jump shot three-pointer. C. Gillespie grabs the defensive rebound after K. Sanders' missed jump shot three-pointer.",
+    "start_time": 1140.5,
+    "end_time": 1147.5
+  },
+  {
+    "caption": "C. Paul commits a personal foul.",
+    "start_time": 1144.5,
+    "end_time": 1147.5
+  },
+  {
+    "caption": "R. Fleming misses a jump shot three-pointer.",
+    "start_time": 1170.5,
+    "end_time": 1177.5
+  },
+  {
+    "caption": "Jump ball between N. Hayes-Davis and K. Brown, K. Maluach recovers the tip.",
+    "start_time": 1224.5,
+    "end_time": 1229.5
+  },
+  {
+    "caption": "J. Goodwin misses a jump shot three-pointer.",
+    "start_time": 1229.5,
+    "end_time": 1236.5
+  },
+  {
+    "caption": "Y. Niederhäuser makes a alley-oop dunk two-pointer, assisted by C. Paul.",
+    "start_time": 1248.0,
+    "end_time": 1256.5
+  },
+  {
+    "caption": "C. Gillespie makes a pullup two-pointer.",
+    "start_time": 1261.0,
+    "end_time": 1269.5
+  },
+  {
+    "caption": "K. Sanders misses a turnaround two-pointer. J. Goodwin grabs the defensive rebound after K. Sanders' missed jump shot.",
+    "start_time": 1290.5,
+    "end_time": 1297.5
+  },
+  {
+    "caption": "C. Paul steals the ball from J. Goodwin on a lost ball.",
+    "start_time": 1296.5,
+    "end_time": 1300.5
+  },
+  {
+    "caption": "Y. Niederhäuser makes a running finger roll two-pointer, assisted by C. Paul.",
+    "start_time": 1299.0,
+    "end_time": 1307.5
+  },
+  {
+    "caption": "C. Gillespie misses a pullup three-pointer. C. Christie grabs the defensive rebound after C. Gillespie's missed jump shot three-pointer.",
+    "start_time": 1315.5,
+    "end_time": 1322.5
+  },
+  {
+    "caption": "N. Hayes-Davis steals the ball from C. Christie on a lost ball.",
+    "start_time": 1319.5,
+    "end_time": 1323.5
+  },
+  {
+    "caption": "Jump ball between N. Hayes-Davis and C. Christie, R. Fleming recovers the tip.",
+    "start_time": 1350.0,
+    "end_time": 1355.0
+  },
+  {
+    "caption": "K. Sanders steals the ball from J. Goodwin on a lost ball.",
+    "start_time": 1364.5,
+    "end_time": 1368.5
+  },
+  {
+    "caption": "R. Fleming steals the ball from K. Sanders on a lost ball.",
+    "start_time": 1371.0,
+    "end_time": 1375.0
+  },
+  {
+    "caption": "Y. Niederhäuser commits a personal foul.",
+    "start_time": 1387.5,
+    "end_time": 1391.5
+  },
+  {
+    "caption": "K. Brown grabs the defensive rebound.",
+    "start_time": 1432.0,
+    "end_time": 1437.0
+  },
+  {
+    "caption": "Y. Niederhäuser makes a driving layup two-pointer.",
+    "start_time": 1446.2,
+    "end_time": 1454.7
+  },
+  {
+    "caption": "C. Christie's turnaround two-pointer is blocked by K. Maluach. K. Maluach blocks C. Christie's jump shot two-pointer. Y. Niederhäuser grabs the offensive rebound after C. Christie's missed turnaround two-pointer.",
+    "start_time": 1447.6,
+    "end_time": 1452.6
+  },
+  {
+    "caption": "N. Hayes-Davis makes a pullup two-pointer.",
+    "start_time": 1470.5,
+    "end_time": 1479.0
+  }
+]

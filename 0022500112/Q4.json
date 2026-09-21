@@ -1,0 +1,312 @@
+[
+  {
+    "caption": "B. Wesley makes a pullup two-pointer.",
+    "start_time": 15.5,
+    "end_time": 24.0
+  },
+  {
+    "caption": "B. Bogdanović misses a jump shot three-pointer. B. Bogdanović grabs the offensive rebound after his missed jump shot three-pointer.",
+    "start_time": 40.0,
+    "end_time": 47.0
+  },
+  {
+    "caption": "B. Bogdanović misses a floating two-pointer. D. Clingan grabs the defensive rebound after B. Bogdanović's missed jump shot two-pointer.",
+    "start_time": 45.0,
+    "end_time": 52.0
+  },
+  {
+    "caption": "D. Clingan misses a jump shot three-pointer.",
+    "start_time": 59.0,
+    "end_time": 66.0
+  },
+  {
+    "caption": "T. Camara misses a pullup three-pointer. J. Holiday grabs the offensive rebound after T. Camara's missed pullup three-pointer.",
+    "start_time": 81.5,
+    "end_time": 88.5
+  },
+  {
+    "caption": "T. Camara's cutting layup two-pointer is blocked by B. Lopez. B. Lopez blocks T. Camara's layup two-pointer. B. Bogdanović grabs the defensive rebound after T. Camara's missed layup two-pointer.",
+    "start_time": 88.5,
+    "end_time": 93.5
+  },
+  {
+    "caption": "B. Lopez misses a jump shot three-pointer. B. Bogdanović grabs the offensive rebound after B. Lopez's missed jump shot three-pointer.",
+    "start_time": 102.5,
+    "end_time": 109.5
+  },
+  {
+    "caption": "J. Holiday commits a personal foul.",
+    "start_time": 109.5,
+    "end_time": 112.5
+  },
+  {
+    "caption": "B. Bogdanović misses a fadeaway two-pointer. J. Holiday grabs the defensive rebound after B. Bogdanović's missed jump shot two-pointer.",
+    "start_time": 165.0,
+    "end_time": 172.0
+  },
+  {
+    "caption": "J. Holiday misses a jump shot three-pointer. J. Collins grabs the defensive rebound after J. Holiday's missed jump shot three-pointer.",
+    "start_time": 174.0,
+    "end_time": 181.0
+  },
+  {
+    "caption": "Chris Paul makes a jump shot three-pointer, assisted by Kawhi Leonard. C. Paul commits a personal foul.",
+    "start_time": 182.5,
+    "end_time": 201.0
+  },
+  {
+    "caption": "K. Leonard grabs the defensive rebound.",
+    "start_time": 238.5,
+    "end_time": 243.5
+  },
+  {
+    "caption": "B. Wesley commits a personal foul.",
+    "start_time": 247.5,
+    "end_time": 250.5
+  },
+  {
+    "caption": "J. Collins makes a jump shot three-pointer, assisted by B. Bogdanović.",
+    "start_time": 271.5,
+    "end_time": 280.0
+  },
+  {
+    "caption": "B. Wesley misses a pullup two-pointer. K. Murray grabs the offensive rebound after B. Wesley's missed pullup two-pointer.",
+    "start_time": 289.0,
+    "end_time": 296.0
+  },
+  {
+    "caption": "J. Holiday misses a pullup three-pointer. B. Lopez grabs the defensive rebound after J. Holiday's missed jump shot three-pointer.",
+    "start_time": 296.0,
+    "end_time": 303.0
+  },
+  {
+    "caption": "B. Bogdanović misses a running three-pointer. D. Clingan grabs the defensive rebound after B. Bogdanović's missed running three-pointer.",
+    "start_time": 305.0,
+    "end_time": 312.0
+  },
+  {
+    "caption": "J. Holiday makes a driving layup two-pointer, assisted by T. Camara. B. Bogdanović commits a shooting personal foul.",
+    "start_time": 321.5,
+    "end_time": 330.0
+  },
+  {
+    "caption": "C. Paul misses a pullup three-pointer. J. Collins grabs the offensive rebound after C. Paul's missed pullup three-pointer.",
+    "start_time": 378.0,
+    "end_time": 385.0
+  },
+  {
+    "caption": "C. Paul makes a pullup three-pointer, assisted by J. Collins.",
+    "start_time": 381.5,
+    "end_time": 390.0
+  },
+  {
+    "caption": "K. Leonard steals the ball from D. Avdija on a bad pass.",
+    "start_time": 399.0,
+    "end_time": 403.0
+  },
+  {
+    "caption": "J. Holiday commits a shooting personal foul.",
+    "start_time": 403.0,
+    "end_time": 407.0
+  },
+  {
+    "caption": "B. Bogdanović commits a personal foul.",
+    "start_time": 736.0,
+    "end_time": 739.0
+  },
+  {
+    "caption": "J. Grant makes a jump shot three-pointer, assisted by D. Avdija.",
+    "start_time": 770.5,
+    "end_time": 779.0
+  },
+  {
+    "caption": "M. Thybulle makes a running layup two-pointer.",
+    "start_time": 791.5,
+    "end_time": 800.0
+  },
+  {
+    "caption": "M. Thybulle steals the ball from B. Bogdanović on a bad pass.",
+    "start_time": 793.0,
+    "end_time": 797.0
+  },
+  {
+    "caption": "B. Lopez makes a cutting dunk two-pointer, assisted by K. Leonard.",
+    "start_time": 828.0,
+    "end_time": 836.5
+  },
+  {
+    "caption": "K. Murray misses a jump shot three-pointer.",
+    "start_time": 838.5,
+    "end_time": 845.5
+  },
+  {
+    "caption": "C. Paul commits a personal foul.",
+    "start_time": 842.5,
+    "end_time": 845.5
+  },
+  {
+    "caption": "S. Sharpe misses a pullup two-pointer. C. Paul grabs the defensive rebound after S. Sharpe's missed pullup two-pointer.",
+    "start_time": 911.5,
+    "end_time": 918.5
+  },
+  {
+    "caption": "D. Avdija misses a pullup three-pointer. S. Sharpe grabs the offensive rebound after D. Avdija's missed pullup three-pointer.",
+    "start_time": 941.0,
+    "end_time": 948.0
+  },
+  {
+    "caption": "J. Collins steals the ball from J. Grant on a lost ball.",
+    "start_time": 1000.5,
+    "end_time": 1004.5
+  },
+  {
+    "caption": "Jump ball between Jalen Collins and Jordan Grant, Ivica Zubac recovers the tip.",
+    "start_time": 1002.5,
+    "end_time": 1007.5
+  },
+  {
+    "caption": "K. Leonard makes a fadeaway jump shot two-pointer.",
+    "start_time": 1015.0,
+    "end_time": 1023.5
+  },
+  {
+    "caption": "J. Harden steals the ball from D. Avdija on a bad pass.",
+    "start_time": 1027.5,
+    "end_time": 1031.5
+  },
+  {
+    "caption": "J. Harden makes a running layup two-pointer.",
+    "start_time": 1028.0,
+    "end_time": 1036.5
+  },
+  {
+    "caption": "S. Sharpe misses a pullup three-pointer. K. Leonard grabs the defensive rebound after S. Sharpe's missed pullup three-pointer.",
+    "start_time": 1036.5,
+    "end_time": 1043.5
+  },
+  {
+    "caption": "M. Thybulle steals the ball from K. Leonard on a bad pass.",
+    "start_time": 1043.5,
+    "end_time": 1047.5
+  },
+  {
+    "caption": "M. Thybulle misses a layup two-pointer. I. Zubac grabs the defensive rebound after M. Thybulle's missed layup two-pointer.",
+    "start_time": 1045.5,
+    "end_time": 1052.5
+  },
+  {
+    "caption": "I. Zubac misses a floating two-pointer. D. Avdija grabs the defensive rebound after I. Zubac's missed floating two-pointer.",
+    "start_time": 1057.5,
+    "end_time": 1064.5
+  },
+  {
+    "caption": "S. Sharpe makes a running alley-oop dunk two-pointer, assisted by D. Avdija.",
+    "start_time": 1058.0,
+    "end_time": 1066.5
+  },
+  {
+    "caption": "J. Collins makes a dunk two-pointer, assisted by I. Zubac.",
+    "start_time": 1250.5,
+    "end_time": 1259.0
+  },
+  {
+    "caption": "D. Avdija makes a jump shot three-pointer, assisted by J. Holiday.",
+    "start_time": 1261.5,
+    "end_time": 1270.0
+  },
+  {
+    "caption": "J. Grant commits a personal foul.",
+    "start_time": 1288.0,
+    "end_time": 1291.0
+  },
+  {
+    "caption": "J. Collins makes a cutting layup two-pointer, assisted by I. Zubac. J. Grant commits a personal foul.",
+    "start_time": 1322.5,
+    "end_time": 1331.0
+  },
+  {
+    "caption": "N. Batum steals the ball from J. Holiday on a lost ball.",
+    "start_time": 1371.0,
+    "end_time": 1375.0
+  },
+  {
+    "caption": "T. Camara steals the ball from J. Collins on a lost ball.",
+    "start_time": 1388.0,
+    "end_time": 1392.0
+  },
+  {
+    "caption": "D. Avdija makes a running dunk two-pointer, assisted by T. Camara.",
+    "start_time": 1388.5,
+    "end_time": 1397.0
+  },
+  {
+    "caption": "I. Zubac's dunk two-pointer is blocked by J. Grant. J. Grant blocks I. Zubac's dunk two-pointer. J. Holiday grabs the defensive rebound after I. Zubac's dunk two-pointer is blocked.",
+    "start_time": 1408.0,
+    "end_time": 1413.0
+  },
+  {
+    "caption": "J. Grant makes a running layup two-pointer.",
+    "start_time": 1411.5,
+    "end_time": 1420.0
+  },
+  {
+    "caption": "T. Camara commits a personal foul.",
+    "start_time": 1439.0,
+    "end_time": 1442.0
+  },
+  {
+    "caption": "I. Zubac commits a personal foul.",
+    "start_time": 1714.5,
+    "end_time": 1717.5
+  },
+  {
+    "caption": "K. Leonard makes a turnaround jump shot two-pointer.",
+    "start_time": 1781.0,
+    "end_time": 1789.5
+  },
+  {
+    "caption": "D. Avdija makes a driving layup two-pointer.",
+    "start_time": 1794.0,
+    "end_time": 1802.5
+  },
+  {
+    "caption": "K. Leonard makes a floating jump shot two-pointer.",
+    "start_time": 1816.0,
+    "end_time": 1824.5
+  },
+  {
+    "caption": "D. Avdija misses a step back three-pointer. S. Sharpe grabs the offensive rebound after D. Avdija's missed jump shot three-pointer.",
+    "start_time": 1829.0,
+    "end_time": 1836.0
+  },
+  {
+    "caption": "S. Sharpe misses a jump shot three-pointer. J. Harden grabs the defensive rebound after S. Sharpe's missed jump shot three-pointer.",
+    "start_time": 1836.0,
+    "end_time": 1843.0
+  },
+  {
+    "caption": "J. Collins is called for a traveling violation.",
+    "start_time": 1859.5,
+    "end_time": 1862.5
+  },
+  {
+    "caption": "K. Leonard steals the ball from D. Avdija on a lost ball.",
+    "start_time": 1888.0,
+    "end_time": 1892.0
+  },
+  {
+    "caption": "J. Harden is called for a bad pass out-of-bounds turnover.",
+    "start_time": 2055.8,
+    "end_time": 2058.8
+  },
+  {
+    "caption": "J. Holiday makes a driving layup two-pointer.",
+    "start_time": 2080.9,
+    "end_time": 2089.4
+  },
+  {
+    "caption": "K. Dunn misses a jump shot three-pointer. S. Sharpe grabs the defensive rebound after K. Dunn's missed jump shot three-pointer.",
+    "start_time": 2107.6,
+    "end_time": 2114.6
+  }
+]

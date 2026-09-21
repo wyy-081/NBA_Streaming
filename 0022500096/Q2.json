@@ -1,0 +1,352 @@
+[
+  {
+    "caption": "K. George makes a pullup two-pointer.",
+    "start_time": 22.5,
+    "end_time": 31.0
+  },
+  {
+    "caption": "N. Marshall's jump shot three-pointer is blocked by K. George. K. George blocks N. Marshall's jump shot three-pointer.",
+    "start_time": 41.0,
+    "end_time": 46.0
+  },
+  {
+    "caption": "C. Kispert misses a jump shot three-pointer. D. Lively II grabs the defensive rebound after C. Kispert's missed three-pointer.",
+    "start_time": 62.5,
+    "end_time": 69.5
+  },
+  {
+    "caption": "K. George steals the ball from N. Marshall on a bad pass.",
+    "start_time": 75.5,
+    "end_time": 79.5
+  },
+  {
+    "caption": "T. Johnson misses a driving floating two-pointer. T. Johnson grabs the offensive rebound after missing his driving floating two-pointer.",
+    "start_time": 80.5,
+    "end_time": 87.5
+  },
+  {
+    "caption": "T. Vukcevic misses a jump shot three-pointer. K. Thompson grabs the defensive rebound after T. Vukcevic's missed three-pointer.",
+    "start_time": 84.5,
+    "end_time": 91.5
+  },
+  {
+    "caption": "K. Thompson misses a jump shot three-pointer. T. Vukcevic grabs the defensive rebound after K. Thompson's missed three-pointer.",
+    "start_time": 96.5,
+    "end_time": 103.5
+  },
+  {
+    "caption": "T. Vukcevic misses a jump shot two-pointer. C. Flagg grabs the defensive rebound after T. Vukcevic's missed jump shot two-pointer.",
+    "start_time": 107.5,
+    "end_time": 114.5
+  },
+  {
+    "caption": "C. Flagg misses a jump shot three-pointer. C. Whitmore grabs the defensive rebound after C. Flagg's missed jump shot three-pointer.",
+    "start_time": 122.5,
+    "end_time": 129.5
+  },
+  {
+    "caption": "C. Whitmore misses a pullup two-pointer. N. Marshall grabs the defensive rebound after C. Whitmore's missed pullup two-pointer.",
+    "start_time": 130.5,
+    "end_time": 137.5
+  },
+  {
+    "caption": "C. Flagg misses a layup two-pointer. R. Nembhard grabs the offensive rebound after C. Flagg's missed layup two-pointer.",
+    "start_time": 140.5,
+    "end_time": 147.5
+  },
+  {
+    "caption": "C. Flagg misses a jump shot three-pointer. C. Kispert grabs the defensive rebound after C. Flagg's missed three-pointer.",
+    "start_time": 146.5,
+    "end_time": 153.5
+  },
+  {
+    "caption": "K. George makes a running layup two-pointer, assisted by T. Johnson.",
+    "start_time": 152.0,
+    "end_time": 160.5
+  },
+  {
+    "caption": "R. Nembhard's driving layup two-pointer is blocked by T. Johnson. T. Johnson blocks R. Nembhard's layup two-pointer. T. Johnson grabs the defensive rebound after R. Nembhard's driving layup two-pointer is blocked.",
+    "start_time": 364.0,
+    "end_time": 369.0
+  },
+  {
+    "caption": "C. Whitmore's driving layup two-pointer is blocked by D. Lively II. D. Lively II blocks C. Whitmore's layup two-pointer. P. Washington grabs the defensive rebound after C. Whitmore's driving layup two-pointer is blocked.",
+    "start_time": 370.0,
+    "end_time": 375.0
+  },
+  {
+    "caption": "P. Washington commits an offensive foul.",
+    "start_time": 379.0,
+    "end_time": 382.0
+  },
+  {
+    "caption": "K. George makes a jump shot three-pointer.",
+    "start_time": 404.5,
+    "end_time": 413.0
+  },
+  {
+    "caption": "C. Whitmore makes a cutting layup two-pointer, assisted by K. George.",
+    "start_time": 442.5,
+    "end_time": 451.0
+  },
+  {
+    "caption": "K. Thompson misses a jump shot three-pointer. C. Kispert grabs the defensive rebound after K. Thompson's missed three-pointer.",
+    "start_time": 458.0,
+    "end_time": 465.0
+  },
+  {
+    "caption": "K. George misses a running three-pointer. K. Thompson grabs the defensive rebound after K. George's missed running three-pointer.",
+    "start_time": 466.0,
+    "end_time": 473.0
+  },
+  {
+    "caption": "R. Nembhard misses a jump shot three-pointer. T. Vukcevic grabs the defensive rebound after R. Nembhard's missed three-pointer.",
+    "start_time": 479.0,
+    "end_time": 486.0
+  },
+  {
+    "caption": "C. Whitmore makes a running layup two-pointer.",
+    "start_time": 485.5,
+    "end_time": 494.0
+  },
+  {
+    "caption": "A. Davis misses a floating two-pointer. K. George grabs the defensive rebound after A. Davis's missed floating two-pointer.",
+    "start_time": 507.0,
+    "end_time": 514.0
+  },
+  {
+    "caption": "C. Kispert misses a running pullup three-pointer. P. Washington grabs the defensive rebound after C. Kispert's missed three-pointer.",
+    "start_time": 515.0,
+    "end_time": 522.0
+  },
+  {
+    "caption": "K. George commits a personal foul.",
+    "start_time": 525.0,
+    "end_time": 529.0
+  },
+  {
+    "caption": "C. Kispert makes a driving layup two-pointer.",
+    "start_time": 604.5,
+    "end_time": 613.0
+  },
+  {
+    "caption": "A. Davis is called for an out-of-bounds turnover.",
+    "start_time": 624.0,
+    "end_time": 627.0
+  },
+  {
+    "caption": "A. Davis makes a running finger roll two-pointer, assisted by D. Russell.",
+    "start_time": 643.0,
+    "end_time": 651.5
+  },
+  {
+    "caption": "A. Davis steals the ball from T. Vukcevic on a lost ball.",
+    "start_time": 643.5,
+    "end_time": 647.5
+  },
+  {
+    "caption": "T. Johnson makes a turnaround jump shot two-pointer.",
+    "start_time": 662.0,
+    "end_time": 670.5
+  },
+  {
+    "caption": "A. Davis grabs the defensive rebound.",
+    "start_time": 664.5,
+    "end_time": 669.5
+  },
+  {
+    "caption": "P. Washington commits a personal foul.",
+    "start_time": 667.5,
+    "end_time": 670.5
+  },
+  {
+    "caption": "D. Russell's driving layup two-pointer is blocked by T. Vukcevic. T. Vukcevic blocks D. Russell's driving layup two-pointer. W. Riley grabs the defensive rebound after D. Russell's driving layup two-pointer is blocked.",
+    "start_time": 745.5,
+    "end_time": 750.5
+  },
+  {
+    "caption": "T. Vukcevic misses a running three-pointer. A. Davis grabs the defensive rebound after T. Vukcevic's missed running three-pointer.",
+    "start_time": 753.5,
+    "end_time": 760.5
+  },
+  {
+    "caption": "W. Riley steals the ball from P. Washington on a bad pass.",
+    "start_time": 760.5,
+    "end_time": 764.5
+  },
+  {
+    "caption": "T. Vukcevic makes a jump shot two-pointer, assisted by C. Kispert.",
+    "start_time": 764.0,
+    "end_time": 772.5
+  },
+  {
+    "caption": "N. Marshall misses a reverse layup two-pointer. W. Riley grabs the defensive rebound after N. Marshall's missed reverse layup two-pointer.",
+    "start_time": 972.0,
+    "end_time": 979.0
+  },
+  {
+    "caption": "C. McCollum misses a driving floating bank two-pointer. A. Davis grabs the defensive rebound after C. McCollum's missed driving floating bank two-pointer.",
+    "start_time": 980.5,
+    "end_time": 987.5
+  },
+  {
+    "caption": "P. Washington makes a running dunk two-pointer, assisted by A. Davis.",
+    "start_time": 987.0,
+    "end_time": 995.5
+  },
+  {
+    "caption": "C. McCollum misses a driving layup two-pointer. D. Russell grabs the defensive rebound after C. McCollum's missed driving layup two-pointer.",
+    "start_time": 1004.0,
+    "end_time": 1011.0
+  },
+  {
+    "caption": "A. Davis misses a driving layup two-pointer. W. Riley grabs the defensive rebound after A. Davis's missed driving layup two-pointer.",
+    "start_time": 1013.5,
+    "end_time": 1020.5
+  },
+  {
+    "caption": "C. McCollum misses a pullup three-pointer. A. Davis grabs the defensive rebound after C. McCollum's missed jump shot three-pointer.",
+    "start_time": 1022.5,
+    "end_time": 1029.5
+  },
+  {
+    "caption": "B. Carrington commits a personal foul.",
+    "start_time": 1030.5,
+    "end_time": 1033.5
+  },
+  {
+    "caption": "C. McCollum steals the ball from P. Washington on a lost ball.",
+    "start_time": 1065.5,
+    "end_time": 1069.5
+  },
+  {
+    "caption": "A. Davis commits a personal foul.",
+    "start_time": 1071.5,
+    "end_time": 1075.5
+  },
+  {
+    "caption": "T. Johnson commits a personal foul.",
+    "start_time": 1128.0,
+    "end_time": 1131.0
+  },
+  {
+    "caption": "A. Davis misses a driving hook two-pointer. P. Washington grabs the offensive rebound after A. Davis's missed driving hook two-pointer.",
+    "start_time": 1155.5,
+    "end_time": 1162.5
+  },
+  {
+    "caption": "P. Washington makes a tip dunk two-pointer. M. Christie commits a personal foul.",
+    "start_time": 1157.0,
+    "end_time": 1173.5
+  },
+  {
+    "caption": "P. Washington grabs the defensive rebound.",
+    "start_time": 1209.0,
+    "end_time": 1214.0
+  },
+  {
+    "caption": "K. Middleton commits a personal foul.",
+    "start_time": 1223.0,
+    "end_time": 1226.0
+  },
+  {
+    "caption": "A. Davis makes a layup two-pointer.",
+    "start_time": 1248.5,
+    "end_time": 1257.0
+  },
+  {
+    "caption": "K. Middleton misses a turnaround two-pointer. A. Sarr grabs the offensive rebound after K. Middleton's missed jump shot.",
+    "start_time": 1264.0,
+    "end_time": 1271.0
+  },
+  {
+    "caption": "B. Williams steals the ball from A. Sarr on a lost ball.",
+    "start_time": 1268.0,
+    "end_time": 1272.0
+  },
+  {
+    "caption": "A. Davis misses a jump shot three-pointer. K. George grabs the defensive rebound after A. Davis's missed jump shot three-pointer.",
+    "start_time": 1283.0,
+    "end_time": 1290.0
+  },
+  {
+    "caption": "T. Johnson makes a running three-pointer, assisted by K. George.",
+    "start_time": 1288.5,
+    "end_time": 1297.0
+  },
+  {
+    "caption": "P. Washington makes a jump shot three-pointer, assisted by C. Flagg.",
+    "start_time": 1300.5,
+    "end_time": 1309.0
+  },
+  {
+    "caption": "K. George misses a pullup two-pointer. A. Davis grabs the defensive rebound after K. George's missed pullup two-pointer.",
+    "start_time": 1323.0,
+    "end_time": 1330.0
+  },
+  {
+    "caption": "B. Williams misses a driving floating bank two-pointer. A. Sarr grabs the defensive rebound after B. Williams' missed driving floating bank two-pointer.",
+    "start_time": 1332.0,
+    "end_time": 1339.0
+  },
+  {
+    "caption": "T. Johnson makes a jump shot three-pointer, assisted by A. Sarr.",
+    "start_time": 1342.5,
+    "end_time": 1351.0
+  },
+  {
+    "caption": "C. Flagg makes a driving dunk two-pointer.",
+    "start_time": 1361.5,
+    "end_time": 1370.0
+  },
+  {
+    "caption": "T. Johnson makes a fadeaway jump shot two-pointer, assisted by K. George.",
+    "start_time": 1374.5,
+    "end_time": 1383.0
+  },
+  {
+    "caption": "A. Davis makes a driving floating jump shot two-pointer, assisted by B. Williams.",
+    "start_time": 1385.5,
+    "end_time": 1394.0
+  },
+  {
+    "caption": "A. Sarr makes a dunk two-pointer, assisted by K. Middleton.",
+    "start_time": 1401.5,
+    "end_time": 1410.0
+  },
+  {
+    "caption": "K. Middleton steals the ball from P. Washington on a bad pass.",
+    "start_time": 1420.7,
+    "end_time": 1424.7
+  },
+  {
+    "caption": "K. Middleton's running layup two-pointer is blocked by A. Davis. A. Davis blocks K. Middleton's driving layup two-pointer.",
+    "start_time": 1423.5,
+    "end_time": 1428.5
+  },
+  {
+    "caption": "K. Middleton misses a layup two-pointer. K. George grabs the offensive rebound after K. Middleton's missed layup two-pointer.",
+    "start_time": 1450.5,
+    "end_time": 1457.5
+  },
+  {
+    "caption": "A. Sarr commits an offensive charge foul.",
+    "start_time": 1456.1,
+    "end_time": 1459.1
+  },
+  {
+    "caption": "K. Middleton steals the ball from C. Flagg on a lost ball.",
+    "start_time": 1491.9,
+    "end_time": 1495.9
+  },
+  {
+    "caption": "K. Middleton misses a jump shot three-pointer. K. Thompson grabs the defensive rebound after K. Middleton's missed three-pointer.",
+    "start_time": 1499.0,
+    "end_time": 1506.0
+  },
+  {
+    "caption": "K. Thompson misses a jump shot three-pointer. K. George grabs the defensive rebound after K. Thompson's missed jump shot three-pointer.",
+    "start_time": 1524.0,
+    "end_time": 1531.0
+  }
+]

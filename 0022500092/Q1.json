@@ -1,0 +1,307 @@
+[
+  {
+    "caption": "B. Ingram misses a turnaround two-pointer. R. Rollins grabs the defensive rebound after B. Ingram's missed jump shot.",
+    "start_time": 6.5,
+    "end_time": 13.5
+  },
+  {
+    "caption": "G. Trent Jr. misses a running pullup three-pointer. R. Rollins grabs the offensive rebound after G. Trent Jr.'s missed running pullup three-pointer.",
+    "start_time": 12.5,
+    "end_time": 19.5
+  },
+  {
+    "caption": "M. Turner misses a jump shot three-pointer.",
+    "start_time": 28.5,
+    "end_time": 35.5
+  },
+  {
+    "caption": "G. Trent Jr. commits a personal foul.",
+    "start_time": 58.5,
+    "end_time": 61.5
+  },
+  {
+    "caption": "B. Ingram makes a fadeaway jump shot two-pointer, assisted by I. Quickley.",
+    "start_time": 83.0,
+    "end_time": 91.5
+  },
+  {
+    "caption": "G. Antetokounmpo commits an offensive foul.",
+    "start_time": 104.5,
+    "end_time": 107.5
+  },
+  {
+    "caption": "A. Green steals the ball from B. Ingram on a lost ball.",
+    "start_time": 131.0,
+    "end_time": 135.0
+  },
+  {
+    "caption": "M. Turner makes a jump shot two-pointer, assisted by G. Trent Jr.",
+    "start_time": 135.5,
+    "end_time": 144.0
+  },
+  {
+    "caption": "I. Quickley's driving floating two-pointer is blocked by M. Turner. M. Turner blocks I. Quickley's jump shot two-pointer. I. Quickley grabs the offensive rebound after missing his driving floating two-pointer.",
+    "start_time": 158.0,
+    "end_time": 163.0
+  },
+  {
+    "caption": "I. Quickley makes a floating jump shot two-pointer.",
+    "start_time": 161.5,
+    "end_time": 170.0
+  },
+  {
+    "caption": "I. Quickley steals the ball from M. Turner on a lost ball.",
+    "start_time": 177.5,
+    "end_time": 181.5
+  },
+  {
+    "caption": "S. Barnes is called for an out-of-bounds turnover.",
+    "start_time": 183.0,
+    "end_time": 186.0
+  },
+  {
+    "caption": "M. Turner makes a layup two-pointer, assisted by G. Antetokounmpo.",
+    "start_time": 212.0,
+    "end_time": 220.5
+  },
+  {
+    "caption": "S. Barnes misses a pullup two-pointer. G. Antetokounmpo grabs the defensive rebound after S. Barnes's missed pullup two-pointer.",
+    "start_time": 225.5,
+    "end_time": 232.5
+  },
+  {
+    "caption": "J. Poeltl commits a shooting personal foul.",
+    "start_time": 233.5,
+    "end_time": 237.5
+  },
+  {
+    "caption": "J. Poeltl commits an offensive foul.",
+    "start_time": 313.5,
+    "end_time": 316.5
+  },
+  {
+    "caption": "M. Turner misses a pullup two-pointer.",
+    "start_time": 370.0,
+    "end_time": 377.0
+  },
+  {
+    "caption": "S. Barnes commits a personal foul.",
+    "start_time": 374.0,
+    "end_time": 377.0
+  },
+  {
+    "caption": "R. Rollins is called for a bad pass out-of-bounds turnover.",
+    "start_time": 394.5,
+    "end_time": 397.5
+  },
+  {
+    "caption": "S. Barnes makes a fadeaway jump shot two-pointer.",
+    "start_time": 414.5,
+    "end_time": 423.0
+  },
+  {
+    "caption": "Giannis Antetokounmpo makes a dunk two-pointer, assisted by G. Trent Jr.",
+    "start_time": 432.5,
+    "end_time": 441.0
+  },
+  {
+    "caption": "R. Barrett makes a jump shot three-pointer, assisted by S. Barnes.",
+    "start_time": 444.5,
+    "end_time": 453.0
+  },
+  {
+    "caption": "G. Trent Jr. misses a pullup two-pointer. I. Quickley grabs the defensive rebound after G. Trent Jr.'s missed jump shot.",
+    "start_time": 464.0,
+    "end_time": 471.0
+  },
+  {
+    "caption": "A. Green commits a personal foul.",
+    "start_time": 470.0,
+    "end_time": 474.0
+  },
+  {
+    "caption": "R. Rollins misses a pullup two-pointer. S. Mamukelashvili grabs the defensive rebound after R. Rollins' missed pullup two-pointer.",
+    "start_time": 546.5,
+    "end_time": 553.5
+  },
+  {
+    "caption": "I. Quickley misses a jump shot three-pointer. G. Antetokounmpo grabs the defensive rebound after I. Quickley's missed three-pointer.",
+    "start_time": 556.5,
+    "end_time": 563.5
+  },
+  {
+    "caption": "G. Antetokounmpo makes a driving finger roll two-pointer.",
+    "start_time": 566.0,
+    "end_time": 574.5
+  },
+  {
+    "caption": "B. Ingram's driving layup two-pointer is blocked by Draymond Green. G. Antetokounmpo grabs the defensive rebound after B. Ingram's missed driving layup two-pointer.",
+    "start_time": 773.0,
+    "end_time": 778.0
+  },
+  {
+    "caption": "M. Turner blocks B. Ingram's driving layup two-pointer.",
+    "start_time": 775.0,
+    "end_time": 778.0
+  },
+  {
+    "caption": "S. Mamukelashvili commits a personal foul.",
+    "start_time": 782.0,
+    "end_time": 786.0
+  },
+  {
+    "caption": "O. Agbaji grabs the defensive rebound.",
+    "start_time": 851.0,
+    "end_time": 856.0
+  },
+  {
+    "caption": "I. Quickley misses a driving floating two-pointer. I. Quickley grabs the offensive rebound after missing his driving floating two-pointer. I. Quickley makes a tip layup two-pointer.",
+    "start_time": 870.0,
+    "end_time": 883.0
+  },
+  {
+    "caption": "O. Agbaji commits a shooting personal foul.",
+    "start_time": 882.0,
+    "end_time": 886.0
+  },
+  {
+    "caption": "I. Quickley misses a pullup three-pointer. M. Turner grabs the defensive rebound after I. Quickley's missed pullup three-pointer.",
+    "start_time": 948.0,
+    "end_time": 955.0
+  },
+  {
+    "caption": "R. Rollins is called for a bad pass out-of-bounds turnover.",
+    "start_time": 962.0,
+    "end_time": 965.0
+  },
+  {
+    "caption": "B. Ingram is called for a traveling violation.",
+    "start_time": 1000.0,
+    "end_time": 1003.0
+  },
+  {
+    "caption": "G. Antetokounmpo makes a driving layup two-pointer.",
+    "start_time": 1021.5,
+    "end_time": 1030.0
+  },
+  {
+    "caption": "G. Dick's driving layup two-pointer is blocked by G. Antetokounmpo. Giannis Antetokounmpo blocks Giannis Dick's driving layup two-pointer. G. Antetokounmpo grabs the defensive rebound after G. Dick's driving layup two-pointer is blocked.",
+    "start_time": 1039.0,
+    "end_time": 1044.0
+  },
+  {
+    "caption": "A. Green misses a jump shot three-pointer. B. Ingram grabs the defensive rebound after A. Green's missed jump shot three-pointer.",
+    "start_time": 1053.0,
+    "end_time": 1060.0
+  },
+  {
+    "caption": "J. Shead makes a driving layup two-pointer.",
+    "start_time": 1094.0,
+    "end_time": 1102.5
+  },
+  {
+    "caption": "M. Turner misses a jump shot two-pointer. G. Antetokounmpo grabs the offensive rebound after M. Turner's missed jump shot two-pointer. G. Antetokounmpo makes a putback dunk two-pointer.",
+    "start_time": 1120.5,
+    "end_time": 1130.5
+  },
+  {
+    "caption": "O. Agbaji is called for an out-of-bounds turnover.",
+    "start_time": 1131.5,
+    "end_time": 1134.5
+  },
+  {
+    "caption": "C. Anthony makes a floating jump shot two-pointer.",
+    "start_time": 1147.0,
+    "end_time": 1155.5
+  },
+  {
+    "caption": "J. Shead misses a floating jump shot. C. Anthony grabs the defensive rebound after J. Shead's missed jump shot.",
+    "start_time": 1173.5,
+    "end_time": 1180.5
+  },
+  {
+    "caption": "C. Anthony makes a running pullup three-pointer. M. Turner commits a personal foul.",
+    "start_time": 1177.0,
+    "end_time": 1391.0
+  },
+  {
+    "caption": "C. Anthony misses a jump shot three-pointer. C. Anthony grabs the offensive rebound after missing his jump shot three-pointer.",
+    "start_time": 1436.0,
+    "end_time": 1443.0
+  },
+  {
+    "caption": "A. Green makes a jump shot three-pointer, assisted by C. Anthony.",
+    "start_time": 1448.5,
+    "end_time": 1457.0
+  },
+  {
+    "caption": "S. Barnes misses a driving floating two-pointer. S. Barnes grabs the offensive rebound after missing his driving floating two-pointer. S. Barnes misses a tip layup two-pointer.",
+    "start_time": 1469.0,
+    "end_time": 1480.0
+  },
+  {
+    "caption": "B. Portis grabs the defensive rebound.",
+    "start_time": 1474.0,
+    "end_time": 1480.0
+  },
+  {
+    "caption": "R. Barrett misses a running three-pointer. J. Mogbo grabs the offensive rebound after R. Barrett's missed running three-pointer.",
+    "start_time": 1480.5,
+    "end_time": 1487.5
+  },
+  {
+    "caption": "S. Barnes steals the ball from B. Portis on a bad pass.",
+    "start_time": 1482.0,
+    "end_time": 1486.0
+  },
+  {
+    "caption": "J. Shead misses a jump shot three-pointer.",
+    "start_time": 1491.0,
+    "end_time": 1498.0
+  },
+  {
+    "caption": "G. Dick steals the ball from A. Coffey on a bad pass.",
+    "start_time": 1529.0,
+    "end_time": 1533.0
+  },
+  {
+    "caption": "K. Kuzma commits a personal foul.",
+    "start_time": 1547.0,
+    "end_time": 1550.0
+  },
+  {
+    "caption": "T. Prince steals the ball from R. Barrett on a bad pass.",
+    "start_time": 1576.0,
+    "end_time": 1580.0
+  },
+  {
+    "caption": "T. Prince is called for an out-of-bounds turnover.",
+    "start_time": 1579.0,
+    "end_time": 1582.0
+  },
+  {
+    "caption": "G. Dick misses a jump shot three-pointer. K. Kuzma grabs the defensive rebound after G. Dick's missed three-pointer.",
+    "start_time": 1607.75,
+    "end_time": 1614.75
+  },
+  {
+    "caption": "T. Prince makes a jump shot three-pointer, assisted by C. Anthony.",
+    "start_time": 1615.15,
+    "end_time": 1623.65
+  },
+  {
+    "caption": "G. Dick makes a jump shot two-pointer, assisted by J. Shead.",
+    "start_time": 1631.95,
+    "end_time": 1640.45
+  },
+  {
+    "caption": "C. Anthony's driving layup two-pointer is blocked by R. Barrett. R. Barrett blocks C. Anthony's layup two-pointer. B. Portis grabs the offensive rebound after C. Anthony's missed driving layup two-pointer.",
+    "start_time": 1657.05,
+    "end_time": 1662.05
+  },
+  {
+    "caption": "B. Portis' putback layup two-pointer is blocked by J. Mogbo. J. Mogbo blocks B. Portis's layup two-pointer. G. Dick grabs the defensive rebound after B. Portis's missed putback layup two-pointer.",
+    "start_time": 1658.85,
+    "end_time": 1663.85
+  }
+]
