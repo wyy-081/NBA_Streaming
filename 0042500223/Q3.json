@@ -1,0 +1,287 @@
+[
+  {
+    "caption": "L. Dort commits a personal foul.",
+    "start_time": 33.0,
+    "end_time": 36.0
+  },
+  {
+    "caption": "D. Ayton misses an alley-oop layup two-pointer. M. Smart grabs the offensive rebound after D. Ayton's missed layup two-pointer.",
+    "start_time": 62.0,
+    "end_time": 69.0
+  },
+  {
+    "caption": "A. Mitchell steals the ball from M. Smart on a lost ball.",
+    "start_time": 67.0,
+    "end_time": 71.0
+  },
+  {
+    "caption": "L. Dort makes a jump shot three-pointer, assisted by A. Mitchell.",
+    "start_time": 77.5,
+    "end_time": 86.0
+  },
+  {
+    "caption": "L. Dort commits a personal foul.",
+    "start_time": 102.0,
+    "end_time": 105.0
+  },
+  {
+    "caption": "D. Ayton makes a driving layup two-pointer, assisted by A. Reaves.",
+    "start_time": 125.5,
+    "end_time": 134.0
+  },
+  {
+    "caption": "A. Mitchell makes a jump shot three-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 140.5,
+    "end_time": 149.0
+  },
+  {
+    "caption": "D. Ayton makes a alley-oop layup two-pointer, assisted by L. James.",
+    "start_time": 162.5,
+    "end_time": 171.0
+  },
+  {
+    "caption": "I. Hartenstein makes a dunk two-pointer, assisted by A. Mitchell.",
+    "start_time": 173.5,
+    "end_time": 182.0
+  },
+  {
+    "caption": "L. Dort commits a personal foul.",
+    "start_time": 194.0,
+    "end_time": 197.0
+  },
+  {
+    "caption": "R. Hachimura misses a pullup two-pointer. A. Mitchell grabs the defensive rebound after R. Hachimura's missed pullup two-pointer.",
+    "start_time": 237.5,
+    "end_time": 244.5
+  },
+  {
+    "caption": "C. Wallace misses a running layup two-pointer. R. Hachimura grabs the defensive rebound after C. Wallace's missed running layup two-pointer.",
+    "start_time": 245.5,
+    "end_time": 252.5
+  },
+  {
+    "caption": "L. James misses a running layup two-pointer. C. Holmgren grabs the defensive rebound after L. James' missed running layup two-pointer.",
+    "start_time": 250.5,
+    "end_time": 257.5
+  },
+  {
+    "caption": "M. Smart commits a personal foul.",
+    "start_time": 253.5,
+    "end_time": 256.5
+  },
+  {
+    "caption": "LeBron James steals the ball from Ian Hartenstein on a bad pass.",
+    "start_time": 281.5,
+    "end_time": 285.5
+  },
+  {
+    "caption": "L. James misses a running pullup two-pointer. I. Hartenstein grabs the defensive rebound after L. James' missed running pullup two-pointer.",
+    "start_time": 286.5,
+    "end_time": 293.5
+  },
+  {
+    "caption": "C. Holmgren makes a running dunk two-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 291.0,
+    "end_time": 299.5
+  },
+  {
+    "caption": "A. Reaves misses a driving layup two-pointer. D. Ayton grabs the offensive rebound after A. Reaves' missed driving layup two-pointer. D. Ayton makes a tip layup two-pointer.",
+    "start_time": 305.0,
+    "end_time": 313.5
+  },
+  {
+    "caption": "Shai Gilgeous-Alexander makes a jump shot three-pointer, assisted by Anthony Mitchell.",
+    "start_time": 325.0,
+    "end_time": 333.5
+  },
+  {
+    "caption": "A. Mitchell steals the ball from A. Reaves on a bad pass.",
+    "start_time": 345.5,
+    "end_time": 349.5
+  },
+  {
+    "caption": "A. Mitchell makes a floating jump shot two-pointer, assisted by I. Hartenstein.",
+    "start_time": 359.0,
+    "end_time": 367.5
+  },
+  {
+    "caption": "A. Mitchell steals the ball from A. Reaves on a bad pass.",
+    "start_time": 607.0,
+    "end_time": 611.0
+  },
+  {
+    "caption": "A. Mitchell makes a running layup two-pointer.",
+    "start_time": 607.5,
+    "end_time": 616.0
+  },
+  {
+    "caption": "D. Ayton misses a floating jump shot. D. Ayton grabs the offensive rebound after missing his floating two-pointer. D. Ayton misses a putback layup two-pointer.",
+    "start_time": 632.0,
+    "end_time": 643.0
+  },
+  {
+    "caption": "C. Holmgren grabs the defensive rebound.",
+    "start_time": 637.0,
+    "end_time": 643.0
+  },
+  {
+    "caption": "S. Gilgeous-Alexander misses a running pullup two-pointer.",
+    "start_time": 641.0,
+    "end_time": 648.0
+  },
+  {
+    "caption": "L. James is called for a bad pass out-of-bounds turnover.",
+    "start_time": 677.5,
+    "end_time": 680.5
+  },
+  {
+    "caption": "S. Gilgeous-Alexander makes a fadeaway jump shot two-pointer.",
+    "start_time": 709.0,
+    "end_time": 717.5
+  },
+  {
+    "caption": "R. Hachimura misses a pullup two-pointer. I. Hartenstein grabs the defensive rebound after R. Hachimura's missed pullup two-pointer.",
+    "start_time": 729.5,
+    "end_time": 736.5
+  },
+  {
+    "caption": "C. Wallace misses a jump shot three-pointer. J. Hayes grabs the defensive rebound after C. Wallace's missed three-pointer.",
+    "start_time": 739.5,
+    "end_time": 746.5
+  },
+  {
+    "caption": "R. Hachimura misses a running pullup three-pointer. I. Hartenstein grabs the defensive rebound after R. Hachimura's missed running pullup three-pointer.",
+    "start_time": 746.5,
+    "end_time": 753.5
+  },
+  {
+    "caption": "C. Holmgren makes a running layup two-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 753.0,
+    "end_time": 761.5
+  },
+  {
+    "caption": "LeBron James makes a jump shot two-pointer, assisted by Rui Hachimura. J. Hayes commits a personal foul.",
+    "start_time": 776.0,
+    "end_time": 804.5
+  },
+  {
+    "caption": "L. Kennard makes a pullup two-pointer, assisted by R. Hachimura.",
+    "start_time": 867.5,
+    "end_time": 876.0
+  },
+  {
+    "caption": "C. Wallace makes a dunk two-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 881.5,
+    "end_time": 890.0
+  },
+  {
+    "caption": "R. Hachimura makes a jump shot three-pointer, assisted by L. James.",
+    "start_time": 899.5,
+    "end_time": 908.0
+  },
+  {
+    "caption": "C. Wallace misses a driving floating two-pointer.",
+    "start_time": 957.5,
+    "end_time": 964.5
+  },
+  {
+    "caption": "C. Wallace steals the ball from A. Reaves on a lost ball.",
+    "start_time": 993.5,
+    "end_time": 997.5
+  },
+  {
+    "caption": "A. Caruso makes a cutting layup two-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 998.0,
+    "end_time": 1006.5
+  },
+  {
+    "caption": "L. Kennard misses a pullup three-pointer. A. Thiero grabs the offensive rebound after L. Kennard's missed three-pointer.",
+    "start_time": 1254.5,
+    "end_time": 1261.5
+  },
+  {
+    "caption": "M. Smart makes a floating jump shot two-pointer, assisted by L. Kennard.",
+    "start_time": 1258.0,
+    "end_time": 1266.5
+  },
+  {
+    "caption": "S. Gilgeous-Alexander misses a pullup two-pointer. A. Thiero grabs the defensive rebound after S. Gilgeous-Alexander's missed pullup two-pointer.",
+    "start_time": 1274.5,
+    "end_time": 1281.5
+  },
+  {
+    "caption": "R. Hachimura misses a pullup three-pointer. S. Gilgeous-Alexander grabs the defensive rebound after R. Hachimura's missed pullup three-pointer.",
+    "start_time": 1284.5,
+    "end_time": 1291.5
+  },
+  {
+    "caption": "S. Gilgeous-Alexander misses a running layup two-pointer. R. Hachimura grabs the defensive rebound after S. Gilgeous-Alexander's missed running layup two-pointer.",
+    "start_time": 1292.5,
+    "end_time": 1299.5
+  },
+  {
+    "caption": "A. Caruso commits a personal foul.",
+    "start_time": 1299.5,
+    "end_time": 1302.5
+  },
+  {
+    "caption": "A. Thiero misses a cutting dunk two-pointer. A. Thiero grabs the offensive rebound after missing his dunk two-pointer.",
+    "start_time": 1347.5,
+    "end_time": 1354.5
+  },
+  {
+    "caption": "A. Caruso commits a personal foul.",
+    "start_time": 1352.5,
+    "end_time": 1355.5
+  },
+  {
+    "caption": "A. Caruso commits a personal foul.",
+    "start_time": 1352.5,
+    "end_time": 1356.5
+  },
+  {
+    "caption": "C. Wallace misses a jump shot three-pointer.",
+    "start_time": 1456.5,
+    "end_time": 1463.5
+  },
+  {
+    "caption": "L. Kennard commits a personal foul.",
+    "start_time": 1461.5,
+    "end_time": 1464.5
+  },
+  {
+    "caption": "A. Caruso misses a jump shot three-pointer. C. Wallace grabs the offensive rebound after A. Caruso's missed three-pointer.",
+    "start_time": 1486.0,
+    "end_time": 1493.0
+  },
+  {
+    "caption": "I. Joe misses a jump shot three-pointer. A. Thiero grabs the defensive rebound after I. Joe's missed jump shot three-pointer.",
+    "start_time": 1490.0,
+    "end_time": 1497.0
+  },
+  {
+    "caption": "A. Thiero misses a jump shot three-pointer. M. Smart grabs the offensive rebound after A. Thiero's missed three-pointer. M. Smart makes a tip layup two-pointer.",
+    "start_time": 1508.5,
+    "end_time": 1517.0
+  },
+  {
+    "caption": "I. Joe makes a step back three-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 1527.9,
+    "end_time": 1536.4
+  },
+  {
+    "caption": "A. Thiero commits an offensive foul.",
+    "start_time": 1553.3,
+    "end_time": 1556.3
+  },
+  {
+    "caption": "I. Joe makes a jump shot three-pointer, assisted by C. Wallace.",
+    "start_time": 1589.1,
+    "end_time": 1597.6
+  },
+  {
+    "caption": "L. James misses a fadeaway two-pointer. I. Hartenstein grabs the defensive rebound after L. James's missed jump shot two-pointer.",
+    "start_time": 1610.2,
+    "end_time": 1617.2
+  }
+]

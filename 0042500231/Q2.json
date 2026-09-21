@@ -1,0 +1,292 @@
+[
+  {
+    "caption": "J. Randle commits a personal foul.",
+    "start_time": 5.0,
+    "end_time": 8.0
+  },
+  {
+    "caption": "D. Fox misses a jump shot three-pointer. N. Reid grabs the defensive rebound after D. Fox's missed jump shot three-pointer.",
+    "start_time": 35.0,
+    "end_time": 42.0
+  },
+  {
+    "caption": "A. Edwards makes a driving reverse layup two-pointer, assisted by B. Hyland.",
+    "start_time": 46.5,
+    "end_time": 55.0
+  },
+  {
+    "caption": "D. Harper misses a jump shot three-pointer. J. Randle grabs the defensive rebound after D. Harper's missed jump shot three-pointer.",
+    "start_time": 72.0,
+    "end_time": 79.0
+  },
+  {
+    "caption": "J. Randle makes a jump shot three-pointer, assisted by A. Edwards.",
+    "start_time": 81.5,
+    "end_time": 90.0
+  },
+  {
+    "caption": "J. Randle misses a pullup two-pointer. V. Wembanyama grabs the defensive rebound after J. Randle's missed pullup two-pointer.",
+    "start_time": 163.0,
+    "end_time": 170.0
+  },
+  {
+    "caption": "S. Castle makes a driving dunk two-pointer, assisted by V. Wembanyama.",
+    "start_time": 173.5,
+    "end_time": 182.0
+  },
+  {
+    "caption": "N. Reid's driving floating two-pointer is blocked by V. Wembanyama. V. Wembanyama blocks N. Reid's jump shot two-pointer. S. Castle grabs the defensive rebound after N. Reid's missed driving floating two-pointer.",
+    "start_time": 198.0,
+    "end_time": 203.0
+  },
+  {
+    "caption": "J. Champagnie makes a running three-pointer, assisted by D. Harper.",
+    "start_time": 201.5,
+    "end_time": 210.0
+  },
+  {
+    "caption": "J. Randle loses the ball out-of-bounds.",
+    "start_time": 224.0,
+    "end_time": 227.0
+  },
+  {
+    "caption": "J. Champagnie misses a pullup three-pointer. J. Randle grabs the defensive rebound after J. Champagnie's missed jump shot three-pointer.",
+    "start_time": 256.5,
+    "end_time": 263.5
+  },
+  {
+    "caption": "N. Reid commits an offensive foul.",
+    "start_time": 266.5,
+    "end_time": 269.5
+  },
+  {
+    "caption": "J. McDaniels commits a shooting personal foul.",
+    "start_time": 299.5,
+    "end_time": 303.5
+  },
+  {
+    "caption": "A. Edwards misses a pullup two-pointer. A. Edwards grabs the offensive rebound after missing his pullup two-pointer.",
+    "start_time": 378.0,
+    "end_time": 385.0
+  },
+  {
+    "caption": "J. Randle's driving layup two-pointer is blocked by V. Wembanyama. J. Randle grabs the offensive rebound after missing his driving layup two-pointer.",
+    "start_time": 390.0,
+    "end_time": 395.0
+  },
+  {
+    "caption": "H. Barnes blocks J. Randle's driving layup two-pointer.",
+    "start_time": 392.0,
+    "end_time": 395.0
+  },
+  {
+    "caption": "J. Randle's putback layup two-pointer is blocked by V. Wembanyama. V. Wembanyama blocks J. Randle's driving layup two-pointer. J. Randle grabs the offensive rebound after missing his layup two-pointer.",
+    "start_time": 394.0,
+    "end_time": 399.0
+  },
+  {
+    "caption": "D. Vassell makes a jump shot three-pointer, assisted by S. Castle.",
+    "start_time": 414.5,
+    "end_time": 423.0
+  },
+  {
+    "caption": "B. Hyland's jump shot three-pointer is blocked by D. Vassell. D. Vassell blocks B. Hyland's jump shot three-pointer. D. Vassell grabs the defensive rebound after B. Hyland's missed jump shot three-pointer.",
+    "start_time": 447.0,
+    "end_time": 452.0
+  },
+  {
+    "caption": "S. Castle misses a jump shot three-pointer. H. Barnes grabs the offensive rebound after S. Castle's missed three-pointer.",
+    "start_time": 456.0,
+    "end_time": 463.0
+  },
+  {
+    "caption": "V. Wembanyama misses a jump shot three-pointer. A. Edwards grabs the defensive rebound after V. Wembanyama's missed jump shot three-pointer.",
+    "start_time": 529.5,
+    "end_time": 536.5
+  },
+  {
+    "caption": "B. Hyland misses a running layup two-pointer. V. Wembanyama grabs the defensive rebound after B. Hyland's missed running layup two-pointer.",
+    "start_time": 538.5,
+    "end_time": 545.5
+  },
+  {
+    "caption": "J. Randle commits a take personal foul.",
+    "start_time": 543.5,
+    "end_time": 546.5
+  },
+  {
+    "caption": "N. Reid commits a personal foul.",
+    "start_time": 839.0,
+    "end_time": 843.0
+  },
+  {
+    "caption": "T. Shannon Jr. misses a driving finger roll two-pointer.",
+    "start_time": 909.5,
+    "end_time": 916.5
+  },
+  {
+    "caption": "S. Castle commits a personal foul.",
+    "start_time": 912.5,
+    "end_time": 915.5
+  },
+  {
+    "caption": "M. Conley makes a jump shot three-pointer, assisted by N. Reid.",
+    "start_time": 941.0,
+    "end_time": 949.5
+  },
+  {
+    "caption": "D. Vassell commits an offensive foul.",
+    "start_time": 968.5,
+    "end_time": 971.5
+  },
+  {
+    "caption": "R. Gobert misses a floating two-pointer. D. Vassell grabs the defensive rebound after R. Gobert's missed floating two-pointer.",
+    "start_time": 1002.0,
+    "end_time": 1009.0
+  },
+  {
+    "caption": "D. Fox misses a pullup three-pointer. D. Vassell grabs the offensive rebound after D. Fox's missed pullup three-pointer.",
+    "start_time": 1017.0,
+    "end_time": 1024.0
+  },
+  {
+    "caption": "D. Harper misses a jump shot three-pointer. D. Vassell grabs the offensive rebound after D. Harper's missed jump shot three-pointer.",
+    "start_time": 1021.0,
+    "end_time": 1028.0
+  },
+  {
+    "caption": "D. Fox misses a pullup jump shot two-pointer. R. Gobert grabs the defensive rebound after D. Fox's missed pullup jump shot two-pointer.",
+    "start_time": 1028.0,
+    "end_time": 1035.0
+  },
+  {
+    "caption": "T. Shannon Jr. makes a running layup two-pointer, assisted by M. Conley.",
+    "start_time": 1031.5,
+    "end_time": 1040.0
+  },
+  {
+    "caption": "D. Vassell misses a pullup two-pointer. L. Kornet grabs the offensive rebound after D. Vassell's missed pullup two-pointer.",
+    "start_time": 1051.0,
+    "end_time": 1058.0
+  },
+  {
+    "caption": "R. Gobert steals the ball from L. Kornet on a bad pass.",
+    "start_time": 1054.0,
+    "end_time": 1058.0
+  },
+  {
+    "caption": "N. Reid makes a floating jump shot two-pointer, assisted by J. Randle.",
+    "start_time": 1062.5,
+    "end_time": 1071.0
+  },
+  {
+    "caption": "D. Harper makes a driving finger roll two-pointer, assisted by D. Fox.",
+    "start_time": 1069.5,
+    "end_time": 1078.0
+  },
+  {
+    "caption": "M. Conley makes a pullup three-pointer.",
+    "start_time": 1087.5,
+    "end_time": 1096.0
+  },
+  {
+    "caption": "D. Harper misses a pullup two-pointer. M. Conley grabs the defensive rebound after D. Harper's missed pullup two-pointer.",
+    "start_time": 1116.0,
+    "end_time": 1123.0
+  },
+  {
+    "caption": "K. Johnson commits a personal foul.",
+    "start_time": 1126.0,
+    "end_time": 1129.0
+  },
+  {
+    "caption": "M. Conley misses a driving floating two-pointer. V. Wembanyama grabs the defensive rebound after M. Conley's missed driving floating two-pointer.",
+    "start_time": 1165.0,
+    "end_time": 1172.0
+  },
+  {
+    "caption": "K. Johnson makes a running layup two-pointer, assisted by D. Vassell.",
+    "start_time": 1168.5,
+    "end_time": 1177.0
+  },
+  {
+    "caption": "J. Clark makes a driving floating jump shot two-pointer, assisted by J. Randle.",
+    "start_time": 1422.5,
+    "end_time": 1431.0
+  },
+  {
+    "caption": "V. Wembanyama makes a floating jump shot two-pointer, assisted by D. Harper.",
+    "start_time": 1442.5,
+    "end_time": 1451.0
+  },
+  {
+    "caption": "D. Vassell steals the ball from R. Gobert on a lost ball.",
+    "start_time": 1463.0,
+    "end_time": 1467.0
+  },
+  {
+    "caption": "K. Johnson makes a running layup two-pointer, assisted by D. Vassell.",
+    "start_time": 1464.5,
+    "end_time": 1473.0
+  },
+  {
+    "caption": "T. Shannon Jr. misses a driving floating two-pointer. J. Clark grabs the offensive rebound after T. Shannon Jr.'s missed driving floating two-pointer.",
+    "start_time": 1484.0,
+    "end_time": 1491.0
+  },
+  {
+    "caption": "J. Randle misses a jump shot three-pointer. J. Champagnie grabs the defensive rebound after J. Randle's missed jump shot three-pointer.",
+    "start_time": 1489.0,
+    "end_time": 1496.0
+  },
+  {
+    "caption": "V. Wembanyama makes a running layup two-pointer.",
+    "start_time": 1495.5,
+    "end_time": 1504.0
+  },
+  {
+    "caption": "D. Harper commits a personal foul.",
+    "start_time": 1562.0,
+    "end_time": 1565.0
+  },
+  {
+    "caption": "R. Gobert's driving layup two-pointer is blocked by V. Wembanyama. V. Wembanyama blocks R. Gobert's layup two-pointer.",
+    "start_time": 1565.0,
+    "end_time": 1570.0
+  },
+  {
+    "caption": "J. Randle makes a pullup two-pointer.",
+    "start_time": 1586.5,
+    "end_time": 1595.0
+  },
+  {
+    "caption": "V. Wembanyama misses a jump shot three-pointer. N. Reid grabs the defensive rebound after V. Wembanyama's missed jump shot three-pointer.",
+    "start_time": 1603.0,
+    "end_time": 1610.0
+  },
+  {
+    "caption": "N. Reid makes a driving finger roll two-pointer.",
+    "start_time": 1608.85,
+    "end_time": 1617.35
+  },
+  {
+    "caption": "Jump ball between Victor Wembanyama and Jordan Clark, DeMar DeRozan recovers the tip.",
+    "start_time": 1677.5,
+    "end_time": 1682.5
+  },
+  {
+    "caption": "V. Wembanyama misses a jump shot three-pointer. R. Gobert grabs the defensive rebound after V. Wembanyama's missed jump shot three-pointer.",
+    "start_time": 1682.3,
+    "end_time": 1689.3
+  },
+  {
+    "caption": "N. Reid's driving layup two-pointer is blocked by V. Wembanyama. V. Wembanyama blocks N. Reid's layup two-pointer. D. Fox grabs the defensive rebound after N. Reid's driving layup two-pointer is blocked.",
+    "start_time": 1698.9,
+    "end_time": 1703.9
+  },
+  {
+    "caption": "R. Gobert steals the ball from D. Fox on a lost ball.",
+    "start_time": 1722.3,
+    "end_time": 1726.3
+  }
+]

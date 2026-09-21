@@ -1,0 +1,247 @@
+[
+  {
+    "caption": "P. George misses a turnaround two-pointer. K. Towns grabs the defensive rebound after P. George's missed turnaround two-pointer.",
+    "start_time": 37.5,
+    "end_time": 44.5
+  },
+  {
+    "caption": "J. Clarkson misses a cutting layup two-pointer. J. Clarkson grabs the offensive rebound after missing his layup two-pointer.",
+    "start_time": 50.5,
+    "end_time": 57.5
+  },
+  {
+    "caption": "J. Clarkson makes a jump shot two-pointer, assisted by K. Towns.",
+    "start_time": 60.0,
+    "end_time": 68.5
+  },
+  {
+    "caption": "Q. Grimes makes a jump shot three-pointer, assisted by V. Edgecombe. Q. Grimes commits a personal foul.",
+    "start_time": 77.0,
+    "end_time": 129.0
+  },
+  {
+    "caption": "J. Clarkson steals the ball from V. Edgecombe on a lost ball.",
+    "start_time": 190.5,
+    "end_time": 194.5
+  },
+  {
+    "caption": "V. Edgecombe steals the ball from J. Clarkson on a bad pass.",
+    "start_time": 199.5,
+    "end_time": 203.5
+  },
+  {
+    "caption": "T. Maxey makes a driving layup two-pointer, assisted by P. George.",
+    "start_time": 205.0,
+    "end_time": 213.5
+  },
+  {
+    "caption": "K. Towns misses a turnaround hook two-pointer. V. Edgecombe grabs the defensive rebound after K. Towns' missed turnaround hook two-pointer.",
+    "start_time": 232.5,
+    "end_time": 239.5
+  },
+  {
+    "caption": "T. Maxey misses a fadeaway two-pointer. K. Towns grabs the defensive rebound after T. Maxey's missed jump shot two-pointer.",
+    "start_time": 245.5,
+    "end_time": 252.5
+  },
+  {
+    "caption": "K. Towns misses a turnaround two-pointer. D. Barlow grabs the defensive rebound after K. Towns' missed jump shot two-pointer.",
+    "start_time": 260.5,
+    "end_time": 267.5
+  },
+  {
+    "caption": "Q. Grimes makes a jump shot three-pointer, assisted by T. Maxey.",
+    "start_time": 269.0,
+    "end_time": 277.5
+  },
+  {
+    "caption": "J. Hart makes a layup two-pointer, assisted by K. Towns.",
+    "start_time": 518.0,
+    "end_time": 526.5
+  },
+  {
+    "caption": "K. Oubre Jr. misses a jump shot three-pointer. M. Bridges grabs the defensive rebound after K. Oubre Jr.'s missed jump shot three-pointer.",
+    "start_time": 539.5,
+    "end_time": 546.5
+  },
+  {
+    "caption": "Michael Bridges makes a turnaround two-pointer, assisted by Jalen Hart.",
+    "start_time": 553.0,
+    "end_time": 561.5
+  },
+  {
+    "caption": "P. George misses a jump shot three-pointer. M. Bridges grabs the defensive rebound after P. George's missed jump shot three-pointer.",
+    "start_time": 576.5,
+    "end_time": 583.5
+  },
+  {
+    "caption": "P. George steals the ball from J. Brunson on a lost ball.",
+    "start_time": 589.5,
+    "end_time": 593.5
+  },
+  {
+    "caption": "D. Barlow makes a running dunk two-pointer, assisted by Q. Grimes.",
+    "start_time": 590.0,
+    "end_time": 598.5
+  },
+  {
+    "caption": "J. Brunson makes a jump shot three-pointer, assisted by K. Towns.",
+    "start_time": 614.0,
+    "end_time": 622.5
+  },
+  {
+    "caption": "K. Oubre Jr.'s pullup two-pointer is blocked by K. Towns. K. Towns blocks K. Oubre Jr.'s jump shot two-pointer. J. Hart grabs the defensive rebound after K. Oubre Jr.'s pullup two-pointer is blocked.",
+    "start_time": 642.5,
+    "end_time": 647.5
+  },
+  {
+    "caption": "T. Maxey commits a shooting personal foul.",
+    "start_time": 650.5,
+    "end_time": 654.5
+  },
+  {
+    "caption": "J. Hart commits a personal foul.",
+    "start_time": 725.5,
+    "end_time": 728.5
+  },
+  {
+    "caption": "J. Brunson commits a personal foul.",
+    "start_time": 754.5,
+    "end_time": 757.5
+  },
+  {
+    "caption": "Michael Bridges steals the ball from Paul George on a lost ball.",
+    "start_time": 809.5,
+    "end_time": 813.5
+  },
+  {
+    "caption": "J. Brunson makes a running pullup two-pointer, assisted by M. Bridges.",
+    "start_time": 812.0,
+    "end_time": 820.5
+  },
+  {
+    "caption": "L. Shamet commits a personal foul.",
+    "start_time": 1058.0,
+    "end_time": 1061.0
+  },
+  {
+    "caption": "Q. Grimes loses the ball out-of-bounds.",
+    "start_time": 1079.0,
+    "end_time": 1082.0
+  },
+  {
+    "caption": "K. Towns misses a jump shot three-pointer. J. Embiid grabs the defensive rebound after K. Towns' missed jump shot three-pointer.",
+    "start_time": 1100.5,
+    "end_time": 1107.5
+  },
+  {
+    "caption": "Q. Grimes misses a jump shot three-pointer. K. Towns grabs the defensive rebound after Q. Grimes's missed jump shot three-pointer.",
+    "start_time": 1116.5,
+    "end_time": 1123.5
+  },
+  {
+    "caption": "T. Maxey commits a personal foul.",
+    "start_time": 1141.5,
+    "end_time": 1145.5
+  },
+  {
+    "caption": "J. Embiid misses a step back three-pointer. P. George grabs the offensive rebound after J. Embiid's missed jump shot three-pointer.",
+    "start_time": 1203.0,
+    "end_time": 1210.0
+  },
+  {
+    "caption": "T. Maxey makes a jump shot three-pointer.",
+    "start_time": 1205.5,
+    "end_time": 1214.0
+  },
+  {
+    "caption": "J. Brunson makes a driving finger roll two-pointer, assisted by K. Towns.",
+    "start_time": 1223.5,
+    "end_time": 1232.0
+  },
+  {
+    "caption": "T. Maxey misses a pullup three-pointer. J. Brunson grabs the defensive rebound after T. Maxey's missed pullup three-pointer.",
+    "start_time": 1235.0,
+    "end_time": 1242.0
+  },
+  {
+    "caption": "Michael Bridges makes a running finger roll two-pointer, assisted by Jalen Brunson.",
+    "start_time": 1239.5,
+    "end_time": 1248.0
+  },
+  {
+    "caption": "P. George misses a jump shot three-pointer. K. Towns grabs the defensive rebound after P. George's missed jump shot three-pointer.",
+    "start_time": 1355.0,
+    "end_time": 1362.0
+  },
+  {
+    "caption": "J. Brunson misses a pullup three-pointer.",
+    "start_time": 1373.0,
+    "end_time": 1380.0
+  },
+  {
+    "caption": "K. Towns commits a personal foul.",
+    "start_time": 1378.0,
+    "end_time": 1381.0
+  },
+  {
+    "caption": "J. Embiid makes a cutting dunk two-pointer, assisted by T. Maxey.",
+    "start_time": 1401.5,
+    "end_time": 1410.0
+  },
+  {
+    "caption": "J. Hart misses a pullup three-pointer. J. Embiid grabs the defensive rebound after J. Hart's missed jump shot three-pointer.",
+    "start_time": 1433.0,
+    "end_time": 1440.0
+  },
+  {
+    "caption": "J. Embiid misses a jump shot three-pointer. K. Towns grabs the defensive rebound after J. Embiid's missed jump shot three-pointer.",
+    "start_time": 1444.0,
+    "end_time": 1451.0
+  },
+  {
+    "caption": "V. Edgecombe commits a personal foul.",
+    "start_time": 1468.0,
+    "end_time": 1472.0
+  },
+  {
+    "caption": "L. Shamet commits a take personal foul.",
+    "start_time": 1583.0,
+    "end_time": 1586.0
+  },
+  {
+    "caption": "M. Diawara is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1648.5,
+    "end_time": 1651.5
+  },
+  {
+    "caption": "D. Terry commits a take personal foul.",
+    "start_time": 1674.5,
+    "end_time": 1677.5
+  },
+  {
+    "caption": "J. Walker misses a jump shot three-pointer. J. Sochan grabs the defensive rebound after J. Walker's missed jump shot three-pointer.",
+    "start_time": 1767.0,
+    "end_time": 1774.0
+  },
+  {
+    "caption": "T. Kolek misses a step back jump shot. D. Terry grabs the defensive rebound after T. Kolek's missed jump shot two-pointer.",
+    "start_time": 1779.2,
+    "end_time": 1786.2
+  },
+  {
+    "caption": "D. Terry misses a fadeaway two-pointer. J. Sochan grabs the defensive rebound after D. Terry's missed jump shot two-pointer.",
+    "start_time": 1791.4,
+    "end_time": 1798.4
+  },
+  {
+    "caption": "D. Terry steals the ball from P. Dadiet on a lost ball.",
+    "start_time": 1808.7,
+    "end_time": 1812.7
+  },
+  {
+    "caption": "D. Terry misses a running layup two-pointer. P. Dadiet grabs the defensive rebound after D. Terry's missed running layup two-pointer.",
+    "start_time": 1813.6,
+    "end_time": 1820.6
+  }
+]

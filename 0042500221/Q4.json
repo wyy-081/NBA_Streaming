@@ -1,0 +1,257 @@
+[
+  {
+    "caption": "L. Kennard is called for a bad pass out-of-bounds turnover.",
+    "start_time": 20.0,
+    "end_time": 23.0
+  },
+  {
+    "caption": "A. Caruso misses a jump shot three-pointer. D. Ayton grabs the defensive rebound after A. Caruso's missed three-pointer.",
+    "start_time": 31.0,
+    "end_time": 38.0
+  },
+  {
+    "caption": "A. Mitchell commits a personal foul.",
+    "start_time": 44.0,
+    "end_time": 48.0
+  },
+  {
+    "caption": "A. Caruso grabs the defensive rebound.",
+    "start_time": 85.0,
+    "end_time": 90.0
+  },
+  {
+    "caption": "L. James commits a personal foul.",
+    "start_time": 102.0,
+    "end_time": 105.0
+  },
+  {
+    "caption": "A. Mitchell makes a pullup two-pointer.",
+    "start_time": 128.0,
+    "end_time": 136.5
+  },
+  {
+    "caption": "A. Caruso makes a running dunk two-pointer.",
+    "start_time": 146.0,
+    "end_time": 154.5
+  },
+  {
+    "caption": "I. Hartenstein steals the ball from M. Smart on a bad pass.",
+    "start_time": 147.0,
+    "end_time": 151.0
+  },
+  {
+    "caption": "R. Hachimura misses a jump shot three-pointer.",
+    "start_time": 392.0,
+    "end_time": 399.0
+  },
+  {
+    "caption": "Marcus Smart steals the ball from Anthony Mitchell on a bad pass.",
+    "start_time": 472.0,
+    "end_time": 476.0
+  },
+  {
+    "caption": "R. Hachimura makes a driving dunk two-pointer, assisted by M. Smart.",
+    "start_time": 481.5,
+    "end_time": 490.0
+  },
+  {
+    "caption": "A. Mitchell misses a driving finger roll two-pointer. A. Reaves grabs the defensive rebound after A. Mitchell's missed driving finger roll layup two-pointer.",
+    "start_time": 500.0,
+    "end_time": 507.0
+  },
+  {
+    "caption": "L. James misses a running three-pointer. I. Hartenstein grabs the defensive rebound after L. James's missed running three-pointer.",
+    "start_time": 506.0,
+    "end_time": 513.0
+  },
+  {
+    "caption": "J. McCain makes a jump shot three-pointer, assisted by A. Mitchell.",
+    "start_time": 515.5,
+    "end_time": 524.0
+  },
+  {
+    "caption": "C. Holmgren steals the ball from M. Smart on a bad pass.",
+    "start_time": 541.0,
+    "end_time": 545.0
+  },
+  {
+    "caption": "J. McCain makes a running three-pointer, assisted by A. Mitchell.",
+    "start_time": 542.5,
+    "end_time": 551.0
+  },
+  {
+    "caption": "J. McCain commits a personal foul.",
+    "start_time": 568.0,
+    "end_time": 571.0
+  },
+  {
+    "caption": "A. Reaves makes a pullup two-pointer.",
+    "start_time": 603.5,
+    "end_time": 612.0
+  },
+  {
+    "caption": "A. Mitchell misses a driving floating two-pointer. I. Hartenstein grabs the offensive rebound after A. Mitchell's missed driving floating two-pointer.",
+    "start_time": 622.0,
+    "end_time": 629.0
+  },
+  {
+    "caption": "C. Holmgren makes a dunk two-pointer, assisted by J. McCain.",
+    "start_time": 625.5,
+    "end_time": 634.0
+  },
+  {
+    "caption": "LeBron James makes a cutting dunk two-pointer, assisted by Anthony Reaves.",
+    "start_time": 638.5,
+    "end_time": 647.0
+  },
+  {
+    "caption": "J. McCain misses a jump shot three-pointer. R. Hachimura grabs the defensive rebound after J. McCain's missed three-pointer.",
+    "start_time": 657.0,
+    "end_time": 664.0
+  },
+  {
+    "caption": "J. McCain commits a personal foul.",
+    "start_time": 668.0,
+    "end_time": 671.0
+  },
+  {
+    "caption": "A. Reaves misses a pullup two-pointer. C. Holmgren grabs the defensive rebound after A. Reaves's missed pullup two-pointer.",
+    "start_time": 714.5,
+    "end_time": 721.5
+  },
+  {
+    "caption": "S. Gilgeous-Alexander misses a pullup two-pointer.",
+    "start_time": 723.5,
+    "end_time": 730.5
+  },
+  {
+    "caption": "A. Reaves commits a personal foul.",
+    "start_time": 726.5,
+    "end_time": 729.5
+  },
+  {
+    "caption": "S. Gilgeous-Alexander misses a step back three-pointer. J. LaRavia grabs the defensive rebound after S. Gilgeous-Alexander's missed jump shot three-pointer.",
+    "start_time": 760.0,
+    "end_time": 767.0
+  },
+  {
+    "caption": "L. Kennard misses a running three-pointer. I. Hartenstein grabs the defensive rebound after L. Kennard's missed three-pointer.",
+    "start_time": 769.0,
+    "end_time": 776.0
+  },
+  {
+    "caption": "C. Holmgren misses a pullup two-pointer. I. Hartenstein grabs the offensive rebound after C. Holmgren's missed jump shot.",
+    "start_time": 788.0,
+    "end_time": 795.0
+  },
+  {
+    "caption": "S. Gilgeous-Alexander misses a pullup two-pointer. A. Reaves grabs the defensive rebound after S. Gilgeous-Alexander's missed jump shot two-pointer.",
+    "start_time": 794.0,
+    "end_time": 801.0
+  },
+  {
+    "caption": "R. Hachimura makes a jump shot three-pointer, assisted by A. Reaves.",
+    "start_time": 803.5,
+    "end_time": 812.0
+  },
+  {
+    "caption": "J. McCain misses a driving layup two-pointer. C. Holmgren grabs the offensive rebound after J. McCain's missed driving layup two-pointer. C. Holmgren makes a tip layup two-pointer.",
+    "start_time": 1044.0,
+    "end_time": 1053.0
+  },
+  {
+    "caption": "R. Hachimura misses a pullup two-pointer. L. Dort grabs the defensive rebound after R. Hachimura's missed jump shot two-pointer.",
+    "start_time": 1059.0,
+    "end_time": 1066.0
+  },
+  {
+    "caption": "J. McCain makes a jump shot three-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 1076.5,
+    "end_time": 1085.0
+  },
+  {
+    "caption": "A. Reaves misses a pullup three-pointer. C. Holmgren grabs the defensive rebound after A. Reaves's missed jump shot three-pointer.",
+    "start_time": 1098.0,
+    "end_time": 1105.0
+  },
+  {
+    "caption": "C. Holmgren misses a jump shot two-pointer.",
+    "start_time": 1110.0,
+    "end_time": 1117.0
+  },
+  {
+    "caption": "A. Reaves makes a driving layup two-pointer.",
+    "start_time": 1146.0,
+    "end_time": 1154.5
+  },
+  {
+    "caption": "C. Holmgren misses a turnaround two-pointer. LeBron James grabs the defensive rebound after C. Holmgren's missed jump shot.",
+    "start_time": 1173.5,
+    "end_time": 1180.5
+  },
+  {
+    "caption": "A. Reaves' driving reverse layup two-pointer is blocked by I. Hartenstein. I. Hartenstein blocks A. Reaves's layup two-pointer. J. McCain grabs the defensive rebound after A. Reaves' driving reverse layup two-pointer is blocked.",
+    "start_time": 1219.0,
+    "end_time": 1224.0
+  },
+  {
+    "caption": "C. Wallace misses a jump shot three-pointer. L. James grabs the defensive rebound after C. Wallace's missed three-pointer.",
+    "start_time": 1232.0,
+    "end_time": 1239.0
+  },
+  {
+    "caption": "D. Ayton misses a driving floating two-pointer. I. Hartenstein grabs the defensive rebound after D. Ayton's missed driving floating two-pointer.",
+    "start_time": 1247.0,
+    "end_time": 1254.0
+  },
+  {
+    "caption": "R. Hachimura commits a personal foul.",
+    "start_time": 1367.5,
+    "end_time": 1370.5
+  },
+  {
+    "caption": "A. Mitchell misses a pullup two-pointer.",
+    "start_time": 1392.5,
+    "end_time": 1399.5
+  },
+  {
+    "caption": "LeBron James makes a jump shot three-pointer, assisted by Rui Hachimura.",
+    "start_time": 1414.0,
+    "end_time": 1422.5
+  },
+  {
+    "caption": "I. Hartenstein makes a turnaround two-pointer, assisted by L. Dort.",
+    "start_time": 1440.0,
+    "end_time": 1448.5
+  },
+  {
+    "caption": "M. Smart misses a jump shot three-pointer. C. Wallace grabs the defensive rebound after M. Smart's missed three-pointer.",
+    "start_time": 1462.5,
+    "end_time": 1469.5
+  },
+  {
+    "caption": "I. Hartenstein makes a running pullup two-pointer, assisted by S. Gilgeous-Alexander.",
+    "start_time": 1468.0,
+    "end_time": 1476.5
+  },
+  {
+    "caption": "D. Knecht misses a pullup two-pointer. J. Williams grabs the defensive rebound after D. Knecht's missed jump shot.",
+    "start_time": 1598.5,
+    "end_time": 1605.5
+  },
+  {
+    "caption": "A. Wiggins misses a driving floating bank two-pointer. N. Smith Jr. grabs the defensive rebound after A. Wiggins' missed driving floating bank two-pointer.",
+    "start_time": 1612.5,
+    "end_time": 1619.5
+  },
+  {
+    "caption": "I. Joe makes a jump shot three-pointer, assisted by J. McCain.",
+    "start_time": 1661.2,
+    "end_time": 1669.7
+  },
+  {
+    "caption": "J. LaRavia makes a jump shot three-pointer, assisted by B. James.",
+    "start_time": 1683.8,
+    "end_time": 1692.3
+  }
+]

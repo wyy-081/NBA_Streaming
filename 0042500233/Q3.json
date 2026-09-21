@@ -1,0 +1,312 @@
+[
+  {
+    "caption": "A. Edwards misses a turnaround two-pointer. S. Castle grabs the defensive rebound after A. Edwards's missed jump shot two-pointer.",
+    "start_time": 37.0,
+    "end_time": 44.0
+  },
+  {
+    "caption": "J. Randle commits a personal foul.",
+    "start_time": 52.0,
+    "end_time": 56.0
+  },
+  {
+    "caption": "A. Edwards misses a turnaround two-pointer. S. Castle grabs the defensive rebound after A. Edwards' missed jump shot.",
+    "start_time": 111.0,
+    "end_time": 118.0
+  },
+  {
+    "caption": "S. Castle misses a turnaround two-pointer. J. Champagnie grabs the offensive rebound after S. Castle's missed turnaround two-pointer.",
+    "start_time": 129.0,
+    "end_time": 136.0
+  },
+  {
+    "caption": "D. Fox's driving layup two-pointer is blocked by A. Edwards. A. Edwards blocks D. Fox's layup two-pointer. A. Edwards grabs the defensive rebound after D. Fox's driving layup two-pointer is blocked.",
+    "start_time": 140.0,
+    "end_time": 145.0
+  },
+  {
+    "caption": "A. Dosunmu misses a jump shot three-pointer. J. Champagnie grabs the defensive rebound after A. Dosunmu's missed three-pointer.",
+    "start_time": 154.0,
+    "end_time": 161.0
+  },
+  {
+    "caption": "J. Randle steals the ball from D. Fox on a bad pass.",
+    "start_time": 169.0,
+    "end_time": 173.0
+  },
+  {
+    "caption": "D. Vassell steals the ball from A. Dosunmu on a lost ball.",
+    "start_time": 173.0,
+    "end_time": 177.0
+  },
+  {
+    "caption": "S. Castle makes a running pullup three-pointer, assisted by J. Champagnie.",
+    "start_time": 173.5,
+    "end_time": 182.0
+  },
+  {
+    "caption": "J. McDaniels misses a step back jump shot. A. Dosunmu grabs the offensive rebound after J. McDaniels' missed jump shot two-pointer.",
+    "start_time": 193.0,
+    "end_time": 200.0
+  },
+  {
+    "caption": "R. Gobert makes a floating jump shot two-pointer, assisted by A. Dosunmu.",
+    "start_time": 193.5,
+    "end_time": 202.0
+  },
+  {
+    "caption": "V. Wembanyama makes a jump shot three-pointer, assisted by D. Fox.",
+    "start_time": 209.5,
+    "end_time": 218.0
+  },
+  {
+    "caption": "J. Randle misses a pullup two-pointer.",
+    "start_time": 228.0,
+    "end_time": 235.0
+  },
+  {
+    "caption": "V. Wembanyama commits a personal foul.",
+    "start_time": 232.0,
+    "end_time": 235.0
+  },
+  {
+    "caption": "J. Champagnie commits a personal foul.",
+    "start_time": 263.5,
+    "end_time": 266.5
+  },
+  {
+    "caption": "J. McDaniels makes a pullup two-pointer.",
+    "start_time": 294.0,
+    "end_time": 302.5
+  },
+  {
+    "caption": "D. Vassell misses a jump shot three-pointer. A. Dosunmu grabs the defensive rebound after D. Vassell's missed jump shot three-pointer.",
+    "start_time": 308.5,
+    "end_time": 315.5
+  },
+  {
+    "caption": "J. Randle misses a driving layup two-pointer. J. Randle grabs the offensive rebound after missing his driving layup two-pointer.",
+    "start_time": 324.5,
+    "end_time": 331.5
+  },
+  {
+    "caption": "J. Randle commits an offensive foul.",
+    "start_time": 329.5,
+    "end_time": 332.5
+  },
+  {
+    "caption": "D. Vassell makes a driving dunk two-pointer, assisted by S. Castle.",
+    "start_time": 366.5,
+    "end_time": 375.0
+  },
+  {
+    "caption": "A. Edwards makes a driving floating jump shot two-pointer.",
+    "start_time": 383.5,
+    "end_time": 392.0
+  },
+  {
+    "caption": "J. Champagnie makes a jump shot three-pointer, assisted by D. Fox.",
+    "start_time": 397.5,
+    "end_time": 406.0
+  },
+  {
+    "caption": "N. Reid makes a step back three-pointer.",
+    "start_time": 413.5,
+    "end_time": 422.0
+  },
+  {
+    "caption": "D. Fox makes a driving layup two-pointer. J. McDaniels commits a personal foul.",
+    "start_time": 420.5,
+    "end_time": 429.0
+  },
+  {
+    "caption": "R. Gobert grabs the defensive rebound.",
+    "start_time": 467.0,
+    "end_time": 472.0
+  },
+  {
+    "caption": "A. Edwards makes a floating jump shot two-pointer, assisted by N. Reid.",
+    "start_time": 475.5,
+    "end_time": 484.0
+  },
+  {
+    "caption": "J. Champagnie misses a jump shot three-pointer. R. Gobert grabs the defensive rebound after J. Champagnie's missed three-pointer.",
+    "start_time": 492.0,
+    "end_time": 499.0
+  },
+  {
+    "caption": "A. Dosunmu makes a jump shot three-pointer, assisted by N. Reid.",
+    "start_time": 501.5,
+    "end_time": 510.0
+  },
+  {
+    "caption": "D. Vassell makes a jump shot three-pointer, assisted by S. Castle.",
+    "start_time": 510.5,
+    "end_time": 519.0
+  },
+  {
+    "caption": "J. McDaniels makes a jump shot three-pointer, assisted by N. Reid.",
+    "start_time": 521.5,
+    "end_time": 530.0
+  },
+  {
+    "caption": "D. Fox misses a turnaround two-pointer. J. Champagnie grabs the offensive rebound after D. Fox's missed turnaround two-pointer.",
+    "start_time": 538.0,
+    "end_time": 545.0
+  },
+  {
+    "caption": "Dejounte Murray makes a jump shot three-pointer, assisted by Devin Vassell.",
+    "start_time": 539.5,
+    "end_time": 548.0
+  },
+  {
+    "caption": "A. Edwards misses a step back three-pointer. D. Vassell grabs the defensive rebound after A. Edwards's missed jump shot three-pointer.",
+    "start_time": 798.0,
+    "end_time": 805.0
+  },
+  {
+    "caption": "R. Gobert commits a personal foul.",
+    "start_time": 818.0,
+    "end_time": 821.0
+  },
+  {
+    "caption": "L. Kornet makes a jump shot two-pointer, assisted by S. Castle.",
+    "start_time": 842.0,
+    "end_time": 850.5
+  },
+  {
+    "caption": "N. Reid makes a floating jump shot two-pointer.",
+    "start_time": 856.0,
+    "end_time": 864.5
+  },
+  {
+    "caption": "S. Castle misses a pullup three-pointer. A. Edwards grabs the defensive rebound after S. Castle's missed jump shot three-pointer.",
+    "start_time": 880.5,
+    "end_time": 887.5
+  },
+  {
+    "caption": "D. Harper steals the ball from J. McDaniels on a bad pass.",
+    "start_time": 894.5,
+    "end_time": 898.5
+  },
+  {
+    "caption": "S. Castle commits a technical foul.",
+    "start_time": 904.5,
+    "end_time": 907.5
+  },
+  {
+    "caption": "J. McDaniels commits a technical foul.",
+    "start_time": 904.5,
+    "end_time": 907.5
+  },
+  {
+    "caption": "T. Shannon Jr. commits a personal foul.",
+    "start_time": 1219.0,
+    "end_time": 1223.0
+  },
+  {
+    "caption": "R. Gobert misses a hook two-pointer. D. Harper grabs the defensive rebound after R. Gobert's missed hook two-pointer.",
+    "start_time": 1293.5,
+    "end_time": 1300.5
+  },
+  {
+    "caption": "A. Dosunmu commits a personal foul.",
+    "start_time": 1303.5,
+    "end_time": 1307.5
+  },
+  {
+    "caption": "A. Dosunmu steps out-of-bounds.",
+    "start_time": 1385.0,
+    "end_time": 1388.0
+  },
+  {
+    "caption": "K. Johnson's driving layup two-pointer is blocked by R. Gobert. R. Gobert blocks K. Johnson's layup two-pointer.",
+    "start_time": 1411.5,
+    "end_time": 1416.5
+  },
+  {
+    "caption": "D. Vassell misses a jump shot two-pointer. N. Reid grabs the defensive rebound after D. Vassell's missed jump shot two-pointer.",
+    "start_time": 1430.5,
+    "end_time": 1437.5
+  },
+  {
+    "caption": "A. Edwards makes a pullup jump shot two-pointer.",
+    "start_time": 1442.0,
+    "end_time": 1450.5
+  },
+  {
+    "caption": "S. Castle commits an offensive foul.",
+    "start_time": 1464.5,
+    "end_time": 1467.5
+  },
+  {
+    "caption": "A. Dosunmu makes a jump shot three-pointer, assisted by A. Edwards.",
+    "start_time": 1497.0,
+    "end_time": 1505.5
+  },
+  {
+    "caption": "D. Fox makes a floating jump shot two-pointer.",
+    "start_time": 1510.0,
+    "end_time": 1518.5
+  },
+  {
+    "caption": "A. Dosunmu makes a driving floating jump shot two-pointer, assisted by A. Edwards.",
+    "start_time": 1530.0,
+    "end_time": 1538.5
+  },
+  {
+    "caption": "V. Wembanyama makes a driving layup two-pointer.",
+    "start_time": 1551.0,
+    "end_time": 1559.5
+  },
+  {
+    "caption": "A. Edwards misses a step back three-pointer.",
+    "start_time": 1565.5,
+    "end_time": 1572.5
+  },
+  {
+    "caption": "V. Wembanyama commits a personal foul.",
+    "start_time": 1571.5,
+    "end_time": 1574.5
+  },
+  {
+    "caption": "A. Edwards' driving floating two-pointer is blocked by V. Wembanyama. V. Wembanyama blocks A. Edwards' jump shot two-pointer. D. Fox grabs the defensive rebound after A. Edwards' missed driving floating two-pointer.",
+    "start_time": 1599.5,
+    "end_time": 1604.5
+  },
+  {
+    "caption": "T. Shannon Jr. commits a personal foul.",
+    "start_time": 1606.5,
+    "end_time": 1610.5
+  },
+  {
+    "caption": "A. Dosunmu misses a jump shot three-pointer. J. Champagnie grabs the defensive rebound after A. Dosunmu's missed three-pointer.",
+    "start_time": 1777.4,
+    "end_time": 1784.4
+  },
+  {
+    "caption": "D. Vassell misses a pullup two-pointer. J. Champagnie grabs the offensive rebound after D. Vassell's missed jump shot two-pointer.",
+    "start_time": 1787.2,
+    "end_time": 1794.2
+  },
+  {
+    "caption": "K. Johnson makes a jump shot three-pointer, assisted by J. Champagnie.",
+    "start_time": 1788.6,
+    "end_time": 1797.1
+  },
+  {
+    "caption": "V. Wembanyama commits a personal foul.",
+    "start_time": 1808.1,
+    "end_time": 1811.1
+  },
+  {
+    "caption": "D. Fox misses a pullup three-pointer. A. Edwards grabs the defensive rebound after D. Fox's missed pullup three-pointer.",
+    "start_time": 1884.3,
+    "end_time": 1891.3
+  },
+  {
+    "caption": "A. Edwards misses a jump shot two-pointer.",
+    "start_time": 1894.5,
+    "end_time": 1901.5
+  }
+]
