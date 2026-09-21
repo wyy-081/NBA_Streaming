@@ -1,0 +1,307 @@
+[
+  {
+    "caption": "W. Clayton Jr. misses a pullup three-pointer.",
+    "start_time": 0.0,
+    "end_time": 7.0
+  },
+  {
+    "caption": "W. Kessler commits a personal foul.",
+    "start_time": 3.5,
+    "end_time": 6.5
+  },
+  {
+    "caption": "D. Clingan's cutting layup two-pointer is blocked by L. Markkanen. L. Markkanen blocks D. Clingan's layup two-pointer. J. Holiday grabs the offensive rebound after D. Clingan's missed layup two-pointer.",
+    "start_time": 31.0,
+    "end_time": 36.0
+  },
+  {
+    "caption": "J. Grant misses a jump shot three-pointer. L. Markkanen grabs the defensive rebound after J. Grant's missed jump shot three-pointer.",
+    "start_time": 33.5,
+    "end_time": 40.5
+  },
+  {
+    "caption": "L. Markkanen makes a cutting layup two-pointer, assisted by W. Kessler.",
+    "start_time": 49.5,
+    "end_time": 58.0
+  },
+  {
+    "caption": "S. Sharpe misses a jump shot three-pointer. W. Kessler grabs the defensive rebound after S. Sharpe's missed jump shot three-pointer.",
+    "start_time": 65.5,
+    "end_time": 72.5
+  },
+  {
+    "caption": "J. Holiday steals the ball from W. Kessler on a bad pass.",
+    "start_time": 79.0,
+    "end_time": 83.0
+  },
+  {
+    "caption": "S. Sharpe makes a running layup two-pointer, assisted by J. Holiday.",
+    "start_time": 81.5,
+    "end_time": 90.0
+  },
+  {
+    "caption": "L. Markkanen misses a jump shot three-pointer. S. Sharpe grabs the defensive rebound after L. Markkanen's missed three-pointer.",
+    "start_time": 98.0,
+    "end_time": 105.0
+  },
+  {
+    "caption": "J. Holiday makes a step back three-pointer, assisted by J. Grant.",
+    "start_time": 115.5,
+    "end_time": 124.0
+  },
+  {
+    "caption": "L. Markkanen misses a jump shot three-pointer. D. Clingan grabs the defensive rebound after L. Markkanen's missed three-pointer.",
+    "start_time": 144.0,
+    "end_time": 151.0
+  },
+  {
+    "caption": "D. Clingan misses a jump shot three-pointer. W. Kessler grabs the defensive rebound after D. Clingan's missed jump shot three-pointer.",
+    "start_time": 158.0,
+    "end_time": 165.0
+  },
+  {
+    "caption": "R. Rupert steals the ball from C. Williams on a lost ball.",
+    "start_time": 165.5,
+    "end_time": 169.5
+  },
+  {
+    "caption": "C. Williams commits a personal foul.",
+    "start_time": 167.5,
+    "end_time": 170.5
+  },
+  {
+    "caption": "S. Sharpe misses a step back three-pointer. E. Harkless grabs the defensive rebound after S. Sharpe's missed three-pointer.",
+    "start_time": 206.0,
+    "end_time": 213.0
+  },
+  {
+    "caption": "W. Kessler makes a jump shot three-pointer, assisted by E. Harkless.",
+    "start_time": 225.5,
+    "end_time": 234.0
+  },
+  {
+    "caption": "S. Sharpe is called for an out-of-bounds turnover.",
+    "start_time": 248.0,
+    "end_time": 251.0
+  },
+  {
+    "caption": "E. Harkless misses a jump shot three-pointer. R. Rupert grabs the defensive rebound after E. Harkless's missed jump shot three-pointer.",
+    "start_time": 294.0,
+    "end_time": 301.0
+  },
+  {
+    "caption": "B. Wesley misses a running three-pointer. J. Grant grabs the offensive rebound after B. Wesley's missed running three-pointer. J. Grant misses a tip layup two-pointer.",
+    "start_time": 303.0,
+    "end_time": 311.0
+  },
+  {
+    "caption": "C. Williams grabs the defensive rebound.",
+    "start_time": 305.0,
+    "end_time": 311.0
+  },
+  {
+    "caption": "J. Grant steals the ball from C. Williams on a lost ball.",
+    "start_time": 310.0,
+    "end_time": 314.0
+  },
+  {
+    "caption": "C. Williams commits a personal foul.",
+    "start_time": 314.0,
+    "end_time": 318.0
+  },
+  {
+    "caption": "B. Wesley commits a personal foul.",
+    "start_time": 388.0,
+    "end_time": 392.0
+  },
+  {
+    "caption": "E. Harkless steals the ball from D. Avdija on a lost ball.",
+    "start_time": 453.0,
+    "end_time": 457.0
+  },
+  {
+    "caption": "K. George makes a running layup two-pointer, assisted by C. Williams. T. Camara commits a personal foul.",
+    "start_time": 453.5,
+    "end_time": 462.0
+  },
+  {
+    "caption": "D. Reath misses a jump shot three-pointer. D. Avdija grabs the offensive rebound after D. Reath's missed jump shot three-pointer.",
+    "start_time": 509.5,
+    "end_time": 516.5
+  },
+  {
+    "caption": "J. Grant misses a jump shot three-pointer. W. Kessler grabs the defensive rebound after J. Grant's missed three-pointer.",
+    "start_time": 519.5,
+    "end_time": 526.5
+  },
+  {
+    "caption": "L. Markkanen makes a driving layup two-pointer, assisted by K. George. D. Avdija commits a personal foul.",
+    "start_time": 524.0,
+    "end_time": 532.5
+  },
+  {
+    "caption": "J. Holiday misses a pullup three-pointer. J. Grant grabs the offensive rebound after J. Holiday's missed pullup three-pointer.",
+    "start_time": 745.0,
+    "end_time": 752.0
+  },
+  {
+    "caption": "T. Camara misses a jump shot three-pointer. L. Markkanen grabs the defensive rebound after T. Camara's missed three-pointer.",
+    "start_time": 751.0,
+    "end_time": 758.0
+  },
+  {
+    "caption": "K. George misses a jump shot three-pointer. E. Harkless grabs the offensive rebound after K. George's missed three-pointer.",
+    "start_time": 765.0,
+    "end_time": 772.0
+  },
+  {
+    "caption": "D. Avdija steals the ball from K. George on a lost ball.",
+    "start_time": 774.0,
+    "end_time": 778.0
+  },
+  {
+    "caption": "E. Harkless steals the ball from D. Avdija on a lost ball.",
+    "start_time": 778.0,
+    "end_time": 782.0
+  },
+  {
+    "caption": "D. Clingan commits a personal foul.",
+    "start_time": 792.0,
+    "end_time": 796.0
+  },
+  {
+    "caption": "J. Grant commits an offensive foul.",
+    "start_time": 1021.0,
+    "end_time": 1024.0
+  },
+  {
+    "caption": "L. Markkanen misses a jump shot three-pointer. W. Kessler grabs the offensive rebound after L. Markkanen's missed jump shot three-pointer.",
+    "start_time": 1054.0,
+    "end_time": 1061.0
+  },
+  {
+    "caption": "W. Kessler makes a jump shot three-pointer, assisted by C. Williams.",
+    "start_time": 1061.5,
+    "end_time": 1070.0
+  },
+  {
+    "caption": "T. Camara makes a jump shot three-pointer, assisted by D. Avdija.",
+    "start_time": 1084.5,
+    "end_time": 1093.0
+  },
+  {
+    "caption": "W. Clayton Jr. misses a driving layup two-pointer. S. Sharpe grabs the defensive rebound after W. Clayton Jr.'s missed driving layup two-pointer.",
+    "start_time": 1103.0,
+    "end_time": 1110.0
+  },
+  {
+    "caption": "S. Sharpe misses a jump shot three-pointer. E. Harkless grabs the defensive rebound after S. Sharpe's missed three-pointer.",
+    "start_time": 1122.0,
+    "end_time": 1129.0
+  },
+  {
+    "caption": "T. Camara commits a personal foul.",
+    "start_time": 1126.0,
+    "end_time": 1129.0
+  },
+  {
+    "caption": "D. Clingan grabs the defensive rebound.",
+    "start_time": 1185.0,
+    "end_time": 1190.0
+  },
+  {
+    "caption": "C. Williams commits a personal foul.",
+    "start_time": 1206.0,
+    "end_time": 1210.0
+  },
+  {
+    "caption": "L. Markkanen makes a driving layup two-pointer, assisted by W. Kessler.",
+    "start_time": 1278.5,
+    "end_time": 1287.0
+  },
+  {
+    "caption": "J. Holiday makes a step back jump shot two-pointer, assisted by T. Camara. S. Sharpe commits a personal foul.",
+    "start_time": 1296.5,
+    "end_time": 1323.0
+  },
+  {
+    "caption": "J. Holiday misses a step back three-pointer.",
+    "start_time": 1486.0,
+    "end_time": 1493.0
+  },
+  {
+    "caption": "K. George commits an offensive foul.",
+    "start_time": 1512.5,
+    "end_time": 1515.5
+  },
+  {
+    "caption": "W. Kessler steals the ball from D. Avdija on a bad pass.",
+    "start_time": 1548.5,
+    "end_time": 1552.5
+  },
+  {
+    "caption": "C. Williams makes a driving floating two-pointer, assisted by K. George.",
+    "start_time": 1558.0,
+    "end_time": 1566.5
+  },
+  {
+    "caption": "C. Williams commits a personal foul.",
+    "start_time": 1581.5,
+    "end_time": 1584.5
+  },
+  {
+    "caption": "K. George makes a driving layup two-pointer.",
+    "start_time": 1643.5,
+    "end_time": 1652.0
+  },
+  {
+    "caption": "K. George makes a driving layup two-pointer.",
+    "start_time": 1710.5,
+    "end_time": 1719.0
+  },
+  {
+    "caption": "K. George steals the ball from J. Holiday on a bad pass.",
+    "start_time": 1740.1,
+    "end_time": 1744.1
+  },
+  {
+    "caption": "C. Williams makes a running layup two-pointer, assisted by K. George.",
+    "start_time": 1741.1,
+    "end_time": 1749.6
+  },
+  {
+    "caption": "S. Sharpe's driving finger roll two-pointer is blocked by W. Kessler. W. Kessler blocks S. Sharpe's layup two-pointer. K. George grabs the defensive rebound after S. Sharpe's missed driving finger roll layup two-pointer.",
+    "start_time": 1870.7,
+    "end_time": 1875.7
+  },
+  {
+    "caption": "J. Holiday commits a personal foul.",
+    "start_time": 1879.7,
+    "end_time": 1882.7
+  },
+  {
+    "caption": "C. Williams commits a take personal foul.",
+    "start_time": 1956.4,
+    "end_time": 1959.4
+  },
+  {
+    "caption": "J. Holiday commits a take personal foul.",
+    "start_time": 2133.6,
+    "end_time": 2136.6
+  },
+  {
+    "caption": "E. Harkless commits a personal foul.",
+    "start_time": 2309.9,
+    "end_time": 2312.9
+  },
+  {
+    "caption": "J. Holiday commits a take personal foul.",
+    "start_time": 2516.7,
+    "end_time": 2519.7
+  },
+  {
+    "caption": "J. Holiday grabs the defensive rebound.",
+    "start_time": 2597.1,
+    "end_time": 2602.1
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "caption": "I. Okoro is called for an out-of-bounds turnover.",
+    "start_time": 21.5,
+    "end_time": 24.5
+  },
+  {
+    "caption": "D. DeRozan commits an offensive charge foul.",
+    "start_time": 53.5,
+    "end_time": 56.5
+  },
+  {
+    "caption": "M. Buzelis's turnaround two-pointer is blocked by D. Carter. D. Carter blocks M. Buzelis's jump shot two-pointer. M. Buzelis grabs the offensive rebound after missing his turnaround two-pointer.",
+    "start_time": 81.0,
+    "end_time": 86.0
+  },
+  {
+    "caption": "J. Giddey makes a jump shot three-pointer, assisted by M. Buzelis. M. Buzelis commits a shooting personal foul.",
+    "start_time": 82.5,
+    "end_time": 111.0
+  },
+  {
+    "caption": "M. Buzelis makes a driving finger roll two-pointer. A. Dosunmu commits a personal foul.",
+    "start_time": 172.5,
+    "end_time": 194.5
+  },
+  {
+    "caption": "K. Huerter makes a jump shot three-pointer, assisted by J. Giddey.",
+    "start_time": 256.5,
+    "end_time": 265.0
+  },
+  {
+    "caption": "Zach LaVine misses a jump shot three-pointer. K. Huerter grabs the defensive rebound after Z. LaVine's missed three-pointer.",
+    "start_time": 276.0,
+    "end_time": 283.0
+  },
+  {
+    "caption": "K. Huerter misses a jump shot three-pointer. Z. LaVine grabs the defensive rebound after K. Huerter's missed three-pointer.",
+    "start_time": 285.0,
+    "end_time": 292.0
+  },
+  {
+    "caption": "J. Giddey commits a shooting personal foul.",
+    "start_time": 294.0,
+    "end_time": 298.0
+  },
+  {
+    "caption": "J. Giddey grabs the defensive rebound.",
+    "start_time": 350.5,
+    "end_time": 355.5
+  },
+  {
+    "caption": "J. Smith makes a cutting dunk two-pointer, assisted by J. Giddey.",
+    "start_time": 357.0,
+    "end_time": 365.5
+  },
+  {
+    "caption": "R. Westbrook misses a fadeaway bank two-pointer. D. Sabonis grabs the offensive rebound after R. Westbrook's missed jump shot two-pointer. D. Sabonis misses a tip layup two-pointer.",
+    "start_time": 556.0,
+    "end_time": 567.0
+  },
+  {
+    "caption": "J. Smith grabs the defensive rebound.",
+    "start_time": 561.0,
+    "end_time": 567.0
+  },
+  {
+    "caption": "R. Westbrook steals the ball from J. Giddey on a lost ball.",
+    "start_time": 573.0,
+    "end_time": 577.0
+  },
+  {
+    "caption": "D. DeRozan makes a running layup two-pointer.",
+    "start_time": 575.5,
+    "end_time": 584.0
+  },
+  {
+    "caption": "P. Williams makes a jump shot three-pointer, assisted by I. Okoro. K. Huerter commits a shooting personal foul.",
+    "start_time": 582.5,
+    "end_time": 606.0
+  },
+  {
+    "caption": "D. Schröder commits a shooting personal foul.",
+    "start_time": 678.5,
+    "end_time": 682.5
+  },
+  {
+    "caption": "Domantas Sabonis makes a jump shot three-pointer, assisted by DeMar DeRozan.",
+    "start_time": 736.0,
+    "end_time": 744.5
+  },
+  {
+    "caption": "K. Huerter makes a jump shot three-pointer, assisted by N. Vučević.",
+    "start_time": 756.0,
+    "end_time": 764.5
+  },
+  {
+    "caption": "Z. LaVine makes a driving layup two-pointer, assisted by D. Sabonis.",
+    "start_time": 772.0,
+    "end_time": 780.5
+  },
+  {
+    "caption": "J. Giddey misses a driving finger roll two-pointer. D. Sabonis grabs the defensive rebound after J. Giddey's missed driving finger roll layup two-pointer.",
+    "start_time": 791.5,
+    "end_time": 798.5
+  },
+  {
+    "caption": "Zach LaVine misses a pullup three-pointer. N. Vučević grabs the defensive rebound after Z. LaVine's missed jump shot three-pointer.",
+    "start_time": 797.5,
+    "end_time": 804.5
+  },
+  {
+    "caption": "N. Vučević misses a jump shot two-pointer. D. DeRozan grabs the defensive rebound after N. Vučević's missed jump shot two-pointer.",
+    "start_time": 811.5,
+    "end_time": 818.5
+  },
+  {
+    "caption": "Z. LaVine makes a running layup two-pointer, assisted by D. DeRozan.",
+    "start_time": 816.0,
+    "end_time": 824.5
+  },
+  {
+    "caption": "I. Okoro misses a jump shot three-pointer. D. Schröder grabs the defensive rebound after I. Okoro's missed three-pointer.",
+    "start_time": 838.5,
+    "end_time": 845.5
+  },
+  {
+    "caption": "D. Schröder misses a running three-pointer. N. Vučević grabs the defensive rebound after D. Schröder's missed running three-pointer.",
+    "start_time": 843.5,
+    "end_time": 850.5
+  },
+  {
+    "caption": "D. Sabonis commits a shooting personal foul.",
+    "start_time": 864.5,
+    "end_time": 868.5
+  },
+  {
+    "caption": "N. Vučević grabs the offensive rebound.",
+    "start_time": 929.0,
+    "end_time": 934.0
+  },
+  {
+    "caption": "J. Giddey misses a driving floating two-pointer. D. Sabonis grabs the defensive rebound after J. Giddey's missed jump shot two-pointer.",
+    "start_time": 937.0,
+    "end_time": 944.0
+  },
+  {
+    "caption": "M. Monk makes a driving finger roll two-pointer, assisted by R. Westbrook.",
+    "start_time": 948.5,
+    "end_time": 957.0
+  },
+  {
+    "caption": "R. Westbrook steals the ball from J. Giddey on a lost ball.",
+    "start_time": 964.0,
+    "end_time": 968.0
+  },
+  {
+    "caption": "M. Buzelis steals the ball from M. Monk on a bad pass.",
+    "start_time": 968.0,
+    "end_time": 972.0
+  },
+  {
+    "caption": "A. Dosunmu makes a pullup two-pointer.",
+    "start_time": 1175.0,
+    "end_time": 1183.5
+  },
+  {
+    "caption": "Zach LaVine misses a step-back three-pointer. N. Vučević grabs the defensive rebound after Z. LaVine's missed three-pointer.",
+    "start_time": 1198.5,
+    "end_time": 1205.5
+  },
+  {
+    "caption": "A. Dosunmu misses a running three-pointer. Z. LaVine grabs the defensive rebound after A. Dosunmu's missed running three-pointer.",
+    "start_time": 1207.5,
+    "end_time": 1214.5
+  },
+  {
+    "caption": "D. Sabonis misses a jump shot three-pointer. M. Buzelis grabs the defensive rebound after D. Sabonis's missed three-pointer.",
+    "start_time": 1230.5,
+    "end_time": 1237.5
+  },
+  {
+    "caption": "Z. LaVine commits a personal foul.",
+    "start_time": 1251.5,
+    "end_time": 1254.5
+  },
+  {
+    "caption": "T. Jones makes a driving finger roll two-pointer, assisted by N. Vučević.",
+    "start_time": 1279.5,
+    "end_time": 1288.0
+  },
+  {
+    "caption": "R. Westbrook is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1295.0,
+    "end_time": 1298.0
+  },
+  {
+    "caption": "M. Buzelis misses a jump shot three-pointer. I. Okoro grabs the offensive rebound after M. Buzelis's missed three-pointer. I. Okoro's tip layup two-pointer is missed.",
+    "start_time": 1322.0,
+    "end_time": 1332.0
+  },
+  {
+    "caption": "D. DeRozan grabs the defensive rebound.",
+    "start_time": 1326.0,
+    "end_time": 1332.0
+  },
+  {
+    "caption": "N. Vučević commits a shooting personal foul.",
+    "start_time": 1331.0,
+    "end_time": 1335.0
+  },
+  {
+    "caption": "N. Vučević misses a turnaround two-pointer. Z. LaVine grabs the defensive rebound after N. Vučević's missed jump shot.",
+    "start_time": 1432.5,
+    "end_time": 1439.5
+  },
+  {
+    "caption": "Z. LaVine makes a running dunk two-pointer.",
+    "start_time": 1435.0,
+    "end_time": 1443.5
+  },
+  {
+    "caption": "T. Jones is called for an out-of-bounds turnover.",
+    "start_time": 1483.0,
+    "end_time": 1486.0
+  },
+  {
+    "caption": "M. Monk misses a turnaround two-pointer.",
+    "start_time": 1521.0,
+    "end_time": 1528.0
+  },
+  {
+    "caption": "M. Buzelis commits a personal foul.",
+    "start_time": 1525.0,
+    "end_time": 1528.0
+  },
+  {
+    "caption": "K. Huerter grabs the defensive rebound.",
+    "start_time": 1576.0,
+    "end_time": 1581.0
+  },
+  {
+    "caption": "D. Eubanks commits a personal foul.",
+    "start_time": 1598.2,
+    "end_time": 1602.2
+  },
+  {
+    "caption": "D. Carter misses a jump shot three-pointer. K. Huerter grabs the defensive rebound after D. Carter's missed jump shot three-pointer.",
+    "start_time": 1648.6,
+    "end_time": 1655.6
+  },
+  {
+    "caption": "K. Ellis misses a pullup three-pointer. N. Vučević grabs the defensive rebound after K. Ellis's missed pullup three-pointer.",
+    "start_time": 1697.6,
+    "end_time": 1704.6
+  }
+]

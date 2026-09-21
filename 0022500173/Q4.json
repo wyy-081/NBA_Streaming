@@ -1,0 +1,302 @@
+[
+  {
+    "caption": "E. Dëmin misses a pullup three-pointer. C. Martin grabs the defensive rebound after E. Dëmin's missed jump shot three-pointer.",
+    "start_time": 15.0,
+    "end_time": 22.0
+  },
+  {
+    "caption": "C. Martin misses a pullup three-pointer. E. Dëmin grabs the defensive rebound after C. Martin's missed jump shot three-pointer.",
+    "start_time": 31.0,
+    "end_time": 38.0
+  },
+  {
+    "caption": "J. Wilson misses a jump shot three-pointer. J. Walker grabs the defensive rebound after J. Wilson's missed jump shot three-pointer.",
+    "start_time": 39.0,
+    "end_time": 46.0
+  },
+  {
+    "caption": "P. Siakam misses a jump shot three-pointer. E. Dëmin grabs the defensive rebound after P. Siakam's missed jump shot three-pointer.",
+    "start_time": 49.0,
+    "end_time": 56.0
+  },
+  {
+    "caption": "C. Martin commits a personal foul.",
+    "start_time": 67.0,
+    "end_time": 71.0
+  },
+  {
+    "caption": "J. Walker misses a turnaround two-pointer. T. Mann grabs the defensive rebound after J. Walker's missed turnaround two-pointer.",
+    "start_time": 125.0,
+    "end_time": 132.0
+  },
+  {
+    "caption": "T. Mann misses a jump shot three-pointer. C. Martin grabs the defensive rebound after T. Mann's missed three-pointer.",
+    "start_time": 134.0,
+    "end_time": 141.0
+  },
+  {
+    "caption": "T. Peter makes a jump shot three-pointer, assisted by J. Walker.",
+    "start_time": 145.5,
+    "end_time": 154.0
+  },
+  {
+    "caption": "J. Wilson makes a jump shot three-pointer, assisted by T. Mann.",
+    "start_time": 166.5,
+    "end_time": 175.0
+  },
+  {
+    "caption": "J. Walker misses a driving floating two-pointer. T. Martin grabs the defensive rebound after J. Walker's missed driving floating two-pointer.",
+    "start_time": 183.0,
+    "end_time": 190.0
+  },
+  {
+    "caption": "T. Martin makes a running finger roll layup two-pointer. P. Siakam commits a shooting personal foul.",
+    "start_time": 187.5,
+    "end_time": 196.0
+  },
+  {
+    "caption": "I. Jackson grabs the defensive rebound.",
+    "start_time": 259.5,
+    "end_time": 264.5
+  },
+  {
+    "caption": "I. Jackson misses a driving layup two-pointer.",
+    "start_time": 268.5,
+    "end_time": 275.5
+  },
+  {
+    "caption": "I. Jackson is called for a traveling violation.",
+    "start_time": 272.0,
+    "end_time": 275.0
+  },
+  {
+    "caption": "T. Martin makes a jump shot three-pointer, assisted by D. Sharpe.",
+    "start_time": 299.0,
+    "end_time": 307.5
+  },
+  {
+    "caption": "T. Peter misses a jump shot three-pointer. D. Sharpe grabs the defensive rebound after T. Peter's missed jump shot three-pointer.",
+    "start_time": 316.5,
+    "end_time": 323.5
+  },
+  {
+    "caption": "T. Martin misses a driving layup two-pointer.",
+    "start_time": 330.5,
+    "end_time": 337.5
+  },
+  {
+    "caption": "Jump ball between D. Sharpe and I. Jackson, J. Wilson recovers the tip.",
+    "start_time": 377.0,
+    "end_time": 382.0
+  },
+  {
+    "caption": "T. Mann makes a driving layup two-pointer, assisted by T. Martin.",
+    "start_time": 386.5,
+    "end_time": 395.0
+  },
+  {
+    "caption": "I. Jackson commits a technical foul.",
+    "start_time": 404.0,
+    "end_time": 407.0
+  },
+  {
+    "caption": "T. Mann steals the ball from P. Siakam on a lost ball.",
+    "start_time": 503.5,
+    "end_time": 507.5
+  },
+  {
+    "caption": "Jump ball between Tyrese Mann and Pascal Siakam, Jonathan Wilson recovers the tip.",
+    "start_time": 505.5,
+    "end_time": 510.5
+  },
+  {
+    "caption": "T. Mann misses a step back jump shot. D. Sharpe grabs the offensive rebound after T. Mann's missed jump shot two-pointer.",
+    "start_time": 513.5,
+    "end_time": 520.5
+  },
+  {
+    "caption": "I. Jackson commits a personal foul.",
+    "start_time": 520.5,
+    "end_time": 524.5
+  },
+  {
+    "caption": "T. Martin misses a jump shot three-pointer. J. Robinson-Earl grabs the defensive rebound after T. Martin's missed three-pointer.",
+    "start_time": 810.0,
+    "end_time": 817.0
+  },
+  {
+    "caption": "T. Mann commits a personal foul.",
+    "start_time": 826.0,
+    "end_time": 829.0
+  },
+  {
+    "caption": "Z. Williams commits a personal foul.",
+    "start_time": 858.0,
+    "end_time": 861.0
+  },
+  {
+    "caption": "P. Siakam misses a turnaround two-pointer. J. Robinson-Earl grabs the offensive rebound after P. Siakam's missed turnaround two-pointer. J. Robinson-Earl makes a putback layup two-pointer.",
+    "start_time": 886.5,
+    "end_time": 895.5
+  },
+  {
+    "caption": "M. Porter Jr. commits a personal foul.",
+    "start_time": 892.5,
+    "end_time": 895.5
+  },
+  {
+    "caption": "M. Porter Jr. misses a jump shot three-pointer. Z. Williams grabs the offensive rebound after M. Porter Jr.'s missed three-pointer.",
+    "start_time": 941.0,
+    "end_time": 948.0
+  },
+  {
+    "caption": "M. Porter Jr. misses a jump shot three-pointer. I. Jackson grabs the defensive rebound after M. Porter Jr.'s missed jump shot three-pointer.",
+    "start_time": 945.0,
+    "end_time": 952.0
+  },
+  {
+    "caption": "P. Siakam makes a driving layup two-pointer.",
+    "start_time": 955.5,
+    "end_time": 964.0
+  },
+  {
+    "caption": "J. Wilson makes a jump shot three-pointer, assisted by T. Martin.",
+    "start_time": 971.5,
+    "end_time": 980.0
+  },
+  {
+    "caption": "A. Nesmith misses a driving layup two-pointer. T. Martin grabs the defensive rebound after A. Nesmith's missed driving layup two-pointer.",
+    "start_time": 994.0,
+    "end_time": 1001.0
+  },
+  {
+    "caption": "B. Sheppard commits a personal foul.",
+    "start_time": 1020.0,
+    "end_time": 1024.0
+  },
+  {
+    "caption": "J. Robinson-Earl grabs the defensive rebound.",
+    "start_time": 1068.0,
+    "end_time": 1073.0
+  },
+  {
+    "caption": "J. Walker misses a fadeaway jump shot. N. Claxton grabs the defensive rebound after J. Walker's missed jump shot two-pointer.",
+    "start_time": 1085.0,
+    "end_time": 1092.0
+  },
+  {
+    "caption": "N. Clowney makes a driving layup two-pointer.",
+    "start_time": 1105.5,
+    "end_time": 1114.0
+  },
+  {
+    "caption": "P. Siakam misses a driving hook two-pointer. N. Claxton grabs the defensive rebound after P. Siakam's missed driving hook two-pointer.",
+    "start_time": 1304.0,
+    "end_time": 1311.0
+  },
+  {
+    "caption": "N. Clowney is called for a traveling violation.",
+    "start_time": 1321.0,
+    "end_time": 1324.0
+  },
+  {
+    "caption": "J. Robinson-Earl misses a pullup two-pointer. N. Claxton grabs the defensive rebound after J. Robinson-Earl's missed 14' pullup two-pointer.",
+    "start_time": 1339.0,
+    "end_time": 1346.0
+  },
+  {
+    "caption": "J. Huff commits a personal foul.",
+    "start_time": 1364.0,
+    "end_time": 1368.0
+  },
+  {
+    "caption": "B. Sheppard misses a jump shot three-pointer. A. Nesmith grabs the offensive rebound after B. Sheppard's missed jump shot three-pointer.",
+    "start_time": 1412.0,
+    "end_time": 1419.0
+  },
+  {
+    "caption": "P. Siakam makes a driving layup two-pointer.",
+    "start_time": 1418.5,
+    "end_time": 1427.0
+  },
+  {
+    "caption": "J. Wilson misses a jump shot three-pointer. J. Walker grabs the defensive rebound after J. Wilson's missed three-pointer.",
+    "start_time": 1538.0,
+    "end_time": 1545.0
+  },
+  {
+    "caption": "M. Porter Jr. commits a personal foul.",
+    "start_time": 1545.0,
+    "end_time": 1548.0
+  },
+  {
+    "caption": "B. Sheppard makes a jump shot three-pointer, assisted by P. Siakam.",
+    "start_time": 1567.5,
+    "end_time": 1576.0
+  },
+  {
+    "caption": "P. Siakam commits a personal foul.",
+    "start_time": 1612.0,
+    "end_time": 1615.0
+  },
+  {
+    "caption": "P. Siakam misses a driving finger roll two-pointer. M. Porter Jr. grabs the defensive rebound after P. Siakam's missed driving finger roll layup two-pointer.",
+    "start_time": 1671.5,
+    "end_time": 1678.5
+  },
+  {
+    "caption": "J. Huff commits a personal foul.",
+    "start_time": 1694.5,
+    "end_time": 1698.5
+  },
+  {
+    "caption": "A. Nesmith makes a driving layup two-pointer, assisted by P. Siakam.",
+    "start_time": 1751.5,
+    "end_time": 1760.0
+  },
+  {
+    "caption": "T. Martin makes a jump shot three-pointer, assisted by N. Clowney.",
+    "start_time": 1772.5,
+    "end_time": 1781.0
+  },
+  {
+    "caption": "A. Nesmith makes a pullup three-pointer, assisted by P. Siakam.",
+    "start_time": 1788.5,
+    "end_time": 1797.0
+  },
+  {
+    "caption": "T. Martin misses a cutting layup two-pointer. J. Robinson-Earl grabs the defensive rebound after T. Martin's missed layup two-pointer.",
+    "start_time": 1932.5,
+    "end_time": 1939.5
+  },
+  {
+    "caption": "M. Porter Jr. steals the ball from A. Nesmith on a lost ball.",
+    "start_time": 1946.8,
+    "end_time": 1950.8
+  },
+  {
+    "caption": "A. Nesmith steals the ball from T. Martin on a bad pass.",
+    "start_time": 1954.9,
+    "end_time": 1958.9
+  },
+  {
+    "caption": "P. Siakam makes a driving layup two-pointer, assisted by J. Walker.",
+    "start_time": 1959.9,
+    "end_time": 1968.4
+  },
+  {
+    "caption": "M. Porter Jr. makes a dunk two-pointer, assisted by N. Claxton.",
+    "start_time": 1975.0,
+    "end_time": 1983.5
+  },
+  {
+    "caption": "P. Siakam is called for a defensive goaltending violation.",
+    "start_time": 1980.5,
+    "end_time": 1983.5
+  },
+  {
+    "caption": "P. Siakam commits a shooting personal foul.",
+    "start_time": 1980.5,
+    "end_time": 1984.5
+  }
+]

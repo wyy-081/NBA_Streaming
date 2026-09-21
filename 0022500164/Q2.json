@@ -1,0 +1,322 @@
+[
+  {
+    "caption": "J. Collins makes a jump shot three-pointer, assisted by K. Dunn.",
+    "start_time": 35.0,
+    "end_time": 43.5
+  },
+  {
+    "caption": "S. Fontecchio makes a finger roll layup two-pointer, assisted by N. Jović.",
+    "start_time": 50.0,
+    "end_time": 58.5
+  },
+  {
+    "caption": "J. Harden makes a step back jump shot two-pointer.",
+    "start_time": 72.0,
+    "end_time": 80.5
+  },
+  {
+    "caption": "J. Jaquez Jr. makes a driving floating bank two-pointer, assisted by D. Smith.",
+    "start_time": 84.0,
+    "end_time": 92.5
+  },
+  {
+    "caption": "J. Collins makes a cutting layup two-pointer, assisted by J. Harden. S. Fontecchio commits a shooting personal foul.",
+    "start_time": 100.0,
+    "end_time": 108.5
+  },
+  {
+    "caption": "N. Jović grabs the defensive rebound.",
+    "start_time": 137.0,
+    "end_time": 142.0
+  },
+  {
+    "caption": "K. Ware makes a dunk two-pointer, assisted by N. Jović.",
+    "start_time": 141.5,
+    "end_time": 150.0
+  },
+  {
+    "caption": "B. Lopez misses a jump shot three-pointer. K. Ware grabs the defensive rebound after B. Lopez's missed three-pointer.",
+    "start_time": 160.0,
+    "end_time": 167.0
+  },
+  {
+    "caption": "J. Jaquez Jr. makes a tip dunk two-pointer.",
+    "start_time": 170.5,
+    "end_time": 179.0
+  },
+  {
+    "caption": "D. Smith misses a driving reverse layup two-pointer. J. Jaquez Jr. grabs the offensive rebound after D. Smith's missed driving reverse layup two-pointer.",
+    "start_time": 171.0,
+    "end_time": 178.0
+  },
+  {
+    "caption": "B. Lopez makes a jump shot three-pointer, assisted by J. Harden.",
+    "start_time": 183.5,
+    "end_time": 192.0
+  },
+  {
+    "caption": "S. Fontecchio makes a step back three-pointer, assisted by N. Jović. J. Collins commits a shooting personal foul.",
+    "start_time": 193.5,
+    "end_time": 202.0
+  },
+  {
+    "caption": "N. Jović commits a shooting personal foul.",
+    "start_time": 255.5,
+    "end_time": 259.5
+  },
+  {
+    "caption": "J. Collins commits a personal foul.",
+    "start_time": 332.5,
+    "end_time": 335.5
+  },
+  {
+    "caption": "S. Fontecchio misses a jump shot three-pointer.",
+    "start_time": 355.0,
+    "end_time": 362.0
+  },
+  {
+    "caption": "B. Lopez makes a turnaround two-pointer, assisted by B. Beal.",
+    "start_time": 384.0,
+    "end_time": 392.5
+  },
+  {
+    "caption": "B. Lopez steals the ball from S. Fontecchio on a bad pass.",
+    "start_time": 398.5,
+    "end_time": 402.5
+  },
+  {
+    "caption": "B. Beal makes a running layup two-pointer.",
+    "start_time": 401.0,
+    "end_time": 409.5
+  },
+  {
+    "caption": "K. Ware makes a jump shot three-pointer, assisted by J. Jaquez Jr.",
+    "start_time": 412.0,
+    "end_time": 420.5
+  },
+  {
+    "caption": "B. Lopez misses a jump shot three-pointer. N. Jović grabs the defensive rebound after B. Lopez's missed jump shot three-pointer.",
+    "start_time": 437.5,
+    "end_time": 444.5
+  },
+  {
+    "caption": "K. Ware makes a jump shot three-pointer, assisted by D. Smith.",
+    "start_time": 451.0,
+    "end_time": 459.5
+  },
+  {
+    "caption": "J. Jaquez Jr. steals the ball from B. Beal on a bad pass.",
+    "start_time": 655.0,
+    "end_time": 659.0
+  },
+  {
+    "caption": "N. Jović makes a running layup two-pointer, assisted by J. Jaquez Jr.",
+    "start_time": 655.5,
+    "end_time": 664.0
+  },
+  {
+    "caption": "J. Harden misses a pullup three-pointer. B. Beal grabs the offensive rebound after J. Harden's missed pullup three-pointer.",
+    "start_time": 684.0,
+    "end_time": 691.0
+  },
+  {
+    "caption": "B. Beal misses a jump shot three-pointer. N. Jović grabs the defensive rebound after B. Beal's missed jump shot three-pointer.",
+    "start_time": 689.0,
+    "end_time": 696.0
+  },
+  {
+    "caption": "K. Ware misses an alley-oop layup two-pointer. K. Ware grabs the offensive rebound after missing his layup two-pointer.",
+    "start_time": 699.0,
+    "end_time": 706.0
+  },
+  {
+    "caption": "K. Ware misses a turnaround hook two-pointer. B. Lopez grabs the defensive rebound after K. Ware's missed hook two-pointer.",
+    "start_time": 703.0,
+    "end_time": 710.0
+  },
+  {
+    "caption": "B. Lopez misses a jump shot three-pointer. D. Smith grabs the defensive rebound after B. Lopez's missed jump shot three-pointer.",
+    "start_time": 709.0,
+    "end_time": 716.0
+  },
+  {
+    "caption": "K. Ware makes a running layup two-pointer, assisted by D. Smith.",
+    "start_time": 715.5,
+    "end_time": 724.0
+  },
+  {
+    "caption": "D. Jones Jr. makes a jump shot three-pointer, assisted by J. Harden.",
+    "start_time": 731.5,
+    "end_time": 740.0
+  },
+  {
+    "caption": "J. Harden commits a personal foul.",
+    "start_time": 749.0,
+    "end_time": 752.0
+  },
+  {
+    "caption": "B. Beal makes a running layup two-pointer.",
+    "start_time": 778.0,
+    "end_time": 786.5
+  },
+  {
+    "caption": "B. Beal steals the ball from N. Powell on a lost ball.",
+    "start_time": 778.5,
+    "end_time": 782.5
+  },
+  {
+    "caption": "D. Mitchell misses a driving floating two-pointer. I. Zubac grabs the defensive rebound after D. Mitchell's missed driving floating two-pointer.",
+    "start_time": 797.5,
+    "end_time": 804.5
+  },
+  {
+    "caption": "J. Harden makes a pullup three-pointer.",
+    "start_time": 804.0,
+    "end_time": 812.5
+  },
+  {
+    "caption": "D. Mitchell's jump shot three-pointer is blocked by D. Jones Jr. D. Jones Jr. blocks D. Mitchell's jump shot three-pointer. J. Harden grabs the defensive rebound after D. Mitchell's missed jump shot three-pointer.",
+    "start_time": 836.5,
+    "end_time": 841.5
+  },
+  {
+    "caption": "D. Jones Jr. makes a running dunk two-pointer, assisted by J. Harden.",
+    "start_time": 840.0,
+    "end_time": 848.5
+  },
+  {
+    "caption": "D. Jones Jr. commits a personal foul.",
+    "start_time": 851.5,
+    "end_time": 854.5
+  },
+  {
+    "caption": "D. Jones Jr. makes a running layup two-pointer, assisted by B. Beal. N. Jović commits a personal foul.",
+    "start_time": 875.0,
+    "end_time": 883.5
+  },
+  {
+    "caption": "D. Jones Jr. steals the ball from N. Powell on a bad pass.",
+    "start_time": 875.5,
+    "end_time": 879.5
+  },
+  {
+    "caption": "D. Mitchell makes a driving finger roll two-pointer. B. Beal commits a personal foul.",
+    "start_time": 928.5,
+    "end_time": 937.0
+  },
+  {
+    "caption": "D. Mitchell grabs the offensive rebound.",
+    "start_time": 964.5,
+    "end_time": 969.5
+  },
+  {
+    "caption": "N. Powell misses a jump shot three-pointer. I. Zubac grabs the defensive rebound after N. Powell's missed three-pointer.",
+    "start_time": 967.5,
+    "end_time": 974.5
+  },
+  {
+    "caption": "D. Mitchell commits a personal foul.",
+    "start_time": 975.5,
+    "end_time": 979.5
+  },
+  {
+    "caption": "J. Jaquez Jr. grabs the defensive rebound.",
+    "start_time": 1023.0,
+    "end_time": 1028.0
+  },
+  {
+    "caption": "A. Wiggins misses a driving floating two-pointer. A. Wiggins grabs the offensive rebound after missing his driving floating two-pointer.",
+    "start_time": 1031.0,
+    "end_time": 1038.0
+  },
+  {
+    "caption": "J. Harden steals the ball from A. Wiggins on a lost ball.",
+    "start_time": 1037.0,
+    "end_time": 1041.0
+  },
+  {
+    "caption": "J. Harden misses a step back three-pointer. I. Zubac grabs the offensive rebound after J. Harden's missed jump shot three-pointer. I. Zubac makes a tip layup two-pointer.",
+    "start_time": 1051.5,
+    "end_time": 1060.0
+  },
+  {
+    "caption": "B. Adebayo makes a driving reverse layup two-pointer, assisted by J. Jaquez Jr.",
+    "start_time": 1066.5,
+    "end_time": 1075.0
+  },
+  {
+    "caption": "I. Zubac makes a cutting dunk two-pointer, assisted by K. Leonard.",
+    "start_time": 1079.5,
+    "end_time": 1088.0
+  },
+  {
+    "caption": "K. Leonard misses a driving floating two-pointer. J. Jaquez Jr. grabs the defensive rebound after K. Leonard's missed driving floating two-pointer.",
+    "start_time": 1307.5,
+    "end_time": 1314.5
+  },
+  {
+    "caption": "K. Leonard steals the ball from N. Powell on a lost ball.",
+    "start_time": 1320.5,
+    "end_time": 1324.5
+  },
+  {
+    "caption": "D. Jones Jr. makes a cutting dunk two-pointer, assisted by I. Zubac.",
+    "start_time": 1322.0,
+    "end_time": 1330.5
+  },
+  {
+    "caption": "J. Jaquez Jr. makes a driving layup two-pointer, assisted by Bam Adebayo.",
+    "start_time": 1336.0,
+    "end_time": 1344.5
+  },
+  {
+    "caption": "B. Adebayo is called for a kicked ball violation.",
+    "start_time": 1354.5,
+    "end_time": 1357.5
+  },
+  {
+    "caption": "J. Harden makes a jump shot three-pointer, assisted by K. Leonard.",
+    "start_time": 1378.0,
+    "end_time": 1386.5
+  },
+  {
+    "caption": "J. Jaquez Jr. misses a pullup two-pointer. I. Zubac grabs the defensive rebound after J. Jaquez Jr.'s missed jump shot two-pointer.",
+    "start_time": 1393.5,
+    "end_time": 1400.5
+  },
+  {
+    "caption": "K. Leonard misses a pullup three-pointer. K. Leonard grabs the offensive rebound after missing his pullup three-pointer.",
+    "start_time": 1402.5,
+    "end_time": 1409.5
+  },
+  {
+    "caption": "K. Leonard makes a driving finger roll two-pointer.",
+    "start_time": 1404.0,
+    "end_time": 1412.5
+  },
+  {
+    "caption": "J. Jaquez Jr. misses a driving floating two-pointer. K. Leonard grabs the defensive rebound after J. Jaquez Jr.'s missed driving floating two-pointer.",
+    "start_time": 1423.2,
+    "end_time": 1430.2
+  },
+  {
+    "caption": "D. Mitchell steals the ball from K. Leonard on a bad pass.",
+    "start_time": 1432.0,
+    "end_time": 1436.0
+  },
+  {
+    "caption": "N. Powell makes a running reverse layup two-pointer, assisted by D. Mitchell. K. Dunn commits a personal foul.",
+    "start_time": 1432.7,
+    "end_time": 1441.2
+  },
+  {
+    "caption": "J. Harden misses a pullup three-pointer. N. Powell grabs the defensive rebound after J. Harden's missed jump shot three-pointer.",
+    "start_time": 1486.9,
+    "end_time": 1493.9
+  },
+  {
+    "caption": "K. Dunn commits a personal foul.",
+    "start_time": 1513.8,
+    "end_time": 1517.8
+  }
+]

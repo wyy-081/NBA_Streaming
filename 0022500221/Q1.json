@@ -1,0 +1,322 @@
+[
+  {
+    "caption": "Jump ball between Mikal Bridges and DeMar DeRozan, Grayson Allen recovers the tip.",
+    "start_time": 16.0,
+    "end_time": 21.0
+  },
+  {
+    "caption": "G. Allen misses a pullup three-pointer. C. Flagg grabs the defensive rebound after G. Allen's missed jump shot three-pointer.",
+    "start_time": 36.0,
+    "end_time": 43.0
+  },
+  {
+    "caption": "B. Williams makes a running layup two-pointer, assisted by C. Flagg.",
+    "start_time": 39.5,
+    "end_time": 48.0
+  },
+  {
+    "caption": "B. Williams steals the ball from R. O'Neale on a bad pass.",
+    "start_time": 54.0,
+    "end_time": 58.0
+  },
+  {
+    "caption": "P. Washington misses a running three-pointer. B. Williams grabs the offensive rebound after P. Washington's missed running three-pointer.",
+    "start_time": 59.0,
+    "end_time": 66.0
+  },
+  {
+    "caption": "P. Washington makes a cutting dunk two-pointer, assisted by B. Williams.",
+    "start_time": 61.5,
+    "end_time": 70.0
+  },
+  {
+    "caption": "M. Williams makes a floating jump shot two-pointer, assisted by D. Brooks.",
+    "start_time": 80.5,
+    "end_time": 89.0
+  },
+  {
+    "caption": "D. Gafford makes a driving finger roll two-pointer, assisted by C. Flagg. M. Williams commits a personal foul.",
+    "start_time": 99.5,
+    "end_time": 108.0
+  },
+  {
+    "caption": "R. O'Neale grabs the defensive rebound.",
+    "start_time": 146.0,
+    "end_time": 151.0
+  },
+  {
+    "caption": "D. Brooks misses a pullup three-pointer. M. Williams grabs the offensive rebound after D. Brooks' missed jump shot three-pointer.",
+    "start_time": 153.0,
+    "end_time": 160.0
+  },
+  {
+    "caption": "G. Allen's driving layup two-pointer is blocked by P. Washington. P. Washington blocks G. Allen's layup two-pointer.",
+    "start_time": 165.0,
+    "end_time": 170.0
+  },
+  {
+    "caption": "D. Booker misses a jump shot two-pointer. B. Williams grabs the defensive rebound after D. Booker's missed jump shot two-pointer.",
+    "start_time": 189.0,
+    "end_time": 196.0
+  },
+  {
+    "caption": "C. Flagg makes a driving layup two-pointer, assisted by M. Christie.",
+    "start_time": 200.5,
+    "end_time": 209.0
+  },
+  {
+    "caption": "M. Williams makes a cutting layup two-pointer, assisted by R. O'Neale.",
+    "start_time": 209.5,
+    "end_time": 218.0
+  },
+  {
+    "caption": "P. Washington makes a cutting dunk two-pointer, assisted by B. Williams.",
+    "start_time": 221.5,
+    "end_time": 230.0
+  },
+  {
+    "caption": "D. Brooks misses a jump shot three-pointer. C. Flagg grabs the defensive rebound after D. Brooks' missed jump shot three-pointer.",
+    "start_time": 417.0,
+    "end_time": 424.0
+  },
+  {
+    "caption": "P. Washington makes a driving floating two-pointer, assisted by C. Flagg.",
+    "start_time": 425.0,
+    "end_time": 433.5
+  },
+  {
+    "caption": "D. Brooks misses a jump shot three-pointer. D. Gafford grabs the defensive rebound after D. Brooks' missed three-pointer.",
+    "start_time": 439.0,
+    "end_time": 446.0
+  },
+  {
+    "caption": "P. Washington misses a jump shot three-pointer. R. O'Neale grabs the defensive rebound after P. Washington's missed three-pointer.",
+    "start_time": 450.0,
+    "end_time": 457.0
+  },
+  {
+    "caption": "M. Williams makes a running dunk two-pointer, assisted by D. Booker.",
+    "start_time": 453.5,
+    "end_time": 462.0
+  },
+  {
+    "caption": "C. Flagg misses a jump shot three-pointer. G. Allen grabs the defensive rebound after C. Flagg's missed three-pointer.",
+    "start_time": 473.0,
+    "end_time": 480.0
+  },
+  {
+    "caption": "C. Flagg steals the ball from D. Booker on a lost ball.",
+    "start_time": 484.0,
+    "end_time": 488.0
+  },
+  {
+    "caption": "M. Christie misses a running three-pointer. C. Flagg grabs the offensive rebound after M. Christie's missed running three-pointer.",
+    "start_time": 488.0,
+    "end_time": 495.0
+  },
+  {
+    "caption": "G. Allen steals the ball from C. Flagg on a bad pass.",
+    "start_time": 495.5,
+    "end_time": 499.5
+  },
+  {
+    "caption": "P. Washington commits a personal foul.",
+    "start_time": 504.0,
+    "end_time": 507.0
+  },
+  {
+    "caption": "D. Brooks makes a jump shot three-pointer, assisted by M. Williams.",
+    "start_time": 528.0,
+    "end_time": 536.5
+  },
+  {
+    "caption": "B. Williams misses a jump shot three-pointer. M. Cisse grabs the offensive rebound after B. Williams' missed jump shot three-pointer. M. Cisse makes a putback layup two-pointer.",
+    "start_time": 546.5,
+    "end_time": 555.5
+  },
+  {
+    "caption": "P. Washington steals the ball from M. Williams on a lost ball.",
+    "start_time": 561.0,
+    "end_time": 565.0
+  },
+  {
+    "caption": "C. Flagg's running layup two-pointer is blocked by G. Allen. G. Allen blocks C. Flagg's layup two-pointer.",
+    "start_time": 565.0,
+    "end_time": 570.0
+  },
+  {
+    "caption": "M. Christie makes a jump shot three-pointer, assisted by B. Williams.",
+    "start_time": 606.5,
+    "end_time": 615.0
+  },
+  {
+    "caption": "D. Brooks misses a jump shot three-pointer. M. Christie grabs the defensive rebound after D. Brooks' missed three-pointer.",
+    "start_time": 623.0,
+    "end_time": 630.0
+  },
+  {
+    "caption": "R. Dunn commits a personal foul.",
+    "start_time": 642.0,
+    "end_time": 646.0
+  },
+  {
+    "caption": "D. Booker makes a driving layup two-pointer, assisted by N. Richards. M. Cisse commits a personal foul.",
+    "start_time": 708.5,
+    "end_time": 717.0
+  },
+  {
+    "caption": "M. Christie misses a driving floating bank two-pointer. N. Richards grabs the defensive rebound after M. Christie's missed jump shot two-pointer.",
+    "start_time": 755.0,
+    "end_time": 762.0
+  },
+  {
+    "caption": "D. Booker makes a pullup two-pointer.",
+    "start_time": 763.0,
+    "end_time": 771.5
+  },
+  {
+    "caption": "B. Williams misses a driving finger roll two-pointer. M. Cisse grabs the offensive rebound after B. Williams' missed driving finger roll layup two-pointer.",
+    "start_time": 780.0,
+    "end_time": 787.0
+  },
+  {
+    "caption": "N. Marshall makes a driving reverse layup two-pointer, assisted by M. Christie.",
+    "start_time": 785.5,
+    "end_time": 794.0
+  },
+  {
+    "caption": "R. O'Neale misses a jump shot three-pointer. C. Martin grabs the defensive rebound after R. O'Neale's missed three-pointer.",
+    "start_time": 808.0,
+    "end_time": 815.0
+  },
+  {
+    "caption": "N. Marshall makes a driving floating jump shot, assisted by C. Martin.",
+    "start_time": 817.5,
+    "end_time": 826.0
+  },
+  {
+    "caption": "N. Richards makes a cutting dunk two-pointer, assisted by D. Brooks.",
+    "start_time": 838.5,
+    "end_time": 847.0
+  },
+  {
+    "caption": "N. Marshall makes a jump shot three-pointer, assisted by C. Martin.",
+    "start_time": 850.5,
+    "end_time": 859.0
+  },
+  {
+    "caption": "Devin Booker makes a driving layup two-pointer, assisted by Deandre Brooks.",
+    "start_time": 864.5,
+    "end_time": 873.0
+  },
+  {
+    "caption": "N. Richards is called for a kicked ball violation.",
+    "start_time": 1058.5,
+    "end_time": 1061.5
+  },
+  {
+    "caption": "C. Flagg misses a jump shot three-pointer. C. Gillespie grabs the defensive rebound after C. Flagg's missed three-pointer.",
+    "start_time": 1079.5,
+    "end_time": 1086.5
+  },
+  {
+    "caption": "D. Booker misses a pullup three-pointer.",
+    "start_time": 1091.5,
+    "end_time": 1098.5
+  },
+  {
+    "caption": "C. Flagg misses a pullup two-pointer. R. Dunn grabs the defensive rebound after C. Flagg's missed jump shot.",
+    "start_time": 1114.0,
+    "end_time": 1121.0
+  },
+  {
+    "caption": "K. Thompson commits a personal foul.",
+    "start_time": 1136.0,
+    "end_time": 1139.0
+  },
+  {
+    "caption": "C. Flagg steals the ball from D. Booker on a bad pass.",
+    "start_time": 1168.0,
+    "end_time": 1172.0
+  },
+  {
+    "caption": "D. Russell misses a running three-pointer. D. Booker grabs the defensive rebound after D. Russell's missed running three-pointer.",
+    "start_time": 1170.0,
+    "end_time": 1177.0
+  },
+  {
+    "caption": "C. Gillespie misses a running three-pointer. K. Thompson grabs the defensive rebound after C. Gillespie's missed running three-pointer.",
+    "start_time": 1177.0,
+    "end_time": 1184.0
+  },
+  {
+    "caption": "J. Goodwin commits a personal foul.",
+    "start_time": 1184.0,
+    "end_time": 1187.0
+  },
+  {
+    "caption": "K. Thompson makes a jump shot three-pointer, assisted by C. Martin.",
+    "start_time": 1204.0,
+    "end_time": 1212.5
+  },
+  {
+    "caption": "N. Richards misses a floating jump shot. J. Goodwin grabs the offensive rebound after N. Richards' missed floating two-pointer. J. Goodwin makes a tip layup two-pointer.",
+    "start_time": 1225.5,
+    "end_time": 1235.5
+  },
+  {
+    "caption": "K. Thompson misses a jump shot three-pointer. N. Richards grabs the defensive rebound after K. Thompson's missed three-pointer.",
+    "start_time": 1233.5,
+    "end_time": 1240.5
+  },
+  {
+    "caption": "D. Booker's running layup two-pointer is blocked by C. Flagg. C. Flagg blocks D. Booker's layup two-pointer. N. Marshall grabs the defensive rebound after D. Booker's running layup two-pointer is blocked.",
+    "start_time": 1242.5,
+    "end_time": 1247.5
+  },
+  {
+    "caption": "J. Goodwin steals the ball from N. Marshall on a lost ball.",
+    "start_time": 1249.5,
+    "end_time": 1253.5
+  },
+  {
+    "caption": "C. Martin commits a personal foul.",
+    "start_time": 1257.5,
+    "end_time": 1261.5
+  },
+  {
+    "caption": "D. Russell misses a jump shot three-pointer. C. Gillespie grabs the defensive rebound after D. Russell's missed jump shot three-pointer.",
+    "start_time": 1323.0,
+    "end_time": 1330.0
+  },
+  {
+    "caption": "J. Goodwin makes a jump shot three-pointer, assisted by R. Dunn.",
+    "start_time": 1332.5,
+    "end_time": 1341.0
+  },
+  {
+    "caption": "C. Martin misses a jump shot three-pointer. C. Gillespie grabs the defensive rebound after C. Martin's missed three-pointer.",
+    "start_time": 1350.8,
+    "end_time": 1357.8
+  },
+  {
+    "caption": "J. Goodwin makes a driving layup two-pointer.",
+    "start_time": 1373.2,
+    "end_time": 1381.7
+  },
+  {
+    "caption": "K. Thompson misses a jump shot three-pointer. O. Ighodaro grabs the defensive rebound after K. Thompson's missed three-pointer.",
+    "start_time": 1395.9,
+    "end_time": 1402.9
+  },
+  {
+    "caption": "C. Gillespie makes a pullup three-pointer.",
+    "start_time": 1407.6,
+    "end_time": 1416.1
+  },
+  {
+    "caption": "K. Thompson misses a step back three-pointer.",
+    "start_time": 1418.6,
+    "end_time": 1425.6
+  }
+]

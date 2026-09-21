@@ -1,0 +1,277 @@
+[
+  {
+    "caption": "M. Bridges makes a driving hook two-pointer. M. Bridges commits a personal foul.",
+    "start_time": 23.5,
+    "end_time": 44.0
+  },
+  {
+    "caption": "C. Sexton makes a floating jump shot two-pointer, assisted by K. Knueppel.",
+    "start_time": 149.5,
+    "end_time": 158.0
+  },
+  {
+    "caption": "R. Kalkbrenner steals the ball from K. George on a bad pass.",
+    "start_time": 170.0,
+    "end_time": 174.0
+  },
+  {
+    "caption": "C. Sexton misses a jump shot three-pointer. J. Nurkić grabs the defensive rebound after C. Sexton's missed three-pointer.",
+    "start_time": 177.0,
+    "end_time": 184.0
+  },
+  {
+    "caption": "J. Nurkić makes a driving floating jump shot two-pointer.",
+    "start_time": 188.5,
+    "end_time": 197.0
+  },
+  {
+    "caption": "T. Hendricks commits a personal foul.",
+    "start_time": 210.0,
+    "end_time": 213.0
+  },
+  {
+    "caption": "C. Sexton misses a driving layup two-pointer. L. Markkanen grabs the defensive rebound after C. Sexton's missed driving layup two-pointer.",
+    "start_time": 240.5,
+    "end_time": 247.5
+  },
+  {
+    "caption": "K. George misses a running layup two-pointer.",
+    "start_time": 246.0,
+    "end_time": 253.0
+  },
+  {
+    "caption": "K. Knueppel makes a pullup two-pointer, assisted by C. Sexton.",
+    "start_time": 270.0,
+    "end_time": 278.5
+  },
+  {
+    "caption": "S. James commits a personal foul.",
+    "start_time": 283.5,
+    "end_time": 286.5
+  },
+  {
+    "caption": "T. Hendricks makes a jump shot three-pointer, assisted by L. Markkanen.",
+    "start_time": 309.0,
+    "end_time": 317.5
+  },
+  {
+    "caption": "J. Nurkić commits a personal foul.",
+    "start_time": 325.5,
+    "end_time": 328.5
+  },
+  {
+    "caption": "Michael Bridges makes a driving floating jump shot two-pointer, assisted by Cade Sexton.",
+    "start_time": 365.0,
+    "end_time": 373.5
+  },
+  {
+    "caption": "L. Markkanen misses a driving layup two-pointer. S. James grabs the defensive rebound after L. Markkanen's missed driving layup two-pointer.",
+    "start_time": 381.0,
+    "end_time": 388.0
+  },
+  {
+    "caption": "K. Knueppel misses a jump shot three-pointer. L. Markkanen grabs the defensive rebound after K. Knueppel's missed three-pointer.",
+    "start_time": 394.5,
+    "end_time": 401.5
+  },
+  {
+    "caption": "S. James commits a personal foul.",
+    "start_time": 404.5,
+    "end_time": 407.5
+  },
+  {
+    "caption": "T. Hendricks makes a layup two-pointer, assisted by K. George.",
+    "start_time": 438.0,
+    "end_time": 446.5
+  },
+  {
+    "caption": "K. Knueppel misses a jump shot three-pointer. T. Mann grabs the offensive rebound after K. Knueppel's missed three-pointer.",
+    "start_time": 455.5,
+    "end_time": 462.5
+  },
+  {
+    "caption": "M. Diabaté makes a cutting dunk two-pointer, assisted by C. Sexton.",
+    "start_time": 467.0,
+    "end_time": 475.5
+  },
+  {
+    "caption": "T. Hendricks makes a jump shot three-pointer, assisted by K. Love.",
+    "start_time": 484.0,
+    "end_time": 492.5
+  },
+  {
+    "caption": "Michael Bridges makes a jump shot three-pointer, assisted by Chris Sexton.",
+    "start_time": 497.0,
+    "end_time": 505.5
+  },
+  {
+    "caption": "K. George makes a driving layup two-pointer.",
+    "start_time": 513.0,
+    "end_time": 521.5
+  },
+  {
+    "caption": "T. Mann makes a step back three-pointer.",
+    "start_time": 537.0,
+    "end_time": 545.5
+  },
+  {
+    "caption": "L. Markkanen misses a jump shot three-pointer. K. Love grabs the offensive rebound after L. Markkanen's missed jump shot three-pointer.",
+    "start_time": 558.5,
+    "end_time": 565.5
+  },
+  {
+    "caption": "K. George makes a jump shot three-pointer, assisted by K. Love.",
+    "start_time": 562.0,
+    "end_time": 570.5
+  },
+  {
+    "caption": "C. Sexton misses a driving floating two-pointer. C. Sexton grabs the offensive rebound after missing his driving floating two-pointer.",
+    "start_time": 578.5,
+    "end_time": 585.5
+  },
+  {
+    "caption": "C. Sexton misses a jump shot two-pointer. T. Hendricks grabs the defensive rebound after C. Sexton's missed jump shot two-pointer.",
+    "start_time": 581.5,
+    "end_time": 588.5
+  },
+  {
+    "caption": "L. Markkanen makes a running dunk two-pointer, assisted by T. Hendricks.",
+    "start_time": 587.0,
+    "end_time": 595.5
+  },
+  {
+    "caption": "C. Sexton makes a driving layup two-pointer, assisted by M. Bridges.",
+    "start_time": 595.0,
+    "end_time": 603.5
+  },
+  {
+    "caption": "T. Hendricks misses a cutting layup two-pointer. T. Hendricks grabs the offensive rebound after missing his layup two-pointer.",
+    "start_time": 615.5,
+    "end_time": 622.5
+  },
+  {
+    "caption": "M. Bridges commits a personal foul.",
+    "start_time": 618.5,
+    "end_time": 621.5
+  },
+  {
+    "caption": "K. George makes a driving layup two-pointer, assisted by K. Love.",
+    "start_time": 821.5,
+    "end_time": 830.0
+  },
+  {
+    "caption": "T. Mann's driving floating two-pointer is blocked by K. George. K. George blocks T. Mann's jump shot two-pointer. K. Love grabs the defensive rebound after T. Mann's missed driving floating two-pointer.",
+    "start_time": 835.0,
+    "end_time": 840.0
+  },
+  {
+    "caption": "T. Mann commits a personal foul.",
+    "start_time": 850.0,
+    "end_time": 854.0
+  },
+  {
+    "caption": "M. Diabaté makes a cutting layup two-pointer, assisted by M. Bridges. B. Sensabaugh commits a shooting personal foul.",
+    "start_time": 917.5,
+    "end_time": 926.0
+  },
+  {
+    "caption": "M. Diabaté commits a personal foul.",
+    "start_time": 966.5,
+    "end_time": 969.5
+  },
+  {
+    "caption": "K. Filipowski commits a personal foul.",
+    "start_time": 1033.0,
+    "end_time": 1037.0
+  },
+  {
+    "caption": "K. George's driving layup two-pointer is blocked by M. Diabaté. M. Diabaté blocks K. George's layup two-pointer. K. Knueppel grabs the defensive rebound after K. George's driving layup two-pointer is blocked.",
+    "start_time": 1089.0,
+    "end_time": 1094.0
+  },
+  {
+    "caption": "T. Mann misses a jump shot three-pointer. K. Love grabs the defensive rebound after T. Mann's missed three-pointer.",
+    "start_time": 1102.0,
+    "end_time": 1109.0
+  },
+  {
+    "caption": "K. Love is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1105.0,
+    "end_time": 1108.0
+  },
+  {
+    "caption": "M. Bridges misses a jump shot three-pointer. K. George grabs the defensive rebound after M. Bridges' missed three-pointer.",
+    "start_time": 1310.5,
+    "end_time": 1317.5
+  },
+  {
+    "caption": "A. Bailey makes a driving layup two-pointer, assisted by K. George.",
+    "start_time": 1317.0,
+    "end_time": 1325.5
+  },
+  {
+    "caption": "M. Bridges misses a driving layup two-pointer. K. Love grabs the defensive rebound after M. Bridges' missed driving layup two-pointer.",
+    "start_time": 1331.5,
+    "end_time": 1338.5
+  },
+  {
+    "caption": "K. George misses a turnaround two-pointer. M. Diabaté grabs the defensive rebound after K. George's missed jump shot.",
+    "start_time": 1351.5,
+    "end_time": 1358.5
+  },
+  {
+    "caption": "M. Diabaté makes a cutting layup two-pointer, assisted by K. Simpson. T. Mann commits a personal foul.",
+    "start_time": 1361.0,
+    "end_time": 1381.0
+  },
+  {
+    "caption": "B. Sensabaugh steals the ball from K. Simpson on a bad pass.",
+    "start_time": 1570.5,
+    "end_time": 1574.5
+  },
+  {
+    "caption": "K. Simpson commits a personal foul.",
+    "start_time": 1577.5,
+    "end_time": 1581.5
+  },
+  {
+    "caption": "T. Mann misses a jump shot three-pointer.",
+    "start_time": 1634.0,
+    "end_time": 1641.0
+  },
+  {
+    "caption": "T. Mann commits a personal foul.",
+    "start_time": 1639.0,
+    "end_time": 1642.0
+  },
+  {
+    "caption": "K. Filipowski steals the ball from K. Simpson on a bad pass.",
+    "start_time": 1712.2,
+    "end_time": 1716.2
+  },
+  {
+    "caption": "A. Bailey makes a running dunk two-pointer, assisted by W. Clayton Jr.",
+    "start_time": 1712.9,
+    "end_time": 1721.4
+  },
+  {
+    "caption": "K. Filipowski commits a personal foul.",
+    "start_time": 1732.4,
+    "end_time": 1735.4
+  },
+  {
+    "caption": "K. Simpson commits a personal foul.",
+    "start_time": 1799.5,
+    "end_time": 1802.5
+  },
+  {
+    "caption": "A. Bailey steals the ball from C. Sexton on a lost ball.",
+    "start_time": 1870.7,
+    "end_time": 1874.7
+  },
+  {
+    "caption": "K. Simpson steals the ball from A. Bailey on a bad pass.",
+    "start_time": 1871.9,
+    "end_time": 1875.9
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "caption": "C. Spencer makes a pullup three-pointer, assisted by J. Morant.",
+    "start_time": 26.5,
+    "end_time": 35.0
+  },
+  {
+    "caption": "A. Thompson misses a turnaround two-pointer. K. Caldwell-Pope grabs the defensive rebound after A. Thompson's missed jump shot.",
+    "start_time": 57.0,
+    "end_time": 64.0
+  },
+  {
+    "caption": "J. Morant's running layup two-pointer is missed. J. Jackson Jr. grabs the offensive rebound after J. Morant's missed running layup two-pointer.",
+    "start_time": 64.0,
+    "end_time": 71.0
+  },
+  {
+    "caption": "J. Smith Jr. commits a personal foul.",
+    "start_time": 67.0,
+    "end_time": 71.0
+  },
+  {
+    "caption": "R. Sheppard makes a pullup three-pointer.",
+    "start_time": 120.0,
+    "end_time": 128.5
+  },
+  {
+    "caption": "C. Spencer makes a jump shot three-pointer, assisted by J. Morant. C. Bassey commits a personal foul.",
+    "start_time": 131.0,
+    "end_time": 200.0
+  },
+  {
+    "caption": "J. Morant's driving layup two-pointer is blocked by A. Sengun. A. Sengun blocks J. Morant's layup two-pointer. A. Sengun grabs the defensive rebound after J. Morant's missed driving layup two-pointer.",
+    "start_time": 206.0,
+    "end_time": 211.0
+  },
+  {
+    "caption": "K. Caldwell-Pope commits a personal foul.",
+    "start_time": 214.0,
+    "end_time": 217.0
+  },
+  {
+    "caption": "R. Sheppard misses a jump shot three-pointer. A. Thompson grabs the offensive rebound after R. Sheppard's missed jump shot three-pointer.",
+    "start_time": 237.5,
+    "end_time": 244.5
+  },
+  {
+    "caption": "J. Smith Jr. makes a jump shot three-pointer, assisted by A. Thompson. J. Smith Jr. commits a personal foul.",
+    "start_time": 239.0,
+    "end_time": 265.5
+  },
+  {
+    "caption": "A. Sengun grabs the defensive rebound.",
+    "start_time": 303.0,
+    "end_time": 308.0
+  },
+  {
+    "caption": "K. Caldwell-Pope steals the ball from A. Sengun on a lost ball.",
+    "start_time": 313.0,
+    "end_time": 317.0
+  },
+  {
+    "caption": "K. Caldwell-Pope's running dunk two-pointer is missed. R. Sheppard grabs the defensive rebound after K. Caldwell-Pope's missed running dunk two-pointer.",
+    "start_time": 315.0,
+    "end_time": 322.0
+  },
+  {
+    "caption": "T. Eason makes a running three-pointer, assisted by R. Sheppard.",
+    "start_time": 318.5,
+    "end_time": 327.0
+  },
+  {
+    "caption": "J. Jackson Jr. misses a jump shot three-pointer. T. Eason grabs the defensive rebound after J. Jackson Jr.'s missed jump shot three-pointer.",
+    "start_time": 506.5,
+    "end_time": 513.5
+  },
+  {
+    "caption": "A. Sengun makes a jump shot two-pointer, assisted by A. Thompson.",
+    "start_time": 529.0,
+    "end_time": 537.5
+  },
+  {
+    "caption": "C. Bassey misses a floating two-pointer. T. Eason grabs the defensive rebound after C. Bassey's missed floating two-pointer.",
+    "start_time": 543.5,
+    "end_time": 550.5
+  },
+  {
+    "caption": "V. Williams Jr. steals the ball from A. Sengun on a lost ball.",
+    "start_time": 558.5,
+    "end_time": 562.5
+  },
+  {
+    "caption": "J. Smith Jr. commits a personal foul.",
+    "start_time": 564.5,
+    "end_time": 568.5
+  },
+  {
+    "caption": "T. Eason's driving layup two-pointer is blocked by J. Jackson Jr. J. Jackson Jr. blocks T. Eason's driving layup two-pointer.",
+    "start_time": 641.5,
+    "end_time": 646.5
+  },
+  {
+    "caption": "K. Durant misses a pullup two-pointer. C. Coward grabs the defensive rebound after K. Durant's missed pullup two-pointer.",
+    "start_time": 668.0,
+    "end_time": 675.0
+  },
+  {
+    "caption": "C. Spencer makes a pullup three-pointer, assisted by V. Williams Jr.",
+    "start_time": 694.5,
+    "end_time": 703.0
+  },
+  {
+    "caption": "T. Eason misses a jump shot two-pointer. S. Aldama grabs the defensive rebound after T. Eason's missed jump shot two-pointer.",
+    "start_time": 724.0,
+    "end_time": 731.0
+  },
+  {
+    "caption": "S. Aldama misses a jump shot three-pointer. C. Capela grabs the defensive rebound after S. Aldama's missed jump shot three-pointer.",
+    "start_time": 733.0,
+    "end_time": 740.0
+  },
+  {
+    "caption": "K. Durant misses a driving floating two-pointer. J. Landale grabs the defensive rebound after K. Durant's missed driving floating two-pointer.",
+    "start_time": 752.0,
+    "end_time": 759.0
+  },
+  {
+    "caption": "J. Smith Jr. commits a personal foul.",
+    "start_time": 765.0,
+    "end_time": 769.0
+  },
+  {
+    "caption": "A. Thompson misses a pullup two-pointer. C. Capela grabs the offensive rebound after A. Thompson's missed pullup two-pointer.",
+    "start_time": 837.0,
+    "end_time": 844.0
+  },
+  {
+    "caption": "J. Landale commits a personal foul.",
+    "start_time": 840.0,
+    "end_time": 844.0
+  },
+  {
+    "caption": "C. Spencer misses a jump shot three-pointer. C. Capela grabs the defensive rebound after C. Spencer's missed jump shot three-pointer.",
+    "start_time": 891.0,
+    "end_time": 898.0
+  },
+  {
+    "caption": "A. Thompson misses a jump shot three-pointer. C. Capela grabs the offensive rebound after A. Thompson's missed three-pointer.",
+    "start_time": 913.0,
+    "end_time": 920.0
+  },
+  {
+    "caption": "T. Eason makes a driving floating jump shot two-pointer.",
+    "start_time": 923.5,
+    "end_time": 932.0
+  },
+  {
+    "caption": "J. Morant makes a floating jump shot two-pointer.",
+    "start_time": 934.5,
+    "end_time": 943.0
+  },
+  {
+    "caption": "T. Eason makes a jump shot three-pointer, assisted by C. Capela.",
+    "start_time": 953.5,
+    "end_time": 962.0
+  },
+  {
+    "caption": "J. Morant misses a pullup three-pointer. C. Capela grabs the defensive rebound after J. Morant's missed jump shot three-pointer.",
+    "start_time": 967.0,
+    "end_time": 974.0
+  },
+  {
+    "caption": "J. Landale commits a personal foul.",
+    "start_time": 986.0,
+    "end_time": 989.0
+  },
+  {
+    "caption": "A. Thompson misses a pullup two-pointer. A. Sengun grabs the offensive rebound after A. Thompson's missed pullup two-pointer. A. Sengun makes a tip layup two-pointer.",
+    "start_time": 1020.0,
+    "end_time": 1031.0
+  },
+  {
+    "caption": "J. Morant misses a jump shot three-pointer. J. Morant grabs the offensive rebound after missing his jump shot three-pointer.",
+    "start_time": 1038.0,
+    "end_time": 1045.0
+  },
+  {
+    "caption": "J. Morant makes a finger roll layup two-pointer.",
+    "start_time": 1039.5,
+    "end_time": 1048.0
+  },
+  {
+    "caption": "T. Eason misses a cutting layup two-pointer. A. Thompson grabs the offensive rebound after T. Eason's missed layup two-pointer. A. Thompson makes a tip layup two-pointer.",
+    "start_time": 1072.0,
+    "end_time": 1082.0
+  },
+  {
+    "caption": "T. Eason commits a personal foul.",
+    "start_time": 1088.0,
+    "end_time": 1091.0
+  },
+  {
+    "caption": "T. Eason misses a jump shot three-pointer. J. Jackson Jr. grabs the defensive rebound after T. Eason's missed three-pointer.",
+    "start_time": 1150.0,
+    "end_time": 1157.0
+  },
+  {
+    "caption": "C. Coward misses a jump shot three-pointer. A. Sengun grabs the defensive rebound after C. Coward's missed three-pointer.",
+    "start_time": 1167.0,
+    "end_time": 1174.0
+  },
+  {
+    "caption": "A. Thompson makes a dunk two-pointer, assisted by K. Durant.",
+    "start_time": 1176.5,
+    "end_time": 1185.0
+  },
+  {
+    "caption": "C. Spencer misses a pullup three-pointer. J. Smith Jr. grabs the defensive rebound after C. Spencer's missed pullup three-pointer.",
+    "start_time": 1192.0,
+    "end_time": 1199.0
+  },
+  {
+    "caption": "K. Durant's driving layup two-pointer is blocked by J. Jackson Jr. J. Jackson Jr. blocks K. Durant's driving layup two-pointer. C. Spencer grabs the defensive rebound after K. Durant's missed driving layup two-pointer.",
+    "start_time": 1201.0,
+    "end_time": 1206.0
+  },
+  {
+    "caption": "J. Jackson Jr. makes a driving floating two-pointer, assisted by C. Spencer.",
+    "start_time": 1208.5,
+    "end_time": 1217.0
+  },
+  {
+    "caption": "K. Durant misses a driving finger roll two-pointer. A. Thompson grabs the offensive rebound after K. Durant's missed driving finger roll layup two-pointer. A. Thompson makes a tip layup two-pointer.",
+    "start_time": 1226.5,
+    "end_time": 1236.0
+  },
+  {
+    "caption": "J. Small misses a step back three-pointer. P. Hall grabs the offensive rebound after J. Small's missed jump shot three-pointer.",
+    "start_time": 1431.0,
+    "end_time": 1438.0
+  },
+  {
+    "caption": "J. Davison commits a shooting personal foul.",
+    "start_time": 1439.0,
+    "end_time": 1443.0
+  },
+  {
+    "caption": "J. Green misses a jump shot three-pointer. J. Wells grabs the defensive rebound after J. Green's missed jump shot three-pointer.",
+    "start_time": 1500.0,
+    "end_time": 1507.0
+  },
+  {
+    "caption": "A. Holiday commits a shooting personal foul.",
+    "start_time": 1513.0,
+    "end_time": 1517.0
+  },
+  {
+    "caption": "J. Tate misses a jump shot three-pointer. J. Green grabs the offensive rebound after J. Tate's missed jump shot three-pointer.",
+    "start_time": 1572.7,
+    "end_time": 1579.7
+  },
+  {
+    "caption": "J. Tate makes a driving finger roll two-pointer, assisted by A. Holiday.",
+    "start_time": 1582.8,
+    "end_time": 1591.3
+  },
+  {
+    "caption": "P. Hall misses a hook two-pointer. P. Hall grabs the offensive rebound after missing his hook two-pointer.",
+    "start_time": 1596.1,
+    "end_time": 1603.1
+  },
+  {
+    "caption": "J. Small makes a driving floating bank two-pointer, assisted by P. Hall.",
+    "start_time": 1598.0,
+    "end_time": 1606.5
+  },
+  {
+    "caption": "J. Davison misses a jump shot three-pointer. O. Prosper grabs the defensive rebound after J. Davison's missed three-pointer.",
+    "start_time": 1625.6,
+    "end_time": 1632.6
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "caption": "G. Santos commits a personal foul.",
+    "start_time": 25.0,
+    "end_time": 29.0
+  },
+  {
+    "caption": "M. Moody makes a jump shot three-pointer, assisted by B. Podziemski.",
+    "start_time": 69.0,
+    "end_time": 77.5
+  },
+  {
+    "caption": "D. Schröder misses a floating two-pointer. M. Monk grabs the offensive rebound after D. Schröder's missed jump shot two-pointer.",
+    "start_time": 82.5,
+    "end_time": 89.5
+  },
+  {
+    "caption": "D. Schröder's driving layup two-pointer is blocked by M. Moody. W. Richard grabs the defensive rebound after D. Schröder's missed driving layup two-pointer.",
+    "start_time": 90.5,
+    "end_time": 95.5
+  },
+  {
+    "caption": "M. Moody blocks D. Schröder's driving layup two-pointer.",
+    "start_time": 92.5,
+    "end_time": 95.5
+  },
+  {
+    "caption": "B. Podziemski makes a running three-pointer, assisted by T. Jackson-Davis.",
+    "start_time": 100.0,
+    "end_time": 108.5
+  },
+  {
+    "caption": "M. Monk misses a step back three-pointer. B. Podziemski grabs the defensive rebound after M. Monk's missed jump shot three-pointer.",
+    "start_time": 122.5,
+    "end_time": 129.5
+  },
+  {
+    "caption": "B. Podziemski misses a pullup two-pointer. W. Richard grabs the offensive rebound after B. Podziemski's missed pullup two-pointer. W. Richard makes a tip layup two-pointer.",
+    "start_time": 134.5,
+    "end_time": 148.5
+  },
+  {
+    "caption": "D. Eubanks makes a cutting layup two-pointer, assisted by D. Schröder.",
+    "start_time": 148.0,
+    "end_time": 156.5
+  },
+  {
+    "caption": "M. Moody misses a jump shot three-pointer. P. Achiuwa grabs the defensive rebound after M. Moody's missed jump shot three-pointer.",
+    "start_time": 164.5,
+    "end_time": 171.5
+  },
+  {
+    "caption": "T. Jackson-Davis commits a personal foul.",
+    "start_time": 186.5,
+    "end_time": 190.5
+  },
+  {
+    "caption": "G. Santos grabs the defensive rebound.",
+    "start_time": 236.0,
+    "end_time": 241.0
+  },
+  {
+    "caption": "T. Jackson-Davis misses a cutting dunk two-pointer. K. Ellis grabs the defensive rebound after T. Jackson-Davis's missed dunk two-pointer.",
+    "start_time": 249.0,
+    "end_time": 256.0
+  },
+  {
+    "caption": "D. Schröder misses a floating two-pointer. B. Podziemski grabs the defensive rebound after D. Schröder's missed floating two-pointer.",
+    "start_time": 258.0,
+    "end_time": 265.0
+  },
+  {
+    "caption": "W. Richard misses a jump shot three-pointer. B. Podziemski grabs the offensive rebound after W. Richard's missed three-pointer.",
+    "start_time": 271.0,
+    "end_time": 278.0
+  },
+  {
+    "caption": "M. Moody makes a jump shot three-pointer, assisted by B. Podziemski.",
+    "start_time": 275.5,
+    "end_time": 284.0
+  },
+  {
+    "caption": "M. Monk makes a jump shot three-pointer, assisted by R. Westbrook.",
+    "start_time": 283.5,
+    "end_time": 292.0
+  },
+  {
+    "caption": "G. Santos misses a jump shot three-pointer. D. Eubanks grabs the defensive rebound after G. Santos's missed three-pointer.",
+    "start_time": 299.0,
+    "end_time": 306.0
+  },
+  {
+    "caption": "T. Jackson-Davis steals the ball from D. Eubanks on a lost ball.",
+    "start_time": 320.0,
+    "end_time": 324.0
+  },
+  {
+    "caption": "M. Moody misses a running three-pointer. M. Monk grabs the defensive rebound after M. Moody's missed running three-pointer.",
+    "start_time": 325.0,
+    "end_time": 332.0
+  },
+  {
+    "caption": "D. Eubanks makes a cutting dunk two-pointer, assisted by R. Westbrook. M. Raynaud commits a shooting personal foul.",
+    "start_time": 329.5,
+    "end_time": 538.5
+  },
+  {
+    "caption": "M. Monk makes a running layup two-pointer, assisted by R. Westbrook.",
+    "start_time": 576.5,
+    "end_time": 585.0
+  },
+  {
+    "caption": "R. Westbrook grabs the defensive rebound.",
+    "start_time": 577.0,
+    "end_time": 582.0
+  },
+  {
+    "caption": "D. Schröder commits a personal foul.",
+    "start_time": 597.0,
+    "end_time": 600.0
+  },
+  {
+    "caption": "J. Kuminga misses a pullup two-pointer. M. Raynaud grabs the defensive rebound after Jonathan Kuminga's missed pullup two-pointer.",
+    "start_time": 635.0,
+    "end_time": 642.0
+  },
+  {
+    "caption": "M. Monk misses a jump shot three-pointer. Jonathan Kuminga grabs the defensive rebound after Malcolm Monk's missed three-pointer.",
+    "start_time": 649.0,
+    "end_time": 656.0
+  },
+  {
+    "caption": "W. Richard makes a reverse layup two-pointer, assisted by Jonathan Kuminga.",
+    "start_time": 657.5,
+    "end_time": 666.0
+  },
+  {
+    "caption": "R. Westbrook makes a driving dunk two-pointer.",
+    "start_time": 671.5,
+    "end_time": 680.0
+  },
+  {
+    "caption": "J. Kuminga is called for a defensive goaltending violation.",
+    "start_time": 677.0,
+    "end_time": 680.0
+  },
+  {
+    "caption": "P. Spencer makes a turnaround two-pointer, assisted by Jonathan Kuminga.",
+    "start_time": 708.0,
+    "end_time": 716.5
+  },
+  {
+    "caption": "Jonathan Kuminga commits a personal foul.",
+    "start_time": 723.5,
+    "end_time": 726.5
+  },
+  {
+    "caption": "M. Monk makes a driving layup two-pointer. N. Clifford commits a personal foul.",
+    "start_time": 754.5,
+    "end_time": 782.0
+  },
+  {
+    "caption": "M. Raynaud misses a jump shot three-pointer. B. Hield grabs the defensive rebound after M. Raynaud's missed jump shot three-pointer.",
+    "start_time": 847.0,
+    "end_time": 854.0
+  },
+  {
+    "caption": "P. Spencer misses a running layup two-pointer. M. Raynaud grabs the defensive rebound after P. Spencer's missed running layup two-pointer.",
+    "start_time": 855.0,
+    "end_time": 862.0
+  },
+  {
+    "caption": "R. Westbrook makes a jump shot three-pointer.",
+    "start_time": 868.5,
+    "end_time": 877.0
+  },
+  {
+    "caption": "G. Payton II makes a jump shot three-pointer, assisted by B. Hield.",
+    "start_time": 883.5,
+    "end_time": 892.0
+  },
+  {
+    "caption": "Jonathan Kuminga makes a running dunk two-pointer, assisted by Gary Payton II.",
+    "start_time": 900.5,
+    "end_time": 909.0
+  },
+  {
+    "caption": "G. Payton II steals the ball from M. Monk on a lost ball.",
+    "start_time": 901.0,
+    "end_time": 905.0
+  },
+  {
+    "caption": "D. DeRozan misses a turnaround two-pointer. P. Spencer grabs the defensive rebound after D. DeRozan's missed jump shot two-pointer.",
+    "start_time": 1107.5,
+    "end_time": 1114.5
+  },
+  {
+    "caption": "P. Spencer commits an offensive foul.",
+    "start_time": 1118.5,
+    "end_time": 1121.5
+  },
+  {
+    "caption": "N. Clifford makes a jump shot three-pointer, assisted by R. Westbrook.",
+    "start_time": 1152.0,
+    "end_time": 1160.5
+  },
+  {
+    "caption": "P. Spencer makes a driving dunk two-pointer.",
+    "start_time": 1167.0,
+    "end_time": 1175.5
+  },
+  {
+    "caption": "R. Westbrook misses a jump shot three-pointer. Jonathan Kuminga grabs the defensive rebound after R. Westbrook's missed jump shot three-pointer.",
+    "start_time": 1184.5,
+    "end_time": 1191.5
+  },
+  {
+    "caption": "M. Raynaud steals the ball from Jonathan Kuminga on a lost ball.",
+    "start_time": 1194.5,
+    "end_time": 1198.5
+  },
+  {
+    "caption": "D. DeRozan makes a running layup two-pointer, assisted by N. Clifford.",
+    "start_time": 1197.0,
+    "end_time": 1205.5
+  },
+  {
+    "caption": "B. Hield commits a personal foul.",
+    "start_time": 1202.5,
+    "end_time": 1205.5
+  },
+  {
+    "caption": "Al Horford misses a jump shot two-pointer. D. DeRozan grabs the defensive rebound after A. Horford's missed jump shot two-pointer.",
+    "start_time": 1262.5,
+    "end_time": 1269.5
+  },
+  {
+    "caption": "D. DeRozan misses a jump shot two-pointer. Jonathan Kuminga grabs the defensive rebound after DeMar DeRozan's missed jump shot two-pointer.",
+    "start_time": 1270.5,
+    "end_time": 1277.5
+  },
+  {
+    "caption": "R. Westbrook is called for a kicked ball violation.",
+    "start_time": 1293.5,
+    "end_time": 1296.5
+  },
+  {
+    "caption": "B. Podziemski makes a jump shot two-pointer, assisted by G. Payton II.",
+    "start_time": 1320.5,
+    "end_time": 1329.0
+  },
+  {
+    "caption": "R. Westbrook misses a driving layup two-pointer. G. Payton II grabs the defensive rebound after R. Westbrook's missed driving layup two-pointer.",
+    "start_time": 1333.0,
+    "end_time": 1340.0
+  },
+  {
+    "caption": "K. Ellis steals the ball from G. Payton II on a bad pass.",
+    "start_time": 1339.0,
+    "end_time": 1343.0
+  },
+  {
+    "caption": "R. Westbrook makes a running three-pointer, assisted by K. Ellis.",
+    "start_time": 1340.5,
+    "end_time": 1349.0
+  },
+  {
+    "caption": "M. Moody makes a floating jump shot two-pointer.",
+    "start_time": 1361.5,
+    "end_time": 1370.0
+  },
+  {
+    "caption": "M. Moody steals the ball from D. DeRozan on a bad pass.",
+    "start_time": 1379.0,
+    "end_time": 1383.0
+  },
+  {
+    "caption": "J. Kuminga misses a running layup two-pointer. D. DeRozan grabs the defensive rebound after J. Kuminga's missed running layup two-pointer.",
+    "start_time": 1384.0,
+    "end_time": 1391.0
+  },
+  {
+    "caption": "D. Eubanks makes a floating jump shot two-pointer, assisted by N. Clifford. K. Ellis commits a personal foul.",
+    "start_time": 1389.5,
+    "end_time": 1419.8
+  },
+  {
+    "caption": "D. Eubanks grabs the defensive rebound.",
+    "start_time": 1471.0,
+    "end_time": 1476.0
+  },
+  {
+    "caption": "M. Moody commits a personal foul.",
+    "start_time": 1479.3,
+    "end_time": 1482.3
+  },
+  {
+    "caption": "W. Richard misses a jump shot three-pointer. R. Westbrook grabs the defensive rebound after W. Richard's missed three-pointer.",
+    "start_time": 1552.1,
+    "end_time": 1559.1
+  },
+  {
+    "caption": "D. DeRozan misses a driving layup two-pointer.",
+    "start_time": 1566.8,
+    "end_time": 1573.8
+  }
+]

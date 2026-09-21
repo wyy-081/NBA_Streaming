@@ -1,0 +1,282 @@
+[
+  {
+    "caption": "C. Sexton commits a personal foul.",
+    "start_time": 15.0,
+    "end_time": 18.0
+  },
+  {
+    "caption": "Jump ball between J. Nurkić and R. Kalkbrenner, S. Mykhailiuk recovers the tip.",
+    "start_time": 27.5,
+    "end_time": 32.5
+  },
+  {
+    "caption": "L. Markkanen misses a driving layup two-pointer. L. Markkanen grabs the offensive rebound after missing his driving layup two-pointer. L. Markkanen makes a tip layup two-pointer.",
+    "start_time": 35.0,
+    "end_time": 43.5
+  },
+  {
+    "caption": "M. Bridges misses a jump shot three-pointer. J. Nurkić grabs the defensive rebound after M. Bridges' missed three-pointer.",
+    "start_time": 59.5,
+    "end_time": 66.5
+  },
+  {
+    "caption": "R. Kalkbrenner steals the ball from K. George on a lost ball.",
+    "start_time": 71.5,
+    "end_time": 75.5
+  },
+  {
+    "caption": "K. Knueppel's running layup two-pointer is blocked by S. Mykhailiuk. S. Mykhailiuk blocks K. Knueppel's layup two-pointer. T. Hendricks grabs the defensive rebound after K. Knueppel's running layup two-pointer is blocked.",
+    "start_time": 75.5,
+    "end_time": 80.5
+  },
+  {
+    "caption": "S. James commits a personal foul.",
+    "start_time": 82.5,
+    "end_time": 85.5
+  },
+  {
+    "caption": "L. Markkanen makes a cutting dunk two-pointer, assisted by K. George.",
+    "start_time": 103.0,
+    "end_time": 111.5
+  },
+  {
+    "caption": "M. Bridges misses a driving floating two-pointer. S. Mykhailiuk grabs the defensive rebound after M. Bridges' missed driving floating two-pointer.",
+    "start_time": 119.5,
+    "end_time": 126.5
+  },
+  {
+    "caption": "T. Hendricks misses a running pullup three-pointer.",
+    "start_time": 126.5,
+    "end_time": 133.5
+  },
+  {
+    "caption": "C. Sexton makes a pullup three-pointer.",
+    "start_time": 144.5,
+    "end_time": 153.0
+  },
+  {
+    "caption": "S. Mykhailiuk misses a pullup three-pointer. R. Kalkbrenner grabs the defensive rebound after S. Mykhailiuk's missed pullup three-pointer.",
+    "start_time": 163.0,
+    "end_time": 170.0
+  },
+  {
+    "caption": "K. Knueppel misses a running reverse layup two-pointer. J. Nurkić grabs the defensive rebound after K. Knueppel's missed running reverse layup two-pointer.",
+    "start_time": 171.0,
+    "end_time": 178.0
+  },
+  {
+    "caption": "K. George misses a running layup two-pointer. K. Knueppel grabs the defensive rebound after K. George's missed running layup two-pointer.",
+    "start_time": 179.0,
+    "end_time": 186.0
+  },
+  {
+    "caption": "K. Knueppel makes a jump shot three-pointer, assisted by C. Sexton.",
+    "start_time": 187.5,
+    "end_time": 196.0
+  },
+  {
+    "caption": "L. Markkanen misses a driving layup two-pointer. M. Bridges grabs the defensive rebound after L. Markkanen's missed driving layup two-pointer.",
+    "start_time": 202.0,
+    "end_time": 209.0
+  },
+  {
+    "caption": "S. James makes a running three-pointer, assisted by K. Knueppel.",
+    "start_time": 210.5,
+    "end_time": 219.0
+  },
+  {
+    "caption": "L. Markkanen makes a jump shot three-pointer, assisted by S. Mykhailiuk.",
+    "start_time": 224.5,
+    "end_time": 233.0
+  },
+  {
+    "caption": "J. Nurkić commits a personal foul.",
+    "start_time": 239.0,
+    "end_time": 242.0
+  },
+  {
+    "caption": "R. Kalkbrenner is called for an out-of-bounds turnover.",
+    "start_time": 278.0,
+    "end_time": 281.0
+  },
+  {
+    "caption": "S. Mykhailiuk misses a jump shot three-pointer. T. Hendricks grabs the offensive rebound after S. Mykhailiuk's missed three-pointer.",
+    "start_time": 303.0,
+    "end_time": 310.0
+  },
+  {
+    "caption": "K. Knueppel commits a personal foul.",
+    "start_time": 314.5,
+    "end_time": 317.5
+  },
+  {
+    "caption": "K. George makes a cutting layup two-pointer, assisted by J. Nurkić.",
+    "start_time": 338.5,
+    "end_time": 347.0
+  },
+  {
+    "caption": "L. Markkanen misses a jump shot three-pointer. R. Kalkbrenner grabs the defensive rebound after L. Markkanen's missed jump shot three-pointer.",
+    "start_time": 368.0,
+    "end_time": 375.0
+  },
+  {
+    "caption": "S. James makes a jump shot three-pointer, assisted by M. Bridges.",
+    "start_time": 379.5,
+    "end_time": 388.0
+  },
+  {
+    "caption": "K. George makes a floating jump shot two-pointer.",
+    "start_time": 391.5,
+    "end_time": 400.0
+  },
+  {
+    "caption": "K. Knueppel misses a jump shot three-pointer. J. Nurkić grabs the defensive rebound after K. Knueppel's missed jump shot three-pointer.",
+    "start_time": 406.0,
+    "end_time": 413.0
+  },
+  {
+    "caption": "K. George misses a driving floating two-pointer. S. James grabs the defensive rebound after K. George's missed driving floating two-pointer.",
+    "start_time": 426.0,
+    "end_time": 433.0
+  },
+  {
+    "caption": "C. Sexton misses a pullup three-pointer. J. Nurkić grabs the defensive rebound after C. Sexton's missed pullup three-pointer.",
+    "start_time": 436.0,
+    "end_time": 443.0
+  },
+  {
+    "caption": "L. Markkanen makes a driving finger roll two-pointer, assisted by K. George.",
+    "start_time": 446.5,
+    "end_time": 455.0
+  },
+  {
+    "caption": "K. Knueppel makes a pullup two-pointer, assisted by S. James. A. Bailey commits a personal foul.",
+    "start_time": 639.5,
+    "end_time": 648.0
+  },
+  {
+    "caption": "L. Markkanen makes a jump shot three-pointer, assisted by K. Love. W. Clayton Jr. commits a personal foul.",
+    "start_time": 695.0,
+    "end_time": 713.5
+  },
+  {
+    "caption": "W. Clayton Jr. misses a jump shot three-pointer. M. Diabaté grabs the defensive rebound after W. Clayton Jr.'s missed three-pointer.",
+    "start_time": 760.5,
+    "end_time": 767.5
+  },
+  {
+    "caption": "K. Knueppel makes a floating jump shot two-pointer, assisted by S. James. B. Sensabaugh commits a shooting personal foul.",
+    "start_time": 770.0,
+    "end_time": 778.5
+  },
+  {
+    "caption": "K. Knueppel commits a shooting personal foul.",
+    "start_time": 815.5,
+    "end_time": 819.5
+  },
+  {
+    "caption": "M. Bridges makes a driving layup two-pointer.",
+    "start_time": 880.0,
+    "end_time": 888.5
+  },
+  {
+    "caption": "K. Love misses a jump shot three-pointer. K. Love grabs the offensive rebound after missing his jump shot three-pointer.",
+    "start_time": 890.5,
+    "end_time": 897.5
+  },
+  {
+    "caption": "B. Sensabaugh makes a driving floating jump shot two-pointer, assisted by K. Love. B. Sensabaugh commits a shooting personal foul.",
+    "start_time": 895.0,
+    "end_time": 918.5
+  },
+  {
+    "caption": "L. Markkanen misses a jump shot three-pointer. L. McNeeley grabs the defensive rebound after L. Markkanen's missed three-pointer.",
+    "start_time": 976.5,
+    "end_time": 983.5
+  },
+  {
+    "caption": "Michael Bridges makes a jump shot three-pointer, assisted by Luke McNeeley. K. Simpson commits a personal foul.",
+    "start_time": 984.0,
+    "end_time": 1197.0
+  },
+  {
+    "caption": "Marcus Bridges makes a jump shot three-pointer, assisted by Kendall Simpson.",
+    "start_time": 1266.5,
+    "end_time": 1275.0
+  },
+  {
+    "caption": "L. Markkanen misses a step back three-pointer.",
+    "start_time": 1287.0,
+    "end_time": 1294.0
+  },
+  {
+    "caption": "T. Mann grabs the defensive rebound.",
+    "start_time": 1288.0,
+    "end_time": 1294.0
+  },
+  {
+    "caption": "K. Simpson misses a jump shot three-pointer. B. Sensabaugh grabs the defensive rebound after K. Simpson's missed jump shot three-pointer.",
+    "start_time": 1299.0,
+    "end_time": 1306.0
+  },
+  {
+    "caption": "K. Love commits an offensive foul.",
+    "start_time": 1314.0,
+    "end_time": 1317.0
+  },
+  {
+    "caption": "K. Filipowski commits a personal foul.",
+    "start_time": 1347.0,
+    "end_time": 1350.0
+  },
+  {
+    "caption": "A. Bailey misses a pullup two-pointer. M. Diabaté grabs the defensive rebound after A. Bailey's missed pullup two-pointer.",
+    "start_time": 1404.0,
+    "end_time": 1411.0
+  },
+  {
+    "caption": "T. Mann makes a jump shot three-pointer, assisted by M. Bridges.",
+    "start_time": 1410.5,
+    "end_time": 1419.0
+  },
+  {
+    "caption": "K. Filipowski makes a floating jump shot two-pointer, assisted by K. George.",
+    "start_time": 1427.5,
+    "end_time": 1436.0
+  },
+  {
+    "caption": "T. Mann misses a jump shot three-pointer. K. Filipowski grabs the defensive rebound after T. Mann's missed jump shot three-pointer.",
+    "start_time": 1440.0,
+    "end_time": 1447.0
+  },
+  {
+    "caption": "W. Clayton Jr. makes a cutting dunk two-pointer, assisted by K. Filipowski.",
+    "start_time": 1455.5,
+    "end_time": 1464.0
+  },
+  {
+    "caption": "W. Clayton Jr. commits a personal foul.",
+    "start_time": 1473.0,
+    "end_time": 1476.0
+  },
+  {
+    "caption": "A. Bailey misses a jump shot three-pointer. T. Mann grabs the defensive rebound after A. Bailey's missed three-pointer.",
+    "start_time": 1538.5,
+    "end_time": 1545.5
+  },
+  {
+    "caption": "C. Sexton misses a pullup three-pointer.",
+    "start_time": 1556.0,
+    "end_time": 1563.0
+  },
+  {
+    "caption": "C. Sexton makes a finger roll layup two-pointer.",
+    "start_time": 1581.8,
+    "end_time": 1590.3
+  },
+  {
+    "caption": "K. George misses a driving floating two-pointer. T. Mann grabs the defensive rebound after K. George's missed driving floating two-pointer.",
+    "start_time": 1597.3,
+    "end_time": 1604.3
+  }
+]
