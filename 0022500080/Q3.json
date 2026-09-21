@@ -1,0 +1,307 @@
+[
+  {
+    "caption": "B. Saraf misses a jump shot three-pointer. R. Kalkbrenner grabs the defensive rebound after B. Saraf's missed three-pointer.",
+    "start_time": 13.5,
+    "end_time": 20.5
+  },
+  {
+    "caption": "B. Miller misses a jump shot three-pointer. B. Saraf grabs the defensive rebound after B. Miller's missed jump shot three-pointer.",
+    "start_time": 24.5,
+    "end_time": 31.5
+  },
+  {
+    "caption": "T. Mann makes a driving layup two-pointer. B. Miller commits a personal foul.",
+    "start_time": 28.0,
+    "end_time": 36.5
+  },
+  {
+    "caption": "B. Miller makes a driving layup two-pointer.",
+    "start_time": 76.0,
+    "end_time": 84.5
+  },
+  {
+    "caption": "M. Porter Jr. misses a driving floating two-pointer. L. Ball grabs the defensive rebound after M. Porter Jr.'s missed driving floating two-pointer.",
+    "start_time": 91.5,
+    "end_time": 98.5
+  },
+  {
+    "caption": "B. Miller misses a jump shot three-pointer. M. Porter Jr. grabs the defensive rebound after B. Miller's missed three-pointer.",
+    "start_time": 102.5,
+    "end_time": 109.5
+  },
+  {
+    "caption": "M. Porter Jr. makes a layup two-pointer, assisted by N. Claxton.",
+    "start_time": 114.0,
+    "end_time": 122.5
+  },
+  {
+    "caption": "Michael Bridges makes a jump shot three-pointer, assisted by Brandon Miller.",
+    "start_time": 127.0,
+    "end_time": 135.5
+  },
+  {
+    "caption": "T. Mann misses a driving layup two-pointer. K. Knueppel grabs the defensive rebound after T. Mann's missed driving layup two-pointer.",
+    "start_time": 143.5,
+    "end_time": 150.5
+  },
+  {
+    "caption": "K. Knueppel makes a running three-pointer, assisted by L. Ball.",
+    "start_time": 148.0,
+    "end_time": 156.5
+  },
+  {
+    "caption": "T. Martin makes a jump shot three-pointer, assisted by T. Mann.",
+    "start_time": 348.0,
+    "end_time": 356.5
+  },
+  {
+    "caption": "L. Ball misses a jump shot three-pointer. R. Kalkbrenner grabs the offensive rebound after L. Ball's missed three-pointer.",
+    "start_time": 365.5,
+    "end_time": 372.5
+  },
+  {
+    "caption": "K. Knueppel makes a jump shot three-pointer, assisted by B. Miller.",
+    "start_time": 366.0,
+    "end_time": 374.5
+  },
+  {
+    "caption": "B. Saraf misses a jump shot three-pointer. T. Martin grabs the offensive rebound after B. Saraf's missed three-pointer.",
+    "start_time": 389.5,
+    "end_time": 396.5
+  },
+  {
+    "caption": "T. Mann makes a jump shot three-pointer, assisted by T. Martin.",
+    "start_time": 393.0,
+    "end_time": 401.5
+  },
+  {
+    "caption": "K. Knueppel misses a jump shot three-pointer. B. Saraf grabs the defensive rebound after K. Knueppel's missed three-pointer.",
+    "start_time": 411.5,
+    "end_time": 418.5
+  },
+  {
+    "caption": "B. Saraf misses a jump shot three-pointer. N. Claxton grabs the offensive rebound after B. Saraf's missed jump shot three-pointer. N. Claxton makes a tip layup two-pointer.",
+    "start_time": 422.5,
+    "end_time": 434.5
+  },
+  {
+    "caption": "T. Martin steals the ball from R. Kalkbrenner on a bad pass.",
+    "start_time": 437.5,
+    "end_time": 441.5
+  },
+  {
+    "caption": "J. Wilson makes a running three-pointer, assisted by B. Saraf.",
+    "start_time": 439.0,
+    "end_time": 447.5
+  },
+  {
+    "caption": "R. Kalkbrenner commits an offensive foul.",
+    "start_time": 638.0,
+    "end_time": 641.0
+  },
+  {
+    "caption": "T. Martin loses the ball out-of-bounds.",
+    "start_time": 670.5,
+    "end_time": 673.5
+  },
+  {
+    "caption": "B. Miller makes a driving floating two-pointer. T. Martin commits a personal foul.",
+    "start_time": 684.5,
+    "end_time": 693.0
+  },
+  {
+    "caption": "N. Claxton makes a hook two-pointer.",
+    "start_time": 735.5,
+    "end_time": 744.0
+  },
+  {
+    "caption": "M. Diabaté makes a floating jump shot two-pointer, assisted by B. Miller. B. Miller commits a personal foul.",
+    "start_time": 744.5,
+    "end_time": 764.0
+  },
+  {
+    "caption": "J. Wilson commits a personal foul.",
+    "start_time": 832.5,
+    "end_time": 835.5
+  },
+  {
+    "caption": "L. Ball makes a step back three-pointer.",
+    "start_time": 864.0,
+    "end_time": 872.5
+  },
+  {
+    "caption": "D. Sharpe commits an offensive foul.",
+    "start_time": 883.5,
+    "end_time": 886.5
+  },
+  {
+    "caption": "D. Sharpe steals the ball from C. Sexton on a bad pass.",
+    "start_time": 911.5,
+    "end_time": 915.5
+  },
+  {
+    "caption": "D. Sharpe is called for a bad pass out-of-bounds turnover.",
+    "start_time": 912.5,
+    "end_time": 915.5
+  },
+  {
+    "caption": "E. Dëmin steals the ball from K. Knueppel on a bad pass.",
+    "start_time": 932.0,
+    "end_time": 936.0
+  },
+  {
+    "caption": "L. Ball commits a personal foul.",
+    "start_time": 936.0,
+    "end_time": 939.0
+  },
+  {
+    "caption": "T. Martin misses a driving layup two-pointer. D. Sharpe grabs the offensive rebound after T. Martin's missed driving layup two-pointer. D. Sharpe makes a putback layup two-pointer.",
+    "start_time": 962.0,
+    "end_time": 973.0
+  },
+  {
+    "caption": "C. Sexton misses a pullup three-pointer. Z. Williams grabs the defensive rebound after C. Sexton's missed jump shot three-pointer.",
+    "start_time": 983.0,
+    "end_time": 990.0
+  },
+  {
+    "caption": "D. Sharpe is called for an out-of-bounds turnover.",
+    "start_time": 994.0,
+    "end_time": 997.0
+  },
+  {
+    "caption": "C. Sexton misses a driving floating bank two-pointer. D. Sharpe grabs the defensive rebound after C. Sexton's missed driving floating bank two-pointer.",
+    "start_time": 1019.0,
+    "end_time": 1026.0
+  },
+  {
+    "caption": "J. Wilson misses a jump shot three-pointer. M. Bridges grabs the defensive rebound after J. Wilson's missed three-pointer.",
+    "start_time": 1029.0,
+    "end_time": 1036.0
+  },
+  {
+    "caption": "M. Bridges is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1034.0,
+    "end_time": 1037.0
+  },
+  {
+    "caption": "J. Wilson makes a driving reverse layup two-pointer, assisted by N. Clowney.",
+    "start_time": 1088.0,
+    "end_time": 1096.5
+  },
+  {
+    "caption": "Zach Williams steals the ball from Tyrese Mann on a lost ball.",
+    "start_time": 1103.5,
+    "end_time": 1107.5
+  },
+  {
+    "caption": "Z. Williams misses a running layup two-pointer. T. Martin grabs the offensive rebound after Z. Williams' missed running layup two-pointer. T. Martin misses a tip layup two-pointer.",
+    "start_time": 1107.5,
+    "end_time": 1118.5
+  },
+  {
+    "caption": "S. James grabs the defensive rebound.",
+    "start_time": 1112.5,
+    "end_time": 1118.5
+  },
+  {
+    "caption": "E. Dëmin commits a personal foul.",
+    "start_time": 1115.5,
+    "end_time": 1118.5
+  },
+  {
+    "caption": "T. Salaün makes an alley-oop dunk two-pointer, assisted by C. Sexton.",
+    "start_time": 1148.0,
+    "end_time": 1156.5
+  },
+  {
+    "caption": "T. Martin misses a jump shot three-pointer. Z. Williams grabs the offensive rebound after T. Martin's missed three-pointer.",
+    "start_time": 1159.5,
+    "end_time": 1166.5
+  },
+  {
+    "caption": "T. Mann commits a personal foul.",
+    "start_time": 1170.5,
+    "end_time": 1173.5
+  },
+  {
+    "caption": "T. Martin makes a floating jump shot two-pointer.",
+    "start_time": 1209.0,
+    "end_time": 1217.5
+  },
+  {
+    "caption": "C. Sexton makes a driving layup two-pointer.",
+    "start_time": 1221.0,
+    "end_time": 1229.5
+  },
+  {
+    "caption": "E. Dëmin makes a jump shot three-pointer, assisted by N. Clowney.",
+    "start_time": 1235.0,
+    "end_time": 1243.5
+  },
+  {
+    "caption": "T. Mann makes a jump shot three-pointer, assisted by S. James.",
+    "start_time": 1246.0,
+    "end_time": 1254.5
+  },
+  {
+    "caption": "M. Diabaté commits a personal foul.",
+    "start_time": 1276.5,
+    "end_time": 1279.5
+  },
+  {
+    "caption": "D. Powell commits a personal foul.",
+    "start_time": 1340.0,
+    "end_time": 1343.0
+  },
+  {
+    "caption": "C. Sexton misses a driving finger roll two-pointer. N. Clowney grabs the defensive rebound after C. Sexton's missed driving finger roll layup two-pointer.",
+    "start_time": 1375.0,
+    "end_time": 1382.0
+  },
+  {
+    "caption": "N. Clowney is called for a traveling violation.",
+    "start_time": 1386.5,
+    "end_time": 1389.5
+  },
+  {
+    "caption": "T. Mann misses a pullup three-pointer. M. Diabaté grabs the offensive rebound after T. Mann's missed pullup three-pointer.",
+    "start_time": 1411.0,
+    "end_time": 1418.0
+  },
+  {
+    "caption": "E. Dëmin commits a shooting personal foul.",
+    "start_time": 1416.0,
+    "end_time": 1420.0
+  },
+  {
+    "caption": "E. Dëmin makes a jump shot three-pointer, assisted by M. Porter Jr.",
+    "start_time": 1479.0,
+    "end_time": 1487.5
+  },
+  {
+    "caption": "C. Sexton makes a driving finger roll two-pointer. D. Powell commits a personal foul.",
+    "start_time": 1488.85,
+    "end_time": 1497.35
+  },
+  {
+    "caption": "E. Dëmin is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1537.95,
+    "end_time": 1540.95
+  },
+  {
+    "caption": "N. Clowney commits a personal foul.",
+    "start_time": 1573.8,
+    "end_time": 1577.8
+  },
+  {
+    "caption": "N. Clowney makes a jump shot three-pointer, assisted by E. Dëmin.",
+    "start_time": 1627.7,
+    "end_time": 1636.2
+  },
+  {
+    "caption": "S. James misses a jump shot three-pointer. M. Diabaté grabs the offensive rebound after S. James's missed three-pointer.",
+    "start_time": 1648.35,
+    "end_time": 1655.35
+  }
+]

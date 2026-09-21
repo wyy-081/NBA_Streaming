@@ -1,0 +1,277 @@
+[
+  {
+    "caption": "M. Moody commits a personal foul.",
+    "start_time": 9.0,
+    "end_time": 12.0
+  },
+  {
+    "caption": "C. Flagg makes a driving layup two-pointer.",
+    "start_time": 38.5,
+    "end_time": 47.0
+  },
+  {
+    "caption": "Stephen Curry makes a cutting layup two-pointer, assisted by Jimmy Butler III.",
+    "start_time": 47.5,
+    "end_time": 56.0
+  },
+  {
+    "caption": "C. Flagg misses a jump shot three-pointer.",
+    "start_time": 68.5,
+    "end_time": 75.5
+  },
+  {
+    "caption": "Stephen Curry makes a finger roll layup two-pointer, assisted by Draymond Green.",
+    "start_time": 88.0,
+    "end_time": 96.5
+  },
+  {
+    "caption": "M. Christie makes a cutting dunk two-pointer, assisted by P. Washington.",
+    "start_time": 106.0,
+    "end_time": 114.5
+  },
+  {
+    "caption": "D. Green misses a jump shot three-pointer. J. Butler III grabs the offensive rebound after D. Green's missed jump shot three-pointer.",
+    "start_time": 120.5,
+    "end_time": 127.5
+  },
+  {
+    "caption": "Stephen Curry misses a jump shot three-pointer. M. Christie grabs the defensive rebound after S. Curry's missed jump shot three-pointer.",
+    "start_time": 125.5,
+    "end_time": 132.5
+  },
+  {
+    "caption": "P. Washington misses a fadeaway two-pointer. Stephen Curry grabs the defensive rebound after Patrick Washington's missed jump shot two-pointer.",
+    "start_time": 389.0,
+    "end_time": 396.0
+  },
+  {
+    "caption": "Q. Post misses a driving layup two-pointer. P. Washington grabs the defensive rebound after Q. Post's missed driving layup two-pointer.",
+    "start_time": 406.0,
+    "end_time": 413.0
+  },
+  {
+    "caption": "M. Christie misses a driving floating two-pointer. Draymond Green grabs the defensive rebound after M. Christie's missed driving floating two-pointer.",
+    "start_time": 417.0,
+    "end_time": 424.0
+  },
+  {
+    "caption": "Q. Post misses a cutting layup two-pointer. N. Marshall grabs the defensive rebound after Q. Post's missed layup two-pointer.",
+    "start_time": 442.0,
+    "end_time": 449.0
+  },
+  {
+    "caption": "Stephen Curry commits a personal foul.",
+    "start_time": 452.0,
+    "end_time": 455.0
+  },
+  {
+    "caption": "R. Nembhard misses a pullup three-pointer. Q. Post grabs the defensive rebound after R. Nembhard's missed jump shot three-pointer.",
+    "start_time": 477.0,
+    "end_time": 484.0
+  },
+  {
+    "caption": "J. Butler III makes a layup two-pointer, assisted by D. Green.",
+    "start_time": 488.5,
+    "end_time": 497.0
+  },
+  {
+    "caption": "N. Marshall misses a jump shot three-pointer. J. Butler III grabs the defensive rebound after N. Marshall's missed three-pointer.",
+    "start_time": 502.0,
+    "end_time": 509.0
+  },
+  {
+    "caption": "Q. Post makes a driving layup two-pointer, assisted by J. Butler III.",
+    "start_time": 511.5,
+    "end_time": 520.0
+  },
+  {
+    "caption": "C. Flagg makes a pullup three-pointer.",
+    "start_time": 521.5,
+    "end_time": 530.0
+  },
+  {
+    "caption": "Q. Post misses a jump shot three-pointer. M. Christie grabs the defensive rebound after Q. Post's missed three-pointer.",
+    "start_time": 551.0,
+    "end_time": 558.0
+  },
+  {
+    "caption": "Draymond Green commits a personal foul.",
+    "start_time": 560.0,
+    "end_time": 564.0
+  },
+  {
+    "caption": "Stephen Curry misses a pullup three-pointer. B. Williams grabs the defensive rebound after Stephen Curry's missed pullup three-pointer.",
+    "start_time": 626.5,
+    "end_time": 633.5
+  },
+  {
+    "caption": "P. Washington makes a turnaround hook two-pointer, assisted by C. Flagg.",
+    "start_time": 641.0,
+    "end_time": 649.5
+  },
+  {
+    "caption": "B. Podziemski misses a jump shot three-pointer. Stephen Curry grabs the offensive rebound after Buddy Podziemski's missed three-pointer.",
+    "start_time": 661.5,
+    "end_time": 668.5
+  },
+  {
+    "caption": "C. Flagg commits a personal foul.",
+    "start_time": 665.5,
+    "end_time": 669.5
+  },
+  {
+    "caption": "B. Williams makes a pullup three-pointer.",
+    "start_time": 728.0,
+    "end_time": 736.5
+  },
+  {
+    "caption": "G. Payton II makes a cutting layup two-pointer, assisted by Stephen Curry.",
+    "start_time": 740.0,
+    "end_time": 748.5
+  },
+  {
+    "caption": "B. Williams makes a pullup two-pointer.",
+    "start_time": 751.0,
+    "end_time": 759.5
+  },
+  {
+    "caption": "Draymond Green makes a cutting layup two-pointer, assisted by Gary Payton II.",
+    "start_time": 765.0,
+    "end_time": 773.5
+  },
+  {
+    "caption": "C. Flagg makes a driving layup two-pointer.",
+    "start_time": 787.0,
+    "end_time": 795.5
+  },
+  {
+    "caption": "P. Washington steals the ball from B. Podziemski on a bad pass.",
+    "start_time": 806.5,
+    "end_time": 810.5
+  },
+  {
+    "caption": "M. Christie misses a running layup two-pointer. B. Podziemski grabs the defensive rebound after M. Christie's missed running layup two-pointer.",
+    "start_time": 812.5,
+    "end_time": 819.5
+  },
+  {
+    "caption": "Stephen Curry makes a driving hook two-pointer, assisted by Mike Moody. Draymond Green commits a personal foul.",
+    "start_time": 822.0,
+    "end_time": 847.5
+  },
+  {
+    "caption": "Al Horford makes a layup two-pointer, assisted by D. Melton.",
+    "start_time": 926.5,
+    "end_time": 935.0
+  },
+  {
+    "caption": "B. Williams is called for a bad pass out-of-bounds turnover.",
+    "start_time": 942.0,
+    "end_time": 945.0
+  },
+  {
+    "caption": "W. Richard makes a jump shot three-pointer, assisted by J. Butler III.",
+    "start_time": 968.5,
+    "end_time": 977.0
+  },
+  {
+    "caption": "P. Washington makes a driving layup two-pointer. K. Thompson commits a personal foul.",
+    "start_time": 981.5,
+    "end_time": 1009.0
+  },
+  {
+    "caption": "K. Thompson makes a jump shot three-pointer, assisted by B. Williams.",
+    "start_time": 1081.5,
+    "end_time": 1090.0
+  },
+  {
+    "caption": "W. Richard misses a jump shot three-pointer. B. Williams grabs the defensive rebound after W. Richard's missed three-pointer.",
+    "start_time": 1097.0,
+    "end_time": 1104.0
+  },
+  {
+    "caption": "B. Podziemski commits a personal foul.",
+    "start_time": 1115.0,
+    "end_time": 1118.0
+  },
+  {
+    "caption": "Al Horford misses a jump shot three-pointer. N. Marshall grabs the defensive rebound after A. Horford's missed three-pointer.",
+    "start_time": 1378.0,
+    "end_time": 1385.0
+  },
+  {
+    "caption": "N. Marshall misses a fadeaway two-pointer. Al Horford grabs the defensive rebound after N. Marshall's missed jump shot two-pointer.",
+    "start_time": 1387.0,
+    "end_time": 1394.0
+  },
+  {
+    "caption": "J. Butler III commits an offensive charge foul.",
+    "start_time": 1402.0,
+    "end_time": 1405.0
+  },
+  {
+    "caption": "N. Marshall misses a floating jump shot. B. Podziemski grabs the defensive rebound after N. Marshall's missed floating two-pointer.",
+    "start_time": 1439.5,
+    "end_time": 1446.5
+  },
+  {
+    "caption": "W. Richard misses a jump shot three-pointer.",
+    "start_time": 1445.5,
+    "end_time": 1452.5
+  },
+  {
+    "caption": "B. Williams makes a driving layup two-pointer.",
+    "start_time": 1473.0,
+    "end_time": 1481.5
+  },
+  {
+    "caption": "J. Butler III commits an offensive foul.",
+    "start_time": 1489.0,
+    "end_time": 1492.0
+  },
+  {
+    "caption": "N. Marshall's driving layup two-pointer is blocked by D. Melton. D. Melton blocks N. Marshall's layup two-pointer. Al Horford grabs the defensive rebound after N. Marshall's missed driving layup two-pointer.",
+    "start_time": 1513.4,
+    "end_time": 1518.4
+  },
+  {
+    "caption": "B. Podziemski makes a driving layup two-pointer, assisted by Al Horford.",
+    "start_time": 1519.4,
+    "end_time": 1527.9
+  },
+  {
+    "caption": "Al Horford steals the ball from Christian Braun on a bad pass.",
+    "start_time": 1531.95,
+    "end_time": 1535.95
+  },
+  {
+    "caption": "Jimmy Butler III makes a running dunk two-pointer, assisted by Al Horford.",
+    "start_time": 1532.3,
+    "end_time": 1540.8
+  },
+  {
+    "caption": "B. Williams makes a driving layup two-pointer.",
+    "start_time": 1548.5,
+    "end_time": 1557.0
+  },
+  {
+    "caption": "D. Melton misses a jump shot three-pointer. D. Gafford grabs the defensive rebound after D. Melton's missed three-pointer.",
+    "start_time": 1580.0,
+    "end_time": 1587.0
+  },
+  {
+    "caption": "D. Melton makes a driving layup two-pointer. D. Gafford commits a shooting personal foul.",
+    "start_time": 1583.1,
+    "end_time": 1591.6
+  },
+  {
+    "caption": "D. Melton steals the ball from D. Gafford on a bad pass.",
+    "start_time": 1585.75,
+    "end_time": 1589.75
+  },
+  {
+    "caption": "K. Thompson grabs the defensive rebound.",
+    "start_time": 1645.4,
+    "end_time": 1650.4
+  }
+]

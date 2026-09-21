@@ -1,0 +1,287 @@
+[
+  {
+    "caption": "M. McBride steals the ball from R. Nembhard on a bad pass.",
+    "start_time": 8.5,
+    "end_time": 12.5
+  },
+  {
+    "caption": "M. McBride is called for a traveling violation.",
+    "start_time": 12.0,
+    "end_time": 15.0
+  },
+  {
+    "caption": "K. Thompson misses a driving floating two-pointer.",
+    "start_time": 41.5,
+    "end_time": 48.5
+  },
+  {
+    "caption": "K. Towns makes a driving layup two-pointer.",
+    "start_time": 63.5,
+    "end_time": 72.0
+  },
+  {
+    "caption": "J. Hart commits a personal foul.",
+    "start_time": 82.0,
+    "end_time": 85.0
+  },
+  {
+    "caption": "K. Thompson makes a pullup three-pointer, assisted by D. Powell.",
+    "start_time": 111.0,
+    "end_time": 119.5
+  },
+  {
+    "caption": "L. Shamet makes a cutting layup two-pointer, assisted by K. Towns.",
+    "start_time": 124.0,
+    "end_time": 132.5
+  },
+  {
+    "caption": "C. Flagg misses a step back three-pointer. K. Towns grabs the defensive rebound after C. Flagg's missed jump shot three-pointer.",
+    "start_time": 148.5,
+    "end_time": 155.5
+  },
+  {
+    "caption": "D. Powell commits a personal foul.",
+    "start_time": 158.5,
+    "end_time": 162.5
+  },
+  {
+    "caption": "K. Thompson misses a pullup three-pointer. K. Towns grabs the defensive rebound after K. Thompson's missed jump shot three-pointer.",
+    "start_time": 240.0,
+    "end_time": 247.0
+  },
+  {
+    "caption": "K. Towns commits an offensive foul.",
+    "start_time": 254.0,
+    "end_time": 257.0
+  },
+  {
+    "caption": "L. Shamet commits a personal foul.",
+    "start_time": 279.0,
+    "end_time": 283.0
+  },
+  {
+    "caption": "L. Shamet grabs the defensive rebound.",
+    "start_time": 330.0,
+    "end_time": 335.0
+  },
+  {
+    "caption": "O. Anunoby misses a step back three-pointer. N. Marshall grabs the defensive rebound after O. Anunoby's missed jump shot three-pointer.",
+    "start_time": 342.0,
+    "end_time": 349.0
+  },
+  {
+    "caption": "K. Thompson makes a pullup two-pointer, assisted by C. Flagg.",
+    "start_time": 351.5,
+    "end_time": 360.0
+  },
+  {
+    "caption": "L. Shamet misses a jump shot three-pointer. R. Nembhard grabs the defensive rebound after L. Shamet's missed three-pointer.",
+    "start_time": 367.0,
+    "end_time": 374.0
+  },
+  {
+    "caption": "K. Thompson misses a pullup two-pointer. M. Bridges grabs the defensive rebound after K. Thompson's missed pullup two-pointer.",
+    "start_time": 392.0,
+    "end_time": 399.0
+  },
+  {
+    "caption": "K. Thompson steals the ball from O. Anunoby on a lost ball.",
+    "start_time": 402.0,
+    "end_time": 406.0
+  },
+  {
+    "caption": "M. Bridges steals the ball from C. Flagg on a bad pass.",
+    "start_time": 408.0,
+    "end_time": 412.0
+  },
+  {
+    "caption": "M. McBride makes a jump shot three-pointer, assisted by M. Bridges.",
+    "start_time": 412.5,
+    "end_time": 421.0
+  },
+  {
+    "caption": "N. Marshall misses a turnaround two-pointer. K. Towns grabs the defensive rebound after N. Marshall's missed turnaround two-pointer.",
+    "start_time": 443.0,
+    "end_time": 450.0
+  },
+  {
+    "caption": "O. Anunoby misses a running three-pointer. K. Thompson grabs the defensive rebound after O. Anunoby's missed running three-pointer.",
+    "start_time": 450.0,
+    "end_time": 457.0
+  },
+  {
+    "caption": "N. Marshall misses a jump shot three-pointer. K. Towns grabs the defensive rebound after N. Marshall's missed three-pointer.",
+    "start_time": 473.0,
+    "end_time": 480.0
+  },
+  {
+    "caption": "Michael Bridges makes a alley-oop layup two-pointer, assisted by Karl Towns.",
+    "start_time": 479.5,
+    "end_time": 488.0
+  },
+  {
+    "caption": "C. Flagg makes a driving layup two-pointer, assisted by N. Marshall.",
+    "start_time": 714.0,
+    "end_time": 722.5
+  },
+  {
+    "caption": "C. Martin commits a personal foul.",
+    "start_time": 743.5,
+    "end_time": 746.5
+  },
+  {
+    "caption": "J. Hart makes a step back three-pointer. K. Towns commits a personal foul.",
+    "start_time": 779.5,
+    "end_time": 814.0
+  },
+  {
+    "caption": "K. Towns grabs the defensive rebound.",
+    "start_time": 858.0,
+    "end_time": 863.0
+  },
+  {
+    "caption": "R. Nembhard steals the ball from J. Brunson on a bad pass.",
+    "start_time": 868.0,
+    "end_time": 872.0
+  },
+  {
+    "caption": "R. Nembhard misses a pullup two-pointer. K. Towns grabs the defensive rebound after R. Nembhard's missed jump shot.",
+    "start_time": 884.0,
+    "end_time": 891.0
+  },
+  {
+    "caption": "J. Brunson makes a running layup two-pointer.",
+    "start_time": 888.5,
+    "end_time": 897.0
+  },
+  {
+    "caption": "M. Christie misses a driving floating two-pointer. M. Cisse grabs the offensive rebound after M. Christie's missed driving floating two-pointer. M. Cisse makes a putback layup two-pointer.",
+    "start_time": 913.0,
+    "end_time": 922.0
+  },
+  {
+    "caption": "J. Hart is called for an out-of-bounds turnover.",
+    "start_time": 922.0,
+    "end_time": 925.0
+  },
+  {
+    "caption": "M. Robinson commits a personal foul.",
+    "start_time": 974.5,
+    "end_time": 977.5
+  },
+  {
+    "caption": "M. Cisse makes a dunk two-pointer, assisted by N. Marshall.",
+    "start_time": 996.0,
+    "end_time": 1004.5
+  },
+  {
+    "caption": "J. Hart makes a jump shot three-pointer, assisted by J. Brunson.",
+    "start_time": 1016.0,
+    "end_time": 1024.5
+  },
+  {
+    "caption": "M. Robinson commits a take personal foul.",
+    "start_time": 1027.0,
+    "end_time": 1030.0
+  },
+  {
+    "caption": "M. Bridges misses a jump shot three-pointer. K. Towns grabs the offensive rebound after M. Bridges' missed jump shot three-pointer. K. Towns misses a putback layup two-pointer.",
+    "start_time": 1094.5,
+    "end_time": 1106.5
+  },
+  {
+    "caption": "C. Flagg grabs the defensive rebound.",
+    "start_time": 1100.5,
+    "end_time": 1106.5
+  },
+  {
+    "caption": "N. Marshall misses a driving floating two-pointer. K. Towns grabs the defensive rebound after N. Marshall's missed driving floating two-pointer.",
+    "start_time": 1117.5,
+    "end_time": 1124.5
+  },
+  {
+    "caption": "K. Towns makes a layup two-pointer, assisted by J. Brunson. M. Cisse commits a personal foul.",
+    "start_time": 1128.0,
+    "end_time": 1136.5
+  },
+  {
+    "caption": "C. Flagg grabs the defensive rebound.",
+    "start_time": 1201.0,
+    "end_time": 1206.0
+  },
+  {
+    "caption": "N. Marshall's jump shot three-pointer is blocked by O. Anunoby. O. Anunoby blocks N. Marshall's jump shot three-pointer. O. Anunoby grabs the defensive rebound after N. Marshall's missed three-pointer.",
+    "start_time": 1223.0,
+    "end_time": 1228.0
+  },
+  {
+    "caption": "J. Hart misses a jump shot three-pointer. C. Flagg grabs the defensive rebound after J. Hart's missed jump shot three-pointer.",
+    "start_time": 1240.0,
+    "end_time": 1247.0
+  },
+  {
+    "caption": "J. Brunson commits a personal foul.",
+    "start_time": 1257.0,
+    "end_time": 1261.0
+  },
+  {
+    "caption": "C. Martin steals the ball from A. Hukporti on a lost ball.",
+    "start_time": 1508.0,
+    "end_time": 1512.0
+  },
+  {
+    "caption": "C. Flagg misses a pullup three-pointer. M. Diawara grabs the defensive rebound after C. Flagg's missed pullup three-pointer.",
+    "start_time": 1524.0,
+    "end_time": 1531.0
+  },
+  {
+    "caption": "D. Powell commits a take personal foul.",
+    "start_time": 1537.0,
+    "end_time": 1540.0
+  },
+  {
+    "caption": "T. Kolek's driving layup two-pointer is blocked by M. Cisse. M. Cisse blocks T. Kolek's layup two-pointer.",
+    "start_time": 1572.0,
+    "end_time": 1577.0
+  },
+  {
+    "caption": "J. Robinson-Earl commits a personal foul.",
+    "start_time": 1576.0,
+    "end_time": 1579.0
+  },
+  {
+    "caption": "M. Kelly grabs the defensive rebound.",
+    "start_time": 1614.0,
+    "end_time": 1619.0
+  },
+  {
+    "caption": "R. Nembhard misses a pullup three-pointer. A. Hukporti grabs the defensive rebound after R. Nembhard's missed jump shot three-pointer.",
+    "start_time": 1632.0,
+    "end_time": 1639.0
+  },
+  {
+    "caption": "T. Kolek misses a driving floating two-pointer. M. Cisse grabs the defensive rebound after T. Kolek's missed driving floating two-pointer.",
+    "start_time": 1642.0,
+    "end_time": 1649.0
+  },
+  {
+    "caption": "M. Diawara commits a personal foul.",
+    "start_time": 1654.0,
+    "end_time": 1657.0
+  },
+  {
+    "caption": "M. Diawara makes a step back jump shot two-pointer, assisted by P. Dadiet.",
+    "start_time": 1724.8,
+    "end_time": 1733.3
+  },
+  {
+    "caption": "J. Hardy makes a jump shot three-pointer, assisted by M. Kelly.",
+    "start_time": 1743.5,
+    "end_time": 1752.0
+  },
+  {
+    "caption": "T. Kolek makes a turnaround hook two-pointer.",
+    "start_time": 1756.9,
+    "end_time": 1765.4
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "caption": "K. Porter Jr. commits an offensive foul.",
+    "start_time": 10.0,
+    "end_time": 13.0
+  },
+  {
+    "caption": "G. Harris steals the ball from M. Gueye on a lost ball.",
+    "start_time": 35.5,
+    "end_time": 39.5
+  },
+  {
+    "caption": "A. Green makes a pullup three-pointer, assisted by K. Porter Jr.",
+    "start_time": 41.0,
+    "end_time": 49.5
+  },
+  {
+    "caption": "D. Daniels misses a driving floating bank two-pointer. O. Okongwu grabs the offensive rebound after D. Daniels' missed driving floating bank two-pointer.",
+    "start_time": 58.5,
+    "end_time": 65.5
+  },
+  {
+    "caption": "K. Porter Jr. commits a personal foul.",
+    "start_time": 64.5,
+    "end_time": 68.5
+  },
+  {
+    "caption": "V. Krejčí commits a shooting personal foul.",
+    "start_time": 120.0,
+    "end_time": 124.0
+  },
+  {
+    "caption": "D. Daniels misses a driving floating two-pointer. P. Nance grabs the defensive rebound after D. Daniels' missed driving floating two-pointer.",
+    "start_time": 190.0,
+    "end_time": 197.0
+  },
+  {
+    "caption": "B. Portis misses a pullup three-pointer. O. Okongwu grabs the defensive rebound after B. Portis's missed jump shot three-pointer.",
+    "start_time": 200.0,
+    "end_time": 207.0
+  },
+  {
+    "caption": "G. Harris steals the ball from D. Daniels on a lost ball.",
+    "start_time": 213.0,
+    "end_time": 217.0
+  },
+  {
+    "caption": "D. Daniels commits a personal foul.",
+    "start_time": 218.0,
+    "end_time": 222.0
+  },
+  {
+    "caption": "N. Alexander-Walker misses a jump shot three-pointer. K. Porter Jr. grabs the defensive rebound after N. Alexander-Walker's missed three-pointer.",
+    "start_time": 279.0,
+    "end_time": 286.0
+  },
+  {
+    "caption": "B. Portis makes a running three-pointer, assisted by K. Porter Jr.",
+    "start_time": 285.5,
+    "end_time": 294.0
+  },
+  {
+    "caption": "V. Krejčí misses a pullup three-pointer. L. Kennard grabs the offensive rebound after V. Krejčí's missed pullup three-pointer.",
+    "start_time": 313.0,
+    "end_time": 320.0
+  },
+  {
+    "caption": "O. Okongwu misses a jump shot three-pointer. B. Portis grabs the defensive rebound after O. Okongwu's missed jump shot three-pointer.",
+    "start_time": 324.0,
+    "end_time": 331.0
+  },
+  {
+    "caption": "A. Green makes a jump shot three-pointer, assisted by G. Harris.",
+    "start_time": 337.5,
+    "end_time": 346.0
+  },
+  {
+    "caption": "J. Johnson's reverse layup two-pointer is blocked by P. Nance. P. Nance blocks J. Johnson's layup two-pointer. P. Nance grabs the defensive rebound after J. Johnson's missed reverse layup two-pointer.",
+    "start_time": 575.0,
+    "end_time": 580.0
+  },
+  {
+    "caption": "A. Green misses a jump shot three-pointer. P. Nance grabs the offensive rebound after A. Green's missed jump shot three-pointer.",
+    "start_time": 586.0,
+    "end_time": 593.0
+  },
+  {
+    "caption": "A. Green makes a jump shot three-pointer, assisted by P. Nance.",
+    "start_time": 587.5,
+    "end_time": 596.0
+  },
+  {
+    "caption": "L. Kennard makes a pullup two-pointer, assisted by J. Johnson.",
+    "start_time": 633.5,
+    "end_time": 642.0
+  },
+  {
+    "caption": "K. Porter Jr. makes a step back jump shot two-pointer.",
+    "start_time": 660.5,
+    "end_time": 669.0
+  },
+  {
+    "caption": "B. Portis commits a personal foul.",
+    "start_time": 689.0,
+    "end_time": 692.0
+  },
+  {
+    "caption": "A. Newell makes a driving hook two-pointer, assisted by L. Kennard.",
+    "start_time": 723.5,
+    "end_time": 732.0
+  },
+  {
+    "caption": "B. Portis misses a jump shot three-pointer. L. Kennard grabs the defensive rebound after B. Portis's missed three-pointer.",
+    "start_time": 743.0,
+    "end_time": 750.0
+  },
+  {
+    "caption": "C. Kispert misses a running three-pointer. G. Antetokounmpo grabs the defensive rebound after C. Kispert's missed running three-pointer.",
+    "start_time": 750.0,
+    "end_time": 757.0
+  },
+  {
+    "caption": "B. Portis makes a jump shot three-pointer, assisted by G. Antetokounmpo.",
+    "start_time": 757.5,
+    "end_time": 766.0
+  },
+  {
+    "caption": "A. Newell misses an alley-oop layup two-pointer. K. Porter Jr. grabs the defensive rebound after A. Newell's missed layup two-pointer.",
+    "start_time": 768.0,
+    "end_time": 775.0
+  },
+  {
+    "caption": "J. Johnson commits a personal foul.",
+    "start_time": 777.5,
+    "end_time": 780.5
+  },
+  {
+    "caption": "R. Rollins misses a jump shot three-pointer. C. Kispert grabs the defensive rebound after R. Rollins' missed three-pointer.",
+    "start_time": 811.5,
+    "end_time": 818.5
+  },
+  {
+    "caption": "N. Alexander-Walker misses a jump shot three-pointer. G. Antetokounmpo grabs the defensive rebound after N. Alexander-Walker's missed three-pointer.",
+    "start_time": 823.5,
+    "end_time": 830.5
+  },
+  {
+    "caption": "G. Antetokounmpo makes a running finger roll layup two-pointer.",
+    "start_time": 830.0,
+    "end_time": 838.5
+  },
+  {
+    "caption": "R. Rollins commits a personal foul.",
+    "start_time": 1048.5,
+    "end_time": 1051.5
+  },
+  {
+    "caption": "J. Johnson misses a driving floating two-pointer. J. Johnson grabs the offensive rebound after missing his driving floating two-pointer.",
+    "start_time": 1074.0,
+    "end_time": 1081.0
+  },
+  {
+    "caption": "C. McCollum misses a jump shot three-pointer. G. Antetokounmpo grabs the defensive rebound after C. McCollum's missed three-pointer.",
+    "start_time": 1078.0,
+    "end_time": 1085.0
+  },
+  {
+    "caption": "Giannis Antetokounmpo makes a dunk two-pointer, assisted by Khris Porter Jr.",
+    "start_time": 1087.5,
+    "end_time": 1096.0
+  },
+  {
+    "caption": "C. McCollum makes a driving finger roll two-pointer, assisted by N. Alexander-Walker.",
+    "start_time": 1104.5,
+    "end_time": 1113.0
+  },
+  {
+    "caption": "R. Rollins' driving floating two-pointer is blocked by C. McCollum. C. McCollum blocks R. Rollins' jump shot two-pointer. O. Okongwu grabs the defensive rebound after R. Rollins' missed driving floating two-pointer.",
+    "start_time": 1125.0,
+    "end_time": 1130.0
+  },
+  {
+    "caption": "R. Rollins commits a personal foul.",
+    "start_time": 1140.0,
+    "end_time": 1144.0
+  },
+  {
+    "caption": "M. Turner misses a jump shot three-pointer. O. Okongwu grabs the defensive rebound after M. Turner's missed three-pointer.",
+    "start_time": 1195.0,
+    "end_time": 1202.0
+  },
+  {
+    "caption": "J. Johnson misses a jump shot three-pointer. G. Antetokounmpo grabs the defensive rebound after J. Johnson's missed three-pointer.",
+    "start_time": 1213.0,
+    "end_time": 1220.0
+  },
+  {
+    "caption": "O. Okongwu steals the ball from R. Rollins on a bad pass.",
+    "start_time": 1229.0,
+    "end_time": 1233.0
+  },
+  {
+    "caption": "J. Johnson misses a running pullup two-pointer. G. Antetokounmpo grabs the defensive rebound after J. Johnson's missed jump shot.",
+    "start_time": 1233.0,
+    "end_time": 1240.0
+  },
+  {
+    "caption": "K. Kuzma misses a cutting layup two-pointer. N. Alexander-Walker grabs the defensive rebound after K. Kuzma's missed layup two-pointer.",
+    "start_time": 1246.0,
+    "end_time": 1253.0
+  },
+  {
+    "caption": "J. Johnson makes a driving layup two-pointer, assisted by C. Kispert.",
+    "start_time": 1255.5,
+    "end_time": 1264.0
+  },
+  {
+    "caption": "M. Turner's layup two-pointer is blocked by J. Johnson. J. Johnson blocks M. Turner's layup two-pointer. N. Alexander-Walker grabs the defensive rebound after M. Turner's missed layup two-pointer.",
+    "start_time": 1275.0,
+    "end_time": 1280.0
+  },
+  {
+    "caption": "J. Johnson makes a running finger roll two-pointer, assisted by N. Alexander-Walker.",
+    "start_time": 1278.5,
+    "end_time": 1287.0
+  },
+  {
+    "caption": "Jump ball between R. Rollins and D. Daniels, G. Antetokounmpo recovers the tip.",
+    "start_time": 1423.5,
+    "end_time": 1428.5
+  },
+  {
+    "caption": "R. Rollins misses a pullup two-pointer. J. Johnson grabs the defensive rebound after R. Rollins' missed pullup two-pointer.",
+    "start_time": 1427.5,
+    "end_time": 1434.5
+  },
+  {
+    "caption": "N. Alexander-Walker misses a jump shot three-pointer. M. Turner grabs the defensive rebound after N. Alexander-Walker's missed three-pointer.",
+    "start_time": 1438.5,
+    "end_time": 1445.5
+  },
+  {
+    "caption": "M. Turner makes a dunk two-pointer, assisted by R. Rollins.",
+    "start_time": 1448.0,
+    "end_time": 1456.5
+  },
+  {
+    "caption": "C. McCollum misses a pullup two-pointer. A. Green grabs the defensive rebound after C. McCollum's missed pullup two-pointer.",
+    "start_time": 1465.5,
+    "end_time": 1472.5
+  },
+  {
+    "caption": "O. Okongwu commits a shooting personal foul.",
+    "start_time": 1474.5,
+    "end_time": 1478.5
+  },
+  {
+    "caption": "J. Johnson misses a driving floating two-pointer. G. Antetokounmpo grabs the defensive rebound after J. Johnson's missed driving floating two-pointer.",
+    "start_time": 1552.5,
+    "end_time": 1559.5
+  },
+  {
+    "caption": "K. Kuzma makes a jump shot three-pointer, assisted by G. Antetokounmpo. M. Turner commits a personal foul.",
+    "start_time": 1563.0,
+    "end_time": 1631.0
+  },
+  {
+    "caption": "C. McCollum commits a personal foul.",
+    "start_time": 1636.8,
+    "end_time": 1639.8
+  },
+  {
+    "caption": "G. Antetokounmpo grabs the offensive rebound.",
+    "start_time": 1694.0,
+    "end_time": 1699.0
+  },
+  {
+    "caption": "K. Kuzma misses a jump shot three-pointer. G. Antetokounmpo grabs the offensive rebound after K. Kuzma's missed three-pointer.",
+    "start_time": 1696.5,
+    "end_time": 1703.5
+  },
+  {
+    "caption": "G. Antetokounmpo makes a driving dunk two-pointer.",
+    "start_time": 1698.9,
+    "end_time": 1707.4
+  },
+  {
+    "caption": "D. Daniels is called for a defensive goaltending violation.",
+    "start_time": 1704.4,
+    "end_time": 1707.4
+  },
+  {
+    "caption": "C. McCollum makes a jump shot three-pointer, assisted by J. Johnson.",
+    "start_time": 1723.0,
+    "end_time": 1731.5
+  },
+  {
+    "caption": "R. Rollins misses a driving reverse layup two-pointer. G. Antetokounmpo grabs the offensive rebound after R. Rollins' missed driving reverse layup two-pointer.",
+    "start_time": 1754.5,
+    "end_time": 1761.5
+  },
+  {
+    "caption": "J. Johnson commits a personal foul.",
+    "start_time": 1757.6,
+    "end_time": 1761.6
+  },
+  {
+    "caption": "J. Johnson grabs the defensive rebound.",
+    "start_time": 1819.8,
+    "end_time": 1824.8
+  }
+]

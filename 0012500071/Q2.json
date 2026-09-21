@@ -1,0 +1,307 @@
+[
+  {
+    "caption": "V. Edgecombe steals the ball from T. Newton on a bad pass.",
+    "start_time": 8.0,
+    "end_time": 12.0
+  },
+  {
+    "caption": "T. Maxey makes a running finger roll layup two-pointer, assisted by V. Edgecombe. T. Maxey commits a personal foul.",
+    "start_time": 9.5,
+    "end_time": 36.0
+  },
+  {
+    "caption": "T. Maxey makes a pullup three-pointer, assisted by J. Embiid.",
+    "start_time": 121.5,
+    "end_time": 130.0
+  },
+  {
+    "caption": "Z. Pullin's driving floating two-pointer is blocked by K. Oubre Jr. K. Oubre Jr. blocks Z. Pullin's jump shot two-pointer. J. Embiid grabs the defensive rebound after Z. Pullin's missed driving floating two-pointer.",
+    "start_time": 141.0,
+    "end_time": 146.0
+  },
+  {
+    "caption": "J. Embiid misses a pullup three-pointer. L. Miller grabs the defensive rebound after J. Embiid's missed jump shot three-pointer.",
+    "start_time": 149.0,
+    "end_time": 156.0
+  },
+  {
+    "caption": "R. Zikarsky makes a hook two-pointer, assisted by Z. Pullin.",
+    "start_time": 156.5,
+    "end_time": 165.0
+  },
+  {
+    "caption": "K. Oubre Jr. makes a driving layup two-pointer, assisted by J. Embiid.",
+    "start_time": 175.5,
+    "end_time": 184.0
+  },
+  {
+    "caption": "J. Embiid steals the ball from R. Zikarsky on a lost ball.",
+    "start_time": 189.0,
+    "end_time": 193.0
+  },
+  {
+    "caption": "J. Walker makes a running layup two-pointer, assisted by J. Embiid.",
+    "start_time": 192.5,
+    "end_time": 201.0
+  },
+  {
+    "caption": "J. Clark misses a jump shot three-pointer.",
+    "start_time": 221.0,
+    "end_time": 228.0
+  },
+  {
+    "caption": "J. Beringer steals the ball from K. Oubre Jr. on a bad pass.",
+    "start_time": 252.5,
+    "end_time": 256.5
+  },
+  {
+    "caption": "J. Beringer makes a running dunk two-pointer.",
+    "start_time": 256.5,
+    "end_time": 265.0
+  },
+  {
+    "caption": "J. Embiid commits an offensive foul.",
+    "start_time": 272.5,
+    "end_time": 275.5
+  },
+  {
+    "caption": "L. Miller misses a driving floating two-pointer. J. Walker grabs the defensive rebound after L. Miller's missed driving floating two-pointer.",
+    "start_time": 310.5,
+    "end_time": 317.5
+  },
+  {
+    "caption": "Z. Pullin commits a personal foul.",
+    "start_time": 320.5,
+    "end_time": 324.5
+  },
+  {
+    "caption": "J. Juzang's driving floating two-pointer is blocked by A. Bona. A. Bona blocks J. Juzang's jump shot two-pointer. T. Maxey grabs the defensive rebound after J. Juzang's missed driving floating two-pointer.",
+    "start_time": 381.5,
+    "end_time": 386.5
+  },
+  {
+    "caption": "V. Edgecombe makes a running dunk two-pointer, assisted by T. Maxey.",
+    "start_time": 382.0,
+    "end_time": 390.5
+  },
+  {
+    "caption": "J. Clark makes a driving floating two-pointer, assisted by L. Miller.",
+    "start_time": 575.0,
+    "end_time": 583.5
+  },
+  {
+    "caption": "J. Walker is called for a bad pass out-of-bounds turnover.",
+    "start_time": 590.5,
+    "end_time": 593.5
+  },
+  {
+    "caption": "V. Edgecombe steals the ball from J. Clark on a bad pass.",
+    "start_time": 607.5,
+    "end_time": 611.5
+  },
+  {
+    "caption": "K. Oubre Jr. misses a driving floating two-pointer.",
+    "start_time": 625.5,
+    "end_time": 632.5
+  },
+  {
+    "caption": "V. Edgecombe misses a jump shot two-pointer. A. Bona grabs the offensive rebound after V. Edgecombe's missed jump shot.",
+    "start_time": 663.5,
+    "end_time": 670.5
+  },
+  {
+    "caption": "A. Bona makes a tip dunk two-pointer.",
+    "start_time": 664.0,
+    "end_time": 672.5
+  },
+  {
+    "caption": "R. Dillingham's floating two-pointer is blocked by T. Maxey. T. Maxey blocks R. Dillingham's jump shot two-pointer.",
+    "start_time": 677.5,
+    "end_time": 682.5
+  },
+  {
+    "caption": "L. Miller steals the ball from V. Edgecombe on a lost ball.",
+    "start_time": 689.5,
+    "end_time": 693.5
+  },
+  {
+    "caption": "J. Clark makes a running three-pointer, assisted by L. Miller.",
+    "start_time": 691.0,
+    "end_time": 699.5
+  },
+  {
+    "caption": "K. Oubre Jr. misses a driving finger roll two-pointer. L. Miller grabs the defensive rebound after K. Oubre Jr.'s missed driving finger roll layup two-pointer.",
+    "start_time": 710.5,
+    "end_time": 717.5
+  },
+  {
+    "caption": "J. Juzang makes a floating jump shot two-pointer.",
+    "start_time": 720.0,
+    "end_time": 728.5
+  },
+  {
+    "caption": "Q. Grimes makes a driving finger roll two-pointer.",
+    "start_time": 924.0,
+    "end_time": 932.5
+  },
+  {
+    "caption": "J. Juzang misses a jump shot three-pointer. J. Walker grabs the defensive rebound after J. Juzang's missed three-pointer.",
+    "start_time": 949.8,
+    "end_time": 956.8
+  },
+  {
+    "caption": "J. Walker makes a layup two-pointer, assisted by T. Maxey.",
+    "start_time": 959.5,
+    "end_time": 968.0
+  },
+  {
+    "caption": "J. Clark misses a driving floating two-pointer. J. Walker grabs the defensive rebound after J. Clark's missed driving floating two-pointer.",
+    "start_time": 972.5,
+    "end_time": 979.5
+  },
+  {
+    "caption": "L. Miller commits a personal foul.",
+    "start_time": 985.5,
+    "end_time": 989.5
+  },
+  {
+    "caption": "R. Dillingham misses a turnaround jump shot. V. Edgecombe grabs the defensive rebound after R. Dillingham's missed jump shot.",
+    "start_time": 1049.0,
+    "end_time": 1056.0
+  },
+  {
+    "caption": "R. Dillingham steals the ball from J. Walker on a bad pass.",
+    "start_time": 1060.0,
+    "end_time": 1064.0
+  },
+  {
+    "caption": "L. Miller makes a running layup two-pointer, assisted by R. Dillingham.",
+    "start_time": 1061.5,
+    "end_time": 1070.0
+  },
+  {
+    "caption": "Q. Grimes steps out-of-bounds.",
+    "start_time": 1084.0,
+    "end_time": 1087.0
+  },
+  {
+    "caption": "J. Clark makes a jump shot three-pointer, assisted by R. Dillingham.",
+    "start_time": 1109.0,
+    "end_time": 1117.5
+  },
+  {
+    "caption": "V. Edgecombe misses a turnaround two-pointer. J. Juzang grabs the defensive rebound after V. Edgecombe's missed turnaround two-pointer.",
+    "start_time": 1152.0,
+    "end_time": 1159.0
+  },
+  {
+    "caption": "R. Dillingham is called for a traveling violation.",
+    "start_time": 1184.9,
+    "end_time": 1187.9
+  },
+  {
+    "caption": "Joel Embiid makes a jump shot three-pointer, assisted by Tyrese Maxey.",
+    "start_time": 1227.0,
+    "end_time": 1235.5
+  },
+  {
+    "caption": "T. Maxey steals the ball from R. Dillingham on a lost ball.",
+    "start_time": 1242.5,
+    "end_time": 1246.5
+  },
+  {
+    "caption": "T. Maxey makes a running dunk two-pointer.",
+    "start_time": 1243.0,
+    "end_time": 1251.5
+  },
+  {
+    "caption": "R. Zikarsky makes a driving finger roll two-pointer, assisted by J. Clark.",
+    "start_time": 1259.0,
+    "end_time": 1267.5
+  },
+  {
+    "caption": "Q. Grimes misses a driving layup two-pointer. D. Barlow grabs the offensive rebound after Q. Grimes' missed driving layup two-pointer. D. Barlow misses a tip layup two-pointer.",
+    "start_time": 1270.5,
+    "end_time": 1278.5
+  },
+  {
+    "caption": "J. Juzang commits a personal foul.",
+    "start_time": 1274.5,
+    "end_time": 1277.5
+  },
+  {
+    "caption": "R. Zikarsky commits a personal foul.",
+    "start_time": 1304.5,
+    "end_time": 1307.5
+  },
+  {
+    "caption": "Q. Grimes makes a driving finger roll two-pointer, assisted by J. Embiid.",
+    "start_time": 1325.5,
+    "end_time": 1334.0
+  },
+  {
+    "caption": "J. Clark misses a step back three-pointer. R. Zikarsky grabs the offensive rebound after J. Clark's missed jump shot three-pointer.",
+    "start_time": 1344.0,
+    "end_time": 1351.0
+  },
+  {
+    "caption": "J. Juzang misses a jump shot three-pointer. L. Miller grabs the offensive rebound after J. Juzang's missed three-pointer. L. Miller makes a putback layup two-pointer.",
+    "start_time": 1351.0,
+    "end_time": 1364.0
+  },
+  {
+    "caption": "J. Embiid misses a fadeaway two-pointer. J. Juzang grabs the defensive rebound after J. Embiid's missed jump shot two-pointer.",
+    "start_time": 1376.0,
+    "end_time": 1383.0
+  },
+  {
+    "caption": "J. Juzang makes a driving floating jump shot two-pointer.",
+    "start_time": 1385.0,
+    "end_time": 1393.5
+  },
+  {
+    "caption": "J. Embiid's layup two-pointer is blocked by R. Zikarsky. R. Zikarsky blocks J. Embiid's layup two-pointer. B. Hyland grabs the defensive rebound after J. Embiid's missed layup two-pointer.",
+    "start_time": 1398.0,
+    "end_time": 1403.0
+  },
+  {
+    "caption": "J. Beringer misses a reverse layup two-pointer. J. Embiid grabs the defensive rebound after J. Beringer's missed reverse layup two-pointer.",
+    "start_time": 1603.6,
+    "end_time": 1610.6
+  },
+  {
+    "caption": "J. Embiid makes a running finger roll two-pointer.",
+    "start_time": 1607.25,
+    "end_time": 1615.75
+  },
+  {
+    "caption": "Z. Pullin is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1617.95,
+    "end_time": 1620.95
+  },
+  {
+    "caption": "J. Embiid is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1638.95,
+    "end_time": 1641.95
+  },
+  {
+    "caption": "B. Hyland makes a step back three-pointer, assisted by Z. Pullin.",
+    "start_time": 1654.1,
+    "end_time": 1662.6
+  },
+  {
+    "caption": "J. Beringer makes a running finger roll two-pointer, assisted by J. Clark. T. Maxey commits a personal foul.",
+    "start_time": 1682.8,
+    "end_time": 1691.3
+  },
+  {
+    "caption": "Z. Pullin steals the ball from T. Maxey on a bad pass.",
+    "start_time": 1683.9,
+    "end_time": 1687.9
+  },
+  {
+    "caption": "J. Embiid grabs the defensive rebound.",
+    "start_time": 1685.3,
+    "end_time": 1690.3
+  }
+]
