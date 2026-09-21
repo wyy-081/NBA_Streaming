@@ -1,0 +1,861 @@
+{
+  "strategy": {
+    "preseason_train_only": true,
+    "val_games": 15,
+    "test_games": 16,
+    "all_teams_in_val_and_test": true,
+    "combined_eval_home_and_away_per_team": true,
+    "min_train_home_and_away_games_per_team": 3,
+    "closed_set_identity": false,
+    "core_player_both_train_sides_min_events": null
+  },
+  "solver": {
+    "status": 0,
+    "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "objective": 100095703.02161,
+    "mip_gap": 0.0
+  },
+  "train_games": [
+    "0012500006",
+    "0012500007",
+    "0012500023",
+    "0012500024",
+    "0012500063",
+    "0012500065",
+    "0012500066",
+    "0012500067",
+    "0012500068",
+    "0012500069",
+    "0012500071",
+    "0022500001",
+    "0022500002",
+    "0022500004",
+    "0022500005",
+    "0022500011",
+    "0022500014",
+    "0022500016",
+    "0022500081",
+    "0022500082",
+    "0022500083",
+    "0022500088",
+    "0022500090",
+    "0022500091",
+    "0022500092",
+    "0022500094",
+    "0022500096",
+    "0022500097",
+    "0022500098",
+    "0022500099",
+    "0022500109",
+    "0022500120",
+    "0022500127",
+    "0022500135",
+    "0022500139",
+    "0022500142",
+    "0022500150",
+    "0022500164",
+    "0022500173",
+    "0022500176",
+    "0022500206",
+    "0022500219",
+    "0022500256",
+    "0022500265",
+    "0022500268",
+    "0022500273",
+    "0022500289",
+    "0022500300",
+    "0022500324",
+    "0022500335",
+    "0022500345",
+    "0022500370",
+    "0022500426",
+    "0022500462",
+    "0022500486",
+    "0022500503",
+    "0022500524",
+    "0022500534",
+    "0022500546",
+    "0022500569",
+    "0022500587",
+    "0022500626",
+    "0022500649",
+    "0022500658",
+    "0022500684",
+    "0022500729",
+    "0022500736",
+    "0022500807",
+    "0022500833",
+    "0022500894",
+    "0022500900",
+    "0022500925",
+    "0022500957",
+    "0022500961",
+    "0022500982",
+    "0022501032",
+    "0022501109",
+    "0022501110",
+    "0042500102",
+    "0042500103",
+    "0042500104",
+    "0042500106",
+    "0042500107",
+    "0042500114",
+    "0042500115",
+    "0042500116",
+    "0042500124",
+    "0042500125",
+    "0042500126",
+    "0042500133",
+    "0042500137",
+    "0042500142",
+    "0042500143",
+    "0042500144",
+    "0042500153",
+    "0042500154",
+    "0042500155",
+    "0042500163",
+    "0042500164",
+    "0042500165",
+    "0042500166",
+    "0042500173",
+    "0042500174",
+    "0042500175",
+    "0042500201",
+    "0042500202",
+    "0042500203",
+    "0042500204",
+    "0042500205",
+    "0042500206",
+    "0042500211",
+    "0042500212",
+    "0042500213",
+    "0042500214",
+    "0042500222",
+    "0042500223",
+    "0042500231",
+    "0042500232",
+    "0042500234",
+    "0042500235",
+    "0042500236"
+  ],
+  "val_games": [
+    "0022500006",
+    "0022500080",
+    "0022500085",
+    "0022500086",
+    "0022500087",
+    "0022500089",
+    "0022500132",
+    "0022500221",
+    "0022500713",
+    "0022500741",
+    "0022501146",
+    "0042500105",
+    "0042500123",
+    "0042500136",
+    "0042500221"
+  ],
+  "test_games": [
+    "0022500084",
+    "0022500100",
+    "0022500112",
+    "0022500124",
+    "0022500130",
+    "0022500137",
+    "0022500181",
+    "0022500189",
+    "0022500311",
+    "0022500343",
+    "0022500404",
+    "0042500113",
+    "0042500135",
+    "0042500176",
+    "0042500224",
+    "0042500233"
+  ],
+  "metrics": {
+    "train": {
+      "identities": 587,
+      "seen_identities": 587,
+      "events": 40042,
+      "seen_events": 40042,
+      "low_support_identities": 81,
+      "low_support_events": 421
+    },
+    "val": {
+      "identities": 309,
+      "seen_identities": 309,
+      "events": 4932,
+      "seen_events": 4932,
+      "low_support_identities": 3,
+      "low_support_events": 14
+    },
+    "test": {
+      "identities": 309,
+      "seen_identities": 308,
+      "events": 5327,
+      "seen_events": 5319,
+      "low_support_identities": 5,
+      "low_support_events": 31
+    },
+    "combined_eval": {
+      "identities": 368,
+      "seen_identities": 367,
+      "events": 10259,
+      "seen_events": 10251,
+      "low_support_identities": 6,
+      "low_support_events": 45
+    },
+    "teams": {
+      "ATL": {
+        "train_identities": 21,
+        "eval_identities": 14,
+        "seen_eval_identities": 14,
+        "train_home_games": 5,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0042500123",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500130",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "BKN": {
+        "train_identities": 16,
+        "eval_identities": 13,
+        "seen_eval_identities": 13,
+        "train_home_games": 4,
+        "train_away_games": 3,
+        "val_games": [
+          {
+            "game": "0022500080",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500130",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "BOS": {
+        "train_identities": 19,
+        "eval_identities": 11,
+        "seen_eval_identities": 11,
+        "train_home_games": 4,
+        "train_away_games": 3,
+        "val_games": [
+          {
+            "game": "0022500741",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0042500113",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "CHA": {
+        "train_identities": 20,
+        "eval_identities": 11,
+        "seen_eval_identities": 11,
+        "train_home_games": 3,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0022500080",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500124",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "CHI": {
+        "train_identities": 25,
+        "eval_identities": 11,
+        "seen_eval_identities": 11,
+        "train_home_games": 3,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0022500132",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500084",
+            "side": "H"
+          },
+          {
+            "game": "0022500100",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "CLE": {
+        "train_identities": 18,
+        "eval_identities": 10,
+        "seen_eval_identities": 10,
+        "train_home_games": 6,
+        "train_away_games": 5,
+        "val_games": [
+          {
+            "game": "0042500136",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0042500135",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "DAL": {
+        "train_identities": 20,
+        "eval_identities": 14,
+        "seen_eval_identities": 14,
+        "train_home_games": 3,
+        "train_away_games": 5,
+        "val_games": [
+          {
+            "game": "0022500221",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500404",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "DEN": {
+        "train_identities": 19,
+        "eval_identities": 14,
+        "seen_eval_identities": 14,
+        "train_home_games": 3,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0022500006",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500189",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "DET": {
+        "train_identities": 19,
+        "eval_identities": 11,
+        "seen_eval_identities": 11,
+        "train_home_games": 7,
+        "train_away_games": 6,
+        "val_games": [
+          {
+            "game": "0042500105",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500084",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "GSW": {
+        "train_identities": 17,
+        "eval_identities": 14,
+        "seen_eval_identities": 14,
+        "train_home_games": 3,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0022500006",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500181",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "HOU": {
+        "train_identities": 17,
+        "eval_identities": 10,
+        "seen_eval_identities": 10,
+        "train_home_games": 3,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0022500713",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0042500176",
+            "side": "H"
+          }
+        ],
+        "low_support": [
+          {
+            "name": "J. Tate",
+            "person_id": "1630256",
+            "train_events": 9,
+            "eval_events": 13
+          }
+        ]
+      },
+      "IND": {
+        "train_identities": 26,
+        "eval_identities": 16,
+        "seen_eval_identities": 15,
+        "train_home_games": 4,
+        "train_away_games": 3,
+        "val_games": [
+          {
+            "game": "0022500713",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500189",
+            "side": "A"
+          }
+        ],
+        "low_support": [
+          {
+            "name": "M. Morris",
+            "person_id": "1628420",
+            "train_events": 0,
+            "eval_events": 8
+          },
+          {
+            "name": "C. Martin",
+            "person_id": "1628998",
+            "train_events": 9,
+            "eval_events": 8
+          }
+        ]
+      },
+      "LAC": {
+        "train_identities": 20,
+        "eval_identities": 15,
+        "seen_eval_identities": 15,
+        "train_home_games": 4,
+        "train_away_games": 3,
+        "val_games": [
+          {
+            "game": "0022500087",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500112",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "LAL": {
+        "train_identities": 19,
+        "eval_identities": 13,
+        "seen_eval_identities": 13,
+        "train_home_games": 5,
+        "train_away_games": 3,
+        "val_games": [
+          {
+            "game": "0042500221",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0042500176",
+            "side": "A"
+          },
+          {
+            "game": "0042500224",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "MEM": {
+        "train_identities": 24,
+        "eval_identities": 11,
+        "seen_eval_identities": 11,
+        "train_home_games": 4,
+        "train_away_games": 3,
+        "val_games": [
+          {
+            "game": "0022500085",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500137",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "MIA": {
+        "train_identities": 17,
+        "eval_identities": 13,
+        "seen_eval_identities": 13,
+        "train_home_games": 3,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0022500741",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500124",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "MIL": {
+        "train_identities": 19,
+        "eval_identities": 13,
+        "seen_eval_identities": 13,
+        "train_home_games": 3,
+        "train_away_games": 5,
+        "val_games": [
+          {
+            "game": "0022500086",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500311",
+            "side": "A"
+          }
+        ],
+        "low_support": [
+          {
+            "name": "T. Antetokounmpo",
+            "person_id": "203648",
+            "train_events": 1,
+            "eval_events": 1
+          }
+        ]
+      },
+      "MIN": {
+        "train_identities": 24,
+        "eval_identities": 11,
+        "seen_eval_identities": 11,
+        "train_home_games": 5,
+        "train_away_games": 6,
+        "val_games": [
+          {
+            "game": "0022500089",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0042500233",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "NOP": {
+        "train_identities": 19,
+        "eval_identities": 13,
+        "seen_eval_identities": 13,
+        "train_home_games": 4,
+        "train_away_games": 3,
+        "val_games": [
+          {
+            "game": "0022500085",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500404",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "NYK": {
+        "train_identities": 17,
+        "eval_identities": 13,
+        "seen_eval_identities": 13,
+        "train_home_games": 5,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0042500123",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500343",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "OKC": {
+        "train_identities": 19,
+        "eval_identities": 11,
+        "seen_eval_identities": 11,
+        "train_home_games": 4,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0042500221",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0042500224",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "ORL": {
+        "train_identities": 18,
+        "eval_identities": 13,
+        "seen_eval_identities": 13,
+        "train_home_games": 6,
+        "train_away_games": 3,
+        "val_games": [
+          {
+            "game": "0042500105",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500100",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "PHI": {
+        "train_identities": 18,
+        "eval_identities": 10,
+        "seen_eval_identities": 10,
+        "train_home_games": 5,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0022501146",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0042500113",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "PHX": {
+        "train_identities": 18,
+        "eval_identities": 12,
+        "seen_eval_identities": 12,
+        "train_home_games": 3,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0022500221",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500137",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      },
+      "POR": {
+        "train_identities": 18,
+        "eval_identities": 10,
+        "seen_eval_identities": 10,
+        "train_home_games": 3,
+        "train_away_games": 5,
+        "val_games": [
+          {
+            "game": "0022500089",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500112",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "SAC": {
+        "train_identities": 19,
+        "eval_identities": 12,
+        "seen_eval_identities": 12,
+        "train_home_games": 3,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0022500132",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500181",
+            "side": "H"
+          }
+        ],
+        "low_support": [
+          {
+            "name": "D. Carter",
+            "person_id": "1642269",
+            "train_events": 7,
+            "eval_events": 8
+          }
+        ]
+      },
+      "SAS": {
+        "train_identities": 21,
+        "eval_identities": 11,
+        "seen_eval_identities": 11,
+        "train_home_games": 6,
+        "train_away_games": 5,
+        "val_games": [
+          {
+            "game": "0022501146",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0042500233",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "TOR": {
+        "train_identities": 16,
+        "eval_identities": 10,
+        "seen_eval_identities": 10,
+        "train_home_games": 4,
+        "train_away_games": 3,
+        "val_games": [
+          {
+            "game": "0042500136",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0042500135",
+            "side": "A"
+          }
+        ],
+        "low_support": []
+      },
+      "UTA": {
+        "train_identities": 21,
+        "eval_identities": 13,
+        "seen_eval_identities": 13,
+        "train_home_games": 3,
+        "train_away_games": 5,
+        "val_games": [
+          {
+            "game": "0022500087",
+            "side": "H"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500343",
+            "side": "A"
+          }
+        ],
+        "low_support": [
+          {
+            "name": "K. Love",
+            "person_id": "201567",
+            "train_events": 9,
+            "eval_events": 7
+          }
+        ]
+      },
+      "WAS": {
+        "train_identities": 23,
+        "eval_identities": 15,
+        "seen_eval_identities": 15,
+        "train_home_games": 3,
+        "train_away_games": 4,
+        "val_games": [
+          {
+            "game": "0022500086",
+            "side": "A"
+          }
+        ],
+        "test_games": [
+          {
+            "game": "0022500311",
+            "side": "H"
+          }
+        ],
+        "low_support": []
+      }
+    }
+  }
+}
