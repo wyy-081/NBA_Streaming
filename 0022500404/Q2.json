@@ -1,0 +1,332 @@
+[
+  {
+    "caption": "J. Fears misses a jump shot three-pointer. A. Davis grabs the defensive rebound after J. Fears' missed three-pointer.",
+    "start_time": 14.0,
+    "end_time": 21.0
+  },
+  {
+    "caption": "A. Davis makes a layup two-pointer, assisted by J. Hardy.",
+    "start_time": 29.5,
+    "end_time": 38.0
+  },
+  {
+    "caption": "B. Williams steals the ball from D. Queen on a bad pass.",
+    "start_time": 47.0,
+    "end_time": 51.0
+  },
+  {
+    "caption": "N. Marshall makes a pullup two-pointer.",
+    "start_time": 50.5,
+    "end_time": 59.0
+  },
+  {
+    "caption": "H. Jones makes a cutting dunk two-pointer, assisted by J. Fears.",
+    "start_time": 71.5,
+    "end_time": 80.0
+  },
+  {
+    "caption": "A. Davis misses a driving layup two-pointer. D. Queen grabs the defensive rebound after A. Davis's missed driving layup two-pointer.",
+    "start_time": 90.0,
+    "end_time": 97.0
+  },
+  {
+    "caption": "S. Bey misses a running three-pointer. B. Williams grabs the defensive rebound after S. Bey's missed running three-pointer.",
+    "start_time": 94.0,
+    "end_time": 101.0
+  },
+  {
+    "caption": "A. Davis misses a running layup two-pointer. A. Davis grabs the offensive rebound after missing his running layup two-pointer.",
+    "start_time": 105.0,
+    "end_time": 112.0
+  },
+  {
+    "caption": "A. Davis misses a layup two-pointer. S. Bey grabs the defensive rebound after A. Davis's missed layup two-pointer.",
+    "start_time": 107.0,
+    "end_time": 114.0
+  },
+  {
+    "caption": "D. Queen makes a driving layup two-pointer.",
+    "start_time": 112.5,
+    "end_time": 121.0
+  },
+  {
+    "caption": "A. Davis makes a dunk two-pointer, assisted by N. Marshall.",
+    "start_time": 120.5,
+    "end_time": 129.0
+  },
+  {
+    "caption": "J. Fears misses a reverse layup two-pointer. A. Davis grabs the defensive rebound after J. Fears' missed reverse layup two-pointer.",
+    "start_time": 320.5,
+    "end_time": 327.5
+  },
+  {
+    "caption": "C. Martin makes a running layup two-pointer, assisted by R. Nembhard.",
+    "start_time": 326.0,
+    "end_time": 334.5
+  },
+  {
+    "caption": "S. Bey makes a reverse layup two-pointer, assisted by D. Queen.",
+    "start_time": 340.0,
+    "end_time": 348.5
+  },
+  {
+    "caption": "A. Davis makes a jump shot two-pointer.",
+    "start_time": 362.0,
+    "end_time": 370.5
+  },
+  {
+    "caption": "C. Martin commits a defensive-3-second technical foul.",
+    "start_time": 385.5,
+    "end_time": 388.5
+  },
+  {
+    "caption": "J. Fears makes a jump shot three-pointer, assisted by S. Bey.",
+    "start_time": 433.0,
+    "end_time": 441.5
+  },
+  {
+    "caption": "J. Hardy misses a jump shot three-pointer. H. Jones grabs the defensive rebound after J. Hardy's missed three-pointer.",
+    "start_time": 453.5,
+    "end_time": 460.5
+  },
+  {
+    "caption": "J. Fears misses a running layup two-pointer. C. Flagg grabs the defensive rebound after J. Fears' missed running layup two-pointer.",
+    "start_time": 463.5,
+    "end_time": 470.5
+  },
+  {
+    "caption": "C. Flagg makes a running dunk two-pointer, assisted by R. Nembhard.",
+    "start_time": 469.0,
+    "end_time": 477.5
+  },
+  {
+    "caption": "J. Alvarado misses a jump shot three-pointer. R. Nembhard grabs the defensive rebound after J. Alvarado's missed three-pointer.",
+    "start_time": 479.5,
+    "end_time": 486.5
+  },
+  {
+    "caption": "P. Washington makes a cutting layup two-pointer, assisted by R. Nembhard.",
+    "start_time": 486.0,
+    "end_time": 494.5
+  },
+  {
+    "caption": "R. Nembhard commits a personal foul.",
+    "start_time": 511.5,
+    "end_time": 514.5
+  },
+  {
+    "caption": "J. Fears misses a driving layup two-pointer. D. Gafford grabs the defensive rebound after J. Fears' missed driving layup two-pointer.",
+    "start_time": 524.5,
+    "end_time": 531.5
+  },
+  {
+    "caption": "C. Flagg commits an offensive foul.",
+    "start_time": 552.5,
+    "end_time": 555.5
+  },
+  {
+    "caption": "D. Queen makes a driving layup two-pointer.",
+    "start_time": 577.5,
+    "end_time": 586.0
+  },
+  {
+    "caption": "R. Nembhard is called for a bad pass out-of-bounds turnover.",
+    "start_time": 599.0,
+    "end_time": 602.0
+  },
+  {
+    "caption": "R. Nembhard steals the ball from H. Jones on a bad pass.",
+    "start_time": 621.0,
+    "end_time": 625.0
+  },
+  {
+    "caption": "K. Thompson makes a running three-pointer, assisted by R. Nembhard.",
+    "start_time": 623.5,
+    "end_time": 632.0
+  },
+  {
+    "caption": "D. Queen makes a driving layup two-pointer.",
+    "start_time": 650.5,
+    "end_time": 659.0
+  },
+  {
+    "caption": "H. Jones steals the ball from R. Nembhard on a bad pass.",
+    "start_time": 661.0,
+    "end_time": 665.0
+  },
+  {
+    "caption": "H. Jones' running layup two-pointer is blocked by C. Flagg. C. Flagg blocks H. Jones's layup two-pointer. R. Nembhard grabs the defensive rebound after H. Jones' running layup two-pointer is blocked.",
+    "start_time": 664.0,
+    "end_time": 669.0
+  },
+  {
+    "caption": "K. Thompson misses a running three-pointer. D. Queen grabs the defensive rebound after K. Thompson's missed running three-pointer.",
+    "start_time": 668.0,
+    "end_time": 675.0
+  },
+  {
+    "caption": "S. Bey misses a running three-pointer. K. Thompson grabs the defensive rebound after S. Bey's missed running three-pointer.",
+    "start_time": 675.0,
+    "end_time": 682.0
+  },
+  {
+    "caption": "J. Poole commits a personal foul.",
+    "start_time": 685.0,
+    "end_time": 689.0
+  },
+  {
+    "caption": "S. Bey misses a cutting layup two-pointer. Z. Williamson grabs the offensive rebound after S. Bey's missed layup two-pointer.",
+    "start_time": 767.0,
+    "end_time": 774.0
+  },
+  {
+    "caption": "D. Gafford steals the ball from Z. Williamson on a lost ball.",
+    "start_time": 776.0,
+    "end_time": 780.0
+  },
+  {
+    "caption": "D. Gafford makes a running alley-oop dunk two-pointer, assisted by R. Nembhard.",
+    "start_time": 776.5,
+    "end_time": 785.0
+  },
+  {
+    "caption": "Z. Williamson makes a driving layup two-pointer, assisted by T. Murphy III.",
+    "start_time": 784.5,
+    "end_time": 793.0
+  },
+  {
+    "caption": "R. Nembhard misses a driving floating two-pointer. P. Washington grabs the offensive rebound after R. Nembhard's missed driving floating two-pointer. P. Washington misses a putback layup two-pointer.",
+    "start_time": 808.0,
+    "end_time": 816.0
+  },
+  {
+    "caption": "P. Washington grabs the offensive rebound.",
+    "start_time": 810.0,
+    "end_time": 816.0
+  },
+  {
+    "caption": "P. Washington misses a jump shot three-pointer. K. Matković grabs the defensive rebound after P. Washington's missed jump shot three-pointer.",
+    "start_time": 814.0,
+    "end_time": 821.0
+  },
+  {
+    "caption": "D. Gafford steals the ball from T. Murphy III on a lost ball.",
+    "start_time": 828.0,
+    "end_time": 832.0
+  },
+  {
+    "caption": "R. Nembhard misses a running three-pointer. T. Murphy III grabs the defensive rebound after R. Nembhard's missed running three-pointer.",
+    "start_time": 833.0,
+    "end_time": 840.0
+  },
+  {
+    "caption": "J. Poole misses a step back three-pointer. C. Flagg grabs the defensive rebound after J. Poole's missed jump shot three-pointer.",
+    "start_time": 854.0,
+    "end_time": 861.0
+  },
+  {
+    "caption": "C. Flagg misses a running layup two-pointer. C. Flagg grabs the offensive rebound after missing his running layup two-pointer.",
+    "start_time": 864.0,
+    "end_time": 871.0
+  },
+  {
+    "caption": "T. Murphy III commits a personal foul.",
+    "start_time": 872.0,
+    "end_time": 875.0
+  },
+  {
+    "caption": "K. Thompson makes a jump shot three-pointer, assisted by C. Flagg.",
+    "start_time": 907.0,
+    "end_time": 915.5
+  },
+  {
+    "caption": "J. Poole misses a driving finger roll two-pointer. K. Thompson grabs the defensive rebound after J. Poole's missed driving finger roll layup two-pointer.",
+    "start_time": 1105.5,
+    "end_time": 1112.5
+  },
+  {
+    "caption": "K. Thompson is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1114.5,
+    "end_time": 1117.5
+  },
+  {
+    "caption": "Z. Williamson misses a driving layup two-pointer. P. Washington grabs the defensive rebound after Z. Williamson's missed driving layup two-pointer.",
+    "start_time": 1235.0,
+    "end_time": 1242.0
+  },
+  {
+    "caption": "R. Nembhard's driving layup two-pointer is blocked by K. Matković. K. Matković blocks R. Nembhard's layup two-pointer. A. Davis grabs the offensive rebound after R. Nembhard's missed driving layup two-pointer.",
+    "start_time": 1272.5,
+    "end_time": 1277.5
+  },
+  {
+    "caption": "K. Matković commits a shooting personal foul.",
+    "start_time": 1275.5,
+    "end_time": 1279.5
+  },
+  {
+    "caption": "T. Murphy III grabs the defensive rebound.",
+    "start_time": 1331.0,
+    "end_time": 1336.0
+  },
+  {
+    "caption": "R. Nembhard commits a personal foul.",
+    "start_time": 1334.0,
+    "end_time": 1337.0
+  },
+  {
+    "caption": "T. Murphy III misses a driving floating two-pointer. P. Washington grabs the defensive rebound after T. Murphy III's missed driving floating two-pointer.",
+    "start_time": 1367.0,
+    "end_time": 1374.0
+  },
+  {
+    "caption": "Z. Williamson makes a dunk two-pointer, assisted by T. Murphy III.",
+    "start_time": 1369.5,
+    "end_time": 1378.0
+  },
+  {
+    "caption": "T. Murphy III steals the ball from P. Washington on a lost ball.",
+    "start_time": 1372.0,
+    "end_time": 1376.0
+  },
+  {
+    "caption": "K. Thompson misses a driving layup two-pointer.",
+    "start_time": 1387.0,
+    "end_time": 1394.0
+  },
+  {
+    "caption": "A. Davis makes a jump shot two-pointer.",
+    "start_time": 1412.5,
+    "end_time": 1421.0
+  },
+  {
+    "caption": "T. Murphy III misses a jump shot three-pointer. A. Davis grabs the defensive rebound after T. Murphy III's missed jump shot three-pointer.",
+    "start_time": 1430.0,
+    "end_time": 1437.0
+  },
+  {
+    "caption": "A. Davis makes a jump shot three-pointer, assisted by R. Nembhard. R. Nembhard commits a personal foul.",
+    "start_time": 1439.5,
+    "end_time": 1471.4
+  },
+  {
+    "caption": "A. Davis grabs the defensive rebound.",
+    "start_time": 1520.7,
+    "end_time": 1525.7
+  },
+  {
+    "caption": "A. Davis misses a jump shot three-pointer. J. Poole grabs the defensive rebound after A. Davis's missed jump shot three-pointer.",
+    "start_time": 1530.8,
+    "end_time": 1537.8
+  },
+  {
+    "caption": "D. Queen misses a jump shot three-pointer. Z. Williamson grabs the offensive rebound after D. Queen's missed three-pointer. Z. Williamson makes a putback dunk two-pointer.",
+    "start_time": 1558.2,
+    "end_time": 1566.7
+  },
+  {
+    "caption": "R. Nembhard misses a driving layup two-pointer.",
+    "start_time": 1571.3,
+    "end_time": 1578.3
+  }
+]

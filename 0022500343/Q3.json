@@ -1,0 +1,297 @@
+[
+  {
+    "caption": "J. Nurkić steals the ball from M. Bridges on a bad pass.",
+    "start_time": 8.0,
+    "end_time": 12.0
+  },
+  {
+    "caption": "K. George makes a running layup two-pointer.",
+    "start_time": 9.5,
+    "end_time": 18.0
+  },
+  {
+    "caption": "K. Towns makes a jump shot three-pointer, assisted by M. Bridges. K. Towns commits a shooting personal foul.",
+    "start_time": 22.5,
+    "end_time": 49.0
+  },
+  {
+    "caption": "Kevin Durant makes a jump shot three-pointer, assisted by Jalen Hart.",
+    "start_time": 105.5,
+    "end_time": 114.0
+  },
+  {
+    "caption": "A. Bailey commits an offensive foul.",
+    "start_time": 134.0,
+    "end_time": 137.0
+  },
+  {
+    "caption": "K. Towns misses a driving floating bank two-pointer. L. Markkanen grabs the defensive rebound after K. Towns' missed driving floating bank two-pointer.",
+    "start_time": 168.5,
+    "end_time": 175.5
+  },
+  {
+    "caption": "A. Bailey misses a running three-pointer.",
+    "start_time": 175.5,
+    "end_time": 182.5
+  },
+  {
+    "caption": "J. Nurkić misses a jump shot three-pointer.",
+    "start_time": 200.5,
+    "end_time": 207.5
+  },
+  {
+    "caption": "O. Anunoby makes a driving layup two-pointer, assisted by M. Bridges. A. Bailey commits a personal foul.",
+    "start_time": 212.0,
+    "end_time": 220.5
+  },
+  {
+    "caption": "J. Brunson commits a personal foul.",
+    "start_time": 257.0,
+    "end_time": 261.0
+  },
+  {
+    "caption": "O. Anunoby misses a step back jump shot. J. Nurkić grabs the defensive rebound after O. Anunoby's missed jump shot two-pointer.",
+    "start_time": 321.5,
+    "end_time": 328.5
+  },
+  {
+    "caption": "K. George misses a pullup two-pointer. A. Bailey grabs the offensive rebound after K. George's missed pullup two-pointer. A. Bailey misses a tip layup two-pointer.",
+    "start_time": 332.5,
+    "end_time": 343.5
+  },
+  {
+    "caption": "J. Hart grabs the defensive rebound.",
+    "start_time": 337.5,
+    "end_time": 343.5
+  },
+  {
+    "caption": "J. Brunson makes a jump shot three-pointer, assisted by M. Bridges.",
+    "start_time": 344.0,
+    "end_time": 352.5
+  },
+  {
+    "caption": "A. Bailey makes a jump shot three-pointer, assisted by L. Markkanen.",
+    "start_time": 360.0,
+    "end_time": 368.5
+  },
+  {
+    "caption": "J. Brunson makes a jump shot three-pointer, assisted by J. Hart.",
+    "start_time": 375.0,
+    "end_time": 383.5
+  },
+  {
+    "caption": "A. Bailey misses a jump shot three-pointer. M. Bridges grabs the defensive rebound after A. Bailey's missed three-pointer.",
+    "start_time": 571.5,
+    "end_time": 578.5
+  },
+  {
+    "caption": "J. Brunson misses a turnaround two-pointer. L. Markkanen grabs the defensive rebound after J. Brunson's missed jump shot two-pointer.",
+    "start_time": 584.5,
+    "end_time": 591.5
+  },
+  {
+    "caption": "J. Hart steals the ball from J. Nurkić on a bad pass.",
+    "start_time": 597.5,
+    "end_time": 601.5
+  },
+  {
+    "caption": "J. Nurkić commits a personal foul.",
+    "start_time": 603.5,
+    "end_time": 607.5
+  },
+  {
+    "caption": "A. Bailey makes a jump shot three-pointer, assisted by L. Markkanen.",
+    "start_time": 665.5,
+    "end_time": 674.0
+  },
+  {
+    "caption": "J. Brunson misses a pullup three-pointer. J. Hart grabs the offensive rebound after J. Brunson's missed pullup three-pointer.",
+    "start_time": 685.0,
+    "end_time": 692.0
+  },
+  {
+    "caption": "K. Towns misses a jump shot three-pointer. S. Mykhailiuk grabs the defensive rebound after K. Towns' missed jump shot three-pointer.",
+    "start_time": 688.0,
+    "end_time": 695.0
+  },
+  {
+    "caption": "A. Bailey is called for a bad pass out-of-bounds turnover.",
+    "start_time": 696.0,
+    "end_time": 699.0
+  },
+  {
+    "caption": "M. Bridges misses a jump shot three-pointer. S. Mykhailiuk grabs the defensive rebound after M. Bridges' missed three-pointer.",
+    "start_time": 710.0,
+    "end_time": 717.0
+  },
+  {
+    "caption": "J. Clarkson commits a personal foul.",
+    "start_time": 723.0,
+    "end_time": 727.0
+  },
+  {
+    "caption": "S. Mykhailiuk commits a shooting personal foul.",
+    "start_time": 791.5,
+    "end_time": 795.5
+  },
+  {
+    "caption": "L. Markkanen makes a alley-oop layup two-pointer, assisted by K. Love.",
+    "start_time": 861.5,
+    "end_time": 870.0
+  },
+  {
+    "caption": "K. Towns loses the ball out-of-bounds.",
+    "start_time": 884.0,
+    "end_time": 887.0
+  },
+  {
+    "caption": "L. Markkanen makes a finger roll layup two-pointer, assisted by K. George. B. Sensabaugh commits a personal foul.",
+    "start_time": 896.5,
+    "end_time": 918.0
+  },
+  {
+    "caption": "J. Clarkson steals the ball from B. Sensabaugh on a lost ball.",
+    "start_time": 990.5,
+    "end_time": 994.5
+  },
+  {
+    "caption": "J. Brunson makes a driving floating jump shot two-pointer, assisted by J. Clarkson.",
+    "start_time": 994.5,
+    "end_time": 1003.0
+  },
+  {
+    "caption": "B. Sensabaugh makes a driving dunk two-pointer.",
+    "start_time": 1011.5,
+    "end_time": 1020.0
+  },
+  {
+    "caption": "B. Sensabaugh misses a pullup three-pointer. B. Sensabaugh grabs the offensive rebound after missing his pullup three-pointer.",
+    "start_time": 1014.25,
+    "end_time": 1021.25
+  },
+  {
+    "caption": "J. Brunson misses a pullup three-pointer. A. Bailey grabs the defensive rebound after J. Brunson's missed pullup three-pointer.",
+    "start_time": 1048.0,
+    "end_time": 1055.0
+  },
+  {
+    "caption": "M. McBride makes a jump shot three-pointer, assisted by M. Robinson.",
+    "start_time": 1055.5,
+    "end_time": 1064.0
+  },
+  {
+    "caption": "M. Robinson steals the ball from A. Bailey on a lost ball.",
+    "start_time": 1056.0,
+    "end_time": 1060.0
+  },
+  {
+    "caption": "K. George misses a step back three-pointer. J. Brunson grabs the defensive rebound after K. George's missed jump shot three-pointer.",
+    "start_time": 1068.0,
+    "end_time": 1075.0
+  },
+  {
+    "caption": "J. Hart misses a jump shot three-pointer. M. Robinson grabs the offensive rebound after J. Hart's missed three-pointer.",
+    "start_time": 1086.0,
+    "end_time": 1093.0
+  },
+  {
+    "caption": "J. Clarkson makes a jump shot three-pointer, assisted by J. Hart.",
+    "start_time": 1092.5,
+    "end_time": 1101.0
+  },
+  {
+    "caption": "A. Bailey misses a jump shot two-pointer.",
+    "start_time": 1113.0,
+    "end_time": 1120.0
+  },
+  {
+    "caption": "M. McBride makes a jump shot three-pointer, assisted by J. Clarkson.",
+    "start_time": 1145.5,
+    "end_time": 1154.0
+  },
+  {
+    "caption": "J. Hart makes a dunk two-pointer.",
+    "start_time": 1388.5,
+    "end_time": 1397.0
+  },
+  {
+    "caption": "K. Love makes a jump shot three-pointer, assisted by K. George.",
+    "start_time": 1401.5,
+    "end_time": 1410.0
+  },
+  {
+    "caption": "J. Brunson makes a step back jump shot two-pointer, assisted by J. Hart.",
+    "start_time": 1416.5,
+    "end_time": 1425.0
+  },
+  {
+    "caption": "K. George misses a driving floating two-pointer. K. Love grabs the offensive rebound after K. George's missed driving floating two-pointer. K. Love misses a tip layup two-pointer.",
+    "start_time": 1428.0,
+    "end_time": 1438.0
+  },
+  {
+    "caption": "J. Clarkson grabs the defensive rebound.",
+    "start_time": 1432.0,
+    "end_time": 1438.0
+  },
+  {
+    "caption": "K. Love commits a personal foul.",
+    "start_time": 1439.5,
+    "end_time": 1442.5
+  },
+  {
+    "caption": "K. Filipowski grabs the defensive rebound.",
+    "start_time": 1491.0,
+    "end_time": 1496.0
+  },
+  {
+    "caption": "K. George makes a driving finger roll two-pointer, assisted by I. Collier.",
+    "start_time": 1498.5,
+    "end_time": 1507.0
+  },
+  {
+    "caption": "J. Brunson makes a jump shot three-pointer, assisted by O. Anunoby.",
+    "start_time": 1520.5,
+    "end_time": 1529.0
+  },
+  {
+    "caption": "I. Collier makes a driving layup two-pointer.",
+    "start_time": 1528.5,
+    "end_time": 1537.0
+  },
+  {
+    "caption": "J. Brunson makes a step back three-pointer.",
+    "start_time": 1544.5,
+    "end_time": 1553.0
+  },
+  {
+    "caption": "K. Filipowski misses a jump shot three-pointer.",
+    "start_time": 1557.0,
+    "end_time": 1564.0
+  },
+  {
+    "caption": "B. Sensabaugh commits a personal foul.",
+    "start_time": 1560.0,
+    "end_time": 1563.0
+  },
+  {
+    "caption": "K. Filipowski misses a jump shot three-pointer. M. Robinson grabs the defensive rebound after K. Filipowski's missed three-pointer.",
+    "start_time": 1636.9,
+    "end_time": 1643.9
+  },
+  {
+    "caption": "J. Brunson misses a driving layup two-pointer. M. Robinson grabs the offensive rebound after J. Brunson's missed driving layup two-pointer. M. Robinson makes a tip layup two-pointer.",
+    "start_time": 1652.3,
+    "end_time": 1661.2
+  },
+  {
+    "caption": "B. Sensabaugh makes a jump shot three-pointer, assisted by I. Collier.",
+    "start_time": 1674.1,
+    "end_time": 1682.6
+  },
+  {
+    "caption": "J. Clarkson misses a step back three-pointer.",
+    "start_time": 1693.5,
+    "end_time": 1700.5
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "caption": "J. Tyson makes a floating jump shot two-pointer, assisted by C. Porter Jr. E. Mobley commits a personal foul.",
+    "start_time": 0.0,
+    "end_time": 20.0
+  },
+  {
+    "caption": "C. Love steals the ball from E. Mobley on a lost ball.",
+    "start_time": 66.0,
+    "end_time": 70.0
+  },
+  {
+    "caption": "C. Love makes a driving floating two-pointer, assisted by S. Cissoko.",
+    "start_time": 71.5,
+    "end_time": 80.0
+  },
+  {
+    "caption": "D. Mitchell misses a step back three-pointer. D. Clingan grabs the defensive rebound after D. Mitchell's missed jump shot three-pointer.",
+    "start_time": 92.0,
+    "end_time": 99.0
+  },
+  {
+    "caption": "N. Tomlin commits a personal foul.",
+    "start_time": 98.0,
+    "end_time": 101.0
+  },
+  {
+    "caption": "J. Grant misses a jump shot three-pointer. J. Tyson grabs the defensive rebound after J. Grant's missed three-pointer.",
+    "start_time": 130.0,
+    "end_time": 137.0
+  },
+  {
+    "caption": "E. Mobley makes a running dunk two-pointer, assisted by C. Porter Jr.",
+    "start_time": 136.5,
+    "end_time": 145.0
+  },
+  {
+    "caption": "J. Grant misses a jump shot three-pointer. D. Clingan grabs the offensive rebound after J. Grant's missed jump shot three-pointer. D. Clingan's putback layup two-pointer is blocked by E. Mobley.",
+    "start_time": 150.0,
+    "end_time": 162.0
+  },
+  {
+    "caption": "D. Clingan's putback layup two-pointer is blocked by E. Mobley. E. Mobley blocks D. Clingan's layup two-pointer. S. Cissoko grabs the offensive rebound after D. Clingan's missed putback layup two-pointer.",
+    "start_time": 155.0,
+    "end_time": 160.0
+  },
+  {
+    "caption": "S. Cissoko misses a jump shot three-pointer. J. Tyson grabs the defensive rebound after S. Cissoko's missed jump shot three-pointer.",
+    "start_time": 166.0,
+    "end_time": 173.0
+  },
+  {
+    "caption": "J. Tyson makes a running dunk two-pointer.",
+    "start_time": 171.5,
+    "end_time": 180.0
+  },
+  {
+    "caption": "D. Clingan misses a layup two-pointer. N. Tomlin grabs the defensive rebound after D. Clingan's missed layup two-pointer.",
+    "start_time": 203.0,
+    "end_time": 210.0
+  },
+  {
+    "caption": "N. Tomlin makes a running layup two-pointer.",
+    "start_time": 211.5,
+    "end_time": 220.0
+  },
+  {
+    "caption": "N. Tomlin steals the ball from J. Grant on a bad pass.",
+    "start_time": 223.0,
+    "end_time": 227.0
+  },
+  {
+    "caption": "J. Grant commits a personal foul.",
+    "start_time": 225.0,
+    "end_time": 228.0
+  },
+  {
+    "caption": "E. Mobley makes a fadeaway jump shot two-pointer, assisted by D. Mitchell. C. Porter Jr. commits a personal foul.",
+    "start_time": 265.0,
+    "end_time": 294.5
+  },
+  {
+    "caption": "N. Tomlin misses a jump shot three-pointer. J. Grant grabs the defensive rebound after N. Tomlin's missed jump shot three-pointer.",
+    "start_time": 360.0,
+    "end_time": 367.0
+  },
+  {
+    "caption": "J. Grant's driving layup two-pointer is blocked by E. Mobley. E. Mobley blocks J. Grant's layup two-pointer. L. Ball grabs the defensive rebound after J. Grant's driving layup two-pointer is blocked.",
+    "start_time": 378.0,
+    "end_time": 383.0
+  },
+  {
+    "caption": "E. Mobley is called for a bad pass out-of-bounds turnover.",
+    "start_time": 386.0,
+    "end_time": 389.0
+  },
+  {
+    "caption": "N. Tomlin steals the ball from D. Avdija on a lost ball.",
+    "start_time": 431.5,
+    "end_time": 435.5
+  },
+  {
+    "caption": "L. Ball misses a pullup three-pointer. T. Camara grabs the defensive rebound after L. Ball's missed jump shot three-pointer.",
+    "start_time": 439.5,
+    "end_time": 446.5
+  },
+  {
+    "caption": "S. Sharpe misses a running pullup three-pointer. D. Garland grabs the defensive rebound after S. Sharpe's missed three-pointer.",
+    "start_time": 445.5,
+    "end_time": 452.5
+  },
+  {
+    "caption": "D. Wade misses a jump shot three-pointer. L. Ball grabs the offensive rebound after D. Wade's missed jump shot three-pointer.",
+    "start_time": 462.5,
+    "end_time": 469.5
+  },
+  {
+    "caption": "D. Garland misses a jump shot three-pointer. D. Clingan grabs the defensive rebound after D. Garland's missed three-pointer.",
+    "start_time": 469.5,
+    "end_time": 476.5
+  },
+  {
+    "caption": "D. Avdija misses a jump shot three-pointer.",
+    "start_time": 483.5,
+    "end_time": 490.5
+  },
+  {
+    "caption": "D. Clingan commits a personal foul.",
+    "start_time": 488.5,
+    "end_time": 491.5
+  },
+  {
+    "caption": "D. Garland misses a pullup two-pointer. T. Camara grabs the defensive rebound after D. Garland's missed jump shot.",
+    "start_time": 697.0,
+    "end_time": 704.0
+  },
+  {
+    "caption": "S. Sharpe makes a running layup two-pointer, assisted by T. Camara.",
+    "start_time": 702.5,
+    "end_time": 711.0
+  },
+  {
+    "caption": "D. Garland misses a driving layup two-pointer. D. Reath grabs the defensive rebound after D. Garland's missed driving layup two-pointer.",
+    "start_time": 740.5,
+    "end_time": 747.5
+  },
+  {
+    "caption": "C. Love makes a running layup two-pointer, assisted by D. Avdija.",
+    "start_time": 743.0,
+    "end_time": 751.5
+  },
+  {
+    "caption": "D. Garland's cutting layup two-pointer is blocked by T. Camara. T. Camara blocks D. Garland's layup two-pointer. S. Sharpe grabs the defensive rebound after D. Garland's missed layup two-pointer.",
+    "start_time": 759.5,
+    "end_time": 764.5
+  },
+  {
+    "caption": "D. Wade steals the ball from S. Sharpe on a bad pass.",
+    "start_time": 775.5,
+    "end_time": 779.5
+  },
+  {
+    "caption": "D. Wade misses a running three-pointer. D. Avdija grabs the defensive rebound after D. Wade's missed running three-pointer.",
+    "start_time": 780.5,
+    "end_time": 787.5
+  },
+  {
+    "caption": "T. Camara misses a jump shot three-pointer. S. Sharpe grabs the offensive rebound after T. Camara's missed three-pointer.",
+    "start_time": 792.5,
+    "end_time": 799.5
+  },
+  {
+    "caption": "S. Sharpe misses a pullup two-pointer. S. Sharpe grabs the offensive rebound after missing his pullup two-pointer.",
+    "start_time": 799.5,
+    "end_time": 806.5
+  },
+  {
+    "caption": "S. Sharpe misses a driving floating two-pointer. L. Ball grabs the defensive rebound after S. Sharpe's missed driving floating two-pointer.",
+    "start_time": 803.5,
+    "end_time": 810.5
+  },
+  {
+    "caption": "L. Ball's running finger roll two-pointer is blocked by T. Camara. T. Camara blocks L. Ball's layup two-pointer. D. Avdija grabs the defensive rebound after L. Ball's running finger roll layup two-pointer is blocked.",
+    "start_time": 808.5,
+    "end_time": 813.5
+  },
+  {
+    "caption": "C. Love misses a driving floating two-pointer. C. Love grabs the offensive rebound after missing his driving floating two-pointer.",
+    "start_time": 815.5,
+    "end_time": 822.5
+  },
+  {
+    "caption": "D. Hunter commits a personal foul.",
+    "start_time": 819.5,
+    "end_time": 823.5
+  },
+  {
+    "caption": "T. Bryant makes a jump shot three-pointer, assisted by D. Garland.",
+    "start_time": 874.0,
+    "end_time": 882.5
+  },
+  {
+    "caption": "D. Reath misses a jump shot three-pointer. T. Camara grabs the offensive rebound after D. Reath's missed jump shot three-pointer.",
+    "start_time": 893.5,
+    "end_time": 900.5
+  },
+  {
+    "caption": "D. Reath makes a cutting layup two-pointer, assisted by S. Sharpe.",
+    "start_time": 898.0,
+    "end_time": 906.5
+  },
+  {
+    "caption": "D. Hunter misses a pullup three-pointer. S. Sharpe grabs the defensive rebound after D. Hunter's missed jump shot three-pointer.",
+    "start_time": 914.5,
+    "end_time": 921.5
+  },
+  {
+    "caption": "T. Bryant commits a personal foul.",
+    "start_time": 924.5,
+    "end_time": 928.5
+  },
+  {
+    "caption": "T. Camara commits a personal foul.",
+    "start_time": 983.0,
+    "end_time": 986.0
+  },
+  {
+    "caption": "D. Garland misses a step back three-pointer. J. Grant grabs the defensive rebound after D. Garland's missed jump shot three-pointer.",
+    "start_time": 1013.0,
+    "end_time": 1020.0
+  },
+  {
+    "caption": "D. Avdija makes a driving reverse layup two-pointer.",
+    "start_time": 1024.5,
+    "end_time": 1033.0
+  },
+  {
+    "caption": "J. Tyson makes a finger roll layup two-pointer, assisted by D. Mitchell.",
+    "start_time": 1035.5,
+    "end_time": 1044.0
+  },
+  {
+    "caption": "D. Reath makes a cutting layup two-pointer, assisted by T. Camara.",
+    "start_time": 1044.5,
+    "end_time": 1053.0
+  },
+  {
+    "caption": "D. Hunter misses a pullup two-pointer. J. Tyson grabs the offensive rebound after D. Hunter's missed pullup two-pointer.",
+    "start_time": 1258.0,
+    "end_time": 1265.0
+  },
+  {
+    "caption": "T. Camara commits a shooting personal foul.",
+    "start_time": 1264.0,
+    "end_time": 1268.0
+  },
+  {
+    "caption": "J. Grant makes a jump shot three-pointer, assisted by D. Avdija.",
+    "start_time": 1316.0,
+    "end_time": 1324.5
+  },
+  {
+    "caption": "D. Mitchell makes a driving floating jump shot two-pointer, assisted by E. Mobley.",
+    "start_time": 1330.0,
+    "end_time": 1338.5
+  },
+  {
+    "caption": "D. Avdija makes a jump shot three-pointer, assisted by J. Grant.",
+    "start_time": 1342.0,
+    "end_time": 1350.5
+  },
+  {
+    "caption": "S. Sharpe steals the ball from D. Mitchell on a bad pass.",
+    "start_time": 1359.5,
+    "end_time": 1363.5
+  },
+  {
+    "caption": "D. Hunter commits a personal foul.",
+    "start_time": 1363.5,
+    "end_time": 1366.5
+  },
+  {
+    "caption": "D. Garland misses a turnaround two-pointer. S. Sharpe grabs the defensive rebound after D. Garland's missed turnaround two-pointer.",
+    "start_time": 1420.0,
+    "end_time": 1427.0
+  },
+  {
+    "caption": "S. Sharpe makes a turnaround jump shot two-pointer.",
+    "start_time": 1427.5,
+    "end_time": 1436.0
+  },
+  {
+    "caption": "D. Mitchell makes a pullup three-pointer.",
+    "start_time": 1441.8,
+    "end_time": 1450.3
+  },
+  {
+    "caption": "S. Sharpe misses a driving floating bank two-pointer. E. Mobley grabs the defensive rebound after S. Sharpe's missed driving floating bank two-pointer.",
+    "start_time": 1462.2,
+    "end_time": 1469.2
+  },
+  {
+    "caption": "D. Garland makes a pullup three-pointer.",
+    "start_time": 1482.5,
+    "end_time": 1491.0
+  }
+]

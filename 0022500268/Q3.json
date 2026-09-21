@@ -1,0 +1,277 @@
+[
+  {
+    "caption": "M. Diabaté makes a layup two-pointer, assisted by B. Miller.",
+    "start_time": 12.5,
+    "end_time": 21.0
+  },
+  {
+    "caption": "I. Zubac misses a hook two-pointer. I. Zubac grabs the offensive rebound after missing his hook two-pointer. I. Zubac makes a tip layup two-pointer.",
+    "start_time": 36.5,
+    "end_time": 45.0
+  },
+  {
+    "caption": "M. Bridges misses a driving floating two-pointer. I. Zubac grabs the defensive rebound after M. Bridges' missed driving floating two-pointer.",
+    "start_time": 52.0,
+    "end_time": 59.0
+  },
+  {
+    "caption": "J. Harden makes a running three-pointer, assisted by K. Dunn. I. Zubac commits a shooting personal foul.",
+    "start_time": 54.5,
+    "end_time": 89.0
+  },
+  {
+    "caption": "K. Sanders makes a cutting layup two-pointer, assisted by J. Harden.",
+    "start_time": 139.0,
+    "end_time": 147.5
+  },
+  {
+    "caption": "B. Miller misses a pullup three-pointer. J. Harden grabs the defensive rebound after B. Miller's missed pullup three-pointer.",
+    "start_time": 147.5,
+    "end_time": 154.5
+  },
+  {
+    "caption": "J. Collins makes a running layup two-pointer, assisted by J. Harden.",
+    "start_time": 157.0,
+    "end_time": 165.5
+  },
+  {
+    "caption": "L. Ball makes a driving floating jump shot two-pointer, assisted by B. Miller.",
+    "start_time": 168.0,
+    "end_time": 176.5
+  },
+  {
+    "caption": "J. Collins misses a jump shot three-pointer. M. Bridges grabs the defensive rebound after J. Collins's missed jump shot three-pointer.",
+    "start_time": 190.5,
+    "end_time": 197.5
+  },
+  {
+    "caption": "J. Collins commits a shooting personal foul.",
+    "start_time": 200.5,
+    "end_time": 204.5
+  },
+  {
+    "caption": "K. Sanders makes a pullup two-pointer.",
+    "start_time": 254.5,
+    "end_time": 263.0
+  },
+  {
+    "caption": "B. Miller makes a driving layup two-pointer.",
+    "start_time": 296.0,
+    "end_time": 304.5
+  },
+  {
+    "caption": "J. Collins' layup two-pointer is blocked by B. Miller. B. Miller blocks J. Collins's layup two-pointer.",
+    "start_time": 309.5,
+    "end_time": 314.5
+  },
+  {
+    "caption": "M. Diabaté commits a personal foul.",
+    "start_time": 358.0,
+    "end_time": 361.0
+  },
+  {
+    "caption": "B. Miller commits a personal foul.",
+    "start_time": 388.5,
+    "end_time": 392.5
+  },
+  {
+    "caption": "M. Bridges makes a floating jump shot two-pointer, assisted by L. Ball. K. Dunn commits a personal foul.",
+    "start_time": 458.5,
+    "end_time": 467.0
+  },
+  {
+    "caption": "K. Sanders misses a pullup two-pointer. M. Diabaté grabs the defensive rebound after K. Sanders' missed jump shot.",
+    "start_time": 510.5,
+    "end_time": 517.5
+  },
+  {
+    "caption": "L. Ball makes a driving floating jump shot two-pointer.",
+    "start_time": 524.0,
+    "end_time": 532.5
+  },
+  {
+    "caption": "K. Sanders misses a jump shot three-pointer.",
+    "start_time": 548.5,
+    "end_time": 555.5
+  },
+  {
+    "caption": "L. Ball commits a personal foul.",
+    "start_time": 552.5,
+    "end_time": 555.5
+  },
+  {
+    "caption": "J. Harden misses a step back three-pointer. J. Collins grabs the offensive rebound after J. Harden's missed jump shot three-pointer.",
+    "start_time": 586.5,
+    "end_time": 593.5
+  },
+  {
+    "caption": "J. Collins makes a reverse layup two-pointer. K. Knueppel commits a shooting personal foul.",
+    "start_time": 588.0,
+    "end_time": 596.5
+  },
+  {
+    "caption": "B. Miller misses a jump shot three-pointer. K. Sanders grabs the defensive rebound after B. Miller's missed three-pointer.",
+    "start_time": 641.5,
+    "end_time": 648.5
+  },
+  {
+    "caption": "I. Zubac makes a dunk two-pointer, assisted by K. Sanders.",
+    "start_time": 656.0,
+    "end_time": 664.5
+  },
+  {
+    "caption": "K. Knueppel misses a jump shot three-pointer. J. Collins grabs the defensive rebound after K. Knueppel's missed three-pointer.",
+    "start_time": 670.5,
+    "end_time": 677.5
+  },
+  {
+    "caption": "I. Zubac makes a dunk two-pointer, assisted by K. Dunn.",
+    "start_time": 681.0,
+    "end_time": 689.5
+  },
+  {
+    "caption": "J. Collins steals the ball from K. Knueppel on a bad pass.",
+    "start_time": 890.5,
+    "end_time": 894.5
+  },
+  {
+    "caption": "K. Knueppel commits a personal foul.",
+    "start_time": 895.5,
+    "end_time": 898.5
+  },
+  {
+    "caption": "S. James misses a jump shot three-pointer. M. Diabaté grabs the offensive rebound after S. James's missed three-pointer.",
+    "start_time": 965.0,
+    "end_time": 972.0
+  },
+  {
+    "caption": "C. Sexton misses a pullup jump shot two-pointer.",
+    "start_time": 970.0,
+    "end_time": 977.0
+  },
+  {
+    "caption": "J. Harden steals the ball from K. Knueppel on a lost ball.",
+    "start_time": 996.0,
+    "end_time": 1000.0
+  },
+  {
+    "caption": "K. Sanders misses a running three-pointer. C. Sexton grabs the defensive rebound after K. Sanders' missed running three-pointer.",
+    "start_time": 1002.0,
+    "end_time": 1009.0
+  },
+  {
+    "caption": "K. Knueppel makes a running three-pointer, assisted by C. Sexton.",
+    "start_time": 1007.5,
+    "end_time": 1016.0
+  },
+  {
+    "caption": "I. Zubac makes a cutting layup two-pointer, assisted by J. Harden. K. Sanders commits a personal foul.",
+    "start_time": 1028.5,
+    "end_time": 1045.0
+  },
+  {
+    "caption": "M. Diabaté misses a hook two-pointer. J. Harden grabs the defensive rebound after M. Diabaté's missed hook two-pointer.",
+    "start_time": 1118.0,
+    "end_time": 1125.0
+  },
+  {
+    "caption": "J. Harden makes a pullup three-pointer.",
+    "start_time": 1123.5,
+    "end_time": 1132.0
+  },
+  {
+    "caption": "M. Diabaté commits a personal foul.",
+    "start_time": 1129.0,
+    "end_time": 1132.0
+  },
+  {
+    "caption": "C. Sexton commits a personal foul.",
+    "start_time": 1269.0,
+    "end_time": 1273.0
+  },
+  {
+    "caption": "M. Diabaté misses a floating two-pointer. C. Christie grabs the defensive rebound after M. Diabaté's missed floating two-pointer.",
+    "start_time": 1339.5,
+    "end_time": 1346.5
+  },
+  {
+    "caption": "N. Batum misses a jump shot three-pointer. L. McNeeley grabs the defensive rebound after N. Batum's missed three-pointer.",
+    "start_time": 1352.5,
+    "end_time": 1359.5
+  },
+  {
+    "caption": "C. Christie commits a personal foul.",
+    "start_time": 1361.5,
+    "end_time": 1364.5
+  },
+  {
+    "caption": "L. McNeeley grabs the offensive rebound.",
+    "start_time": 1433.5,
+    "end_time": 1438.5
+  },
+  {
+    "caption": "C. Sexton's driving layup two-pointer is blocked by I. Zubac. I. Zubac blocks C. Sexton's layup two-pointer. C. Christie grabs the defensive rebound after C. Sexton's driving layup two-pointer is blocked.",
+    "start_time": 1441.0,
+    "end_time": 1446.0
+  },
+  {
+    "caption": "J. Harden misses a driving floating bank two-pointer. N. Batum grabs the offensive rebound after J. Harden's missed driving floating bank two-pointer.",
+    "start_time": 1452.0,
+    "end_time": 1459.0
+  },
+  {
+    "caption": "C. Christie makes a layup two-pointer, assisted by J. Harden.",
+    "start_time": 1460.5,
+    "end_time": 1469.0
+  },
+  {
+    "caption": "M. Bridges is called for a defensive goaltending violation.",
+    "start_time": 1466.0,
+    "end_time": 1469.0
+  },
+  {
+    "caption": "M. Bridges misses a driving finger roll two-pointer. I. Zubac grabs the defensive rebound after M. Bridges' missed driving finger roll layup two-pointer.",
+    "start_time": 1484.5,
+    "end_time": 1491.5
+  },
+  {
+    "caption": "C. Paul misses a pullup three-pointer.",
+    "start_time": 1506.5,
+    "end_time": 1513.5
+  },
+  {
+    "caption": "M. Bridges misses a hook two-pointer. N. Batum grabs the defensive rebound after M. Bridges' missed hook two-pointer.",
+    "start_time": 1717.0,
+    "end_time": 1724.0
+  },
+  {
+    "caption": "J. Harden misses a pullup two-pointer. L. McNeeley grabs the defensive rebound after J. Harden's missed jump shot two-pointer.",
+    "start_time": 1730.0,
+    "end_time": 1737.0
+  },
+  {
+    "caption": "M. Bridges makes a driving layup two-pointer.",
+    "start_time": 1745.5,
+    "end_time": 1754.0
+  },
+  {
+    "caption": "Nicolas Batum makes a jump shot three-pointer, assisted by James Harden.",
+    "start_time": 1768.5,
+    "end_time": 1777.0
+  },
+  {
+    "caption": "C. Sexton makes a pullup two-pointer.",
+    "start_time": 1780.1,
+    "end_time": 1788.6
+  },
+  {
+    "caption": "C. Christie steps out-of-bounds turnover.",
+    "start_time": 1800.4,
+    "end_time": 1803.4
+  },
+  {
+    "caption": "C. Sexton misses a driving layup two-pointer. M. Diabaté grabs the offensive rebound after C. Sexton's missed driving layup two-pointer. M. Diabaté makes a putback layup two-pointer.",
+    "start_time": 1828.9,
+    "end_time": 1837.4
+  }
+]

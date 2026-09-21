@@ -1,0 +1,292 @@
+[
+  {
+    "caption": "C. Flagg misses a step back jump shot. J. Harden grabs the defensive rebound after C. Flagg's missed jump shot two-pointer.",
+    "start_time": 43.0,
+    "end_time": 50.0
+  },
+  {
+    "caption": "K. Leonard misses a pullup two-pointer. R. Nembhard grabs the defensive rebound after K. Leonard's missed jump shot.",
+    "start_time": 48.0,
+    "end_time": 55.0
+  },
+  {
+    "caption": "M. Christie misses a running three-pointer. K. Leonard grabs the defensive rebound after M. Christie's missed running three-pointer.",
+    "start_time": 58.0,
+    "end_time": 65.0
+  },
+  {
+    "caption": "D. Powell steals the ball from K. Leonard on a lost ball.",
+    "start_time": 62.0,
+    "end_time": 66.0
+  },
+  {
+    "caption": "R. Nembhard makes a jump shot three-pointer, assisted by D. Powell.",
+    "start_time": 62.5,
+    "end_time": 71.0
+  },
+  {
+    "caption": "K. Leonard makes a jump shot three-pointer, assisted by J. Harden.",
+    "start_time": 77.5,
+    "end_time": 86.0
+  },
+  {
+    "caption": "N. Marshall makes a jump shot three-pointer, assisted by C. Flagg.",
+    "start_time": 100.5,
+    "end_time": 109.0
+  },
+  {
+    "caption": "N. Marshall steals the ball from J. Harden on a bad pass.",
+    "start_time": 114.0,
+    "end_time": 118.0
+  },
+  {
+    "caption": "D. Powell is called for a bad pass out-of-bounds turnover.",
+    "start_time": 117.0,
+    "end_time": 120.0
+  },
+  {
+    "caption": "K. Leonard is called for a bad pass out-of-bounds turnover.",
+    "start_time": 166.5,
+    "end_time": 169.5
+  },
+  {
+    "caption": "R. Nembhard makes a pullup two-pointer.",
+    "start_time": 183.5,
+    "end_time": 192.0
+  },
+  {
+    "caption": "N. Marshall makes a driving floating jump shot, assisted by M. Christie.",
+    "start_time": 440.5,
+    "end_time": 449.0
+  },
+  {
+    "caption": "J. Harden misses a pullup three-pointer. M. Christie grabs the defensive rebound after J. Harden's missed pullup three-pointer.",
+    "start_time": 456.5,
+    "end_time": 463.5
+  },
+  {
+    "caption": "K. Dunn is called for a kicked ball violation.",
+    "start_time": 461.5,
+    "end_time": 464.5
+  },
+  {
+    "caption": "I. Zubac steals the ball from R. Nembhard on a bad pass.",
+    "start_time": 485.5,
+    "end_time": 489.5
+  },
+  {
+    "caption": "K. Leonard makes a pullup two-pointer.",
+    "start_time": 493.0,
+    "end_time": 501.5
+  },
+  {
+    "caption": "C. Flagg makes a driving dunk two-pointer. D. Powell commits a personal foul.",
+    "start_time": 506.0,
+    "end_time": 530.0
+  },
+  {
+    "caption": "C. Flagg makes a driving layup two-pointer. K. Leonard commits a personal foul.",
+    "start_time": 600.0,
+    "end_time": 608.5
+  },
+  {
+    "caption": "K. Dunn misses a jump shot three-pointer. N. Marshall grabs the defensive rebound after K. Dunn's missed three-pointer.",
+    "start_time": 648.0,
+    "end_time": 655.0
+  },
+  {
+    "caption": "R. Nembhard misses a jump shot three-pointer. K. Leonard grabs the defensive rebound after R. Nembhard's missed jump shot three-pointer.",
+    "start_time": 664.0,
+    "end_time": 671.0
+  },
+  {
+    "caption": "K. Leonard misses a jump shot two-pointer. M. Cisse grabs the defensive rebound after K. Leonard's missed jump shot two-pointer.",
+    "start_time": 698.5,
+    "end_time": 705.5
+  },
+  {
+    "caption": "M. Christie makes a jump shot three-pointer, assisted by R. Nembhard.",
+    "start_time": 706.0,
+    "end_time": 714.5
+  },
+  {
+    "caption": "J. Harden misses a step back jump shot. C. Flagg grabs the defensive rebound after J. Harden's missed jump shot two-pointer.",
+    "start_time": 723.5,
+    "end_time": 730.5
+  },
+  {
+    "caption": "M. Cisse makes a running layup two-pointer, assisted by C. Flagg.",
+    "start_time": 729.0,
+    "end_time": 737.5
+  },
+  {
+    "caption": "M. Christie is called for a kicked ball violation.",
+    "start_time": 751.5,
+    "end_time": 754.5
+  },
+  {
+    "caption": "J. Harden makes a driving layup two-pointer, assisted by I. Zubac.",
+    "start_time": 782.0,
+    "end_time": 790.5
+  },
+  {
+    "caption": "R. Nembhard misses a jump shot three-pointer. J. Collins grabs the defensive rebound after R. Nembhard's missed three-pointer.",
+    "start_time": 800.5,
+    "end_time": 807.5
+  },
+  {
+    "caption": "R. Nembhard commits a personal foul.",
+    "start_time": 813.5,
+    "end_time": 817.5
+  },
+  {
+    "caption": "K. Dunn steals the ball from B. Williams on a lost ball.",
+    "start_time": 898.0,
+    "end_time": 902.0
+  },
+  {
+    "caption": "C. Flagg commits a personal foul.",
+    "start_time": 907.0,
+    "end_time": 911.0
+  },
+  {
+    "caption": "C. Flagg misses a driving floating bank two-pointer. I. Zubac grabs the defensive rebound after C. Flagg's missed driving floating bank two-pointer.",
+    "start_time": 970.5,
+    "end_time": 977.5
+  },
+  {
+    "caption": "J. Harden makes a running pullup three-pointer.",
+    "start_time": 974.0,
+    "end_time": 982.5
+  },
+  {
+    "caption": "K. Dunn steals the ball from C. Flagg on a lost ball.",
+    "start_time": 1177.0,
+    "end_time": 1181.0
+  },
+  {
+    "caption": "C. Martin steals the ball from J. Harden on a lost ball.",
+    "start_time": 1181.0,
+    "end_time": 1185.0
+  },
+  {
+    "caption": "B. Williams misses a driving layup two-pointer. J. Harden grabs the defensive rebound after B. Williams' missed driving layup two-pointer.",
+    "start_time": 1194.0,
+    "end_time": 1201.0
+  },
+  {
+    "caption": "J. Harden misses a step back three-pointer. C. Martin grabs the defensive rebound after J. Harden's missed jump shot three-pointer.",
+    "start_time": 1206.0,
+    "end_time": 1213.0
+  },
+  {
+    "caption": "M. Cisse misses an alley-oop layup two-pointer. K. Dunn grabs the defensive rebound after M. Cisse's missed layup two-pointer.",
+    "start_time": 1216.0,
+    "end_time": 1223.0
+  },
+  {
+    "caption": "J. Harden misses a step back jump shot.",
+    "start_time": 1237.0,
+    "end_time": 1244.0
+  },
+  {
+    "caption": "J. Harden misses a jump shot three-pointer. K. Thompson grabs the defensive rebound after J. Harden's missed three-pointer.",
+    "start_time": 1277.5,
+    "end_time": 1284.5
+  },
+  {
+    "caption": "N. Marshall makes a running layup two-pointer, assisted by B. Williams.",
+    "start_time": 1282.0,
+    "end_time": 1290.5
+  },
+  {
+    "caption": "K. Dunn makes a driving floating two-pointer.",
+    "start_time": 1302.0,
+    "end_time": 1310.5
+  },
+  {
+    "caption": "K. Thompson makes a jump shot three-pointer, assisted by C. Martin.",
+    "start_time": 1318.0,
+    "end_time": 1326.5
+  },
+  {
+    "caption": "J. Collins makes a cutting dunk two-pointer, assisted by J. Harden.",
+    "start_time": 1329.0,
+    "end_time": 1337.5
+  },
+  {
+    "caption": "B. Williams' driving floating two-pointer is blocked by J. Collins. J. Collins blocks B. Williams' jump shot two-pointer. K. Dunn grabs the defensive rebound after B. Williams' missed driving floating two-pointer.",
+    "start_time": 1350.5,
+    "end_time": 1355.5
+  },
+  {
+    "caption": "K. Brown misses a running three-pointer. K. Thompson grabs the defensive rebound after K. Brown's missed running three-pointer.",
+    "start_time": 1355.5,
+    "end_time": 1362.5
+  },
+  {
+    "caption": "N. Marshall misses a running finger roll two-pointer.",
+    "start_time": 1361.5,
+    "end_time": 1368.5
+  },
+  {
+    "caption": "D. Powell commits a personal foul.",
+    "start_time": 1368.5,
+    "end_time": 1371.5
+  },
+  {
+    "caption": "D. Powell is called for a kicked ball violation.",
+    "start_time": 1401.0,
+    "end_time": 1404.0
+  },
+  {
+    "caption": "D. Powell steals the ball from K. Sanders on a bad pass.",
+    "start_time": 1428.5,
+    "end_time": 1432.5
+  },
+  {
+    "caption": "K. Thompson makes a running three-pointer, assisted by B. Williams.",
+    "start_time": 1433.5,
+    "end_time": 1442.0
+  },
+  {
+    "caption": "B. Williams steals the ball from J. Collins on a lost ball.",
+    "start_time": 1453.0,
+    "end_time": 1457.0
+  },
+  {
+    "caption": "K. Brown commits a personal foul.",
+    "start_time": 1458.0,
+    "end_time": 1462.0
+  },
+  {
+    "caption": "J. Harden misses a driving floating two-pointer. C. Martin grabs the defensive rebound after J. Harden's missed driving floating two-pointer.",
+    "start_time": 1523.5,
+    "end_time": 1530.5
+  },
+  {
+    "caption": "K. Sanders commits a personal foul.",
+    "start_time": 1536.6,
+    "end_time": 1540.6
+  },
+  {
+    "caption": "J. Collins makes a turnaround two-pointer, assisted by K. Sanders.",
+    "start_time": 1581.65,
+    "end_time": 1590.15
+  },
+  {
+    "caption": "D. Powell makes a cutting layup two-pointer, assisted by B. Williams.",
+    "start_time": 1592.9,
+    "end_time": 1601.4
+  },
+  {
+    "caption": "J. Harden misses a pullup three-pointer. K. Brown grabs the offensive rebound after J. Harden's missed jump shot three-pointer.",
+    "start_time": 1623.0,
+    "end_time": 1630.0
+  },
+  {
+    "caption": "N. Batum misses a jump shot three-pointer.",
+    "start_time": 1629.1,
+    "end_time": 1636.1
+  }
+]

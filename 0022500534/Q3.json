@@ -1,0 +1,317 @@
+[
+  {
+    "caption": "T. Murphy III misses a jump shot three-pointer. K. Middleton grabs the defensive rebound after T. Murphy III's missed three-pointer.",
+    "start_time": 20.0,
+    "end_time": 27.0
+  },
+  {
+    "caption": "D. Queen commits a personal foul.",
+    "start_time": 39.0,
+    "end_time": 43.0
+  },
+  {
+    "caption": "K. George commits a personal foul.",
+    "start_time": 84.5,
+    "end_time": 87.5
+  },
+  {
+    "caption": "B. McGowens misses a jump shot three-pointer. D. Queen grabs the offensive rebound after B. McGowens's missed jump shot three-pointer. D. Queen misses a tip layup two-pointer.",
+    "start_time": 112.5,
+    "end_time": 122.5
+  },
+  {
+    "caption": "B. Coulibaly grabs the defensive rebound.",
+    "start_time": 116.5,
+    "end_time": 122.5
+  },
+  {
+    "caption": "B. Coulibaly misses a jump shot three-pointer. Z. Williamson grabs the defensive rebound after B. Coulibaly's missed jump shot three-pointer.",
+    "start_time": 122.0,
+    "end_time": 129.0
+  },
+  {
+    "caption": "Z. Williamson makes a driving layup two-pointer. B. Coulibaly commits a personal foul.",
+    "start_time": 128.0,
+    "end_time": 136.5
+  },
+  {
+    "caption": "A. Sarr misses a driving floating two-pointer. K. George grabs the offensive rebound after A. Sarr's missed driving floating two-pointer. K. George makes a putback layup two-pointer.",
+    "start_time": 182.5,
+    "end_time": 191.0
+  },
+  {
+    "caption": "Z. Williamson makes a driving floating jump shot two-pointer. A. Sarr commits a personal foul.",
+    "start_time": 192.5,
+    "end_time": 201.0
+  },
+  {
+    "caption": "B. Coulibaly grabs the defensive rebound.",
+    "start_time": 224.5,
+    "end_time": 229.5
+  },
+  {
+    "caption": "K. George commits an offensive foul.",
+    "start_time": 229.5,
+    "end_time": 232.5
+  },
+  {
+    "caption": "J. Fears misses a jump shot three-pointer. T. Murphy III grabs the offensive rebound after J. Fears's missed jump shot three-pointer.",
+    "start_time": 259.0,
+    "end_time": 266.0
+  },
+  {
+    "caption": "T. Murphy III makes a cutting dunk two-pointer, assisted by D. Queen.",
+    "start_time": 264.5,
+    "end_time": 273.0
+  },
+  {
+    "caption": "T. Johnson makes a jump shot three-pointer, assisted by A. Sarr.",
+    "start_time": 452.5,
+    "end_time": 461.0
+  },
+  {
+    "caption": "B. Coulibaly commits a personal foul.",
+    "start_time": 470.0,
+    "end_time": 473.0
+  },
+  {
+    "caption": "T. Murphy III makes a jump shot three-pointer, assisted by Z. Williamson.",
+    "start_time": 494.5,
+    "end_time": 503.0
+  },
+  {
+    "caption": "A. Sarr makes a cutting dunk two-pointer, assisted by T. Johnson.",
+    "start_time": 510.5,
+    "end_time": 519.0
+  },
+  {
+    "caption": "B. McGowens makes a driving layup two-pointer, assisted by Z. Williamson.",
+    "start_time": 522.5,
+    "end_time": 531.0
+  },
+  {
+    "caption": "T. Murphy III makes a running layup two-pointer, assisted by J. Fears. T. Johnson commits a personal foul.",
+    "start_time": 536.5,
+    "end_time": 545.0
+  },
+  {
+    "caption": "J. Fears steals the ball from A. Sarr on a lost ball.",
+    "start_time": 538.0,
+    "end_time": 542.0
+  },
+  {
+    "caption": "J. Fears commits a personal foul.",
+    "start_time": 583.0,
+    "end_time": 586.0
+  },
+  {
+    "caption": "A. Sarr misses a jump shot three-pointer. D. Queen grabs the defensive rebound after A. Sarr's missed jump shot three-pointer.",
+    "start_time": 624.5,
+    "end_time": 631.5
+  },
+  {
+    "caption": "M. Peavy makes a cutting dunk two-pointer, assisted by J. Fears.",
+    "start_time": 637.0,
+    "end_time": 645.5
+  },
+  {
+    "caption": "A. Sarr makes a turnaround hook two-pointer. T. Murphy III commits a personal foul.",
+    "start_time": 648.0,
+    "end_time": 656.5
+  },
+  {
+    "caption": "D. Queen misses a driving dunk two-pointer. B. Carrington grabs the defensive rebound after D. Queen's missed driving dunk two-pointer.",
+    "start_time": 710.0,
+    "end_time": 717.0
+  },
+  {
+    "caption": "J. Champagnie makes a running layup two-pointer, assisted by B. Carrington.",
+    "start_time": 714.5,
+    "end_time": 723.0
+  },
+  {
+    "caption": "M. Peavy makes a cutting layup two-pointer, assisted by D. Queen.",
+    "start_time": 727.5,
+    "end_time": 736.0
+  },
+  {
+    "caption": "J. Fears commits a personal foul.",
+    "start_time": 743.0,
+    "end_time": 746.0
+  },
+  {
+    "caption": "K. Middleton makes a step back jump shot two-pointer.",
+    "start_time": 763.5,
+    "end_time": 772.0
+  },
+  {
+    "caption": "J. Fears makes a driving layup two-pointer.",
+    "start_time": 773.5,
+    "end_time": 782.0
+  },
+  {
+    "caption": "J. Fears commits a technical foul.",
+    "start_time": 780.0,
+    "end_time": 783.0
+  },
+  {
+    "caption": "J. Fears steals the ball from T. Johnson on a lost ball.",
+    "start_time": 828.5,
+    "end_time": 832.5
+  },
+  {
+    "caption": "J. Fears makes a running layup two-pointer, assisted by D. Queen.",
+    "start_time": 830.0,
+    "end_time": 838.5
+  },
+  {
+    "caption": "T. Johnson misses a pullup three-pointer. J. Champagnie grabs the offensive rebound after T. Johnson's missed pullup three-pointer. J. Champagnie's tip layup two-pointer is missed.",
+    "start_time": 838.5,
+    "end_time": 851.5
+  },
+  {
+    "caption": "D. Queen grabs the defensive rebound.",
+    "start_time": 845.5,
+    "end_time": 851.5
+  },
+  {
+    "caption": "M. Peavy misses a layup two-pointer. D. Queen grabs the offensive rebound after M. Peavy's missed layup two-pointer. D. Queen makes a tip layup two-pointer.",
+    "start_time": 852.0,
+    "end_time": 860.5
+  },
+  {
+    "caption": "T. Murphy III steals the ball from T. Johnson on a bad pass.",
+    "start_time": 1055.0,
+    "end_time": 1059.0
+  },
+  {
+    "caption": "J. Fears makes a running layup two-pointer, assisted by T. Murphy III.",
+    "start_time": 1057.5,
+    "end_time": 1066.0
+  },
+  {
+    "caption": "J. Champagnie makes a dunk two-pointer, assisted by B. Carrington.",
+    "start_time": 1073.5,
+    "end_time": 1082.0
+  },
+  {
+    "caption": "T. Murphy III misses a jump shot three-pointer. T. Johnson grabs the defensive rebound after T. Murphy III's missed three-pointer.",
+    "start_time": 1093.0,
+    "end_time": 1100.0
+  },
+  {
+    "caption": "J. Champagnie makes a running dunk two-pointer, assisted by T. Johnson.",
+    "start_time": 1095.5,
+    "end_time": 1104.0
+  },
+  {
+    "caption": "J. Fears misses a driving floating two-pointer. J. Champagnie grabs the defensive rebound after J. Fears' missed driving floating two-pointer.",
+    "start_time": 1123.0,
+    "end_time": 1130.0
+  },
+  {
+    "caption": "J. Fears makes a driving layup two-pointer.",
+    "start_time": 1125.5,
+    "end_time": 1134.0
+  },
+  {
+    "caption": "J. Fears steals the ball from A. Sarr on a lost ball.",
+    "start_time": 1128.0,
+    "end_time": 1132.0
+  },
+  {
+    "caption": "A. Sarr makes a turnaround hook two-pointer, assisted by J. Champagnie.",
+    "start_time": 1137.5,
+    "end_time": 1146.0
+  },
+  {
+    "caption": "D. Queen makes a driving reverse layup two-pointer.",
+    "start_time": 1263.0,
+    "end_time": 1271.5
+  },
+  {
+    "caption": "M. Peavy commits a personal foul.",
+    "start_time": 1276.5,
+    "end_time": 1279.5
+  },
+  {
+    "caption": "T. Murphy III makes a driving reverse layup two-pointer.",
+    "start_time": 1340.0,
+    "end_time": 1348.5
+  },
+  {
+    "caption": "B. Carrington makes a jump shot three-pointer, assisted by T. Vukcevic.",
+    "start_time": 1351.0,
+    "end_time": 1359.5
+  },
+  {
+    "caption": "T. Murphy III makes a pullup three-pointer.",
+    "start_time": 1360.0,
+    "end_time": 1368.5
+  },
+  {
+    "caption": "M. Branham makes a jump shot three-pointer, assisted by A. Johnson.",
+    "start_time": 1386.0,
+    "end_time": 1394.5
+  },
+  {
+    "caption": "M. Peavy makes a pullup two-pointer, assisted by J. Fears.",
+    "start_time": 1410.0,
+    "end_time": 1418.5
+  },
+  {
+    "caption": "T. Vukcevic is called for a bad pass out-of-bounds turnover.",
+    "start_time": 1427.5,
+    "end_time": 1430.5
+  },
+  {
+    "caption": "T. Murphy III makes a dunk two-pointer, assisted by J. Fears.",
+    "start_time": 1447.0,
+    "end_time": 1455.5
+  },
+  {
+    "caption": "B. Carrington misses a jump shot three-pointer. D. Queen grabs the defensive rebound after B. Carrington's missed jump shot three-pointer.",
+    "start_time": 1463.5,
+    "end_time": 1470.5
+  },
+  {
+    "caption": "T. Murphy III misses a jump shot three-pointer. D. Queen grabs the offensive rebound after T. Murphy III's missed three-pointer.",
+    "start_time": 1484.5,
+    "end_time": 1491.5
+  },
+  {
+    "caption": "J. Fears misses a driving floating bank two-pointer. M. Branham grabs the defensive rebound after J. Fears' missed driving floating bank two-pointer.",
+    "start_time": 1495.5,
+    "end_time": 1502.5
+  },
+  {
+    "caption": "T. Vukcevic misses a jump shot three-pointer. J. Fears grabs the defensive rebound after T. Vukcevic's missed jump shot three-pointer.",
+    "start_time": 1504.5,
+    "end_time": 1511.5
+  },
+  {
+    "caption": "J. Champagnie makes a cutting dunk two-pointer, assisted by T. Vukcevic.",
+    "start_time": 1550.5,
+    "end_time": 1559.0
+  },
+  {
+    "caption": "J. Fears misses a pullup two-pointer. T. Vukcevic grabs the defensive rebound after J. Fears' missed jump shot.",
+    "start_time": 1584.6,
+    "end_time": 1591.6
+  },
+  {
+    "caption": "A. Johnson makes a running dunk two-pointer, assisted by J. Champagnie.",
+    "start_time": 1587.5,
+    "end_time": 1596.0
+  },
+  {
+    "caption": "T. Vukcevic is called for a kicked ball violation.",
+    "start_time": 1616.7,
+    "end_time": 1619.7
+  },
+  {
+    "caption": "T. Murphy III misses a pullup three-pointer.",
+    "start_time": 1658.2,
+    "end_time": 1665.2
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "caption": "LeBron James makes a pullup two-pointer, assisted by Jalen Vanderbilt.",
+    "start_time": 16.0,
+    "end_time": 24.5
+  },
+  {
+    "caption": "M. Smart commits a personal foul.",
+    "start_time": 38.5,
+    "end_time": 41.5
+  },
+  {
+    "caption": "C. Kispert makes a jump shot three-pointer, assisted by M. Gueye.",
+    "start_time": 66.5,
+    "end_time": 75.0
+  },
+  {
+    "caption": "L. James misses a fadeaway three-pointer. N. Alexander-Walker grabs the defensive rebound after L. James's missed jump shot three-pointer.",
+    "start_time": 93.0,
+    "end_time": 100.0
+  },
+  {
+    "caption": "N. Alexander-Walker makes a running layup two-pointer. C. Kispert commits a personal foul.",
+    "start_time": 99.5,
+    "end_time": 126.0
+  },
+  {
+    "caption": "N. Alexander-Walker makes a cutting layup two-pointer, assisted by O. Okongwu. N. Alexander-Walker commits a personal foul.",
+    "start_time": 181.5,
+    "end_time": 205.0
+  },
+  {
+    "caption": "O. Okongwu makes a cutting dunk two-pointer, assisted by C. Kispert.",
+    "start_time": 253.5,
+    "end_time": 262.0
+  },
+  {
+    "caption": "J. LaRavia misses a step back three-pointer. N. Alexander-Walker grabs the defensive rebound after J. LaRavia's missed jump shot three-pointer.",
+    "start_time": 285.0,
+    "end_time": 292.0
+  },
+  {
+    "caption": "N. Alexander-Walker misses a pullup three-pointer. D. Daniels grabs the offensive rebound after N. Alexander-Walker's missed pullup three-pointer. D. Daniels makes a tip layup two-pointer.",
+    "start_time": 294.5,
+    "end_time": 303.0
+  },
+  {
+    "caption": "LeBron James makes a jump shot three-pointer, assisted by Luka Dončić.",
+    "start_time": 494.0,
+    "end_time": 502.5
+  },
+  {
+    "caption": "M. Smart commits a personal foul.",
+    "start_time": 512.5,
+    "end_time": 515.5
+  },
+  {
+    "caption": "C. Kispert misses a jump shot three-pointer.",
+    "start_time": 534.0,
+    "end_time": 541.0
+  },
+  {
+    "caption": "M. Gueye steals the ball from L. James on a bad pass.",
+    "start_time": 553.5,
+    "end_time": 557.5
+  },
+  {
+    "caption": "M. Gueye's running dunk two-pointer is missed. D. Ayton grabs the defensive rebound after M. Gueye's missed running dunk two-pointer.",
+    "start_time": 554.5,
+    "end_time": 561.5
+  },
+  {
+    "caption": "Marcus Smart makes a running three-pointer, assisted by Luka Dončić.",
+    "start_time": 560.0,
+    "end_time": 568.5
+  },
+  {
+    "caption": "D. Daniels misses a driving layup two-pointer. M. Gueye grabs the offensive rebound after D. Daniels' missed driving layup two-pointer.",
+    "start_time": 572.5,
+    "end_time": 579.5
+  },
+  {
+    "caption": "O. Okongwu misses a jump shot three-pointer. J. LaRavia grabs the defensive rebound after O. Okongwu's missed three-pointer.",
+    "start_time": 575.5,
+    "end_time": 582.5
+  },
+  {
+    "caption": "Luka Dončić makes a driving floating jump shot two-pointer, assisted by Jalen LaRavia. N. Alexander-Walker commits a personal foul.",
+    "start_time": 590.0,
+    "end_time": 598.5
+  },
+  {
+    "caption": "D. Ayton commits a personal foul.",
+    "start_time": 656.0,
+    "end_time": 659.0
+  },
+  {
+    "caption": "O. Okongwu makes a dunk two-pointer, assisted by C. McCollum.",
+    "start_time": 668.5,
+    "end_time": 677.0
+  },
+  {
+    "caption": "Luka Dončić misses a jump shot three-pointer. O. Okongwu grabs the defensive rebound after L. Dončić's missed three-pointer.",
+    "start_time": 690.0,
+    "end_time": 697.0
+  },
+  {
+    "caption": "L. James makes a running dunk two-pointer, assisted by L. Dončić.",
+    "start_time": 698.5,
+    "end_time": 707.0
+  },
+  {
+    "caption": "J. LaRavia steals the ball from C. McCollum on a lost ball.",
+    "start_time": 701.0,
+    "end_time": 705.0
+  },
+  {
+    "caption": "J. Johnson misses a jump shot three-pointer. D. Ayton grabs the defensive rebound after J. Johnson's missed three-pointer.",
+    "start_time": 713.0,
+    "end_time": 720.0
+  },
+  {
+    "caption": "Luka Dončić misses a running layup two-pointer. L. Dončić grabs the offensive rebound after missing his running layup two-pointer.",
+    "start_time": 719.0,
+    "end_time": 726.0
+  },
+  {
+    "caption": "J. Johnson commits a personal foul.",
+    "start_time": 738.0,
+    "end_time": 742.0
+  },
+  {
+    "caption": "LeBron James steals the ball from Carmelo Anthony on a bad pass.",
+    "start_time": 971.5,
+    "end_time": 975.5
+  },
+  {
+    "caption": "D. Ayton makes a running layup two-pointer, assisted by L. James.",
+    "start_time": 973.0,
+    "end_time": 981.5
+  },
+  {
+    "caption": "J. Johnson makes a driving floating two-pointer.",
+    "start_time": 983.0,
+    "end_time": 991.5
+  },
+  {
+    "caption": "R. Hachimura misses a driving layup two-pointer. R. Hachimura grabs the offensive rebound after missing his driving layup two-pointer. R. Hachimura's putback layup two-pointer is blocked by Draymond Green.",
+    "start_time": 1006.5,
+    "end_time": 1014.5
+  },
+  {
+    "caption": "R. Hachimura's putback layup two-pointer is blocked by Draymond Green. D. Daniels grabs the defensive rebound after R. Hachimura's missed putback layup two-pointer.",
+    "start_time": 1007.5,
+    "end_time": 1012.5
+  },
+  {
+    "caption": "O. Okongwu blocks R. Hachimura's putback layup two-pointer.",
+    "start_time": 1009.5,
+    "end_time": 1012.5
+  },
+  {
+    "caption": "C. McCollum misses a step back three-pointer. D. Ayton grabs the defensive rebound after C. McCollum's missed jump shot three-pointer.",
+    "start_time": 1031.5,
+    "end_time": 1038.5
+  },
+  {
+    "caption": "R. Hachimura makes a jump shot three-pointer, assisted by L. Dončić.",
+    "start_time": 1039.0,
+    "end_time": 1047.5
+  },
+  {
+    "caption": "C. McCollum makes a driving floating jump shot two-pointer, assisted by D. Daniels.",
+    "start_time": 1061.5,
+    "end_time": 1070.0
+  },
+  {
+    "caption": "L. James makes a driving layup two-pointer, assisted by M. Smart.",
+    "start_time": 1081.5,
+    "end_time": 1090.0
+  },
+  {
+    "caption": "N. Alexander-Walker misses a driving layup two-pointer. L. James grabs the defensive rebound after N. Alexander-Walker's missed driving layup two-pointer.",
+    "start_time": 1094.0,
+    "end_time": 1101.0
+  },
+  {
+    "caption": "J. Johnson commits a personal foul.",
+    "start_time": 1104.5,
+    "end_time": 1108.5
+  },
+  {
+    "caption": "L. James commits a take personal foul.",
+    "start_time": 1169.5,
+    "end_time": 1172.5
+  },
+  {
+    "caption": "V. Krejčí makes a driving layup two-pointer.",
+    "start_time": 1199.5,
+    "end_time": 1208.0
+  },
+  {
+    "caption": "N. Smith Jr. makes a step back three-pointer.",
+    "start_time": 1216.5,
+    "end_time": 1225.0
+  },
+  {
+    "caption": "A. Newell misses a jump shot three-pointer. K. Bufkin grabs the defensive rebound after A. Newell's missed three-pointer.",
+    "start_time": 1230.0,
+    "end_time": 1237.0
+  },
+  {
+    "caption": "K. Bufkin makes a jump shot three-pointer, assisted by B. James.",
+    "start_time": 1236.5,
+    "end_time": 1245.0
+  },
+  {
+    "caption": "K. Wallace misses a jump shot three-pointer. A. Newell grabs the offensive rebound after K. Wallace's missed jump shot three-pointer.",
+    "start_time": 1253.0,
+    "end_time": 1260.0
+  },
+  {
+    "caption": "V. Krejčí makes a jump shot three-pointer, assisted by A. Newell.",
+    "start_time": 1255.5,
+    "end_time": 1264.0
+  },
+  {
+    "caption": "B. James misses a fadeaway two-pointer. V. Krejčí grabs the defensive rebound after B. James's missed jump shot two-pointer.",
+    "start_time": 1279.0,
+    "end_time": 1286.0
+  },
+  {
+    "caption": "C. Kispert makes a cutting layup two-pointer, assisted by A. Newell.",
+    "start_time": 1289.5,
+    "end_time": 1298.0
+  },
+  {
+    "caption": "D. Knecht makes a pullup two-pointer, assisted by N. Smith Jr.",
+    "start_time": 1309.5,
+    "end_time": 1318.0
+  },
+  {
+    "caption": "C. Kispert misses a step back three-pointer. K. Wallace grabs the offensive rebound after C. Kispert's missed three-pointer.",
+    "start_time": 1327.5,
+    "end_time": 1334.5
+  },
+  {
+    "caption": "V. Krejčí misses a jump shot three-pointer. D. Timme grabs the defensive rebound after V. Krejčí's missed three-pointer.",
+    "start_time": 1333.5,
+    "end_time": 1340.5
+  },
+  {
+    "caption": "N. Smith Jr. makes a jump shot three-pointer, assisted by K. Bufkin.",
+    "start_time": 1353.5,
+    "end_time": 1362.0
+  },
+  {
+    "caption": "V. Krejčí makes a driving layup two-pointer, assisted by K. Wallace.",
+    "start_time": 1364.9,
+    "end_time": 1373.4
+  },
+  {
+    "caption": "V. Krejčí steals the ball from N. Smith Jr. on a lost ball.",
+    "start_time": 1380.3,
+    "end_time": 1384.3
+  },
+  {
+    "caption": "C. Kispert makes a running layup two-pointer, assisted by V. Krejčí.",
+    "start_time": 1380.8,
+    "end_time": 1389.3
+  },
+  {
+    "caption": "D. Timme makes a driving layup two-pointer, assisted by N. Smith Jr.",
+    "start_time": 1400.1,
+    "end_time": 1408.6
+  },
+  {
+    "caption": "K. Wallace misses a pullup three-pointer. V. Krejčí grabs the offensive rebound after K. Wallace's missed pullup three-pointer.",
+    "start_time": 1414.2,
+    "end_time": 1421.2
+  },
+  {
+    "caption": "K. Wallace makes a pullup two-pointer, assisted by V. Krejčí.",
+    "start_time": 1419.9,
+    "end_time": 1428.4
+  }
+]

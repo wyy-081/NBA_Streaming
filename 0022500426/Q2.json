@@ -1,0 +1,292 @@
+[
+  {
+    "caption": "S. Hauser makes a jump shot three-pointer, assisted by D. White.",
+    "start_time": 2.5,
+    "end_time": 11.0
+  },
+  {
+    "caption": "P. Siakam misses a floating two-pointer. P. Siakam grabs the offensive rebound after missing his floating two-pointer.",
+    "start_time": 26.0,
+    "end_time": 33.0
+  },
+  {
+    "caption": "D. White steals the ball from P. Siakam on a lost ball.",
+    "start_time": 32.0,
+    "end_time": 36.0
+  },
+  {
+    "caption": "D. White misses a running pullup three-pointer. B. Scheierman grabs the offensive rebound after D. White's missed running pullup three-pointer.",
+    "start_time": 35.0,
+    "end_time": 42.0
+  },
+  {
+    "caption": "D. White makes a pullup three-pointer.",
+    "start_time": 43.5,
+    "end_time": 52.0
+  },
+  {
+    "caption": "J. Furphy misses a jump shot three-pointer. N. Queta grabs the defensive rebound after J. Furphy's missed jump shot three-pointer.",
+    "start_time": 243.5,
+    "end_time": 250.5
+  },
+  {
+    "caption": "A. Simons makes a jump shot three-pointer, assisted by B. Scheierman.",
+    "start_time": 261.0,
+    "end_time": 269.5
+  },
+  {
+    "caption": "J. Walker makes a jump shot three-pointer, assisted by T. McConnell.",
+    "start_time": 280.0,
+    "end_time": 288.5
+  },
+  {
+    "caption": "D. White misses a step back three-pointer. T. McConnell grabs the defensive rebound after D. White's missed jump shot three-pointer.",
+    "start_time": 294.5,
+    "end_time": 301.5
+  },
+  {
+    "caption": "P. Siakam commits an offensive foul.",
+    "start_time": 303.5,
+    "end_time": 306.5
+  },
+  {
+    "caption": "J. Brown makes a turnaround two-pointer, assisted by D. White. A. Simons commits a personal foul.",
+    "start_time": 368.5,
+    "end_time": 391.0
+  },
+  {
+    "caption": "B. Scheierman makes a jump shot three-pointer, assisted by J. Brown.",
+    "start_time": 472.5,
+    "end_time": 481.0
+  },
+  {
+    "caption": "A. Simons commits a personal foul.",
+    "start_time": 489.0,
+    "end_time": 492.0
+  },
+  {
+    "caption": "A. Nembhard commits an offensive foul.",
+    "start_time": 537.5,
+    "end_time": 540.5
+  },
+  {
+    "caption": "J. Brown misses a floating two-pointer. J. Walker grabs the defensive rebound after J. Brown's missed floating two-pointer.",
+    "start_time": 761.0,
+    "end_time": 768.0
+  },
+  {
+    "caption": "D. White commits a personal foul.",
+    "start_time": 775.5,
+    "end_time": 779.5
+  },
+  {
+    "caption": "J. Walker commits a personal foul.",
+    "start_time": 842.5,
+    "end_time": 846.5
+  },
+  {
+    "caption": "B. Mathurin makes a pullup two-pointer, assisted by J. Walker.",
+    "start_time": 928.5,
+    "end_time": 937.0
+  },
+  {
+    "caption": "P. Pritchard makes a step back three-pointer.",
+    "start_time": 939.5,
+    "end_time": 948.0
+  },
+  {
+    "caption": "B. Mathurin misses a driving floating two-pointer. B. Scheierman grabs the defensive rebound after B. Mathurin's missed driving floating two-pointer.",
+    "start_time": 955.0,
+    "end_time": 962.0
+  },
+  {
+    "caption": "B. Mathurin commits a personal foul.",
+    "start_time": 966.0,
+    "end_time": 970.0
+  },
+  {
+    "caption": "B. Mathurin misses a pullup three-pointer. P. Pritchard grabs the defensive rebound after B. Mathurin's missed jump shot three-pointer.",
+    "start_time": 1050.0,
+    "end_time": 1057.0
+  },
+  {
+    "caption": "D. White makes a fadeaway jump shot two-pointer.",
+    "start_time": 1058.5,
+    "end_time": 1067.0
+  },
+  {
+    "caption": "J. Brown steals the ball from T. McConnell on a bad pass.",
+    "start_time": 1070.0,
+    "end_time": 1074.0
+  },
+  {
+    "caption": "J. Brown makes a driving layup two-pointer, assisted by P. Pritchard.",
+    "start_time": 1074.5,
+    "end_time": 1083.0
+  },
+  {
+    "caption": "J. Huff misses a jump shot three-pointer. B. Scheierman grabs the defensive rebound after J. Huff's missed three-pointer.",
+    "start_time": 1283.5,
+    "end_time": 1290.5
+  },
+  {
+    "caption": "P. Pritchard makes a running pullup two-pointer.",
+    "start_time": 1289.0,
+    "end_time": 1297.5
+  },
+  {
+    "caption": "P. Siakam misses a layup two-pointer. D. White grabs the defensive rebound after P. Siakam's missed layup two-pointer.",
+    "start_time": 1301.5,
+    "end_time": 1308.5
+  },
+  {
+    "caption": "T. McConnell commits a personal foul.",
+    "start_time": 1310.5,
+    "end_time": 1314.5
+  },
+  {
+    "caption": "J. Huff makes a jump shot two-pointer, assisted by B. Mathurin.",
+    "start_time": 1390.5,
+    "end_time": 1399.0
+  },
+  {
+    "caption": "P. Pritchard makes a fadeaway jump shot two-pointer.",
+    "start_time": 1410.5,
+    "end_time": 1419.0
+  },
+  {
+    "caption": "Q. Jackson misses a jump shot three-pointer. B. Scheierman grabs the defensive rebound after Q. Jackson's missed three-pointer.",
+    "start_time": 1430.0,
+    "end_time": 1437.0
+  },
+  {
+    "caption": "P. Siakam commits a shooting personal foul.",
+    "start_time": 1445.0,
+    "end_time": 1449.0
+  },
+  {
+    "caption": "B. Scheierman grabs the offensive rebound.",
+    "start_time": 1488.0,
+    "end_time": 1493.0
+  },
+  {
+    "caption": "D. White makes a jump shot three-pointer, assisted by J. Brown.",
+    "start_time": 1489.5,
+    "end_time": 1498.0
+  },
+  {
+    "caption": "A. Nembhard misses a driving finger roll two-pointer. B. Mathurin grabs the offensive rebound after A. Nembhard's missed driving finger roll layup two-pointer. B. Mathurin makes a tip layup two-pointer.",
+    "start_time": 1511.0,
+    "end_time": 1520.0
+  },
+  {
+    "caption": "D. White misses a pullup two-pointer. J. Huff grabs the defensive rebound after D. White's missed pullup two-pointer.",
+    "start_time": 1523.0,
+    "end_time": 1530.0
+  },
+  {
+    "caption": "J. Huff misses a jump shot three-pointer. P. Pritchard grabs the defensive rebound after J. Huff's missed jump shot three-pointer.",
+    "start_time": 1534.0,
+    "end_time": 1541.0
+  },
+  {
+    "caption": "J. Brown misses a turnaround two-pointer.",
+    "start_time": 1655.0,
+    "end_time": 1662.0
+  },
+  {
+    "caption": "L. Garza commits a personal foul.",
+    "start_time": 1660.0,
+    "end_time": 1663.0
+  },
+  {
+    "caption": "J. Huff is called for an out-of-bounds turnover.",
+    "start_time": 1687.5,
+    "end_time": 1690.5
+  },
+  {
+    "caption": "P. Pritchard makes a turnaround two-pointer.",
+    "start_time": 1696.5,
+    "end_time": 1705.0
+  },
+  {
+    "caption": "B. Mathurin misses a pullup three-pointer. P. Pritchard grabs the defensive rebound after B. Mathurin's missed pullup three-pointer.",
+    "start_time": 1713.0,
+    "end_time": 1720.0
+  },
+  {
+    "caption": "B. Scheierman misses a jump shot three-pointer. A. Nembhard grabs the defensive rebound after B. Scheierman's missed three-pointer.",
+    "start_time": 1721.0,
+    "end_time": 1728.0
+  },
+  {
+    "caption": "E. Thompson's jump shot three-pointer is blocked by D. White. D. White blocks E. Thompson's jump shot three-pointer. P. Siakam grabs the offensive rebound after E. Thompson's missed three-pointer.",
+    "start_time": 1730.0,
+    "end_time": 1735.0
+  },
+  {
+    "caption": "J. Huff misses a jump shot three-pointer. P. Pritchard grabs the defensive rebound after J. Huff's missed three-pointer.",
+    "start_time": 1735.0,
+    "end_time": 1742.0
+  },
+  {
+    "caption": "P. Pritchard misses a pullup three-pointer. J. Brown grabs the offensive rebound after P. Pritchard's missed jump shot three-pointer.",
+    "start_time": 1753.0,
+    "end_time": 1760.0
+  },
+  {
+    "caption": "B. Scheierman misses a jump shot three-pointer. A. Nembhard grabs the defensive rebound after B. Scheierman's missed three-pointer.",
+    "start_time": 1758.0,
+    "end_time": 1765.0
+  },
+  {
+    "caption": "L. Garza commits a personal foul.",
+    "start_time": 1770.0,
+    "end_time": 1774.0
+  },
+  {
+    "caption": "J. Brown makes a pullup two-pointer.",
+    "start_time": 1849.5,
+    "end_time": 1858.0
+  },
+  {
+    "caption": "E. Thompson makes a jump shot three-pointer, assisted by B. Mathurin.",
+    "start_time": 1863.5,
+    "end_time": 1872.0
+  },
+  {
+    "caption": "P. Pritchard makes a pullup two-pointer, assisted by N. Queta.",
+    "start_time": 1884.5,
+    "end_time": 1893.0
+  },
+  {
+    "caption": "B. Scheierman commits a personal foul.",
+    "start_time": 1897.0,
+    "end_time": 1900.0
+  },
+  {
+    "caption": "P. Pritchard makes a pullup two-pointer.",
+    "start_time": 1953.25,
+    "end_time": 1961.75
+  },
+  {
+    "caption": "E. Thompson misses a jump shot three-pointer. N. Queta grabs the defensive rebound after E. Thompson's missed three-pointer.",
+    "start_time": 1967.2,
+    "end_time": 1974.2
+  },
+  {
+    "caption": "P. Pritchard misses a jump shot three-pointer. N. Queta grabs the offensive rebound after P. Pritchard's missed three-pointer.",
+    "start_time": 1984.6,
+    "end_time": 1991.6
+  },
+  {
+    "caption": "P. Siakam commits a shooting personal foul.",
+    "start_time": 1990.7,
+    "end_time": 1994.7
+  },
+  {
+    "caption": "A. Nembhard makes a fadeaway jump shot two-pointer.",
+    "start_time": 2059.9,
+    "end_time": 2068.4
+  }
+]
